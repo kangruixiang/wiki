@@ -24,6 +24,19 @@
 
 <link rel="stylesheet" href="/wiki/style.css" />
 
+<style>
+  @font-face {
+    font-family: "Concourse";
+    src: url("/wiki/assets/fonts/concourse_3_regular.woff2") format("woff2");
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Equity";
+    src: url("/wiki/assets/fonts/equity_a_regular.woff2") format("woff2");
+    font-style: normal;
+  }
+</style>
+
   </head>
   <body>
     <div
@@ -34,13 +47,13 @@
         <img src="/wiki/assets/avatar.png" class="w-10 h-10 " />
       </a>
 
-      <nav class="flex space-x-2 uppercase">
+      <nav class="flex space-x-2 font-semibold uppercase">
         <a href="/wiki/" class="p-4 rounded hover:bg-slate-600 hover:text-slate-200"
           >Home</a
         >
         <a
           href="/wiki/notes/Step 1"
-          class="p-4 rounded hover:bg-slate-600 hover:text-slate-200"
+          class="p-4 font-semibold rounded hover:bg-slate-600 hover:text-slate-200"
           >Step 1</a
           >
       </nav>
@@ -49,7 +62,7 @@
     <div class="mx-auto">
 
     <div class="flex items-center justify-center max-w-full px-6 mt-32 mb-32">
-      <div  class="prose"><h1>ADHD</h1>
+      <div  class="font-serif prose prose-lg md:prose-2xl"><h1>ADHD</h1>
 <!-- ADHD diagnosis -->
 <p>However, comprehensive evaluation for possible ADHD includes obtaining information to confirm the presence, persistence, and pervasiveness of inattentive and hyperactive/impulsive symptoms in <strong>2 or more settings</strong> (eg, school and home).  Symptoms must be present for at least <strong>6 months</strong> and cause significant <strong>functional impairment</strong>.  Although the mother describes the child as &quot;very active&quot; in general and the teachers note disruptive behavior, a more detailed assessment of specific ADHD symptoms is necessary.  <strong>ADHD-specific behavior scales</strong> completed by the <strong>parent</strong> and <strong>teacher</strong> are most commonly used to obtain a systematic evaluation of the child's behaviors.  These scales enable the physician to identify the presence of ADHD symptoms in both settings, and to assess symptom severity and the degree of related impairment, which are necessary for accurate diagnosis.</p>
 <!-- ADHD management -->
@@ -68,9 +81,9 @@
       
     </div>
 
-    <div class="max-w-4xl mx-auto prose">
-                  <hr />
-<p>Backlinks</p>
+    <div class="max-w-4xl mx-auto font-serif prose prose-lg">
+                  <!-- <hr /> -->
+<p class="p-2 bg-stone-100">Backlinks</p>
 
 
 <ul>
@@ -129,7 +142,7 @@
 </div>
 
     <footer>
-      <div class="max-w-4xl mb-10 text-sm text-center mt-96 ">
+      <div class="max-w-4xl mx-auto mb-10 text-sm text-center mt-96">
         By Kang Rui Xiang
       </div>
       </div>

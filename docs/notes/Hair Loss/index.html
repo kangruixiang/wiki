@@ -24,6 +24,19 @@
 
 <link rel="stylesheet" href="/wiki/style.css" />
 
+<style>
+  @font-face {
+    font-family: "Concourse";
+    src: url("/wiki/assets/fonts/concourse_3_regular.woff2") format("woff2");
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Equity";
+    src: url("/wiki/assets/fonts/equity_a_regular.woff2") format("woff2");
+    font-style: normal;
+  }
+</style>
+
   </head>
   <body>
     <div
@@ -34,13 +47,13 @@
         <img src="/wiki/assets/avatar.png" class="w-10 h-10 " />
       </a>
 
-      <nav class="flex space-x-2 uppercase">
+      <nav class="flex space-x-2 font-semibold uppercase">
         <a href="/wiki/" class="p-4 rounded hover:bg-slate-600 hover:text-slate-200"
           >Home</a
         >
         <a
           href="/wiki/notes/Step 1"
-          class="p-4 rounded hover:bg-slate-600 hover:text-slate-200"
+          class="p-4 font-semibold rounded hover:bg-slate-600 hover:text-slate-200"
           >Step 1</a
           >
       </nav>
@@ -49,7 +62,7 @@
     <div class="mx-auto">
 
     <div class="flex items-center justify-center max-w-full px-6 mt-32 mb-32">
-      <div  class="prose"><h1>Hair Loss</h1>
+      <div  class="font-serif prose prose-lg md:prose-2xl"><h1>Hair Loss</h1>
 <!--  hair loss types -->
 <p>Hair loss is a common problem that can have severe psychological effects in younger patients.  The patient in the above vignette appears to be suffering from <strong>alopecia areata</strong>.  It is a relatively common disease and is characterized by <strong>discrete, smooth and circular areas of hair loss over the scalp</strong>.  There is typically no associated scaling or inflammation present in the area of hair loss.  The hair loss usually develops over a few weeks and has a recurring pattern.  Most of the patients will have regrowth of the hair in the involved areas over time.</p>
 <p>The exact etiology of alopecia areata is unknown.  An autoimmune process is thought to play at least a partial role in its pathogenesis.  This is supported by the finding of T-cell infiltration around the hair follicles and the association of other autoimmune conditions (i.e., pernicious anemia, vitiligo, and thyroid diseases) with alopecia areata.  The disease can recur in up to one-third of these patients.  Some factors associated with the higher chance of relapse include a longer duration of the disease, a more extensive disease, involvement of peripheral areas, and onset prior to puberty.</p>
@@ -62,9 +75,9 @@
       
     </div>
 
-    <div class="max-w-4xl mx-auto prose">
-                  <hr />
-<p>Backlinks</p>
+    <div class="max-w-4xl mx-auto font-serif prose prose-lg">
+                  <!-- <hr /> -->
+<p class="p-2 bg-stone-100">Backlinks</p>
 
 
 <ul>
@@ -102,7 +115,7 @@
 </div>
 
     <footer>
-      <div class="max-w-4xl mb-10 text-sm text-center mt-96 ">
+      <div class="max-w-4xl mx-auto mb-10 text-sm text-center mt-96">
         By Kang Rui Xiang
       </div>
       </div>

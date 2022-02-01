@@ -24,6 +24,19 @@
 
 <link rel="stylesheet" href="/wiki/style.css" />
 
+<style>
+  @font-face {
+    font-family: "Concourse";
+    src: url("/wiki/assets/fonts/concourse_3_regular.woff2") format("woff2");
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Equity";
+    src: url("/wiki/assets/fonts/equity_a_regular.woff2") format("woff2");
+    font-style: normal;
+  }
+</style>
+
   </head>
   <body>
     <div
@@ -34,13 +47,13 @@
         <img src="/wiki/assets/avatar.png" class="w-10 h-10 " />
       </a>
 
-      <nav class="flex space-x-2 uppercase">
+      <nav class="flex space-x-2 font-semibold uppercase">
         <a href="/wiki/" class="p-4 rounded hover:bg-slate-600 hover:text-slate-200"
           >Home</a
         >
         <a
           href="/wiki/notes/Step 1"
-          class="p-4 rounded hover:bg-slate-600 hover:text-slate-200"
+          class="p-4 font-semibold rounded hover:bg-slate-600 hover:text-slate-200"
           >Step 1</a
           >
       </nav>
@@ -49,7 +62,7 @@
     <div class="mx-auto">
 
     <div class="flex items-center justify-center max-w-full px-6 mt-32 mb-32">
-      <div  class="prose"><h2>Neurofibromatosis</h2>
+      <div  class="font-serif prose prose-lg md:prose-2xl"><h2>Neurofibromatosis</h2>
 <!-- NF 1 sx, management -->
 <p><img src="https://photos.thisispiggy.com/file/wikiFiles/image-20200303161834935.png" alt=""></p>
 <p><strong>Neurofibromatosis type I</strong> (NFI) is an <strong>autosomal dominant</strong> disorder due to a mutation in the <em>NF1</em> tumor suppressor gene on chromosome 17q11.2. <strong>Café-au-lait macules</strong> (CALMs) are a hallmark feature. Although a few CALMs are common in the general population, patients with NFI have numerous, widespread CALMs  that typically increase in number during childhood. In addition, <strong>freckling</strong> in the inguinal and axillary skin folds, as seen in this patient, is highly concerning for NFI. Other common features include neurofibromas, which are benign peripheral nerve sheath tumors in the skin, and Lisch  nodules, which are iris hamartomas that do not affect vision.</p>
@@ -60,9 +73,9 @@
       
     </div>
 
-    <div class="max-w-4xl mx-auto prose">
-                  <hr />
-<p>Backlinks</p>
+    <div class="max-w-4xl mx-auto font-serif prose prose-lg">
+                  <!-- <hr /> -->
+<p class="p-2 bg-stone-100">Backlinks</p>
 
 
 <ul>
@@ -140,7 +153,7 @@
 </div>
 
     <footer>
-      <div class="max-w-4xl mb-10 text-sm text-center mt-96 ">
+      <div class="max-w-4xl mx-auto mb-10 text-sm text-center mt-96">
         By Kang Rui Xiang
       </div>
       </div>

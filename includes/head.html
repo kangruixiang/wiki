@@ -24,3 +24,16 @@ metadesc = site.desc %} {% if desc %} {% assign metadesc = desc %} {% endif %}
 <link rel="canonical" href="{{ page.url | prepend: site.baseurl }}" />
 
 <link rel="stylesheet" href="/wiki/style.css" />
+
+<style>
+  @font-face {
+    font-family: "Concourse";
+    src: url("/wiki/assets/fonts/concourse_3_regular.woff2") format("woff2");
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Equity";
+    src: url("/wiki/assets/fonts/equity_a_regular.woff2") format("woff2");
+    font-style: normal;
+  }
+</style>
