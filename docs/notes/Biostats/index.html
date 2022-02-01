@@ -1,0 +1,825 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+            
+   
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+<link rel="shortcut icon" href="/wiki/assets/favicon.ico" type="image/x-icon" />
+
+<title>Biostats • Kang Rui Xiang's Notes</title>
+
+<meta name="description" content="This is my wiki page" />
+
+<meta property="og:title" content="Biostats • Kang Rui Xiang's Notes" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://kangruixiang.github.io/wiki//notes/Biostats/" />
+<meta property="og:image" content="/assets/avatar.png" />
+<meta property="og:description" content="This is my wiki page" />
+
+<link rel="canonical" href="https://kangruixiang.github.io/wiki//notes/Biostats/" />
+
+<link rel="stylesheet" href="/wiki/style.css" />
+
+  </head>
+  <body>
+    <div
+      class="fixed top-0 w-screen px-4 py-4 md:px-10 bg-slate-200 bg-opacity-90"
+    >
+    <div class="flex items-center justify-between max-w-6xl mx-auto">
+      <a href="/wiki/" title="Home">
+        <img src="/wiki/assets/avatar.png" class="w-10 h-10 " />
+      </a>
+
+      <nav class="flex space-x-2 uppercase">
+        <a href="/wiki/" class="p-4 rounded hover:bg-slate-600 hover:text-slate-200"
+          >Home</a
+        >
+        <a
+          href="/wiki/notes/Step 1"
+          class="p-4 rounded hover:bg-slate-600 hover:text-slate-200"
+          >Step 1</a
+          >
+      </nav>
+    </div>
+    </div>
+    <div class="mx-auto">
+
+    <div class="flex items-center justify-center max-w-full px-6 mt-32 mb-32">
+      <div  class="prose">
+<article><h1>Biostats</h1>
+<hr>
+<ul>
+<li>related: <a href="/wiki/notes/Step%203/">Step 3</a>, <a href="/wiki/notes/Medicine/">Medicine</a></li>
+</ul>
+<hr>
+<ul>
+<li><a href="/wiki/notes/PPV%20is%20highest%20with%20highest%20specificity/">PPV is highest with highest specificity</a></li>
+<li><a href="/wiki/notes/mean,%20median,%20mode/">mean, median, mode</a></li>
+<li><a href="/wiki/notes/internal%20vs%20external%20validity/">internal vs external validity</a></li>
+<li><a href="/wiki/notes/explanatory%20vs%20pragmatic%20trials/">explanatory vs pragmatic trials</a></li>
+<li><a href="/wiki/notes/bias/">bias</a></li>
+<li><a href="/wiki/notes/comparison%20tests%20in%20statistics/">comparison tests in statistics</a></li>
+<li><a href="/wiki/notes/per%20year%20rates/">per year rates</a></li>
+<li><a href="/wiki/notes/relative%20risk%20vs%20odds%20ratio/">relative risk vs odds ratio</a></li>
+<li><a href="/wiki/notes/coefficient%20of%20determination/">coefficient of determination</a></li>
+<li><a href="/wiki/notes/attributable%20risk/">attributable risk</a></li>
+<li><a href="/wiki/notes/receiver%20operating%20characterstics%20curve/">receiver operating characterstics curve</a></li>
+<li><a href="/wiki/notes/positive%20predictive%20value/">positive predictive value</a></li>
+<li><a href="/wiki/notes/study%20designs/">study designs</a></li>
+</ul>
+<h2>Likelihood ratio</h2>
+<!-- likelihood ratio definition, equation, uses -->
+<p>The <strong>likelihood ratio (LR)</strong> is defined as the probability of a given test result occurring in a patient with a disorder compared to the probability of the same result occurring in a patient without the disorder.</p>
+<p>The <strong>likelihood ratio</strong> (LR) is an expression of sensitivity and specificity that can be used to assess the <strong>value</strong> of a diagnostic test.  The positive likelihood ratio (LR+) represents the value of a positive test result, and the negative likelihood ratio (LR-) represents the value of a negative test result.</p>
+<p>LRs can range from 0 to infinity.  A test result with a LR &gt;1 suggests disease presence; the higher the LR, the more likely the disease presence.  A test result with a LR &lt;1 argues against the disease; the lower the LR, the less likely the disease presence.  There are general guidelines for LR interpretation (Table).</p>
+<p>LRs are calculated from sensitivity and specificity:</p>
+<ul>
+<li>For a positive test result: Positive LR = sensitivity / (1 – specificity).</li>
+<li>For a negative test result: Negative LR = (1 – sensitivity) / specificity.</li>
+</ul>
+<p>Just as sensitivity and specificity are independent of disease prevalence, LRs do <strong>not</strong> change with the prevalence of the disease. In addition, LRs can be used to calculate post-test odds (post-test odds = pre-test odds * LR), providing clinically relevant information for individual patients based on their pre-test odds of disease.</p>
+<p>Other advantages of LRs are that they can be used with tests that have &gt;2 possible test results and they can be used to combine the results of multiple diagnostic tests. For all these reasons, LRs would be the most appealing choice for the government agency officials in this scenario.</p>
+<p><img src="https://photos.thisispiggy.com/file/wikiFiles/image-20200821070909419.png" alt=""></p>
+<p><img src="https://photos.thisispiggy.com/file/wikiFiles/20201216144105.png" alt=""></p>
+<h2>Predicative Values</h2>
+<!-- ignore -->
+<p>Positive predictive value (PPV) refers to the probability that a positive test result correctly identifies an individual who actually has the disease. Negative predictive value (NPV) is the probability that a negative test result correctly identifies an individual without the disease. Although useful, both PPV and NPV depend on disease prevalence.</p>
+<h2>End of life</h2>
+<!-- end of life care steps when disagreeing -->
+<p><img src="https://photos.thisispiggy.com/file/wikiFiles/image-20191224101348284.png" alt=""></p>
+<p><strong>End-of-life care</strong> may involve discontinuation of ongoing therapies and/or shift to palliative therapies. This phase of treatment may begin when curative therapy is likely <strong>futile</strong>. Futility may be physiologic if the treatment is extremely unlikely to allow survival, or qualitative if it offers only minimal benefit at the cost of significant pain and suffering. When this point is reached, the primary goals of therapy shift toward minimizing discomfort, anxiety, and distress for the patient and family.</p>
+<p>When the patient's family and medical team <strong>disagree</strong> about futility, a stepwise approach toward agreement should be implemented. First, <strong>family meetings</strong>, in which treatment and prognosis are discussed, are scheduled to promote joint decision-making. Second, for ongoing disagreement, a <strong>palliative care</strong> consultation or referral to the hospital <strong>ethics committee</strong> can help with arbitration. If resolution is still not reached, transferring the patient to another provider, either within the institution or to a different facility, can be considered.</p>
+<p>Once the hospital ethics committee is involved and all providers have agreed that additional care is futile, then—and only then—should providers cease futile interventions in the absence of family agreement.</p>
+<h2>Risk reduction</h2>
+<!-- relative risk reduction calculation -->
+<p>The <strong>relative risk reduction</strong> (RRR) quantifies the <strong>proportion of risk reduction</strong> <strong>attributable</strong> to a specific <strong>intervention or</strong> <strong>exposure</strong> as compared to a <strong>control</strong>. RRR considers the risk for disease in the exposed/intervention group and the unexposed/control group as follows:</p>
+<p>RRR = (risk in unexposed − risk in exposed) / (risk in unexposed)</p>
+<p><img src="https://photos.thisispiggy.com/file/wikiFiles/image-20200120203845916.png" alt=""></p>
+<p>In this case, the exposed/intervention group is the DASH diet in the highest fifth, and the unexposed/control group is the DASH diet in the third fifth; the risks are reported in person-years (incidence densities). The risk of gout among subjects adopting a DASH diet in the third fifth (unexposed/control group) is 354 / 196,510 = 0.0018, or 1.8 per 1,000 person-years; the risk of gout among subjects adopting a DASH diet in the highest fifth (exposed group) is 252 / 193,455 = 0.0013, or 1.3 per 1,000 person-years. Therefore, the RRR is calculated as:</p>
+<p>RRR = (1.8 per 1,000 person-years − 1.3 per 1,000 person-years) / 1.8 per 1,000 person-years</p>
+<p>RRR = 0.5 / 1.8 = 0.28 (28%)</p>
+<p>Alternately, RRR is frequently calculated by subtracting the relative risk (RR) from 1: RRR = 1 − RR. RR is the risk of developing a disease (eg, gout) in the exposed group (eg, DASH diet in highest fifth) divided by the risk of developing the same disease in the unexposed group (eg, DASH diet in third fifth). In this case, RR = 0.0013 / 0.0018 = 0.72 (72%) <strong>(Choice C)</strong>. Therefore, RRR = 1 − 0.72 = 0.28.</p>
+<p>This means that, compared to patients who adopt a diet DASH diet in the third fifth, patients who adopt a DASH diet in the highest fifth reduce their risk of gout by 28%.</p>
+<h2>Funnel Plot</h2>
+<!-- funnel plot uses -->
+<p><img src="https://photos.thisispiggy.com/file/wikiFiles/image-20200123195244427.png" alt=""></p>
+<p>A <strong>funnel plot</strong> is helpful in assessing <strong>publication bias</strong>. Each study's treatment effect (on the <em>x</em>-axis) is plotted against a measure of that study's size or precision, usually using the standard error of the treatment effect (on the <em>y</em>-axis). The triangle is centered on a summary estimate of the treatment effect (eg, pooled estimate of odds ratio, usually in log scale) with its sides corresponding to standard errors. If there is no bias, any scatter between the study results should be due to sampling variation, and 95% of studies should lie within the triangle centered on the summary estimate and extending 1.96 standard errors on either side. Because a larger sample size is associated with increased precision, larger studies (more powerful) will be at the top and have a narrow spread whereas small studies will be scattered widely at the base of the triangle.</p>
+<p>Funnel plots should be <strong>symmetric</strong> in the absence of study heterogeneity and publication bias. In this figure, however, there are no studies on the right side of the funnel. This asymmetry suggests publication bias (ie, studies showing null/increased effect of drug X on mortality are noticeably absent as they are less likely to have been published). Other possible explanations for asymmetry include heterogeneity, methodological anomalies, artifact, or chance.</p>
+<p>A small sample size (low number of patients) in the drug X treatment arms would lead to more studies at the base of the triangle because such studies would have lower power and larger standard errors.</p>
+<h2>Intention to Treat</h2>
+<!-- intention to treat analysis uses -->
+<p><strong>Intention-to-treat</strong> (ITT) analysis compares intervention groups in a randomized trial by including all subjects <strong>as initially allocated</strong> after <strong>randomization</strong>, <strong>regardless</strong> of what happens during the study period. The rationale is that if subjects are doing so poorly as to switch interventions or to drop out of the study, then their outcome should be attributed to that intervention. Therefore, ITT analysis is usually conducted to avoid the effects of crossover (eg, noncompliance to assigned intervention) and attrition (eg, loss to follow-up, drop-out), which may disrupt the benefit of randomization and introduce bias in the estimation of the effect of the intervention.</p>
+<p>ITT analysis may lead to a more <strong>conservative</strong> estimate of the <strong>effect</strong> of the intervention. If attrition or crossover is significant, ITT analysis may be less likely to identify a statistically significant difference between interventions (shift toward the null hypothesis and <strong>reduced</strong> chances of <strong>false-positive</strong> conclusions). However, results will reflect the <strong>real</strong> effect of the intervention as intended in the population.</p>
+<p>In this example, if subjects with more severe osteoarthritis drop out or cross over at a higher rate, even an ineffective intervention may appear beneficial if the analysis is conducted only on those who finished the protocol. Therefore, excluding subjects who were lost to follow-up or noncompliant to the assigned intervention introduces bias and may result in a statistically significant effect applicable only to subjects who completed the protocol. ITT analysis reduces bias by producing a more conservative but more valid estimate of the effect of using foot orthoses and motion control shoes as compared to motion control shoes alone.</p>
+<p>In a per-protocol analysis, only data from subjects who completed the intervention originally allocated at randomization are analyzed. With as-treated analysis (a subtype of per-protocol analysis), subjects are evaluated based on the intervention they received rather than the intervention to which they were randomized. Therefore, the benefit of the randomization is lost. Usually, per-protocol analysis will overestimate the real effect of the intervention on the outcome.</p>
+<p>Intention-to-treat is an important principle used in the analysis of randomized clinical trials.  Intention-to-treat means that the patient's treatment status at the point of randomization is analyzed.  If a patient who is assigned to the placebo group begins taking the medication assigned to the treatment group sometime after study initiation, or if a patient in the treatment group stops taking the prescribed medication, the data from these patients is still analyzed along with their original group.  The value in the intention-to-treat approach is that it <strong>preserves the benefits of randomization and prevents bias due to selective non-compliance</strong>.  Investigators may alternatively use the 'as treated' rule, which is the opposite of intention-to-treat (i.e. if a patient switches therapy they are counted as members of the new group during analysis).</p>
+<h2>Studies</h2>
+<!-- factorial study is -->
+<p>A <strong>factorial</strong> study design (or fully crossed design) is a type of experimental study design that utilizes &gt;2 interventions and all <strong>combinations</strong> of these interventions. In this study, there were 2 main interventions (antioxidant or glutamine supplementation) resulting in 4 possible study arms: glutamine supplementation, antioxidant supplementation, both, and neither (ie, placebo).</p>
+<p>Although the authors randomized patients to these 4 arms, the results in the table provided are based on exposure or lack thereof to glutamine/antioxidant.</p>
+<!-- cross over study is, vs cross sectional study -->
+<p><strong>(Choice A)</strong> A crossover study is a type of experimental study design in which subjects are exposed to different treatments or exposures sequentially. The subjects cross over from one study arm to another and serve as their own controls.</p>
+<p><strong>(Choice B)</strong> A cross-sectional study is generally a type of observational study in which a specific population or group is studied at one specific point in time, therefore providing a cross section of the group at that particular time point. Unlike crossover or factorial studies, this is not experimental in nature.</p>
+<!-- nested study is -->
+<p><strong>(Choice D)</strong> A nested study (or nested case-control study) is a form of retrospective observational study in which subsets of controls are matched to cases and analyzed for the variables of interest.</p>
+<!-- pragmatic study is -->
+<p><strong>(Choice E)</strong> A pragmatic study seeks to determine whether an intervention works in real-life conditions. This is contrasted with an explanatory study, which seeks to address whether an intervention works in optimal conditions and how/why it does or does not work. In general, randomized trials are considered explanatory, as randomization and other methods to control for confounders are not performed in the real world.</p>
+<h2>Noninferiority</h2>
+<!-- noninferiority test -->
+<p><img src="https://photos.thisispiggy.com/file/wikiFiles/image-20200218202627408.png" alt=""></p>
+<p>In the figure, each effect estimate for drug A is represented by a black square, with the horizontal black line representing the confidence interval.</p>
+<p>The vertical red line centered at 0 splits the figure into 2 regions that compare drug A to warfarin: the region of superiority of drug A (&quot;favors drug A&quot;) lies to the right and the region of inferiority of drug A (&quot;favors warfarin&quot;) lies to the left. If the confidence interval crosses the red line, superiority cannot be proven. In superiority trials, the null hypothesis is that the effects of the drugs being compared are similar and the goal is to show that the new drug is different (better) than the comparator.</p>
+<p>Similarly, the dotted blue line labeled &quot;non-inferiority margin&quot; also splits the figure into 2 regions that also compare drug A to warfarin: the region of non-inferiority of drug A lies to the right and the region of not non-inferiority of drug A lies to the left. In <strong>non-inferiority trials</strong>, the goal is to prove that a new drug is <strong>not unacceptably worse</strong> than a comparator (ie, the new drug should not be worse by more than an acceptable <strong>margin</strong>). The <strong>non-inferiority margin</strong> is used for this purpose and any effect estimate that lies entirely to its right is &quot;non-inferior.&quot; The opposite of &quot;non-inferior&quot; is &quot;not non-inferior&quot;; any effect estimate that lies entirely to the left of the non-inferiority margin is &quot;not non-inferior&quot; (unfortunately, the terminology is confusing and relies on the use of double negatives). If the confidence interval crosses the margin, this implies that non-inferiority is not proven. Non-inferiority should be assessed prior to superiority.</p>
+<p>Regarding drug A and myocardial infarction, the effect estimate lies entirely to the right of the non-inferiority margin, so drug A is non-inferior to warfarin. The confidence interval crosses the vertical red line at 0, so it cannot be said that drug A is superior to warfarin. In sum, drug A is non-inferior and not superior to warfarin in preventing myocardial infarction.</p>
+<h2>Analysis types</h2>
+<!-- sensitivity analysis is -->
+<p><strong>Sensitivity analysis</strong> refers to <strong>repeating</strong> primary analysis calculations after modifying certain criteria or variable ranges; the goal is to determine whether such modifications significantly affect the results initially obtained. With any study, a number of decisions are made based on certain assumptions or by consensus (eg, choosing 5-year rolling windows as opposed to 2- or 8-year rolling windows). If results of sensitivity analyses conducted with slight changes in certain variables (eg, changing rolling window period, changing cutoffs for average glucose levels by ±10%) are similar to the initial results, the investigators can be more confident of the <strong>robustness</strong> of their results.</p>
+<p>In this case, patients with diabetes who had high fluctuations in glucose levels were excluded. If, on repeat analysis excluding those patients, the p-value for the association between average glucose levels and dementia remains statistically significant among the remaining patients with diabetes, this would further confirm the investigators' conclusions as it would make it less likely that high fluctuations in glucose levels explain the different hazard ratios obtained.</p>
+<!-- linear regression is used for -->
+<p><strong>(Choice B)</strong> Linear regression models the linear relationship between a dependent variable and one or more independent variables. For example, multiple linear regression could be used to quantify the effects of alcohol use, tobacco smoking, and charred food consumption (independent variables) on the incidence of gastric cancer (dependent variable).</p>
+<!-- propensity scoring and matching are -->
+<p><strong>(Choices C and D)</strong> Propensity scoring typically weighs different variables (eg, severity of different comorbidities) in both the treatment and the control groups to ensure that these variables are balanced between both groups. An individual in the treatment group can be matched with an individual in the control group who has a similar propensity score. Matching can also be conducted based on similar variables (eg, age, sex) even in the absence of propensity scoring.</p>
+<h2>Time to event</h2>
+<!-- time to event analysis -->
+<p>Time-to-event data analysis is becoming more and more popular for analyzing follow-up studies and clinical trials. This type of analysis is called <em>'survival analysis'</em>.  A simple data layout for survival analysis is shown in Question #1.  Rows are arranged by time intervals. In each row, data on the number of subjects who were present at the beginning of the time interval and the number who died during the interval are provided. Therefore  probabilities of mortality/survival can be calculated for each time  interval. For example, the probability for a patient to survive one  additional month once he/she already survived the first two months of  chemotherapy would be taken from the row for 2-3 months and calculated  as 93% given that 7% of patients died during that interval (alternately, this result can be obtained by calculating the number of patients alive at the end of the interval, 170 - 12 = 158, and dividing that value by  the number of patients alive at the beginning of the interval: 158/170 = 0.93 or 93%). Cumulative probability can be calculated by multiplying  individual probabilities. For example, the probability that a patient  on the new regimen would survive at least 3 months is the product of  three probabilities obtained from the first three rows: 0.90_0.94_0.93  (given that 100% – 10% = 90% for 0-1 months, 100% – 5.6% = ~94% for 1-2  months, and 100% – 7% = 93% for 2-3 months).</p>
+<p>It is important to understand that survival analysis accounts not  only for the number of events in both groups, but also for the timing of the events. Despite the fact that two-year mortality risk is the same  for both groups in Question #2, the patients in the treatment group may  on average live longer than the patients in the placebo group. For  example, the median survival time may be 3 months for the placebo group  and 9 months for the treatment group. Therefore, in Question #2  time-to-event analysis could explain the conclusion that treatment was  effective despite equal mortality at two years..</p>
+<p>A survival plot represents a graphical description of survival  analysis. An example is shown in Question #3. The concept of a latent  period is demonstrated in this case. Latency is a very important issue  to consider in chronic disease epidemiology. The latent period between  exposure and the development of an outcome is relatively short in  infectious diseases. In chronic diseases (e.g., cancer or coronary  artery disease), however, there may be a very long latency period. In  Question #3, at least three years of continuous exposure to  multivitamins are required to reveal the protective effect of the  exposure on cardiovascular outcomes. On the survival plot, you can  clearly see that the survival curves run parallel to each other for  three years (the latent period), and then begin to separate at the 3rd year of follow-up. Overall relative risk is not statistically  significant, because it is 'diluted' by the years of latency, although  the relative risk for the 5th year of follow-up, when isolated, clearly demonstrates the beneficial effect of therapy.</p>
+<h2>Organ donation</h2>
+<!-- organ donation discussion management -->
+<p><strong>Organ donation</strong> is a difficult subject to bring up when dealing with grieving  families. It requires excellent communication skills as well as  extensive knowledge of the donation process to address any  misconceptions or answer any questions the family might have. The role  of the <strong>requestor</strong> is typically reserved for a trained <strong>Organ Procurement Organization (OPO)</strong> staff member, but can also be a treating <strong>physician</strong> who has undergone <strong>specialized training</strong> for this role. If not initiating the request for organ donation,  physicians can play an important role in explaining the meaning of brain death and in being present and supporting the OPO staff when the option of organ donation is presented. This can be critical to the family's  understanding and willingness to consider organ donation.</p>
+<p>Physicians may have concerns that the family of the donor is too  grief-stricken to consider donation or has religious beliefs that would  preclude it. However, a treating physician cannot unilaterally decide  whether a family should be approached regarding organ donation.  Instead, the physician should work with the OPO staff to develop a plan  to inform the family of the option for donation while respecting the  family's beliefs.</p>
+<h2>Multiplicity</h2>
+<!--  what is multiplicity phenomenon? -->
+<p>The hypothesis testing process requires that error rates (eg, type I and type II errors) be defined a priori.  <strong>Type I error</strong> (alpha) is the probability of rejecting a null hypothesis when the null hypothesis is true.  Conducting <strong>multiple independent hypothesis</strong> tests without proper adjustment to the alpha level increases the rate of type I error.  This means that, when evaluating <strong>multiple</strong> secondary endpoints (eg, fasting plasma glucose, proportion of subjects reaching A1c &lt;7.0%, changes in renal parameters), there is a higher probability of erroneously finding a statistically significant result with one of these endpoints (eg, higher likelihood of type I error) due to chance alone.  This phenomenon is known as the <strong>multiplicity</strong>, or <strong>multiple testing</strong>, <strong>problem</strong>.</p>
+<p>In general, the rate for type I error will increase depending on the alpha level for individual tests and the number of independent tests.  For example, the rate for type I error in a study attempting to evaluate 5 secondary endpoints would be 23%, whereas the classically accepted value is usually set &lt;5% (statistically significant <em>p</em>-value).  The alpha level or <em>p</em>-value is sometimes adjusted to account for the multiple testing problem.</p>
+</article>
+<hr />
+<p>Backlinks</p>
+
+
+<ul>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//notes/Medicine/" class="peer">Medicine</a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>Medicine</h1>
+<ul>
+<li>Keywords:: <a href="/wiki/notes/000%20Index/">000 Index</a></li>
+<li>Related: <a href="/wiki/notes/Step%203/">Step 3</a>, <a href="/wiki/notes/Step%201/">Step 1</a>, <a href="/wiki/notes/mksap/">mksap</a>, <a href="/wiki/notes/notes/">notes</a></li>
+</ul>
+<h2>Todos</h2>
+<ul>
+<li><a href="/wiki/notes/tolearn/">tolearn</a></li>
+</ul>
+<h2>Organ Systems</h2>
+<ul>
+<li><a href="/wiki/notes/Allergy%20and%20Immunology/">Allergy and Immunology</a></li>
+<li><a href="/wiki/notes/Rheumatology/">Rheumatology</a></li>
+<li><a href="/wiki/notes/Cardiology/">Cardiology</a></li>
+<li><a href="/wiki/notes/Dermatology/">Dermatology</a></li>
+<li><a href="/wiki/notes/Endocrine/">Endocrine</a></li>
+<li><a href="/wiki/notes/ENT/">ENT</a></li>
+<li><a href="/wiki/notes/GI/">GI</a></li>
+<li><a href="/wiki/notes/Hemeonc/">Hemeonc</a></li>
+<li><a href="/wiki/notes/ID/">ID</a></li>
+<li><a href="/wiki/notes/MSK/">MSK</a></li>
+<li><a href="/wiki/notes/Nephrology/">Nephrology</a></li>
+<li><a href="/wiki/notes/Urology/">Urology</a></li>
+<li><a href="/wiki/notes/Neurology/">Neurology</a></li>
+<li><a href="/wiki/notes/Pulmonology/">Pulmonology</a></li>
+<li><a href="/wiki/notes/Podiatry/">Podiatry</a></li>
+</ul>
+<h2>Subject Areas</h2>
+<ul>
+<li><a href="/wiki/notes/General/">General</a></li>
+<li><a href="/wiki/notes/Biostats/">Biostats</a></li>
+<li><a href="/wiki/notes/Psychiatry/">Psychiatry</a></li>
+<li><a href="/wiki/notes/Geriatrics/">Geriatrics</a></li>
+<li><a href="/wiki/notes/OBGYN/">OBGYN</a></li>
+<li><a href="/wiki/notes/Pediatric/">Pediatric</a></li>
+</ul>
+
+      </div>
+    </div>
+  </li>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//notes/explanatory vs pragmatic trials/" class="peer">Explanatory vs Pragmatic Trials</a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>explanatory vs pragmatic trials</h1>
+<ul>
+<li>related: <a href="/wiki/notes/Biostats/">Biostats</a></li>
+</ul>
+<p><img src="https://photos.thisispiggy.com/file/wikiFiles/20200908203446_19.png" alt=""></p>
+<p><strong>Clinical trials</strong> can be classified into 2 broad categories:</p>
+<ul>
+<li>
+<p>Explanatory trials are designed to test the efficacy of interventions under optimal and controlled situations.</p>
+</li>
+<li>
+<p><strong>Pragmatic</strong> trials are designed to evaluate the <strong>effectiveness</strong> of interventions in <strong>real-life</strong> (everyday) clinical practice conditions.</p>
+</li>
+</ul>
+<p>Pragmatic trials prod</p>
+
+      </div>
+    </div>
+  </li>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//notes/internal vs external validity/" class="peer">Internal vs External Validity</a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>internal vs external validity</h1>
+<ul>
+<li>related: <a href="/wiki/notes/Biostats/">Biostats</a></li>
+</ul>
+<p><img src="https://photos.thisispiggy.com/file/wikiFiles/20200908203446_18.png" alt=""></p>
+
+      </div>
+    </div>
+  </li>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//notes/attributable risk/" class="peer">Attributable Risk</a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>attributable risk</h1>
+<ul>
+<li>related: <a href="/wiki/notes/Biostats/">Biostats</a></li>
+</ul>
+<p>In a small observational study, 100 industrial workers are followed for one year to assess for the development of respiratory symptoms (defined as productive cough lasting at least one week).  30 of 60 smokers experience respiratory symptoms over the year versus 10 of 40 non-smokers.  Which of the following is the best estimate of the attributable risk of respiratory disease in smokers?</p>
+<p>In a small observational study, 100 indust</p>
+
+      </div>
+    </div>
+  </li>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//notes/bias/" class="peer">Bias</a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>bias</h1>
+<ul>
+<li>related: <a href="/wiki/notes/Biostats/">Biostats</a></li>
+</ul>
+<p><img src="https://photos.thisispiggy.com/file/wikiFiles/20200912201453_1.png" alt=""></p>
+<p>Different types of biases:</p>
+<ul>
+<li>contamination: control group receiving treatment/intervention</li>
+<li>observer: observer responsible for recording knows about study</li>
+<li>experimenter expectancy or <strong>Pygmalion effect</strong>: hopes of experimenter influence outcome</li>
+<li>susceptibility: prognostic difference between control/experimental</li>
+<li>verification: uses gold standard testing **selectively</li>
+</ul>
+
+      </div>
+    </div>
+  </li>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//notes/coefficient of determination/" class="peer">Coefficient of Determination</a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>coefficient of determination</h1>
+<ul>
+<li>related: <a href="/wiki/notes/Biostats/">Biostats</a></li>
+</ul>
+<p>Scatter plots, as demonstrated in Question #1, are useful for crude analysis of data.  They can be used to demonstrate whether any type of association (i.e., linear, non-linear) exists between two continuous variables.  Examples of continuous variables for which an association can be demonstrated are: arterial blood pressure and dietary salt consumption; blood glucose level and blood C-peptide level; etc.  If a linear</p>
+
+      </div>
+    </div>
+  </li>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//notes/comparison tests in statistics/" class="peer">Comparison Tests in Statistics</a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>comparison tests in statistics</h1>
+<ul>
+<li>related: <a href="/wiki/notes/Biostats/">Biostats</a></li>
+</ul>
+<!-- comparing variables -->
+<p><img src="https://photos.thisispiggy.com/file/wikiFiles/image-20200704101844589.png" alt=""></p>
+<ul>
+<li>The  <strong>Two-sample t test</strong> (also called Student's t test) is commonly employed to compare means of <strong>two independent groups</strong>. The basic requirements needed to perform this test are the two mean values, the sample variances, and the sample size. The t statistic is then obtained to calculate the p  value.</li>
+<li></li>
+</ul>
+
+      </div>
+    </div>
+  </li>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//notes/per year rates/" class="peer">Per Year Rates</a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>per year rates</h1>
+<ul>
+<li>related: <a href="/wiki/notes/Biostats/">Biostats</a></li>
+</ul>
+<p>Some specific measures of disease occurrence are explained below:</p>
+<ul>
+<li>Crude birth rate: Defined as the number of live births divided by the total population size.</li>
+<li>Crude mortality rate: Calculated by dividing the number of deaths by the total population size.</li>
+<li>Cause-specific mortality rate: Calculated by dividing the number of deaths from a particular disease by the total population size.</li>
+<li>Case-fatality rate: Calculated by dividin</li>
+</ul>
+
+      </div>
+    </div>
+  </li>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//notes/positive predictive value/" class="peer">Positive Predictive Value</a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>positive predictive value</h1>
+<ul>
+<li>related: <a href="/wiki/notes/Biostats/">Biostats</a></li>
+</ul>
+<p>Unlike sensitivity, specificity and likelihood ratios, <strong>predictive values</strong> depend on the <strong>prevalence</strong> of the disease in the population tested.  If the prevalence is high, a positive test is more likely to be a true positive (PPV is high).  If the prevalence is low, a negative test is more likely to be a true negative (NPV is high).</p>
+<p>It is also important to understand that predictive values are impacted by the pre-test</p>
+
+      </div>
+    </div>
+  </li>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//notes/receiver operating characterstics curve/" class="peer">Receiver Operating Characterstics Curve</a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>receiver operating characterstics curve</h1>
+<ul>
+<li>related: <a href="/wiki/notes/Biostats/">Biostats</a></li>
+</ul>
+<p>A new serum marker shows promise in the early diagnosis of colon cancer.  It represents a fetal antigen that has minimal expression in healthy adults, but has increased expression in those with colon cancer.  Various serum concentration levels (P1, P2, and P3) are tested as cutoff points for diagnosis of disease.  The sensitivity and specificity of the test at each of these serum concentrations is then compa</p>
+
+      </div>
+    </div>
+  </li>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//notes/relative risk vs odds ratio/" class="peer">Relative Risk vs Odds Ratio</a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>relative risk vs odds ratio</h1>
+<ul>
+<li>related: <a href="/wiki/notes/Biostats/">Biostats</a></li>
+</ul>
+<p>Two basic measures of association that you should be familiar with are relative risk (or risk ratio) and odds ratio.  You should be able to both calculate and interpret them.</p>
+<p>Risk refers to the probability of an event occurring over a certain period of time.  Therefore, it typically implies a prospective study design.  In Question #1, diabetic patients are followed over 5 years to assess for the development of acute co</p>
+
+      </div>
+    </div>
+  </li>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//notes/study designs/" class="peer">Study Designs</a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>study designs</h1>
+<ul>
+<li>related: <a href="/wiki/notes/Biostats/">Biostats</a></li>
+</ul>
+<p><img src="https://photos.thisispiggy.com/file/wikiFiles/20200912201453_.png" alt=""></p>
+
+      </div>
+    </div>
+  </li>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//" class="peer"></a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>Medicine</h1>
+<ul>
+<li>Related: <a href="/wiki/notes/Step%201/">Step 1</a>, <a href="/wiki/notes/mksap/">mksap</a>, <a href="/wiki/notes/notes/">notes</a></li>
+</ul>
+<h2>Todos</h2>
+<ul>
+<li><a href="/wiki/notes/tolearn/">tolearn</a></li>
+</ul>
+<h2>Organ Systems</h2>
+<ul>
+<li><a href="/wiki/notes/Allergy%20and%20Immunology/">Allergy and Immunology</a></li>
+<li><a href="/wiki/notes/Rheumatology/">Rheumatology</a></li>
+<li><a href="/wiki/notes/Cardiology/">Cardiology</a></li>
+<li><a href="/wiki/notes/Dermatology/">Dermatology</a></li>
+<li><a href="/wiki/notes/Endocrine/">Endocrine</a></li>
+<li><a href="/wiki/notes/ENT/">ENT</a></li>
+<li><a href="/wiki/notes/GI/">GI</a></li>
+<li><a href="/wiki/notes/Hemeonc/">Hemeonc</a></li>
+<li><a href="/wiki/notes/ID/">ID</a></li>
+<li><a href="/wiki/notes/MSK/">MSK</a></li>
+<li><a href="/wiki/notes/Nephrology/">Nephrology</a></li>
+<li><a href="/wiki/notes/Urology/">Urology</a></li>
+<li><a href="/wiki/notes/Neurology/">Neurology</a></li>
+<li><a href="/wiki/notes/Pulmonology/">Pulmonology</a></li>
+<li><a href="/wiki/notes/Podiatry/">Podiatry</a></li>
+</ul>
+<h2>Subject Areas</h2>
+<ul>
+<li><a href="/wiki/notes/General/">General</a></li>
+<li><a href="/wiki/notes/Biostats/">Biostats</a></li>
+<li><a href="/wiki/notes/Psychiatry/">Psychiatry</a></li>
+<li><a href="/wiki/notes/Geriatrics/">Geriatrics</a></li>
+<li><a href="/wiki/notes/OBGYN/">OBGYN</a></li>
+<li><a href="/wiki/notes/Pediatric/">Pediatric</a></li>
+<li><a href="/wiki/notes/pharmacology/">pharmacology</a></li>
+<li><a href="/wiki/notes/ebm/">ebm</a></li>
+<li>[[emerg</li>
+</ul>
+
+      </div>
+    </div>
+  </li>
+  
+</ul>
+
+
+
+</div>
+    </div>
+
+    <!-- <hr />
+<p>Backlinks</p>
+
+
+<ul>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//notes/Medicine/" class="peer">Medicine</a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>Medicine</h1>
+<ul>
+<li>Keywords:: <a href="/wiki/notes/000%20Index/">000 Index</a></li>
+<li>Related: <a href="/wiki/notes/Step%203/">Step 3</a>, <a href="/wiki/notes/Step%201/">Step 1</a>, <a href="/wiki/notes/mksap/">mksap</a>, <a href="/wiki/notes/notes/">notes</a></li>
+</ul>
+<h2>Todos</h2>
+<ul>
+<li><a href="/wiki/notes/tolearn/">tolearn</a></li>
+</ul>
+<h2>Organ Systems</h2>
+<ul>
+<li><a href="/wiki/notes/Allergy%20and%20Immunology/">Allergy and Immunology</a></li>
+<li><a href="/wiki/notes/Rheumatology/">Rheumatology</a></li>
+<li><a href="/wiki/notes/Cardiology/">Cardiology</a></li>
+<li><a href="/wiki/notes/Dermatology/">Dermatology</a></li>
+<li><a href="/wiki/notes/Endocrine/">Endocrine</a></li>
+<li><a href="/wiki/notes/ENT/">ENT</a></li>
+<li><a href="/wiki/notes/GI/">GI</a></li>
+<li><a href="/wiki/notes/Hemeonc/">Hemeonc</a></li>
+<li><a href="/wiki/notes/ID/">ID</a></li>
+<li><a href="/wiki/notes/MSK/">MSK</a></li>
+<li><a href="/wiki/notes/Nephrology/">Nephrology</a></li>
+<li><a href="/wiki/notes/Urology/">Urology</a></li>
+<li><a href="/wiki/notes/Neurology/">Neurology</a></li>
+<li><a href="/wiki/notes/Pulmonology/">Pulmonology</a></li>
+<li><a href="/wiki/notes/Podiatry/">Podiatry</a></li>
+</ul>
+<h2>Subject Areas</h2>
+<ul>
+<li><a href="/wiki/notes/General/">General</a></li>
+<li><a href="/wiki/notes/Biostats/">Biostats</a></li>
+<li><a href="/wiki/notes/Psychiatry/">Psychiatry</a></li>
+<li><a href="/wiki/notes/Geriatrics/">Geriatrics</a></li>
+<li><a href="/wiki/notes/OBGYN/">OBGYN</a></li>
+<li><a href="/wiki/notes/Pediatric/">Pediatric</a></li>
+</ul>
+
+      </div>
+    </div>
+  </li>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//notes/explanatory vs pragmatic trials/" class="peer">Explanatory vs Pragmatic Trials</a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>explanatory vs pragmatic trials</h1>
+<ul>
+<li>related: <a href="/wiki/notes/Biostats/">Biostats</a></li>
+</ul>
+<p><img src="https://photos.thisispiggy.com/file/wikiFiles/20200908203446_19.png" alt=""></p>
+<p><strong>Clinical trials</strong> can be classified into 2 broad categories:</p>
+<ul>
+<li>
+<p>Explanatory trials are designed to test the efficacy of interventions under optimal and controlled situations.</p>
+</li>
+<li>
+<p><strong>Pragmatic</strong> trials are designed to evaluate the <strong>effectiveness</strong> of interventions in <strong>real-life</strong> (everyday) clinical practice conditions.</p>
+</li>
+</ul>
+<p>Pragmatic trials prod</p>
+
+      </div>
+    </div>
+  </li>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//notes/internal vs external validity/" class="peer">Internal vs External Validity</a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>internal vs external validity</h1>
+<ul>
+<li>related: <a href="/wiki/notes/Biostats/">Biostats</a></li>
+</ul>
+<p><img src="https://photos.thisispiggy.com/file/wikiFiles/20200908203446_18.png" alt=""></p>
+
+      </div>
+    </div>
+  </li>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//notes/attributable risk/" class="peer">Attributable Risk</a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>attributable risk</h1>
+<ul>
+<li>related: <a href="/wiki/notes/Biostats/">Biostats</a></li>
+</ul>
+<p>In a small observational study, 100 industrial workers are followed for one year to assess for the development of respiratory symptoms (defined as productive cough lasting at least one week).  30 of 60 smokers experience respiratory symptoms over the year versus 10 of 40 non-smokers.  Which of the following is the best estimate of the attributable risk of respiratory disease in smokers?</p>
+<p>In a small observational study, 100 indust</p>
+
+      </div>
+    </div>
+  </li>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//notes/bias/" class="peer">Bias</a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>bias</h1>
+<ul>
+<li>related: <a href="/wiki/notes/Biostats/">Biostats</a></li>
+</ul>
+<p><img src="https://photos.thisispiggy.com/file/wikiFiles/20200912201453_1.png" alt=""></p>
+<p>Different types of biases:</p>
+<ul>
+<li>contamination: control group receiving treatment/intervention</li>
+<li>observer: observer responsible for recording knows about study</li>
+<li>experimenter expectancy or <strong>Pygmalion effect</strong>: hopes of experimenter influence outcome</li>
+<li>susceptibility: prognostic difference between control/experimental</li>
+<li>verification: uses gold standard testing **selectively</li>
+</ul>
+
+      </div>
+    </div>
+  </li>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//notes/coefficient of determination/" class="peer">Coefficient of Determination</a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>coefficient of determination</h1>
+<ul>
+<li>related: <a href="/wiki/notes/Biostats/">Biostats</a></li>
+</ul>
+<p>Scatter plots, as demonstrated in Question #1, are useful for crude analysis of data.  They can be used to demonstrate whether any type of association (i.e., linear, non-linear) exists between two continuous variables.  Examples of continuous variables for which an association can be demonstrated are: arterial blood pressure and dietary salt consumption; blood glucose level and blood C-peptide level; etc.  If a linear</p>
+
+      </div>
+    </div>
+  </li>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//notes/comparison tests in statistics/" class="peer">Comparison Tests in Statistics</a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>comparison tests in statistics</h1>
+<ul>
+<li>related: <a href="/wiki/notes/Biostats/">Biostats</a></li>
+</ul>
+<!-- comparing variables -->
+<p><img src="https://photos.thisispiggy.com/file/wikiFiles/image-20200704101844589.png" alt=""></p>
+<ul>
+<li>The  <strong>Two-sample t test</strong> (also called Student's t test) is commonly employed to compare means of <strong>two independent groups</strong>. The basic requirements needed to perform this test are the two mean values, the sample variances, and the sample size. The t statistic is then obtained to calculate the p  value.</li>
+<li></li>
+</ul>
+
+      </div>
+    </div>
+  </li>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//notes/per year rates/" class="peer">Per Year Rates</a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>per year rates</h1>
+<ul>
+<li>related: <a href="/wiki/notes/Biostats/">Biostats</a></li>
+</ul>
+<p>Some specific measures of disease occurrence are explained below:</p>
+<ul>
+<li>Crude birth rate: Defined as the number of live births divided by the total population size.</li>
+<li>Crude mortality rate: Calculated by dividing the number of deaths by the total population size.</li>
+<li>Cause-specific mortality rate: Calculated by dividing the number of deaths from a particular disease by the total population size.</li>
+<li>Case-fatality rate: Calculated by dividin</li>
+</ul>
+
+      </div>
+    </div>
+  </li>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//notes/positive predictive value/" class="peer">Positive Predictive Value</a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>positive predictive value</h1>
+<ul>
+<li>related: <a href="/wiki/notes/Biostats/">Biostats</a></li>
+</ul>
+<p>Unlike sensitivity, specificity and likelihood ratios, <strong>predictive values</strong> depend on the <strong>prevalence</strong> of the disease in the population tested.  If the prevalence is high, a positive test is more likely to be a true positive (PPV is high).  If the prevalence is low, a negative test is more likely to be a true negative (NPV is high).</p>
+<p>It is also important to understand that predictive values are impacted by the pre-test</p>
+
+      </div>
+    </div>
+  </li>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//notes/receiver operating characterstics curve/" class="peer">Receiver Operating Characterstics Curve</a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>receiver operating characterstics curve</h1>
+<ul>
+<li>related: <a href="/wiki/notes/Biostats/">Biostats</a></li>
+</ul>
+<p>A new serum marker shows promise in the early diagnosis of colon cancer.  It represents a fetal antigen that has minimal expression in healthy adults, but has increased expression in those with colon cancer.  Various serum concentration levels (P1, P2, and P3) are tested as cutoff points for diagnosis of disease.  The sensitivity and specificity of the test at each of these serum concentrations is then compa</p>
+
+      </div>
+    </div>
+  </li>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//notes/relative risk vs odds ratio/" class="peer">Relative Risk vs Odds Ratio</a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>relative risk vs odds ratio</h1>
+<ul>
+<li>related: <a href="/wiki/notes/Biostats/">Biostats</a></li>
+</ul>
+<p>Two basic measures of association that you should be familiar with are relative risk (or risk ratio) and odds ratio.  You should be able to both calculate and interpret them.</p>
+<p>Risk refers to the probability of an event occurring over a certain period of time.  Therefore, it typically implies a prospective study design.  In Question #1, diabetic patients are followed over 5 years to assess for the development of acute co</p>
+
+      </div>
+    </div>
+  </li>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//notes/study designs/" class="peer">Study Designs</a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>study designs</h1>
+<ul>
+<li>related: <a href="/wiki/notes/Biostats/">Biostats</a></li>
+</ul>
+<p><img src="https://photos.thisispiggy.com/file/wikiFiles/20200912201453_.png" alt=""></p>
+
+      </div>
+    </div>
+  </li>
+  
+  <li>
+    <div class="">
+      <a href="/wiki//" class="peer"></a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        <h1>Medicine</h1>
+<ul>
+<li>Related: <a href="/wiki/notes/Step%201/">Step 1</a>, <a href="/wiki/notes/mksap/">mksap</a>, <a href="/wiki/notes/notes/">notes</a></li>
+</ul>
+<h2>Todos</h2>
+<ul>
+<li><a href="/wiki/notes/tolearn/">tolearn</a></li>
+</ul>
+<h2>Organ Systems</h2>
+<ul>
+<li><a href="/wiki/notes/Allergy%20and%20Immunology/">Allergy and Immunology</a></li>
+<li><a href="/wiki/notes/Rheumatology/">Rheumatology</a></li>
+<li><a href="/wiki/notes/Cardiology/">Cardiology</a></li>
+<li><a href="/wiki/notes/Dermatology/">Dermatology</a></li>
+<li><a href="/wiki/notes/Endocrine/">Endocrine</a></li>
+<li><a href="/wiki/notes/ENT/">ENT</a></li>
+<li><a href="/wiki/notes/GI/">GI</a></li>
+<li><a href="/wiki/notes/Hemeonc/">Hemeonc</a></li>
+<li><a href="/wiki/notes/ID/">ID</a></li>
+<li><a href="/wiki/notes/MSK/">MSK</a></li>
+<li><a href="/wiki/notes/Nephrology/">Nephrology</a></li>
+<li><a href="/wiki/notes/Urology/">Urology</a></li>
+<li><a href="/wiki/notes/Neurology/">Neurology</a></li>
+<li><a href="/wiki/notes/Pulmonology/">Pulmonology</a></li>
+<li><a href="/wiki/notes/Podiatry/">Podiatry</a></li>
+</ul>
+<h2>Subject Areas</h2>
+<ul>
+<li><a href="/wiki/notes/General/">General</a></li>
+<li><a href="/wiki/notes/Biostats/">Biostats</a></li>
+<li><a href="/wiki/notes/Psychiatry/">Psychiatry</a></li>
+<li><a href="/wiki/notes/Geriatrics/">Geriatrics</a></li>
+<li><a href="/wiki/notes/OBGYN/">OBGYN</a></li>
+<li><a href="/wiki/notes/Pediatric/">Pediatric</a></li>
+<li><a href="/wiki/notes/pharmacology/">pharmacology</a></li>
+<li><a href="/wiki/notes/ebm/">ebm</a></li>
+<li>[[emerg</li>
+</ul>
+
+      </div>
+    </div>
+  </li>
+  
+</ul>
+
+
+ -->
+
+    <footer>
+      <div class="max-w-6xl mb-10 text-sm text-center mt-96 ">
+        By Kang Rui Xiang
+      </div>
+      </div>
+    </footer>
+  </body>
+</html>

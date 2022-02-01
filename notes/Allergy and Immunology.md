@@ -1,12 +1,10 @@
 ---
 date: 2020-09-07
-layout: default
 ---
 
 # Allergy and Immunology
 
 - Keywords: [[Medicine]]
-
 ---
 
 ## Immune deficiencies
@@ -47,10 +45,10 @@ layout: default
 
 ## Antibodies
 
-<!-- anti-smith antibodies -->
+<!-- anti-smith antibodies --> 
 
 Anti-smith antibodies are also fairly specific for systemic lupus erythematosus.
 
-<!-- anti mitochondrial antibodies -->
+<!-- anti mitochondrial antibodies --> 
 
 Anti-mitochondrial antibodies are classically associated with primary biliary cirrhosis.

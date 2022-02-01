@@ -15,7 +15,6 @@ module.exports = {
     backlinks: (data) => {
       const notes = data.collections.notes;
       const currentFileSlug = data.page.filePathStem.replace("/notes/", "");
-
       let backlinks = [];
 
       // Search the other notes for backlinks
@@ -41,7 +40,7 @@ module.exports = {
           let preview = noteContent.slice(0, 480);
 
           backlinks.push({
-            url: otherNote.url,
+            url: "/wiki/" + otherNote.url,
             title: otherNote.data.title,
             preview,
           });
