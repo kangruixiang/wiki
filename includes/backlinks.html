@@ -1,0 +1,23 @@
+<hr />
+<p>Backlinks</p>
+{% if backlinks.length > 0%}
+
+<ul>
+  {% for link in backlinks %}
+  <li>
+    <div class="">
+      <a href="{{link.url}}" class="peer">{{link.title}}</a>
+      <div
+        role="none"
+        class="absolute hidden p-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-stone-100 prose-headings:hidden prose-hr:hidden"
+      >
+        {{link.preview | markdownify }}
+      </div>
+    </div>
+  </li>
+  {% endfor %}
+</ul>
+
+{% else %}
+<p>No backlinks found.</p>
+{% endif %}
