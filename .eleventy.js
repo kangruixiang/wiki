@@ -17,7 +17,8 @@ module.exports = function (eleventyConfig) {
           const parts = match.raw.slice(2, -2).split("|");
           parts[0] = parts[0].replace(/.(md|markdown)\s?$/i, "");
           match.text = (parts[1] || parts[0]).trim();
-          match.url = `/notes/${parts[0].trim()}/`;
+          match.url = `/wiki/notes/${parts[0].trim()}/`;
+          // console.log(match.url);
         },
       });
     });
@@ -36,6 +37,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setUseGitIgnore(false);
 
   return {
+    pathPrefix: "/wiki/",
     dir: {
       input: "./",
       output: "docs",
