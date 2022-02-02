@@ -4,7 +4,7 @@
   "description": "A starter site for building a mind garden in eleventy.",
   "scripts": {
     "start": "eleventy --serve --quiet",
-    "post": "postcss style.css -o assets/style.css",
+    "post": "postcss style.css -o docs/style.css",
     "dev": "eleventy --serve --quiet",
     "build": "eleventy"
   },

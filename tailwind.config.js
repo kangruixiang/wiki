@@ -8,7 +8,12 @@ module.exports = {
       sans: ["Concourse"],
       serif: ["Equity"],
     },
-    extend: {},
+    extend: {
+      colors: {
+        ember: "#f8f2eb",
+        emberdark: "#f0e8de",
+      },
+    },
   },
   plugins: [require("@tailwindcss/typography")],
 };
