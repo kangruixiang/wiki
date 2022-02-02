@@ -38,7 +38,7 @@
 </style>
 
   </head>
-  <body class="h-screen bg-ember">
+  <body class="h-screen bg-ember scroll-smooth">
     <div
       class="fixed top-0 w-screen"
     >
@@ -59,10 +59,9 @@
       </nav>
     </div>
     </div>
-    <div class="max-w-4xl mx-auto">
 
-    <div class="flex items-center justify-center max-w-full px-6 mt-32 mb-32">
-      <div  class="font-serif prose prose-lg prose-h1:text-xl prose-h2:text-lg md:prose-2xl prose-hr:border-zinc-900 hover:prose-a:bg-zinc-800 hover:prose-a:text-zinc-200"><h1>CAH</h1>
+    <div class="flex items-center justify-center flex-none max-w-4xl px-6 mx-auto mt-32 mb-32">
+      <div  class="font-serif prose prose-lg prose-h1:text-xl prose-h2:text-lg md:prose-2xl md:prose-h1:text-4xl md:prose-h2:text-3xl prose-hr:border-zinc-900 hover:prose-a:bg-zinc-800 hover:prose-a:text-zinc-200"><h1 id="cah" tabindex="-1">CAH</h1>
 <p>Congenital adrenal hyperplasia (aka CAH or adrenogenital syndrome) is an <strong>autosomal recessive disorder caused by deficiencies in adrenal steroid synthesis due to enzymatic defects</strong>.</p>
 <p>The three main enzymatic deficiencies are:</p>
 <ul>
@@ -75,7 +74,7 @@
 <p>There is no negative feedback due to the deficient adrenal steroid synthesis. Therefore, there will be increased ACTH production, which leads to adrenal hyperplasia (including androgen excess)</p>
 <p>A unifying feature between 21, 11, and 17-OH deficiencies is that a deficiency in one pathway causes precursor shunting to the remaining functional pathways</p>
 <p>So, an enzyme deficiency in one pathway may lead to overproduction of a different enzyme in another pathway.</p>
-<h2>21-OH</h2>
+<h2 id="21-oh" tabindex="-1">21-OH</h2>
 <p>21-OH deficiency: This enzyme is responsible for the synthesis of aldosterone and cortisol.</p>
 <p>Deficiency leads to:</p>
 <ul>
@@ -90,13 +89,13 @@
 <li>Hyperkalemia</li>
 <li>Excess androgen</li>
 </ul>
-<h2>11-OH</h2>
+<h2 id="11-oh" tabindex="-1">11-OH</h2>
 <p>11-OH deficiency:</p>
 <p>This enzyme is one step down the cortisol/aldosterone synthesis pathway. As such, it presents similarly to 21-OH deficiency, with one key difference:</p>
 <p>The aldosterone precursor that accumulated in a 21-OH deficiency didn’t have any hormonal activity, but a deficiency in 11-hydroxyase allows for production of <strong>11-deoxycorticosterone</strong>, which has a weak mineralocorticoid effect. This causes salt and water retention.</p>
 <p>Therefore, clinically, it presents with <strong>hypertension</strong> and <strong>ambiguous female genitalia</strong> or <strong>precocious male puberty</strong> (from excess androgens).</p>
 <p>21 and 11 are similar numbers, so remember that they are in the same pathway and cause similar effects. Additionally, 11-OH deficiency can be remembered with the mnemonic “↑↑-OH deficiency” with up arrows representing the hypertension and masculinized genitalia.</p>
-<h2>17-OH</h2>
+<h2 id="17-oh" tabindex="-1">17-OH</h2>
 <p>17-OH deficiency:</p>
 <p>Deficiency in this enzyme prevents androgens and cortisol production. This results in high aldosterone levels and dysfunctional sexual development.</p>
 <p>Males will be born with either feminized or completely female external genitalia and hypertension (from salt and water retention)</p>
@@ -122,7 +121,7 @@
 <p>Ultrasound can also be used to diagnose testicular adrenal rest tumors (benign testicular tumors found in both classic and non-classic CAH) and should be done beginning in adolescence</p>
 </li>
 </ul>
-<h2>Classic CAH</h2>
+<h2 id="classic-cah" tabindex="-1">Classic CAH</h2>
 <p>Classic CAH (impaired cortisol and aldosterone) may cause adrenal crisis in the newborn, if severe. In the salt-wasting form, newborn infants develop symptoms shortly after birth that include:</p>
 <ul>
 <li>Vomiting</li>
@@ -139,13 +138,20 @@
 </ul>
 <p><img src="https://photos.thisispiggy.com/file/wikiFiles/image-20200825074350018.png" alt=""></p>
 <p>Marked elevation of <strong>17-hydroxyprogesterone</strong>, a substrate of  21-hydroxylase, confirms the diagnosis with 21-hydroxylase deficiency.  High <strong>testosterone</strong> levels are responsible for <strong>virilization</strong> of  external female genitalia. Aldosterone and cortisol levels are  abnormally low.</p>
-<h2>Treatment</h2>
+<h2 id="treatment" tabindex="-1">Treatment</h2>
 <p>The mainstay of treatment for patients with congenital adrenal hyperplasia is exogenous <strong>glucocorticoids</strong> and <strong>mineralocorticoids</strong> (e.g. fludrocortisone).</p>
 <p>The first-line glucocorticoid depends on the age of the patient; in children, <strong>hydrocortisone</strong> is used due to its short half life, which decreases the risk of iatrogenic short stature. In adults, <strong>dexamethasone</strong> is used.</p>
 <p><strong>Stress doses of glucocorticoids</strong> should be used in patients with congenital adrenal hyperplasia that are experiencing physical stress or illness <strong>to avoid an adrenal crisis</strong>.</p>
-</div>
-      
+
+      </div>
     </div>
+    
+     <div class="fixed hidden ml-8 right-[5%] 2xl:block top-48 border-l-2 border-zinc-600 px-2"> 
+        <nav class="toc" >
+        <ul><li><a href="#21-oh">21-OH</a></li><li><a href="#11-oh">11-OH</a></li><li><a href="#17-oh">17-OH</a></li><li><a href="#classic-cah">Classic CAH</a></li><li><a href="#treatment">Treatment</a></li></ul>
+      </nav>
+      </div>
+
 
     <div class="max-w-4xl p-2 mx-auto font-sans font-semibold uppercase bg-emberdark">Backlinks</div>
     <div class="mx-auto font-serif prose prose-lg hover:prose-a:bg-zinc-800 hover:prose-a:text-zinc-200">
@@ -163,39 +169,39 @@
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>Pediatric</h1>
+        <h1 id="pediatric" tabindex="-1">Pediatric</h1>
 <ul>
 <li>Keywords:: <a href="/wiki/notes/Step%203/">Step 3</a>, <a href="/wiki/notes/Medicine/">Medicine</a></li>
 </ul>
 <hr>
-<h2>Social</h2>
+<h2 id="social" tabindex="-1">Social</h2>
 <ul>
 <li><a href="/wiki/notes/child%20and%20elderly%20abuse/">child and elderly abuse</a></li>
 <li><a href="/wiki/notes/medical%20consent/">medical consent</a></li>
 <li><a href="/wiki/notes/ADHD/">ADHD</a></li>
 <li><a href="/wiki/notes/oppositional%20defiant%20disorder%20and%20conduct%20disorder/">oppositional defiant disorder and conduct disorder</a></li>
 </ul>
-<h2>Congenital syndromes</h2>
+<h2 id="congenital-syndromes" tabindex="-1">Congenital syndromes</h2>
 <ul>
 <li><a href="/wiki/notes/Turner%20syndrome/">Turner syndrome</a></li>
 </ul>
-<h2>HEENT</h2>
+<h2 id="heent" tabindex="-1">HEENT</h2>
 <ul>
 <li><a href="/wiki/notes/acute%20mastoiditis/">acute mastoiditis</a></li>
 <li><a href="/wiki/notes/cranial%20hematomas/">cranial hematomas</a></li>
 </ul>
-<h2>Cardiology</h2>
+<h2 id="cardiology" tabindex="-1">Cardiology</h2>
 <ul>
 <li><a href="/wiki/notes/congenital%20heart%20disease/">congenital heart disease</a></li>
 </ul>
-<h2>GI</h2>
+<h2 id="gi" tabindex="-1">GI</h2>
 <ul>
 <li><a href="/wiki/notes/lysosomal%20storage%20disorders/">lysosomal storage disorders</a></li>
 <li><a href="/wiki/notes/hirschsprung/">hirschsprung</a></li>
 <li><a href="/wiki/notes/hyperbilirubinemia/">hyperbilirubinemia</a></li>
 <li><a href="/wiki/notes/foreign%20body%20aspiration/">foreign body aspiration</a></li>
 </ul>
-<h2>Renal</h2>
+<h2 id="renal" tabindex="-1">Renal</h2>
 <ul>
 <li>[[nephrot</li>
 </ul>

@@ -38,7 +38,7 @@
 </style>
 
   </head>
-  <body class="h-screen bg-ember">
+  <body class="h-screen bg-ember scroll-smooth">
     <div
       class="fixed top-0 w-screen"
     >
@@ -59,19 +59,18 @@
       </nav>
     </div>
     </div>
-    <div class="max-w-4xl mx-auto">
 
-    <div class="flex items-center justify-center max-w-full px-6 mt-32 mb-32">
-      <div  class="font-serif prose prose-lg prose-h1:text-xl prose-h2:text-lg md:prose-2xl prose-hr:border-zinc-900 hover:prose-a:bg-zinc-800 hover:prose-a:text-zinc-200"><h1>ID</h1>
+    <div class="flex items-center justify-center flex-none max-w-4xl px-6 mx-auto mt-32 mb-32">
+      <div  class="font-serif prose prose-lg prose-h1:text-xl prose-h2:text-lg md:prose-2xl md:prose-h1:text-4xl md:prose-h2:text-3xl prose-hr:border-zinc-900 hover:prose-a:bg-zinc-800 hover:prose-a:text-zinc-200"><h1 id="id" tabindex="-1">ID</h1>
 <ul>
 <li>Keywords: <a href="/wiki/notes/Step%203/">Step 3</a>, <a href="/wiki/notes/Medicine/">Medicine</a></li>
 </ul>
-<h2>Fever</h2>
+<h2 id="fever" tabindex="-1">Fever</h2>
 <ul>
 <li><a href="/wiki/notes/fever%20of%20unknown%20origin/">fever of unknown origin</a></li>
 <li><a href="/wiki/notes/fever%20in%20travelers/">fever in travelers</a></li>
 </ul>
-<h2>Viral</h2>
+<h2 id="viral" tabindex="-1">Viral</h2>
 <ul>
 <li><a href="/wiki/notes/EBV/">EBV</a></li>
 <li><a href="/wiki/notes/RSV/">RSV</a></li>
@@ -89,7 +88,7 @@
 </ul>
 </li>
 </ul>
-<h2>Fungal</h2>
+<h2 id="fungal" tabindex="-1">Fungal</h2>
 <ul>
 <li><a href="/wiki/notes/Sporotrichosis/">Sporotrichosis</a></li>
 <li><a href="/wiki/notes/Candida%20Infections/">Candida Infections</a></li>
@@ -98,7 +97,7 @@
 <li><a href="/wiki/notes/ABPA/">ABPA</a></li>
 <li><a href="/wiki/notes/histoplasmosis/">histoplasmosis</a></li>
 </ul>
-<h2>Bacterial</h2>
+<h2 id="bacterial" tabindex="-1">Bacterial</h2>
 <ul>
 <li><a href="/wiki/notes/Diptheria/">Diptheria</a></li>
 <li><a href="/wiki/notes/Pneumonia/">Pneumonia</a></li>
@@ -127,12 +126,12 @@
 <li><a href="/wiki/notes/microbes%20by%20organs/">microbes by organs</a></li>
 <li><a href="/wiki/notes/acinetobacter/">acinetobacter</a></li>
 </ul>
-<h3>Tick Born Illnesses</h3>
+<h3 id="tick-born-illnesses" tabindex="-1">Tick Born Illnesses</h3>
 <ul>
 <li><a href="/wiki/notes/ehrlichosis/">ehrlichosis</a></li>
 <li><a href="/wiki/notes/tick%20born%20infections/">tick born infections</a></li>
 </ul>
-<h2>Parasites</h2>
+<h2 id="parasites" tabindex="-1">Parasites</h2>
 <ul>
 <li><a href="/wiki/notes/Strongyloidiasis/">Strongyloidiasis</a></li>
 <li><a href="/wiki/notes/Helminths/">Helminths</a></li>
@@ -142,37 +141,44 @@
 <li><a href="/wiki/notes/cryptosporidium/">cryptosporidium</a></li>
 <li><a href="/wiki/notes/cyclospora/">cyclospora</a></li>
 </ul>
-<h2>Iatrogenic</h2>
+<h2 id="iatrogenic" tabindex="-1">Iatrogenic</h2>
 <ul>
 <li><a href="/wiki/notes/CLABSI/">CLABSI</a></li>
 </ul>
-<h2>Genitourinary</h2>
+<h2 id="genitourinary" tabindex="-1">Genitourinary</h2>
 <ul>
 <li><a href="/wiki/notes/genital%20ulcers/">genital ulcers</a></li>
 <li><a href="/wiki/notes/asymptomatic%20bacteriuria/">asymptomatic bacteriuria</a></li>
 <li><a href="/wiki/notes/neisseria%20gonorrhea/">neisseria gonorrhea</a></li>
 <li><a href="/wiki/notes/syphillis/">syphillis</a></li>
 </ul>
-<h2>Bones and Joints</h2>
+<h2 id="bones-and-joints" tabindex="-1">Bones and Joints</h2>
 <ul>
 <li><a href="/wiki/notes/septic%20arthritis/">septic arthritis</a></li>
 <li><a href="/wiki/notes/osteomyelitis/">osteomyelitis</a></li>
 <li><a href="/wiki/notes/prosthetic%20joint%20infection/">prosthetic joint infection</a></li>
 <li><a href="/wiki/notes/Joint%20Aspirate/">Joint Aspirate</a></li>
 </ul>
-<h2>Skin and soft tissue</h2>
+<h2 id="skin-and-soft-tissue" tabindex="-1">Skin and soft tissue</h2>
 <ul>
 <li><a href="/wiki/notes/cat%20bite/">cat bite</a></li>
 <li><a href="/wiki/notes/abscesses/">abscesses</a></li>
 <li><a href="/wiki/notes/foodborne%20illnesses/">foodborne illnesses</a></li>
 </ul>
-<h2>Otheres</h2>
+<h2 id="otheres" tabindex="-1">Otheres</h2>
 <ul>
 <li><a href="/wiki/notes/transplant%20infection/">transplant infection</a></li>
 </ul>
-</div>
-      
+
+      </div>
     </div>
+    
+     <div class="fixed hidden ml-8 right-[5%] 2xl:block top-48 border-l-2 border-zinc-600 px-2"> 
+        <nav class="toc" >
+        <ul><li><a href="#fever">Fever</a></li><li><a href="#viral">Viral</a></li><li><a href="#fungal">Fungal</a></li><li><a href="#bacterial">Bacterial</a><ul><li><a href="#tick-born-illnesses">Tick Born Illnesses</a></li></ul></li><li><a href="#parasites">Parasites</a></li><li><a href="#iatrogenic">Iatrogenic</a></li><li><a href="#genitourinary">Genitourinary</a></li><li><a href="#bones-and-joints">Bones and Joints</a></li><li><a href="#skin-and-soft-tissue">Skin and soft tissue</a></li><li><a href="#otheres">Otheres</a></li></ul>
+      </nav>
+      </div>
+
 
     <div class="max-w-4xl p-2 mx-auto font-sans font-semibold uppercase bg-emberdark">Backlinks</div>
     <div class="mx-auto font-serif prose prose-lg hover:prose-a:bg-zinc-800 hover:prose-a:text-zinc-200">
@@ -190,7 +196,7 @@
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>prostatitis</h1>
+        <h1 id="prostatitis" tabindex="-1">prostatitis</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -221,7 +227,7 @@
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>ABPA</h1>
+        <h1 id="abpa" tabindex="-1">ABPA</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a>, <a href="/wiki/notes/Pulmonology/">Pulmonology</a>, <a href="/wiki/notes/aspergillosis/">aspergillosis</a></li>
 </ul>
@@ -252,7 +258,7 @@
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>HIV</h1>
+        <h1 id="hiv" tabindex="-1">HIV</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -281,7 +287,7 @@
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>HPV</h1>
+        <h1 id="hpv" tabindex="-1">HPV</h1>
 <ul>
 <li>Keywords:: <a href="/wiki/notes/Step%203/">Step 3</a> <a href="/wiki/notes/ID/">ID</a> <a href="/wiki/notes/HIV/">HIV</a></li>
 </ul>
@@ -300,20 +306,20 @@
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>Lyme</h1>
+        <h1 id="lyme" tabindex="-1">Lyme</h1>
 <ul>
 <li>related:<a href="/wiki/notes/ID/">ID</a>, <a href="/wiki/notes/post%20lyme%20disease%20syndrome/">post lyme disease syndrome</a>, <a href="/wiki/notes/neuroborreliosis/">neuroborreliosis</a>, <a href="/wiki/notes/tick%20born%20infections/">tick born infections</a></li>
 <li>tags: #note</li>
 </ul>
 <hr>
-<h2>Pathogenesis</h2>
+<h2 id="pathogenesis" tabindex="-1">Pathogenesis</h2>
 <ul>
 <li>bacteria: spirochete Borrelia burgdorferi</li>
 <li>tick: Ixodes scapularis &quot;deer ticks&quot;</li>
 <li>carrier: mice &gt; deer</li>
 <li>time: most occur in summer</li>
 </ul>
-<h2>symptoms</h2>
+<h2 id="symptoms" tabindex="-1">symptoms</h2>
 <p><img src="https://photos.thisispiggy.com/file/wikiFiles/image-20200823062139874.png" alt=""></p>
 <ul>
 <li>most patient won't recall tick bite</li>
@@ -334,16 +340,16 @@
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>Medicine</h1>
+        <h1 id="medicine" tabindex="-1">Medicine</h1>
 <ul>
 <li>Keywords:: <a href="/wiki/notes/000%20Index/">000 Index</a></li>
 <li>Related: <a href="/wiki/notes/Step%203/">Step 3</a>, <a href="/wiki/notes/Step%201/">Step 1</a>, <a href="/wiki/notes/mksap/">mksap</a>, <a href="/wiki/notes/notes/">notes</a></li>
 </ul>
-<h2>Todos</h2>
+<h2 id="todos" tabindex="-1">Todos</h2>
 <ul>
 <li><a href="/wiki/notes/tolearn/">tolearn</a></li>
 </ul>
-<h2>Organ Systems</h2>
+<h2 id="organ-systems" tabindex="-1">Organ Systems</h2>
 <ul>
 <li><a href="/wiki/notes/Allergy%20and%20Immunology/">Allergy and Immunology</a></li>
 <li><a href="/wiki/notes/Rheumatology/">Rheumatology</a></li>
@@ -361,7 +367,7 @@
 <li><a href="/wiki/notes/Pulmonology/">Pulmonology</a></li>
 <li><a href="/wiki/notes/Podiatry/">Podiatry</a></li>
 </ul>
-<h2>Subject Areas</h2>
+<h2 id="subject-areas" tabindex="-1">Subject Areas</h2>
 <ul>
 <li><a href="/wiki/notes/General/">General</a></li>
 <li><a href="/wiki/notes/Biostats/">Biostats</a></li>
@@ -382,7 +388,7 @@
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>Mono</h1>
+        <h1 id="mono" tabindex="-1">Mono</h1>
 <ul>
 <li>Keywords:: <a href="/wiki/notes/Step%203/">Step 3</a> <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -403,7 +409,7 @@
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>Tuberculosis</h1>
+        <h1 id="tuberculosis" tabindex="-1">Tuberculosis</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a>, <a href="/wiki/notes/TB%20note%2011%204/">TB note 11 4</a>, <a href="/wiki/notes/MAC/">MAC</a>, <a href="/wiki/notes/mycobacterium%20kansasii/">mycobacterium kansasii</a>, <a href="/wiki/notes/rapid%20growsers/">rapid growsers</a>, <a href="/wiki/notes/marinum/">marinum</a>, <a href="/wiki/notes/gordonae/">gordonae</a></li>
 </ul>
@@ -422,7 +428,7 @@
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>Ehrlichosis</h1>
+        <h1 id="ehrlichosis" tabindex="-1">Ehrlichosis</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a>, <a href="/wiki/notes/tick%20born%20infections/">tick born infections</a></li>
 </ul>
@@ -430,7 +436,7 @@
 <ul>
 <li>grow in intracellular vacuoles called morulae</li>
 </ul>
-<h2>Anaplasma</h2>
+<h2 id="anaplasma" tabindex="-1">Anaplasma</h2>
 <ul>
 <li>
 <p>similar to Lyme location</p>
@@ -467,7 +473,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>otitis externa</h1>
+        <h1 id="otitis-externa" tabindex="-1">otitis externa</h1>
 <ul>
 <li>Keywords: <a href="/wiki/notes/Step%203/">Step 3</a>, <a href="/wiki/notes/Medicine/">Medicine</a>, <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -487,11 +493,11 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>septic arthritis</h1>
+        <h1 id="septic-arthritis" tabindex="-1">septic arthritis</h1>
 <ul>
 <li>related: <a href="/wiki/notes/MSK/">MSK</a>, <a href="/wiki/notes/ID/">ID</a>, <a href="/wiki/notes/pediatric%20septic%20arthritis/">pediatric septic arthritis</a>, <a href="/wiki/notes/osteomyelitis/">osteomyelitis</a>, <a href="/wiki/notes/prosthetic%20joint%20infection/">prosthetic joint infection</a>, <a href="/wiki/notes/notes/">notes</a></li>
 </ul>
-<h2>Causes</h2>
+<h2 id="causes" tabindex="-1">Causes</h2>
 <!-- septic arthritis spread, risks, organisms, types -->
 <p><strong>Septic arthritis</strong> is an <strong>infection of the synovial joint space</strong>.</p>
 <p>Septic arthritis can occur through <strong>hematogenous spread, local extension, or direct inoculation</strong> (trauma).</p>
@@ -515,7 +521,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>Shingles</h1>
+        <h1 id="shingles" tabindex="-1">Shingles</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a>, <a href="/wiki/notes/Ramsay%20Hunt/">Ramsay Hunt</a></li>
 </ul>
@@ -533,7 +539,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>Strongyloidiasis</h1>
+        <h1 id="strongyloidiasis" tabindex="-1">Strongyloidiasis</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -551,7 +557,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>genital ulcers</h1>
+        <h1 id="genital-ulcers" tabindex="-1">genital ulcers</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -568,11 +574,11 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>prosthetic joint infection</h1>
+        <h1 id="prosthetic-joint-infection" tabindex="-1">prosthetic joint infection</h1>
 <ul>
 <li>related: <a href="/wiki/notes/septic%20arthritis/">septic arthritis</a>, <a href="/wiki/notes/MSK/">MSK</a>, <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
-<h2>Prosthetic Joint Infection</h2>
+<h2 id="prosthetic-joint-infection-1" tabindex="-1">Prosthetic Joint Infection</h2>
 <!-- prosthetic joint infection organisms -->
 <table>
 <thead>
@@ -596,7 +602,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>HIV and TB</h1>
+        <h1 id="hiv-and-tb" tabindex="-1">HIV and TB</h1>
 <ul>
 <li>related: <a href="/wiki/notes/HIV/">HIV</a>, <a href="/wiki/notes/ID/">ID</a>, <a href="/wiki/notes/immune%20reconstitution%20inflammatory%20syndrome/">immune reconstitution inflammatory syndrome</a></li>
 </ul>
@@ -620,7 +626,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>HIV and opportunistic infections</h1>
+        <h1 id="hiv-and-opportunistic-infections" tabindex="-1">HIV and opportunistic infections</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a>, <a href="/wiki/notes/HIV%20and%20TB/">HIV and TB</a></li>
 </ul>
@@ -644,7 +650,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>Helminths</h1>
+        <h1 id="helminths" tabindex="-1">Helminths</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -675,7 +681,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>PCP</h1>
+        <h1 id="pcp" tabindex="-1">PCP</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -697,16 +703,16 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>aspergillosis</h1>
+        <h1 id="aspergillosis" tabindex="-1">aspergillosis</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a>, <a href="/wiki/notes/ABPA/">ABPA</a></li>
 </ul>
-<h2>Aspergillus</h2>
+<h2 id="aspergillus" tabindex="-1">Aspergillus</h2>
 <ul>
 <li>most common species: <em>A. fumigatus</em>, <em>A. flavus</em>, <em>A</em>. <em>niger</em>, and the amphotericin-resistant <em>A. terreus</em>.</li>
 <li><em>Aspergillus</em> produces disease after inhalation of airborne spores (90%) and only occasionally by traumatic skin inoculation. Of all the fungi, <em>Aspergillus</em> is notable for the diverse settings in which it can occur and the various clinical manifestations it can produce.</li>
 </ul>
-<h2>Invasive pulmonary aspergill</h2>
+<h2 id="invasive-pulmonary-aspergill" tabindex="-1">Invasive pulmonary aspergill</h2>
 
       </div>
     </div>
@@ -719,7 +725,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>clostridium difficile</h1>
+        <h1 id="clostridium-difficile" tabindex="-1">clostridium difficile</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a>, <a href="/wiki/notes/fulminant%20clostridium%20difficile/">fulminant clostridium difficile</a></li>
 </ul>
@@ -741,7 +747,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>coccidioidomycosis</h1>
+        <h1 id="coccidioidomycosis" tabindex="-1">coccidioidomycosis</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -770,7 +776,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>cryptococcus</h1>
+        <h1 id="cryptococcus" tabindex="-1">cryptococcus</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a>, <a href="/wiki/notes/HIV/">HIV</a>, <a href="/wiki/notes/immune%20reconstitution%20inflammatory%20syndrome/">immune reconstitution inflammatory syndrome</a></li>
 </ul>
@@ -806,7 +812,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>fever of unknown origin</h1>
+        <h1 id="fever-of-unknown-origin" tabindex="-1">fever of unknown origin</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -830,7 +836,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>immune reconstitution inflammatory syndrome</h1>
+        <h1 id="immune-reconstitution-inflammatory-syndrome" tabindex="-1">immune reconstitution inflammatory syndrome</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a>, <a href="/wiki/notes/HIV%20and%20TB/">HIV and TB</a>, <a href="/wiki/notes/HIV/">HIV</a></li>
 </ul>
@@ -846,7 +852,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>leptospirosis</h1>
+        <h1 id="leptospirosis" tabindex="-1">leptospirosis</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -872,11 +878,11 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>non TB mycobacterium</h1>
+        <h1 id="non-tb-mycobacterium" tabindex="-1">non TB mycobacterium</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a>, <a href="/wiki/notes/TB%20meningitis/">TB meningitis</a>, <a href="/wiki/notes/Tuberculosis/">Tuberculosis</a></li>
 </ul>
-<h2>M Fortuitum</h2>
+<h2 id="m-fortuitum" tabindex="-1">M Fortuitum</h2>
 <!-- M fortuitum is, when to suspect, dx -->
 <p><em>M. fortuitum</em> is one of the rapidly growing, nontuberculous mycobacteria (NTM) capable of producing chronic, nonhealing wounds anywhere the bacteria has been introduced, including skin, soft tissue, surgical sites, and occasionally on prosthetic devices. Although <em>M. fortuitum</em> is not part of the differential diagnosis of acute wound</p>
 
@@ -891,7 +897,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>staph surgical infection</h1>
+        <h1 id="staph-surgical-infection" tabindex="-1">staph surgical infection</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a>, <a href="/wiki/notes/notes/">notes</a>, <a href="/wiki/notes/preop%20shaving/">preop shaving</a></li>
 </ul>
@@ -914,7 +920,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>surgical intervention prevention</h1>
+        <h1 id="surgical-intervention-prevention" tabindex="-1">surgical intervention prevention</h1>
 <ul>
 <li>related: <a href="/wiki/notes/preop%20shaving/">preop shaving</a>, <a href="/wiki/notes/ID/">ID</a>, <a href="/wiki/notes/notes/">notes</a></li>
 </ul>
@@ -941,7 +947,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>asymptomatic bacteriuria</h1>
+        <h1 id="asymptomatic-bacteriuria" tabindex="-1">asymptomatic bacteriuria</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -963,7 +969,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>liposomal amphotericin B</h1>
+        <h1 id="liposomal-amphotericin-b" tabindex="-1">liposomal amphotericin B</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a>, <a href="/wiki/notes/pharmacology/">pharmacology</a></li>
 </ul>
@@ -981,7 +987,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>BK virus</h1>
+        <h1 id="bk-virus" tabindex="-1">BK virus</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -1004,7 +1010,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>IgA deficiency</h1>
+        <h1 id="iga-deficiency" tabindex="-1">IgA deficiency</h1>
 <ul>
 <li>related: <a href="/wiki/notes/Allergy%20and%20Immunology/">Allergy and Immunology</a>, <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -1020,7 +1026,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>MRSA risks</h1>
+        <h1 id="mrsa-risks" tabindex="-1">MRSA risks</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a>, <a href="/wiki/notes/MRSA/">MRSA</a></li>
 </ul>
@@ -1038,7 +1044,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>Malaria notes</h1>
+        <h1 id="malaria-notes" tabindex="-1">Malaria notes</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -1056,7 +1062,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>Pasteurella</h1>
+        <h1 id="pasteurella" tabindex="-1">Pasteurella</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a>, <a href="/wiki/notes/cat%20bite/">cat bite</a></li>
 </ul>
@@ -1072,11 +1078,11 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>abscesses</h1>
+        <h1 id="abscesses" tabindex="-1">abscesses</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
-<h2>Abscess vs  cellulitis</h2>
+<h2 id="abscess-vs-cellulitis" tabindex="-1">Abscess vs  cellulitis</h2>
 <!-- abscess vs cellulitis bugs, sx, management -->
 <p><img src="https://photos.thisispiggy.com/file/wikiFiles/image-20200601203756738.png" alt=""></p>
 
@@ -1091,7 +1097,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>bartonella</h1>
+        <h1 id="bartonella" tabindex="-1">bartonella</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -1109,7 +1115,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>cat bite</h1>
+        <h1 id="cat-bite" tabindex="-1">cat bite</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -1131,7 +1137,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>chlamydia psittaci</h1>
+        <h1 id="chlamydia-psittaci" tabindex="-1">chlamydia psittaci</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -1149,7 +1155,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>coxiella burnetti</h1>
+        <h1 id="coxiella-burnetti" tabindex="-1">coxiella burnetti</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -1177,7 +1183,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>fever in travelers</h1>
+        <h1 id="fever-in-travelers" tabindex="-1">fever in travelers</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -1199,11 +1205,11 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>foodborne illnesses</h1>
+        <h1 id="foodborne-illnesses" tabindex="-1">foodborne illnesses</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
-<h2>Foodborne disease</h2>
+<h2 id="foodborne-disease" tabindex="-1">Foodborne disease</h2>
 <!-- foodborne disease -->
 <p><img src="https://photos.thisispiggy.com/file/wikiFiles/image-20200310204414429.png" alt=""></p>
 
@@ -1218,7 +1224,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>ricketsia</h1>
+        <h1 id="ricketsia" tabindex="-1">ricketsia</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -1237,11 +1243,11 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>shigella</h1>
+        <h1 id="shigella" tabindex="-1">shigella</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
-<h2>EHEC vs Shigella</h2>
+<h2 id="ehec-vs-shigella" tabindex="-1">EHEC vs Shigella</h2>
 <!-- EHEC vs Shigella, rx --> 
 <p>EHEC infection occurs after <strong>exposure</strong> to infected <strong>animals</strong> (eg, farms, petting zoos) or ingestion of undercooked beef. <em>Shigella</em> <em>sonnei</em> causes bloody diarrhea and abdominal  cramps. However, affected patients are commonly febrile, and animal  exposure is not typical as it is usually contracted through contaminated food or water.</p>
 <p><strong>Antimicrobials</strong> should be <strong>avoided</strong> as they may i</p>
@@ -1257,7 +1263,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>Zika</h1>
+        <h1 id="zika" tabindex="-1">Zika</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a>, <a href="/wiki/notes/dengue/">dengue</a>, <a href="/wiki/notes/chikungunya/">chikungunya</a></li>
 </ul>
@@ -1274,7 +1280,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>MSSA vanc vs cefazolin</h1>
+        <h1 id="mssa-vanc-vs-cefazolin" tabindex="-1">MSSA vanc vs cefazolin</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -1291,7 +1297,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>HIV and immunization</h1>
+        <h1 id="hiv-and-immunization" tabindex="-1">HIV and immunization</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -1309,7 +1315,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>histoplasmosis</h1>
+        <h1 id="histoplasmosis" tabindex="-1">histoplasmosis</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -1327,7 +1333,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>plasmodium</h1>
+        <h1 id="plasmodium" tabindex="-1">plasmodium</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -1344,7 +1350,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>salmonella</h1>
+        <h1 id="salmonella" tabindex="-1">salmonella</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -1362,7 +1368,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>yersinia</h1>
+        <h1 id="yersinia" tabindex="-1">yersinia</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -1381,7 +1387,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>PrEP</h1>
+        <h1 id="prep" tabindex="-1">PrEP</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -1402,7 +1408,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>anthrax</h1>
+        <h1 id="anthrax" tabindex="-1">anthrax</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -1423,7 +1429,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>cryptosporidium</h1>
+        <h1 id="cryptosporidium" tabindex="-1">cryptosporidium</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -1440,7 +1446,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>cyclospora</h1>
+        <h1 id="cyclospora" tabindex="-1">cyclospora</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -1457,7 +1463,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>transplant infection</h1>
+        <h1 id="transplant-infection" tabindex="-1">transplant infection</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -1474,11 +1480,11 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>MRSA</h1>
+        <h1 id="mrsa" tabindex="-1">MRSA</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
-<h1>Bacteremia</h1>
+<h1 id="bacteremia" tabindex="-1">Bacteremia</h1>
 <ul>
 <li>VIRSTE criteria</li>
 <li>MEC A gene for MRSA vs MSSA</li>
@@ -1496,17 +1502,17 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>Pneumonia</h1>
+        <h1 id="pneumonia" tabindex="-1">Pneumonia</h1>
 <ul>
 <li>related: <a href="/wiki/notes/Pulmonology/">Pulmonology</a>, <a href="/wiki/notes/ID/">ID</a>, <a href="/wiki/notes/pneumonia%20vaccine/">pneumonia vaccine</a></li>
 </ul>
-<h2>Symptoms</h2>
+<h2 id="symptoms" tabindex="-1">Symptoms</h2>
 <ul>
 <li>cough, purulent sputum, pleuritic chest pain, dyspnea, chillls, fever, night sweats, weight loss</li>
 <li>hemoptysis: necrotizing infections, lung abscess, TB, Gm neg pneumonia</li>
 <li>Elderly: less immune response. More nonrespiratory response. Confusion, weakness, lethargy, falling, decreased PO intake</li>
 </ul>
-<h2>Pathogenesis</h2>
+<h2 id="pathogenesis" tabindex="-1">Pathogenesis</h2>
 <ul>
 <li>Common bugs: strep, H. flu, mycoplasma, chlamydia, legionella</li>
 <li>Pseudomonas: br</li>
@@ -1523,7 +1529,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>tick born infections</h1>
+        <h1 id="tick-born-infections" tabindex="-1">tick born infections</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 </ul>
@@ -1545,7 +1551,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>microbes by organs</h1>
+        <h1 id="microbes-by-organs" tabindex="-1">microbes by organs</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 <li>tags: #note</li>
@@ -1577,7 +1583,7 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>acinetobacter</h1>
+        <h1 id="acinetobacter" tabindex="-1">acinetobacter</h1>
 <ul>
 <li>related: <a href="/wiki/notes/ID/">ID</a></li>
 <li>tags: #note</li>
@@ -1596,15 +1602,15 @@ slide: 62</li>
         role="none"
         class="absolute hidden px-8 py-4 overflow-hidden prose-sm prose border rounded-md shadow-md w-fit max-h-80 peer-hover:block bg-ember prose-headings:hidden prose-hr:hidden"
       >
-        <h1>Medicine</h1>
+        <h1 id="medicine" tabindex="-1">Medicine</h1>
 <ul>
 <li>Related: <a href="/wiki/notes/Step%201/">Step 1</a>, <a href="/wiki/notes/mksap/">mksap</a>, <a href="/wiki/notes/notes/">notes</a></li>
 </ul>
-<h2>Todos</h2>
+<h2 id="todos" tabindex="-1">Todos</h2>
 <ul>
 <li><a href="/wiki/notes/tolearn/">tolearn</a></li>
 </ul>
-<h2>Organ Systems</h2>
+<h2 id="organ-systems" tabindex="-1">Organ Systems</h2>
 <ul>
 <li><a href="/wiki/notes/Allergy%20and%20Immunology/">Allergy and Immunology</a></li>
 <li><a href="/wiki/notes/Rheumatology/">Rheumatology</a></li>
@@ -1622,7 +1628,7 @@ slide: 62</li>
 <li><a href="/wiki/notes/Pulmonology/">Pulmonology</a></li>
 <li><a href="/wiki/notes/Podiatry/">Podiatry</a></li>
 </ul>
-<h2>Subject Areas</h2>
+<h2 id="subject-areas" tabindex="-1">Subject Areas</h2>
 <ul>
 <li><a href="/wiki/notes/General/">General</a></li>
 <li><a href="/wiki/notes/Biostats/">Biostats</a></li>

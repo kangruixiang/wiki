@@ -1,14 +1,21 @@
+const plugin = require("tailwindcss/plugin");
+const pluginTOC = require("eleventy-plugin-toc");
+
 module.exports = function (eleventyConfig) {
   const markdownIt = require("markdown-it");
   const markdownItOptions = {
     html: true,
     linkify: true,
   };
+  eleventyConfig.addPlugin(pluginTOC, {
+    ul: true,
+  });
 
   const md = markdownIt(markdownItOptions)
     .use(require("markdown-it-footnote"))
     .use(require("markdown-it-attrs"))
     .use(require("markdown-it-mark"))
+    .use(require("markdown-it-anchor"))
     .use(function (md) {
       // Recognize Mediawiki links ([[text]])
       md.linkify.add("[[", {
