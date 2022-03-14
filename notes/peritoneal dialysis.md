@@ -12,7 +12,6 @@ Peritoneal dialysis utilizes an indwelling catheter to perform exchanges of dial
 
 Peritonitis is an important complication because repeated infections can cause peritoneal fibrosis and reduce the efficacy of the dialysis treatments. Dialysis–associated peritoneal peritonitis is infrequent, with an average of one episode every 2 to 3 years. It is usually caused by gram-positive skin flora and less commonly by gram-negative intestinal flora. Proper skin hygiene and sterile technique when handling the peritoneal dialysis catheter are critical in preventing peritonitis.
 
-
 ## peritonitis
 
 - Initial treatment: vancomycin and cefepime

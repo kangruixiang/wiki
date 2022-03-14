@@ -5,6 +5,7 @@ date: 2021-08-29
 # rheumatoid arthritis
 
 - related: [[Rheumatology]]
+- tags: #rheumatology
 
 ## Pathophysiology and Risk Factors
 
@@ -14,7 +15,7 @@ date: 2021-08-29
 	- These HLA code for citrullinated peptide antigen that are immunogenic since citruline is not normally in humans
 	- citrulline formed by peptidylarginine deiminase
 - environmental: 40%
-	- smoking activates PADI and citrullination
+	- smoking activates PADI and citrullination, increases risk to 2-20x
 - infection
 	- periodontal:_Porphyromonas gingivalis_
 	- Others: mycoplasma, Epstein-Barr virus, and parvovirus B19.
@@ -73,9 +74,14 @@ date: 2021-08-29
 		- mononuclear inflammatory cells: lymphocytes, monocytes
 - heart
 	- mostly atherosclerosis
--
 
-Anemia of inflammation is the most common RA hematologic abnormality. Felty syndrome consists of neutropenia and splenomegaly and occurs in patients with long-standing, severe, seropositive RA. These patients are at risk for serious bacterial infection, lower extremity ulceration, lymphoma, and vasculitis. With current treatment, Felty syndrome has become rare. Patients with RA can also have a large granular lymphocyte syndrome that can progress to large granular lymphocyte leukemia. Findings overlap with Felty syndrome and include neutropenia, anemia, thrombocytopenia, splenomegaly, and recurrent infections. Patients with RA are at increased risk for lymphomas (particularly large B-cell lymphomas), and risk is correlated with disease activity.
+### Felty syndrome
+
+Anemia of inflammation is the most common RA hematologic abnormality. ==Felty syndrome== consists of ==neutropenia and splenomegaly== and occurs in patients with long-standing, severe, seropositive RA. These patients are at risk for serious bacterial infection, ==lower extremity ulceration==, lymphoma, and vasculitis. With current treatment, Felty syndrome has become rare. Patients with RA can also have a large granular lymphocyte syndrome that can progress to large granular lymphocyte ==leukemia==. Findings overlap with Felty syndrome and include neutropenia, anemia, thrombocytopenia, splenomegaly, and recurrent infections. Patients with RA are at increased risk for lymphomas (particularly large B-cell lymphomas), and risk is correlated with disease activity.
+
+### Scleritis
+
+RA is one of the most common diseases associated with scleritis. Typical features include ==eye pain, pain with gentle palpation of the globe, and photophobia==, (pain with eye movement). The deep scleral vessels are involved and may lead to ==scleromalacia==, which is characterized by thinning of the sclera and is seen as a dark area in the white sclera. Scleromalacia may lead to perforation of the sclera called scleromalacia perforans. Scleritis can be vision-threatening and lead to blindness; it is therefore important to urgently refer the patient to an ophthalmologist for care.
 
 ### Blood Vessels
 
@@ -139,11 +145,6 @@ The 2015 ACR RA treatment guidelines can assist in making initial treatment deci
 
 #### Nonbiologic Disease-Modifying Antirheumatic Drugs
 
-#### Related Questions
-
-- Question 63
-- Question 80
-
 Methotrexate is the anchor drug in RA, used in both monotherapy and combination therapy. It can be titrated to doses as high as 25 mg per week in partial responders; the treating physician should generally maximize methotrexate dosing before adding other agents. At doses greater than 15 mg weekly, methotrexate oral absorption approaches its effective limit; switching to subcutaneous administration allows for higher serum drug levels. Folic acid supplements minimize toxicity without diminishing efficacy. Of patients with RA taking methotrexate alone, 30% to 50% achieve remission or low disease activity.
 
 Sulfasalazine, leflunomide, and hydroxychloroquine also can be used as monotherapy agents in RA. Leflunomide may be useful in those who cannot tolerate methotrexate. Hydroxychloroquine is the least potent agent but can be used in very early disease when the disease activity score is low. It is also used as part of triple therapy (methotrexate, sulfasalazine, and hydroxychloroquine). Data suggest that triple therapy is comparable to methotrexate combined with a tumor necrosis factor α inhibitor, except in the area of radiographic progression.
@@ -166,14 +167,6 @@ Unlike NSAIDs, glucocorticoids may have a disease-modifying effect. A recent stu
 
 Surgical therapy has become much less common in RA with current treatment strategies. However, some patients may require a synovectomy for a single persistently swollen joint, carpal tunnel release, repair of a ruptured tendon, total joint replacement (shoulder, metacarpophalangeal joints, hip, knee, or ankle), or joint fusion for a painful damaged joint (wrist or ankle). See [MKSAP 18 General Internal Medicine](https://mksap18.acponline.org/app/topics/gm/mk18_b_gm_s17/mk18_b_gm_s17_1_2) for a discussion of perioperative RA medication management.
 
-## Key Points
-
-- In rheumatoid arthritis, treating to target of remission or low disease activity results in less radiographic damage, reduced cardiovascular risk, and increased work productivity compared with conventional care.
-- Methotrexate is the anchor drug in rheumatoid arthritis; it is used as monotherapy and as a component of combination therapy.
-- Tumor necrosis factor α inhibitors are the most frequently used biologics to treat rheumatoid arthritis; they have a relatively rapid onset of action and demonstrate synergy with methotrexate.
-- In rheumatoid arthritis, NSAIDs are not disease modifying and do not prevent joint damage; they are used primarily to control symptoms while waiting for the full effect of disease-modifying antirheumatic drugs to be realized or in patients with postinflammatory osteoarthritis.
-- Low-dose prednisone can be used in rheumatoid arthritis to rapidly improve symptoms until long-term medications become effective, or they can be used short term for disease flares.
-
 ## Pregnancy
 
-There is an increased risk for developing RA in the first year after a first pregnancy. Breastfeeding may decrease this risk. For women with established RA, two thirds will go into remission or low disease activity during pregnancy, and one third will not improve or will get worse. Medication management is a major issue, and pregnancy plans should be discussed with any woman of childbearing age who will be placed on therapy. A discussion of RA medications in pregnancy is located in [Principles of Therapeutics](https://mksap18.acponline.org/app/topics/rm/mk18_a_rm_s2/mk18_a_rm_s2_6).
+There is an increased risk for developing RA in the first year after a first pregnancy. Breastfeeding may decrease this risk. For women with established RA, two thirds will go into remission or low disease activity during pregnancy, and one third will not improve or will get worse. Medication management is a major issue, and pregnancy plans should be discussed with any woman of childbearing age who will be placed on therapy. A discussion of RA medications in pregnancy is located in [[Principles of Therapeutics]].

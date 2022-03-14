@@ -10,7 +10,6 @@ date: 2021-12-30
 
 ## Epidemiology and Pathophysiology
 
-
 Membranoproliferative glomerulonephritis (MPGN) is a rare form of chronic glomerulonephritis diagnosed primarily in children and young adults. The name stems from its pattern of glomerular injury. The entity is divided into immune-complex forms of MPGN (mediated by antigen-antibody interactions triggering the classical complement pathway) versus complement-mediated forms of MPGN (also termed C3 glomerulopathies, due to a hyperactive alternative complement pathway). An immune-complex MPGN, with or without cryoglobulinemia, is the classic form of kidney involvement seen in patients with ==hepatitis C virus infection==. The alternative complement pathway abnormalities that drive the C3 glomerulopathies are either mutations in regulators (for example, complement factor H) or activators (for example, complement factor B) of the alternative pathway, or antibodies directed at regulator or activator complement proteins.
 
 ##### Clinical Manifestations

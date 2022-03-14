@@ -1,428 +1,298 @@
 ---
-date: 2020-09-07
+date: 2022-03-14
 ---
 
 # Stroke
+
+- related: [[Medicine]]
+- tags: #neurology
 ---
-
-## typora-copy-images-to: ./images
-
-# Aphasia
-
-## Broca's
-
-<!-- Broca's aphasia aka.. -->
-
-Broca’s aphasia is an **expressive aphasia**, which is a loss of the ability to produce language.
-
-<!-- ignore.. -->
-
-Broca aphasia results from damage to Broca’s area (language motor area), which includes the following areas of the dominant hemisphere:
-
-- **Inferior frontal gyrus**
-- **Dorsolateral frontal cortex**
-- **Anterior parietal cortex**
-
-Patients with **Broca aphasia** show the following symptoms:
-
-- Nonfluent - Production of few words or difficulty producing words
-- Good comprehension
-- Loss of oral coordination
-- Possible face and arm hemiparesis (from damage to the adjacent motor cortex)
-
-## Wernicke
-
-<!-- Wernicke aphasia aka.. -->
-
-Wernicke’s aphasia is a **receptive aphasia**, which is a loss of the ability to understand language.
-
-<!-- ignore.. -->
-
-Wernicke’s aphasia results from damage to Wernicke’s area (language understanding area), which includes the following areas of the brain:
-
-- **Posterior superior temporal gyrus**
-- **Inferior parietal lobe**
-
-Patients with **Wernicke’s aphasia** show the following symptoms:
-
-- **Fluent speech**
-- **Poor comprehension**, which presents as word substitutions, meaningless words, or meaningless phrases.
-
-## Conductive
-
-<!-- conductive aphasia aka, pathogenesis, symptoms.. -->
-
-Conduction aphasia, also known as **associative aphasia**, is a **loss of the ability to tie in language production and language understanding.**
-
-Conduction aphasia is the result of damage to the **arcuate fasciculus**, which connects Broca’s and Wernicke’s areas of the brain. This includes:
-
-- **Supramarginal gyrus**
-- **Angular Gyrus**
-
-Symptoms of patients with **conduction aphasia** include:
-
-- Fluent speech
-- **Difficulty in Repetition**
-- Frequent word correction attempts
-- Word substitutions
-- Word-finding pauses
-
-## Global
-
-<!-- global aphasia pathogenesis, symptoms.. -->
-
-Global aphasia is a **complete loss of language expression, understanding, and association**.
-
-Global aphasia results from **decreased blood flow through the middle cerebral artery** (MCA), leading to massive **infarcts of the left cerebral hemisphere**, thereby damaging:
-
-- Broca’s area
-- Wernicke’s area
-- Arcuate fasciculus
-
-Symptoms of patients with global aphasia include:
-
-- **Nonfluent speech**
-- **Poor comprehension**
-- **Difficulty producing words**
-- **Limb ataxia, which is a result of damage to adjacent motor cortex**
-
-<!-- broca, wernicke, conduction, speech, comprehension, repetition, association features.. -->
-
-![](https://photos.thisispiggy.com/file/wikiFiles/L12233.jpg)
 
 # Stroke
 
-<!--  2 types of stroke.. -->
+## Definition of Stroke
 
-- 2 types of strokes in general: ischemic, hemorrhagic
+Stroke is the leading cause of serious disability among adults and the fifth leading cause of death in the United States. Its incidence increases with each decade of life. The World Health Organization defines stroke as a disease of sudden-onset focal neurologic deficits associated with dysfunction in the brain, retina, or spinal cord due to occlusion or rupture of a cerebral or spinal artery. Ischemic stroke, which results from occlusion of an artery, is the most common type of stroke and can be further subclassified on the basis of its underlying cause. Transient ischemic attack (TIA) was formerly defined as a neurologic impairment lasting less than 24 hours but now is recognized as a transient neurologic deficit without the presence of infarction on neuroimaging. Hemorrhagic strokes comprise a small proportion of all strokes but are associated with higher short-term mortality. Intracerebral hemorrhage (ICH) presents with focal neurologic deficits and may also include headache or impairment in consciousness. Subarachnoid hemorrhage (SAH) commonly presents with sudden onset severe headache and impairment in consciousness without focal neurologic deficits. Although their clinical manifestations often overlap with stroke, subdural and epidural hematomas are not considered to be strokes and are discussed in Head Injury. Determining the exact subtype of stroke a patient experiences has important implications for acute therapeutics, prevention strategies, and prognosis.
 
-![](https://photos.thisispiggy.com/file/wikiFiles/A4D8C40A-91F3-4FDA-971E-0834D5435140.jpg)
+## Key Point
 
-## Ischemic
+- Determining the exact subtype of stroke (ischemic or hemorrhagic) has important implications for acute therapeutics, prevention strategies, and prognosis.
 
-<!-- ischemic stroke pathogenesis, 3 types.. -->
+## Diagnosis of Stroke
 
-Ischemic stroke results when **blood flow to the brain is limited, resulting in decreased oxygenation of brain parenchyma.**
+#### Related Question
 
-**Ischemic stroke or cerebrovascular accident** (CVA) is the leading cause of neurologic disability and third leading cause of death.
+- Question 44
 
-\*\*Thrombosis \*\*and **emboli** are the two mechanisms by which an ischemic stroke can occur. Can also be **lacunar.**
+Stroke is a clinical diagnosis supported by neuroimaging. The clinical manifestations of stroke are highly variable. Although most strokes commonly manifest as rapid onset of specific neurologic symptoms, such as weakness, aphasia, dysphagia, and sensory changes, stroke also may present with more nonspecific symptoms, such as dizziness, altered mental status, or sudden unexplained coma. Examination will often show focal neurologic deficits. In the acute setting, rapid assessment is required to inform treatment, and validated scales, such as the National Institutes of Health Stroke Scale (NIHSS), are commonly used (**[Table 23](https://mksap18.acponline.org/app/topics/nr/tables/mk18_a_nr_t23)**). The neurologic examination, however, is not reliable enough to distinguish ischemic from hemorrhagic stroke, and neuroimaging is required before initiation of treatment. Noncontrast head CT is the most widely used test, given its rapid acquisition, low cost, wide availability, and high sensitivity for diagnosing hemorrhagic stroke (**[Figure 10](https://mksap18.acponline.org/app/topics/nr/figures/mk18_a_nr_f10)**). In ischemic stroke, the initial noncontrast head CT scan is often normal, especially in patients seen within 3 hours of symptom onset (although some patients with larger deficits can exhibit early findings) (**[Figure 11](https://mksap18.acponline.org/app/topics/nr/figures/mk18_a_nr_f11)**). Even 24 hours after onset, a noncontrast head CT scan may not show evidence of infarction, given the poor resolution of small infarcts and those located in the brainstem. CT of the head with contrast rarely is indicated in the initial evaluation of a patient with stroke. CT angiography (CTA) of the head and neck, however, may be performed acutely if endovascular therapy is considered or in otherwise unexplained acute coma to rule out basilar artery thrombosis.
 
-### Embolic
+MRI is more sensitive than CT for acute infarction, with changes on the diffusion-weighted imaging sequence apparent within minutes from onset (**[Figure 12](https://mksap18.acponline.org/app/topics/nr/figures/mk18_a_nr_f12)**). The advantages of MRI include the ability to visualize small strokes, multifocal or bilateral infarcts that may suggest an embolic cause, and the presence of microbleeding. MRI, however, is never the initial test of choice in acute suspected stroke because of its longer acquisition time; if indicated, it is obtained after the initial noncontrast head CT.
 
-<!-- ignore.. -->
+Among patients with ICH seen on a noncontrast head CT scan, MRI or CTA is considered if clinical factors are present that raise the suspicion of a cause of hemorrhage other than hypertension or amyloid angiopathy, such as arteriovenous malformation. Likewise, if a patient has symptoms suggestive of SAH and noncontrast head CT findings are normal, lumbar puncture is required to evaluate for the presence of blood or xanthochromia (yellow color stemming from erythrocyte breakdown). If SAH is confirmed, catheter-based angiography is required to diagnose, and potentially treat, a cerebral aneurysm.
 
-Embolic stroke is the most common etiology of CVA, most commonly originating from:
+Results of the physical and neurologic examination most likely will suggest the cause of ischemic stroke, such as the presence of atrial fibrillation or a carotid bruit. Further evaluation with cardiac testing or vessel imaging is required to confirm these causes.
 
-- **Heart**
-- **Internal carotid artery**
-- **Aorta**
-- \*\*Emboli that arise from blood clots in the peripheral veins.\*\*These patients will also likely have a patent foramen ovale.
+## Key Points
 
-### Thrombotic
+- Neuroimaging, preferably noncontrast head CT, is required before initiating treatment for stroke.
+- Although MRI is more sensitive than CT for diagnosing acute infarction, it is not the initial test of choice to exclude hemorrhagic stroke or to make treatment decisions about thrombolysis for ischemic stroke because of its longer acquisition time.
 
-Thrombotic strokes occur due to **atherosclerotic lesions** within the carotid artery or the arteries of the brain.
+## Stroke Subtypes
 
-### Lacunar
+### Transient Ischemic Attack
 
-Another form of ischemic stroke is a Lacunar stroke. Lacunar stroke is a **small vessel thrombotic disease with narrowing of the arterial lumen due to thickening of the vessel wall.**
+#### Related Question
 
-Lacunar strokes are the cause of **20%** of all strokes.
+- Question 20
 
-Lacunar infarcts affect the **subcortical structures** supplied by small branches of the Middle Cerebral Artery (MCA), circle of Willis, basilar and vertebral arteries.
+TIA is characterized by a temporary focal neurologic deficit with an absence of infarction on neurologic imaging. Similar to those of acute ischemic stroke, symptoms of TIA include hemiparesis, mono-ocular or visual field loss, dysarthria, aphasia, and sensory loss. The presence of paresthesia, isolated dizziness or vertigo, or memory loss is more consistent with migraine or seizure. Patients with TIA are at high risk of stroke within the first 48 hours after symptom onset and should be evaluated promptly.
 
-Patients who have lacunar strokes typically have a **history of hypertension**.
+Several post-TIA stroke prediction scoring systems have been developed, with the most widely used being the ABCD2 score, which is based on Age, Blood pressure, Clinical presentation, Duration of symptoms, and the presence of Diabetes mellitus (**[Table 24](https://mksap18.acponline.org/app/topics/nr/tables/mk18_a_nr_t24)**). TIA scoring systems, however, do not identify with sufficient sensitivity the highest-risk patients for whom treatment can ameliorate the risk of stroke. Patients with high-grade extracranial internal carotid artery (ICA) stenosis who have a TIA in a downstream neurologic territory have the greatest short-term risk of stroke. This risk is highest within 2 weeks of TIA for those with greater than 70% stenosis, although 50% to 70% stenosis also carries significant associated risk. In the long term, the risk of stroke is high among patients with atrial fibrillation or other cardioembolic sources requiring anticoagulation.
 
-### Risks
+Expedited vascular imaging of the ICA and cardiac evaluation for atrial fibrillation are required for all patients with TIA. The initial test of choice for evaluating ICA stenosis is duplex ultrasonography because of its wide availability, low cost, and low risk; if high-grade ICA stenosis is detected and the patient is a candidate for surgery or stenting, confirmatory testing is required before intervention. Cardiac evaluation should include electrocardiography for atrial fibrillation, which may be followed by longer-term monitoring. Echocardiography is performed if there is a clinical suspicion of a cardioembolic source or structural heart disease.
 
-<!-- ischemic stroke risk factors, comorbidities.. -->
+## Key Points
 
-Risk Factors for ischemic stroke include both lifestyle risk factors and comorbidities of the patient.
+- Patients with a greater than 70% extracranial stenosis of the internal carotid artery who have a transient ischemic attack in a downstream neurologic territory have the highest risk of stroke within 2 weeks.
+- Expedited vascular imaging of the internal carotid artery and cardiac evaluation for atrial fibrillation are required for all patients with transient ischemic attack.
 
-Life style risk factors:
+### Ischemic Stroke
 
-- **Smoking**
-- **Diet**
-- **Vasoconstrictive drug use**
-- **Oral contraceptive use**
+#### Large Artery Atherosclerosis
 
-Comorbidities associated with stroke:
+The main mechanism of stroke due to large-artery atherosclerosis is plaque rupture with artery-to-artery embolism. The extracranial carotid artery is frequently involved; the intracranial arteries most commonly affected are the intracranial ICA, middle cerebral arteries, vertebral-basilar arterial junction, and midbasilar artery. Patients with stenoses of the extracranial ICA and the intracranial arteries are at high short-term risk for recurrent stroke and require prompt evaluation. As with TIAs, the extracranial carotid arteries are best evaluated with duplex ultrasonography. Magnetic resonance angiography (MRA) and CTA are both appropriate confirmatory tests after ultrasonography to inform intervention or if duplex examination is not available (**[Figure 13](https://mksap18.acponline.org/app/topics/nr/figures/mk18_a_nr_f13)**). Transcranial Doppler ultrasonography may help diagnose large-vessel intracranial atherosclerosis, although MRA and CTA are more sensitive tests and can help confirm the diagnosis. Catheter-based angiography is rarely used to diagnose either extracranial or intracranial vessel disease and is associated with a small risk of stroke.
 
-- **Previous stroke or family history of stroke**
-- **Hypercoagulability**
-- **Hypertension**
-- \*\*Diabetes \*\*
-- **Atrial Fibrillation**
+#### Cardioembolic Stroke
 
-\###Symptoms
+A cardioembolic cause is suggested by clinical and radiologic factors, including infarcts that occur in multiple arterial territories or are located near the cortical surface of the brain with normal arterial imaging. Atrial fibrillation is the most common cardioembolic cause of stroke. Other potential cardioembolic sources include new ventricular thrombus after myocardial infarction and severe valvular disease (for example, rheumatic disease, infective endocarditis, and bioprosthetic and mechanical heart valves).
 
-<!-- embolic vs thrombotic symptoms.. -->
+Radiographic findings suggestive of a cardioembolic source, however, are insufficient grounds for initiating anticoagulation. Patients admitted to the hospital with ischemic stroke should have telemetry monitoring to assess for atrial fibrillation. Similarly, when a clinical suspicion of structural heart disease or embolic stroke exists, transthoracic echocardiography is indicated to evaluate for a cardiac source that may require anticoagulation. Echocardiography also may reveal other findings suggesting the cause of stroke, such as a reduced ejection fraction or patent foramen ovale (PFO), although anticoagulation is not routinely indicated for patients with these conditions. The use of transesophageal echocardiography to evaluate for an intracardiac source of stroke is not routinely indicated, given the low yield for findings that require anticoagulation or surgery. In younger patients without stroke risk factors or in whom suspicion of endocarditis or an intracardiac tumor (such as myxoma or fibroelastoma) exists, transesophageal echocardiography may be considered on a case-by-case basis. For further details on anticoagulation criteria, see [MKSAP 18 Cardiovascular Medicine](https://mksap18.acponline.org/app/topics/cv/mk18_a_cv_s5/mk18_a_cv_s5_5_3_1).
 
-Clinical features of CVA depend on the **type of ischemic stroke** and the **location of the occlusion**.
+#### Small Subcortical Infarcts (Lacunar Infarcts)
 
-Embolic strokes are **very rapid in onset** and **present with maximal deficits.**
+Lacunar infarcts commonly lead to isolated motor or sensory syndromes; they rarely affect cognition or mental status. These infarcts (which are < 1.5 cm in diameter) involve the deep white matter, basal ganglia, or brainstem. Pathologically, these infarcts are due to occlusion of small penetrating arteries arising from ICAs (most commonly the middle cerebral and basilar arteries). The main risk factor is hypertension, which leads to local damage at the level of the penetrating artery with subsequent occlusion. Other stroke sources include artery-to-artery embolic thrombi from more proximal sources. Patients with lacunar infarcts still require vessel imaging of the extracranial ICAs to inform secondary prevention.
 
-Thrombotic strokes can be **rapid or stepwise** in onset and the **patient typically awakens from sleep with the deficits**.
+#### Cryptogenic Causes of Stroke
 
-Complications of ischemic stroke include:
+#### Related Question
 
-- **Progression of the neurologic deficits**
-- **Cerebral edema leading to mass effects**
-- **Hemorrhage**
-- **Seizures**
+- Question 9
 
-<!-- ACA, MCA, PCA, vertebrobasilar, lacunar strokes symptoms.. -->
+In many patients with ischemic stroke, a clear cause is not apparent: there is no lacunar infarct, arterial imaging is normal, and no clear cardioembolic source of stroke (such as atrial fibrillation) is found. When this occurs, the patient's clinical syndrome, underlying medical comorbidities, and neuroimaging characteristics can inform which additional diagnostic testing should be considered.
 
-Strokes that occur in the **anterior cerebral artery (ACA)** present with contralateral lower extremity motor and sensory deficiencies.
+In a younger patient without risk factors for cardiovascular disease, an evaluation for autoimmune and hypercoagulable disorders should be considered, particularly with nonneurologic systemic findings. Hypercoagulable disorders, PFO, and other rare cardioembolic causes may present with an infarct pattern similar to that of atrial fibrillation. A PFO with a right-to-left shunt (diagnosed with a bubble study on transthoracic echocardiography) may explain stroke in a younger patient but is associated with a low risk of recurrent stroke. For further information, including recent recommendations regarding percutaneous PFO closure to prevent a secondary stroke, see [MKSAP 18 Cardiovascular Medicine](https://mksap18.acponline.org/app/topics/cv/mk18_a_cv_s9/mk18_a_cv_s9_2). Cerebral vasculitis is an extremely rare cause of stroke and presents with numerous infarcts affecting multiple arterial distributions.
 
-Strokes that occur in the **middle cerebral artery** present with contralateral hemiparesis (if proximal to small branch), hemisensory loss, aphasia, and apraxia. Symptoms are more common in the upper extremities than the lower extremities.
+Many patients with cryptogenic stroke may have undiagnosed paroxysmal atrial fibrillation. Neuroimaging findings are similar to those of atrial fibrillation without abnormalities on telemetry or electrocardiography. Prolonged cardiac monitoring with either surface electrodes or an implantable monitor can reveal paroxysmal atrial fibrillation in approximately one third of these patients. In patients with an implantable pacemaker, interrogation of the device may also reveal episodes consistent with atrial fibrillation. The benefit of anticoagulation for stroke prevention if atrial fibrillation is not found on monitoring is unclear.
 
-Strokes that occur in the posterior cerebral artery (PCA) most commonly present with **hemianopia**. In addition, infarction of the left PCA may present with:
+## Key Points
 
-- **Alexia without agraphia**: can write, can't read
-- **Anomic aphasia**: word finding difficulty
-- **Gerstmann syndrome**: agraphia, acalculia, finger agnosia
+- Carotid and transcranial Doppler ultrasonography may help diagnose large vessel atherosclerosis in a patient with ischemic stroke, although magnetic resonance angiography and CT angiography may provide additional information; catheter-based angiography is rarely used to diagnose either extracranial or intracranial vessel disease and is associated with a small risk of stroke.
+- Atrial fibrillation is the most common cardioembolic cause of stroke, and anticoagulation is indicated; radiographic findings suggestive of a cardioembolic source, however, are insufficient grounds for initiating anticoagulation.
+- The use of transesophageal echocardiography to evaluate for an intracardiac source of stroke is not routinely indicated, given the low yield for findings that require anticoagulation or surgery.
+- Lacunar (or small subcortical) infarcts resulting in isolated motor or sensory syndromes are caused by occlusion of the small penetrating arteries arising from intracranial arteries; the main risk factor for lacunar infarcts is hypertension.
+- Many patients with cryptogenic stroke may have undiagnosed paroxysmal atrial fibrillation, and prolonged cardiac monitoring should be considered.
 
-And infarction of the right PCA may present with:
+### Hemorrhagic Stroke
 
-- **Prosopagnosia**: can't recognize face
-- **Spatial disorientation**
-- **Visual neglect**
+#### Subarachnoid Hemorrhage
 
-Strokes that occur within the **vertebral or basilar arteries** present with:
+Examination findings suggestive of SAH include altered mental status, nuchal rigidity, pupillary dilation from compression of the oculomotor nerve (cranial nerve III) by a posterior communicating artery aneurysm, or subhyaloid hemorrhages on funduscopy. The most common cause of subarachnoid hemorrhage is saccular (berry) aneurysm rupture, with intracranial arterial dissection and mycotic aneurysm rupture occurring less commonly. Other rare causes of SAH are the reversible cerebral vasoconstriction syndromes, dural sinus thrombosis, vascular malformations, and cerebral amyloid angiopathy. Saccular aneurysms often can be visualized with CTA or MRA, although the resolution is not sufficient to detect smaller aneurysms; catheter-based angiography is necessary for the definitive diagnosis of aneurysms and other causes of SAH.
 
-- Ipsilateral ataxia
-- Ipsilateral diplopia
-- Ipsilateral dysphagia
-- Ipsilateral dysarthria
-- Vertigo
+Elevated intracranial pressure from obstructive hydrocephalus and/or global cerebral edema is a common consequence of SAH. Examination findings that raise concern for elevated intracranial pressure include impairment in consciousness, loss of brainstem reflexes, and stereotyped posturing movements to painful stimuli. The presence of hydrocephalus on neuroimaging is associated with high mortality and should prompt neurosurgical placement of an external ventricular drain to relieve (and measure) elevated intracranial pressure. Impaired consciousness due to nonconvulsive status epilepticus also may occur and requires electroencephalographic monitoring for diagnosis.
 
-Lacunar strokes typically present as **pure motor or pure sensory deficits.**
+#### Intracerebral Hemorrhage
 
-### Management
+ICH can present similarly to ischemic stroke, with headache and impaired consciousness as distinguishing characteristics. The most common cause of ICH that affects deep structures of the brain (thalamus, basal ganglia, pons, cerebellum) is hypertension. Lobar hemorrhages near the cortical surface may have various causes, including hypertension, hemorrhagic tumors, and cortical vein thrombosis. In patients older than 55 years, especially in those without hypertension, lobar ICH may be due to cerebral amyloid angiopathy. In this syndrome, amyloid protein similar to that seen pathologically in Alzheimer disease deposits in cerebral arterioles near the cortical surface, thereby weakening the arterial wall and making it prone to rupture.
 
-<!-- ischemic stroke diagnosis and management.. -->
+The mainstay of acute treatment and prevention is control of blood pressure. Clinical and radiologic features can be used to calculate a patient's ICH score, which informs 30-day mortality and is recommended in the assessment of patients with ICH (**[Table 25](https://mksap18.acponline.org/app/topics/nr/tables/mk18_a_nr_t25)**). The main cause of early neurologic deterioration is hematoma expansion. Another leading cause of death is early withdrawal of care. Guidelines caution against termination of care within the first 48 hours.
 
-Careful observation for stroke progression and cerebral edema in patients with acute stroke is indicated for **24-36 hours.** Patients should be monitored on a **telemetry floor**, and neurologic checks should be performed every 4 hours.
+## Key Points
 
-When diagnosing a CVA, a **noncontrast CT** scan is the **first line imaging** test to be ordered.
+- Catheter-based angiography is necessary for the definitive diagnosis of aneurysms and other causes of subarachnoid hemorrhage.
+- In subarachnoid hemorrhage, the presence of hydrocephalus on neuroimaging is associated with high mortality and should prompt neurosurgical placement of an external ventricular drain to relieve elevated intracranial pressure.
+- The most common cause of intracerebral hemorrhage that affects deep structures of the brain (thalamus, basal ganglia, pons, cerebellum) is hypertension; the mainstay of prevention is control of blood pressure.
 
-**An infarct will not appear on CT scan for 24-48 hours**, but this test is important to rule out intracranial hemorrhage and to identify patients who will benefit from thrombolytic therapy.
+### In-Hospital Stroke Considerations
 
-**MRI** of the brain is the **most sensitive** test to identify all early ischemic changes but is time consuming and should not be used in the acute setting.
+In-hospital stroke is most often ischemic and frequently observed perioperatively. Patients undergoing cardiac surgery involving cardiopulmonary bypass, particularly multivalve procedures, are at highest risk for stroke in the postoperative setting. The most common cause is atrial fibrillation.
 
-Other important tests include
+The modifiable preoperative risk factors for in-hospital stroke are similar to those causing stroke in the short term without surgery, including symptomatic extracranial ICA stenosis of greater than 70%. Patients with a recent stroke secondary to ICA stenosis who are undergoing nonemergent surgery are likely to benefit from revascularization beforehand. The presence of asymptomatic ICA stenosis, however, is not clearly associated with perioperative stroke, and routine prophylactic ICA revascularization is not indicated.
 
-- **Labs** to assess CBC, cardiac enzymes, electrolytes, BUN, creatinine, lipid profile, PTT, PT and INR.
-- **Carotid duplex** to assess for stenosis
-- **ECG and echocardiogram** to assess for atrial fibrillation or acute MI that may be a source of emboli
-- **Magnetic Resonance Arteriogram (MRA)** to identify stenosis of vessels within the head and neck.
-- **Assessment of hypercoagulable states** in those with a history of thombotic events
+Stroke within 30 days of surgery, regardless of cause, increases the risk of perioperative stroke; elective surgeries within this time period should be avoided. Patients with stroke involving a large brain volume or with a recent hemorrhagic stroke also are at risk of cerebral hemorrhage if placed on cardiopulmonary bypass and/or anticoagulation. If possible, nonemergency major cardiac procedures should be avoided.
 
-Treatment of ischemic stroke typically includes the use of intravenous recombinant **tissue plasminogen activator** (tPA, also called **alteplase**) if the drug can be administered **within 3-4.5 hours** of the onset of symptoms, and there are no contraindications to its use.
+## Key Points
 
-Exclusion criteria for tPA include
+- Patients undergoing cardiac surgery involving cardiopulmonary bypass, particularly multivalve procedures, are at highest risk for stroke in the postoperative setting, most commonly from atrial fibrillation.
+- Stroke within 30 days of surgery, regardless of cause, increases the risk of perioperative stroke, and elective surgeries within this time period should be avoided.
 
-- **Significant head trauma or intracranial surgery**
-- **Previous intracranial hemorrhage**
-- **Intracranial neoplasm or arterial malformation**
-- **Current anticoagulant use**
-- **Platelet count less than 100,000**
-- **Uncontrolled hypertension**
-- **Age >80**
-- **Do not give tPA if the time of the stroke is unknown**
+## Acute Stroke Therapy
 
-If the patient cannot receive tPA, **aspirin (160-325 mg/day) is best given within 24 hours**. If a patient cannot take aspirin, clopidogrel should be used.
+### Ischemic Stroke Treatment
 
-If the patient has received tPA, **wait 24 hours** before beginning an aspirin regimen.
+#### Thrombolysis and Endovascular Therapy
 
-In an ischemic stroke patient, it is important to allow for **permissive hypertension**. The increased blood pressure will help maintain perfusion of the ischemic tissue. However, if the patient has systolic BP >220 mmHg or diastolic >120 mmHg they should be treated with IV labetalol or nicardipine.
+#### Related Questions
 
-Carotid endarterectomy is indicated in **symptomatic patients with ≥70% carotid artery stenosis** or **asymptomatic patients with ≥80% stenosis**.
+- Question 68
+- Question 91
 
-Other long term preventative measures for future ischemic stroke include:
+Intravenous recombinant tissue plasminogen activator (alteplase) is the only thrombolytic agent approved for use in acute ischemic stroke. Alteplase is most effective when administered early, and treatment within 3 hours of ischemic stroke onset with disabling symptoms is associated with a significant reduction in disability at 3 months. In patients with acute ischemic stroke who awake with stroke symptoms or have unclear time of onset > 4.5 hours from baseline state, MRI to identify diffusion-positive FLAIR-negative lesions can be useful for selecting those who can benefit from IV alteplase administration within 4.5 hours of stroke symptom recognition. Because of the associated delays, obtaining advanced imaging or laboratory values should be avoided before treatment unless coagulopathy or thrombocytopenia is suspected. Treatment should start within 60 minutes of arrival at the emergency department or detection of in-hospital stroke, with best practices recommending treatment within 45 minutes. Contraindications for treatment with alteplase have evolved over the years, with the latest guidelines clarifying relative exclusion criteria and defining nondisabling symptoms (**[Table 26](https://mksap18.acponline.org/app/topics/nr/tables/mk18_a_nr_t26)**).
 
-- Aspirin or clopidogrel use if stroke is secondary to small vessel disease or thrombosis
-- Anticoagulation in patients with atrial fibrillation or hypercoagulable disorders
-- Management of comorbidities (e.g. hypercholesterolemia, diabetes, hypertension)
+The main complication of alteplase treatment is symptomatic ICH, which can present with headache or worsening of NIHSS score or level of consciousness. Symptomatic hemorrhage occurs in up to 6% of treated patients, and mortality can be as high as 50% when present. The main risk factors for symptomatic hemorrhage are treatment after 4.5 hours and hypertension before and after treatment. Accordingly, before treatment with alteplase, the patient's blood pressure should be less than 185/110 mm Hg. Higher readings should prompt administration of intravenous labetalol or nicardipine before alteplase. Nitrates should be avoided because of their potential to increase intracranial pressure.
 
-## Parenchymal Hemorrhage
+After treatment with alteplase, frequent monitoring of neurologic status and vital signs is required in the first 24 hours. Neurologic worsening should prompt urgent neuroimaging. Blood pressure should be maintained below 180/105 mm Hg, and both antiplatelet and anticoagulant agents should be held for the first 24 hours after alteplase administration. After 24 hours, antiplatelet agents for stroke prevention and anticoagulant agents for deep venous thrombosis prevention can be started if hemorrhage is absent on imaging.
 
-### Pathogenesis
+Endovascular therapy (primarily with intra-arterial mechanical thrombectomy) within 24 hours of stroke onset can be considered for select patients with a clinically suspected large-vessel occlusion and specific examination and radiologic findings, such as a measurable neurologic deficit and small but radiographically evident ischemic changes. In patients for whom endovascular therapy is considered, prompt noninvasive vessel imaging with CTA or MRA is recommended. The evaluation for endovascular stroke therapy with vessel imaging, however, should not replace or delay the administration of alteplase in otherwise eligible patients. A treatment algorithm for stroke within 6 hours of onset is provided in **[Figure 14](https://mksap18.acponline.org/app/topics/nr/figures/mk18_a_nr_f14)**.
 
-<!-- intracerebral hemorrhage aka, pathogenesis, causes in different populations.. -->
+#### Antiplatelet Therapy, Anticoagulation, and Medical Management
 
-Parenchymal hemorrhage, also known as intracerebral hemorrhage, is **bleeding within the brain tissue**.
+#### Related Question
 
-Parenchymal hemorrhage has multiple mechanisms that lead to brain injury, including:
+- Question 72
 
-- **Direct injury** due to an expanding blood clot
-- **Mass effect** leading to increased intracranial pressure
-- **Ischemic injury**
+For the many patients with acute ischemic stroke who are not eligible for thrombolysis or endovascular stroke therapy, antiplatelet therapy is the mainstay of acute treatment. When administered either orally or rectally within 48 hours of stoke, aspirin reduces the short-term risk of recurrent stroke, and its use in the acute setting is a stroke-specific quality-of-care core measure. Monotherapy with clopidogrel, however, has no established benefit in the acute stroke setting.
 
-**Parenchymal hemorrhage** is the second most common cause of stroke, second only to ischemic stroke in frequency.
+The patient with TIA or minor stroke, usually defined as an NIHSS score of 5 or less, has been the focus of recent trials of antiplatelet therapy because of the high short-term risk of recurrent events. In one recent trial, aspirin was compared to ticagrelor within 24 hours of stroke onset, and no difference between the two medications in the risk of recurrent stroke during 90 days of treatment was noted. In patients presenting with minor noncardioembolic ischemic stroke (NIHSS score ≤3) who did not receive intravenous alteplase, treatment with dual antiplatelet therapy (aspirin and clopidogrel) started within 24 hours after symptom onset and continued for 21 days is effective in reducing recurrent ischemic stroke for a period of up to 90 days from symptom onset.
 
-**Small vessel vasculopathy secondary to chronic hypertension** is the most common cause of parenchymal hemorrhage.  The underlying pathology is a combination of **microatheroma** formation and **lipohyalinosis** that ultimately leads to thrombotic small-vessel occlusion.
+Acute administration of anticoagulation in ischemic strokes (whether related to atrial fibrillation or not) does not reduce the short-term risk of recurrent stroke and increases the risk of hemorrhage into the territory of cerebral infarction (hemorrhagic conversion).
 
-**Cerebral amyloid angiopathy** is the most common cause of nontraumatic **lobar** parenchymal hemorrhage in elderly patients.
+Management of acute hypertension in ischemic stroke differs when thrombolysis is not involved. Early treatment of hypertension is indicated when required by comorbid conditions (such as concomitant acute coronary event, acute heart failure, aortic dissection, postfibrinolysis intracranial hemorrhage, or preeclampsia/eclampsia). In patients with blood pressure 220/120 mm Hg or greater who did not receive intravenous alteplase or mechanical thrombectomy and have no comorbid conditions requiring urgent antihypertensive treatment, the benefit of initiating or reinitiating treatment of hypertension within the first 48 to 72 hours is uncertain. It might be reasonable to lower blood pressure by 15% during the first 24 hours after onset of stroke. Statins have not been shown to reduce the risk of recurrent stroke when administered within 30 days but can be considered after a dysphagia evaluation has been completed, especially in those patients with an atherosclerotic stroke subtype. See [MKSAP 18 General Internal Medicine](https://mksap18.acponline.org/app/topics/gm/mk18_b_gm_s9/mk18_b_gm_s9_2_2).
 
-**Intracranial vascular anomalies** (e.g. **arteriovenous malformations**) are the most common cause of parenchymal hemorrhage in children.
+Hyperglycemia in the setting of an acute ischemic stroke is a common clinical problem. A recent randomized clinical trial notes the lack of benefit and increased harm associated with intensive treatment of hyperglycemia in acute ischemic stroke (see [MKSAP 18 Endocrinology and Metabolism](https://mksap18.acponline.org/app/topics/en/mk18_b_en_s1/mk18_b_en_s1_1_4)).
 
-<!-- children IVH risks.. -->
+A 2018 systematic review found that supplemental oxygen in patients with normal oxygen saturation as measured by pulse oximetry (SpO2) increases mortality in patients with stroke and other acute illnesses (see [MKSAP 18 Pulmonary and Critical Care Medicine](https://mksap18.acponline.org/app/topics/pm/mk18_b_pm_s11/mk18_b_pm_s11_1)). An international guideline makes a strong recommendation that oxygen therapy not be initiated in patients with stroke and an SpO2 of 93% or greater and a weak recommendation that oxygen therapy be withheld in patients with stroke and an SpO2 of 90% or greater; in patients receiving oxygen therapy, the SpO2 should be maintained at less than 96% (with a suggested therapeutic range for SpO2 of 93% to less than 96%). The American Heart Association/American Stroke Association (2018 guideline) recommends oxygen to maintain an oxygen saturation of 94% or greater, with no upper limit provided, and the European Academy of Neurology recommends oxygen to maintain normoxia in patients with an arterial oxygen saturation (SaO2) less than 95%, with no upper limit provided.
 
-Exposure to vascular perfusion injuries have also been associated with IVH.  Examples of such events are: (1) hypoxic or ischemic episodes, (2) hypotension, (3) reperfusion of damaged vessels, (4) increased venous pressure, and (5) abrupt changes in cerebral flow.
+## Key Points
 
-<!-- ICH locations in HTN vs amyloid.. -->
+- Treatment with intravenous recombinant tissue plasminogen activator (alteplase) within 3 hours of ischemic stroke onset is associated with a significant reduction in disability at 3 months after stroke; in patients with acute ischemic stroke who awake with stroke symptoms or have unclear time of onset more than 4.5 hours from baseline state, MRI to identify diffusion-positive FLAIR-negative lesions can be useful for selecting those who can benefit from intravenous alteplase administration within 4.5 hours of stroke symptom recognition.
+- Endovascular therapy within 24 hours of stroke onset can be considered for select patients with a clinically suspected large-vessel occlusion and specific examination and radiologic findings, such as a measurable neurologic deficit and small but radiographically evident ischemic changes.
+- When administered within 48 hours of ischemic stroke that is not eligible for thrombolysis, aspirin reduces the short-term risk of recurrent stroke; its use in the acute setting is a stroke-specific quality-of-care core measure.
+- Acute administration of anticoagulation for ischemic stroke (whether related to atrial fibrillation or not) does not reduce the short-term risk of recurrent stroke and increases the risk of hemorrhage into the territory of cerebral infarction (hemorrhagic conversion).
 
-Parenchymal hemorrhages due to _hypertension_ most commonly occur in the **basal ganglia** (especially the **putamen**), **thalamus**, and **pons**.
+### Hemorrhagic Stroke Treatment
 
-In contrast, parenchymal hemorrhages due to _cerebral amyloid angiopathy_ most commonly occur in the **parietal** and **occipital lobes**.
+#### Intracerebral Hemorrhage Treatment
 
-### Symptoms
+#### Related Question
 
-<!-- intracerebral hemorrhage symptoms, vs subarachnoid.. -->
+- Question 50
 
-Patients with **parenchymal hemorrhage** present with focal neurologic symptoms (e.g. hemiplegia, homonymous hemianopsia) that are followed by manifestations of increased intracranial pressure (e.g. headache, vomiting). These manifestations intensify _gradually_ over time.
+Treatment of acute ICH is centered on preventing hematoma expansion. The primary predictor of early hematoma expansion is elevated blood pressure. Treatment of blood pressure is recommended for patients with ICH who have a systolic blood pressure greater than 180 mm Hg, although the most appropriate agent for the blood pressure control in this circumstance is not well established. Parenteral medications delivered by intravenous infusion with frequent blood pressure monitoring have the benefit of close titration to the intended target. Intravenous nitrates (such as nitroglycerin) and nitroprusside may raise intracranial pressure and reduce blood flow to the ischemic region and should be avoided in patients with ICH. Guidelines for the treatment of ICH indicate that acutely treating the systolic blood pressure in a specialized intensive care unit until it is 140 mm Hg is reasonable if the presenting systolic pressure is 150 to 220 mm Hg.
 
-In contrast, patients with subarachnoid hemorrhage present _abruptly_ with an _intense_ headache _without_ focal neurologic symptoms.
+A recently completed trial compared a goal systolic blood pressure of 110 to 140 mm Hg with one of 140 to 180 mm Hg in patients with a systolic blood pressure of greater than 180 mm Hg who were seen within 4.5 hours of ICH onset. The more intensive control arm achieved a mean systolic blood pressure of 128 mm Hg versus 141 mm Hg in the usual care arm. No difference in mortality or neurologic outcomes was seen, but a significantly higher rate of adverse renal events occurred with intensive control. Treating systolic blood pressure if greater than 180 mm Hg is still advised but should be performed cautiously, and systolic blood pressure goals of less 140 mm Hg should be avoided.
 
-**Seizures** can occur in the days following a parenchymal hemorrhage; this is especially common in patients with superficial (e.g. lobar) hemorrhages.
+Another risk factor for hematoma expansion is coagulopathy due to either antiplatelet agent use or anticoagulation. The use of platelet transfusion has been specifically studied in ICH in the setting of antiplatelet agent use, and no clinical benefit has been shown. Guidelines advise against its routine use. Anticoagulation should be reversed, although this incurs an increased risk of thrombotic events. For patients without coagulopathy, recombinant factor VII has no neurologic benefit and is associated with high rates of venous thromboembolic events.
 
-<!-- basal ganglia, cerebellar, thalamus, cerebral lobe, pons hemorrhage symptoms.. -->
+Another source of neurologic decline in patients with ICH is nonconvulsive status epilepticus, which may present with impaired consciousness. Use of prophylactic antiepileptic medications in patients with ICH is not recommended, however, unless there are definitive clinical or electroencephalographic seizures.
 
-![](https://photos.thisispiggy.com/file/wikiFiles/L8773.jpg)
+Elevated intracranial pressure is a major determinant of morbidity and mortality in ICH. Osmotherapy with mannitol or hypertonic saline may temporarily reduce intracranial pressure in ICH; glucocorticoids are ineffective in reducing cerebral edema in ICH and should not be routinely administered. External ventricular drainage is indicated with hydrocephalus and impaired consciousness; other surgical measures are not routinely indicated unless as life-saving measures in rapidly deteriorating patients. Cerebellar hemorrhages greater than 3 centimeters in diameter are the exception because early surgical evacuation is necessary to prevent hydrocephalus, brainstem compression, and neurologic deterioration.
 
-### Cerebellar Symptoms
+## Key Points
 
-<!-- cerebellar IPH symptoms.. -->
+- Treatment of blood pressure is recommended for patients with intracerebral hemorrhage whose systolic blood pressure is greater than 180 mm Hg; intravenous nitrates should be avoided.
+- Routine use of platelet transfusion in patients with intracerebral hemorrhage who are being treated with antiplatelet agents is not indicated.
+- Osmotherapy with mannitol or hypertonic saline may temporarily reduce intracranial pressure in patients with intracerebral hemorrhage; glucocorticoids are ineffective and should not be routinely administered.
+- In patients with intracerebral hemorrhage, early surgical evacuation of cerebellar hemorrhages greater than 3 cm in diameter is necessary to prevent hydrocephalus, brainstem compression, and neurologic deterioration.
 
-Typical features of cerebellar hemorrhage include **occipital headache** (may radiate to neck/shoulders), **neck stiffness** (due to extension of blood into the 4th ventricle), nausea/vomiting, and nystagmus.  Patients may also have **ipsilateral hemiataxia** of the trunk (cerebellar vermis) and/or limbs (cerebellar hemispheres) as the corticopontocerebellar fibers decussate twice.  Hemiparesis and sensory loss are usually absent, but extension of the bleed to the brainstem can cause cranial neuropathies (eg, **ipsilateral facial nerve palsy**).  Further hematoma expansion may lead to brainstem compression resulting in stupor, coma, and ultimately death.  Early diagnosis with **noncontrast head CT scan** is crucial as emergency decompression may be life-saving, especially if the hemorrhage is >3 cm.
+#### Subarachnoid Hemorrhage Treatment
 
-### Diagnosis and Management
+#### Related Question
 
-<!-- ICH diagnosis and management.. -->
+- Question 62
 
-**Noncontrast head CT scan** is most widely used to diagnose parenchymal hemorrhage.
+Treatment of SAH focuses on prevention of early (≤48 hours) and late neurologic complications. Within the first 48 hours, a major cause of morbidity is aneurysmal rebleeding; early surgical exclusion of the ruptured aneurysm and maintenance of a blood pressure of less than 140/80 mm Hg is required. Elevated intracranial pressure from obstructive hydrocephalus, cerebral edema, seizures, and cerebral vasospasm are other leading causes of poor outcomes.
 
-**Magnetic resonance angiography** or **CT angiography** can be used to localize the site of bleeding.
+Cerebral vasospasm with resultant cerebral ischemia and neurologic worsening may develop beginning near day 5. The degree of hemorrhage on a head CT may predict the risk of vasospasm, but frequent monitoring and daily transcranial Doppler imaging is recommended in all patients. Nimodipine should be started as early as possible to improve neurologic outcomes. The drug is continued for 21 days or until hospital discharge. If there is a high clinical suspicion of vasospasm, CTA or catheter-based angiography may be needed to establish vasospasm as the cause of neurologic worsening. The latter has the added benefit of potential endovascular treatment, including use of intra-arterial vasodilators and angioplasty. Another treatment option for vasospasm in patients with a treated aneurysm is induced hypertension, although the exact treatment targets are not well established.
 
-MRI may be more useful in diagnosing **micro hemorrhages** within the brain parenchyma.
+Medical complications are a significant source of morbidity and mortality in patients with SAH. Patients with impaired consciousness and coma at presentation are at highest risk for stunned myocardium (with a decrease in left ventricular ejection fraction) and pulmonary edema due to the large sympathetic surge in SAH. Other medical complications include pulmonary and urinary tract infections, dysphagia, the syndrome of inappropriate antidiuretic hormone secretion, and cerebral salt wasting. Because of these possible medical and neurologic complications, patients with SAH require care in a specialized ICU with experience in treating SAH.
 
-Treatment of parenchymal hemorrhage is supportive care. Focus is made on:
+## Key Points
 
-- **Maintaining normal intracranial pressure**
-- **Maintaining normal blood pressure**
-- **Using anticonvulsants to control seizure activity**
-- **Surgical decompression for large hemorrhages**
+- Within the first 48 hours of a subarachnoid hemorrhage, aneurysmal rebleeding is a major cause of morbidity; early surgical exclusion of the ruptured aneurysm and maintaining a blood pressure of less than 140/80 mm Hg is required.
+- In aneurysmal subarachnoid hemorrhage, cerebral vasospasm with resultant cerebral ischemia and neurologic worsening may develop beginning near day 5, and all patients should be treated with nimodipine to prevent poor neurological outcomes.
 
-Surgical repair of any **arteriovenous malformations or aneurysms** may be required.
+## Stroke Prevention
 
-## Subarachnoid Hemorrhage
+### Primary Prevention
 
-<!-- subarachnoid hemorrhage pathogenesis, causes, risk factors.. -->
+#### Related Questions
 
-**Subarachnoid Hemorrhage** is a **brain bleed that occurs below the arachnoid layer** of the meninges and is most commonly due to the **rupture of a berry aneurysm**.
+- Question 42
+- Question 59
 
-Other causes include **trauma to the circle of Willis, or an arteriovenous malformation.**
+[MKSAP 18 General Internal Medicine](https://mksap18.acponline.org/app/topics/gm/mk18_b_gm_s3/mk18_b_gm_s3_6) provides information on the treatment of cardiovascular risk factors related to primary prevention of stroke. Patients with asymptomatic ICA stenosis require primary prevention strategies similar to those used for patients with asymptomatic atherosclerotic disease. Contemporary best medical therapy, including high-intensity statin therapy, is associated with a low risk of first stroke, likely less than 2% per year. ICA revascularization may reduce the risk of stroke further, but the risk of the procedure itself must be weighed against the potential benefit. ICA revascularization for primary prevention is not warranted unless high-risk stroke features are present, such as stenosis greater than 80% or rapid progression of stenosis. For patients with high-risk predictors, the decision to refer for revascularization should be made on an individual basis. Ongoing clinical trials may provide more information on the relative advantages of revascularization and medical therapy.
 
-Risk factors for subarachnoid hemorrhage include:
+The main modifiable risk factors for intracranial arterial aneurysm growth and rupture are hypertension and active tobacco use. Treatment of both is indicated. Surgical treatment of aneurysms with either endovascular therapy or craniotomy is associated with sufficiently high neurologic morbidity that treatment is reserved for patients at high risk of rupture and low surgical risk. The location and size of the aneurysm are the primary determinants of rupture risk, and both MRA and CTA can show these features noninvasively. Aneurysms less than 7 millimeters in diameter in the posterior circulation and less than 12 millimeters in the anterior circulation have a low risk of rupture and can be managed conservatively. Patients with these aneurysms should undergo annual noninvasive imaging because aneurysmal growth is a risk factor for rupture and may be an indication for surgery. Patients with two or more relatives with intracranial aneurysms or SAH also should be offered screening with noninvasive neuroimaging. Other predictors of aneurysmal rupture that should prompt surgical consideration include a previous aneurysmal SAH or the presence of cranial nerve palsy.
 
-- **Hypertension** (most common)
-- **Autosomal dominant polycystic kidney disease** (ADPKD)
-- **Bleeding disorders or use of a blood thinner**
-- **Ehlers-Danlos syndrome**
-- **Smoking** (most important preventable risk factor)
+## Key Points
 
-<!-- SAH locations.. -->
+- Routine internal carotid artery revascularization for primary prevention of stroke is not warranted unless high-risk stroke features are present, such as stenosis greater than 80% or rapid progression of stenosis.
+- Aneurysms less than 7 millimeters in diameter in the posterior circulation and less than 12 millimeters in the anterior circulation have a low risk of rupture and can be managed conservatively with annual noninvasive neuroimaging.
 
-Common sites for the occurrence of a subarachnoid hemorrhage include:
+### Secondary Prevention
 
-- **Junction of the anterior communicating artery and anterior cerebral artery**
-- **Junction of the posterior communicating artery and the internal carotid artery**
-- **Bifurcation of the middle cerebral artery**
+#### Lifestyle Modifications and Medical Management
 
-### Symptoms
+#### Related Questions
 
-<!-- SAH symptoms.. -->
+- Question 5
+- Question 85
 
-Many patients who have a **subarachnoid hemorrhage** will present with the sudden onset of a severely painful headache (“worst headache of my life”). **Thunderclap headache**
+The risk factors for a second stroke are similar to those for ischemic heart disease and other atherosclerotic disease. Patients with stroke benefit from diet and exercise changes to maintain cardiometabolic health. Patients with ICH are at high risk for recurrent stroke due to hypertension; after the acute in-hospital setting, a target blood pressure of less than 130/80 mm Hg is advised. Similarly, patients with small subcortical infarcts in whom hypertension is the primary risk factor may also benefit from a systolic blood pressure of less than 130 mm Hg. High-intensity statin therapy to achieve an LDL cholesterol reduction of 50% or greater lowers the risk of stroke among patients with ischemic stroke or TIA presumed to be of atherosclerotic origin. See [MKSAP 18 General Internal Medicine](https://mksap18.acponline.org/app/topics/gm/mk18_b_gm_s9/mk18_b_gm_s9_2_2) for more information.
 
-The onset of the headache may or may not be associated with a **brief loss of consciousness, nausea or vomiting, and meningismus.**
+The choice of an antiplatelet agent for long-term (>90 days from stroke) secondary stroke prevention in the absence of atrial fibrillation has been the subject of several clinical trials. Consistent across trials is the finding that long-term use of aspirin and clopidogrel combined, versus a single antiplatelet agent, is associated with no reduction in risk of stroke but an increased risk of hemorrhage and death. Dual antiplatelet therapy with clopidogrel and aspirin given within 24 hours after minor noncardioembolic ischemic stroke in patients who did not receive intravenous alteplase, and continued for 21 days, reduced recurrent ischemic stroke for a period of up to 90 days from symptom onset. Aspirin should be continued following dual antiplatelet therapy for long-term secondary prevention of stroke. Aspirin monotherapy is a reasonable first-line antiplatelet regimen for secondary stroke prevention, although clopidogrel or aspirin-dipyridamole is often prescribed because of their small absolute risk benefits over aspirin. Clopidogrel monotherapy, when compared with aspirin monotherapy in a trial involving ischemic stroke, peripheral arterial disease, and myocardial infarction, was associated with a 0.9% per year absolute benefit; however, the results of this trial were driven by peripheral arterial disease outcomes, with no clear difference in recurrent stroke. The combination of aspirin and dipyridamole versus aspirin alone has been associated with a modestly lower risk of recurrent stroke in the long term, although the combination is associated with high risk of discontinuation because of headache and other adverse effects. Clopidogrel has been compared with the aspirin-dipyridamole combination in one large clinical trial, with both having similar efficacy in stroke prevention. Cilostazol has been compared to aspirin in clinical trials in Japan and China; it has had similar efficacy in reducing ischemic stroke and resulted in slightly lower hemorrhagic complications, although its use is limited by adverse effects. Other antiplatelet agents, such as ticagrelor or prasugrel, have not been examined in long-term trials of secondary stroke prevention, although prasugrel is associated with a high risk of hemorrhage when used in patients with coronary artery disease who have a history of stroke. No data are available on blood assays examining a lack of response to antiplatelet agents in secondary stroke prevention or on the choice of antiplatelet agent after an additional clinical event.
 
-### Diagnosis
+Warfarin also has been compared to aspirin for secondary stroke prevention in the absence of atrial fibrillation, with no difference in stroke outcomes reported. In a trial of patients with intracranial atherosclerosis, warfarin was associated with increased mortality compared with aspirin. Non–vitamin K antagonist anticoagulants have not been tested in clinical trials of stroke not involving atrial fibrillation and are not routinely indicated in this setting. For a review of anticoagulation in atrial fibrillation–related stroke, see [MKSAP 18 Cardiovascular Medicine](https://mksap18.acponline.org/app/topics/cv/mk18_a_cv_s5/mk18_a_cv_s5_5_3_1).
 
-<!-- SAH diagnosis, management.. -->
+Whether to start antithrombotic agents after hemorrhagic stroke has not been as well studied. Patients with cerebral amyloid angiopathy are at particularly high risk of recurrent lobar ICH, and the use of antiplatelet agents should only be considered in those with clear secondary prevention indications, such as coronary stents. Similarly, anticoagulation-related lobar ICH has a high risk of recurrence, and further anticoagulation should be avoided in patients with this type of hemorrhage. Anticoagulation also should be avoided in most patients with indications of low thromboembolic risk, such as atrial fibrillation with a low CHA2DS2-Vasc score (with one point each given for heart failure, hypertension, diabetes, vascular disease \[previous myocardial infarction, peripheral arterial disease, aortic plaque], female sex, and age 65 to 74 years and two points each for previous stroke/transient ischemic attack/thromboembolic disease and for age ≥75 years), and used with caution in higher-risk scenarios (such as pulmonary emboli). Finally, with adequate control of hypertension, anticoagulation and antiplatelet treatment can be considered for appropriate indications 4 weeks after a deep ICH secondary to hypertension.
 
-Diagnosis of a subarachnoid hemorrhage is made by a **noncontrast CT scan**.
+#### Surgical Management
 
-A lumbar puncture is performed to diagnose subarachnoid hemorrhage (SAH) if there is a **strong suspicion of SAH and the CT scan is negative**. The **presence of blood in the cerebrospinal fluid** or **xanthochromia** (yellow tint of the cerebrospinal fluid) is indicative of SAH.
+#### Related Question
 
-The patient must be assessed for **papilledema** before performing the lumbar puncture so as not to cause herniation. If papilledema is present, repeat the CT scan first.
+- Question 37
 
-Treatment of a subarachnoid hemorrhage is **surgical clipping and coiling**.
+The use of surgical approaches for secondary stroke prevention has been examined in patients with extracranial ICA stenosis, ICA occlusion, intracranial atherosclerosis, and PFO–related stroke. In extracranial ICA disease, patients with nondisabling stroke or TIA due to ICA stenosis of greater than 70% are at high risk for recurrent stroke and may benefit from early revascularization. The choice of endarterectomy or angioplasty with stenting is dictated by several patient-specific factors and by local surgical experience. A consistent finding in trials has been a higher risk of perioperative stroke with stenting and a higher risk of perioperative myocardial infarction with endarterectomy. In patients with a complete symptomatic occlusion of the ICA, however, direct revascularization is not feasible, and external carotid–to–internal carotid bypass is not effective for stroke prevention.
 
-**Cerebral angiogram** is the gold standard test for determining the location of bleeding in patients with a SAH.
+Symptomatic intracranial arterial stenosis of greater than 70% is associated with a high risk of recurrent stroke and should be treated with a statin. Stenting of the affected artery, however, is associated with a high risk of procedural stroke and should be avoided. Endovascular closure of a PFO for secondary stroke prevention may be considered in select patients (see [MKSAP 18 Cardiovascular Medicine](https://mksap18.acponline.org/app/topics/cv/mk18_a_cv_s9/mk18_a_cv_s9_2)).
 
-The patient must be medically managed to reduce the risk of rebleeding. This includes **managing blood pressure, using anti-seizure medications to prevent seizures, and stool softeners or laxatives** to prevent straining during bowel movement
+## Key Points
 
-Symptomatic vasospasm and cerebral infarction are important contributors to unfavorable outcomes after SAH. It typically begins after day three post hemorrhage, reaching a peak at days seven to eight. **Nimodipine** may mitigate this complication.
+- Long-term use of combination aspirin-clopidogrel is associated with no reduction in risk of stroke but an increased risk of hemorrhage and death when compared with single-agent antiplatelet use; aspirin monotherapy is a reasonable first line antiplatelet regimen for secondary stroke prevention.
+- Patients with nondisabling stroke or TIA due to greater than 70% stenosis of the internal carotid artery (ICA) may benefit from early revascularization; in those with a complete symptomatic occlusion of the ICA, however, direct revascularization is not feasible.
+- Symptomatic high-grade intracranial arterial stenosis is associated with a high risk of recurrent stroke, but stenting of the affected artery is associated with a high risk of procedural stroke and should be avoided.
 
-<!-- SAH complications -->
+## Standardized Discharge Orders
 
-**Hyponatremia** is a potential complication due to "cerebral salt-wasting syndrome" or SIADH.,
+Adherence to secondary stroke prevention guidelines is inconsistent after hospital discharge. Standardized discharge orders, aligned with recommended core measures for patients with ischemic stroke, can reduce the risk of both hospital readmission and recurrent stroke. These standardized orders ensure that appropriate antiplatelet or anticoagulation agents and high-intensity statin therapy are started on hospital discharge. They include the essential component of patient education about diet, exercise, smoking cessation, and other healthy lifestyle choices to reduce the risk of recurrent events. Lastly, these discharge orders allow for stroke-specific education regarding typical stroke symptoms and the importance of rapid return to care if symptoms occur so that acute stroke therapeutics can be initiated.
 
-![](https://photos.thisispiggy.com/file/wikiFiles/L13726.jpg)
+## Prognosis and Recovery
 
-# Transient Ischemic Attack
+### Neurologic Complications
 
-<!-- ignore.. -->
+Patients with stroke are at high risk for developing in-hospital and long-term neurologic complications beyond those previously outlined. Patients with ischemic stroke may develop worsening deficits from hemorrhagic conversion of the infarct, usually within 48 hours. Antiplatelet agents should be held for at least 1 week in most patients with hemorrhagic conversion (for example, a hematoma seen on brain imaging that is associated with mass effect or edema). Patients with hemorrhagic conversion not involving a hematoma and with stable repeat imaging can be started on antiplatelet agents within 48 hours. Patients with a large hemispheric ischemic stroke are at risk for neurologic deterioration from cerebral edema starting on day 2 after a stroke. Patients with significant symptomatic cerebral edema and increased intracranial pressure after an ischemic stroke have a survival advantage with decompressive hemicraniectomy, although neurologic compromise may be significant. Finally, patients with ischemic and hemorrhagic stroke may show neurologic worsening from seizures and systemic infections.
 
-**Transient ischemic attack** (TIA) is defined as an **acute episode of neurologic dysfunction** caused by focal brain, spinal cord, or retinal **ischemia, without acute infarction**. A TIA becomes an ischemic stroke only when infarction of CNS tissue occurs, and not necessarily a time course of greater than 24 hours.
+## Key Points
 
-Transient ischemic attack is caused by a **temporary disruption of blood supply to the brain** from underlying conditions such as aortic stenosis, vascular spasm, atherosclerosis, and emboli (the same conditions that cause strokes).
+- Patients with ischemic stroke may develop worsening deficits from hemorrhagic conversion of the infarct, usually within 48 hours; antiplatelet agents should be held in the setting of hemorrhagic conversion involving a hematoma for at least 1 week and for a shorter period of time if there is no hematoma seen on imaging and repeat imaging is stable.
+- Patients with significant symptomatic cerebral edema and increased intracranial pressure after an ischemic stroke have a survival advantage with decompressive hemicraniectomy, although neurologic compromise may be significant.
 
-Risk factors for a TIA include:
+### Medical Complications and Stroke Units
 
-- **Age over 55 years**
-- **Hypertension**
-- **Diabetes mellitus**
-- **Coronary artery disease**
-- **Smoking**
-- **Hyperlipidemia**
-- **Hypercoagulable states**
+#### Related Question
 
-Having a TIA puts a patient at risk for **experiencing a stroke in the future.**
+- Question 78
 
-Symptoms of a TIA present very much like that of a stroke, with a **patient experiencing weakness, paralysis, numbness, loss of coordination, vision abnormalities, slurred speech, and mental confusion.**
+In-hospital medical complications are a leading cause of morbidity and mortality in patients with stroke. Admission to a specialized stroke unit is associated with a reduced long-term risk of all-cause mortality. Specialized stroke units are effective because they use multidisciplinary care teams focused on early mobilization and adherence to protocols, such as removing indwelling catheters to prevent urinary tract infection, preventing aspiration pneumonia by addressing/preventing dysphagia, and instituting oral hygiene protocols. Care protocols in stroke units also emphasize early initiation of pharmacologic prophylaxis of deep venous thrombosis in patients with ischemic stroke and prophylaxis initiation within 48 hours in patients with hemorrhagic stroke who have no evidence of active bleeding.
 
-The symptoms appear suddenly, but **typically abate within one day**, with many cases resolving within an hour.
+### Long-Term Prognosis and Recovery
 
-<!-- TIA PE.. -->
+#### Related Question
 
-Physical exam may reveal **carotid bruits or harsh systolic murmurs** indicative of carotid atherosclerosis and aortic stenosis respectively. Physical exam may also reveal an **irregularly irregular rhythm** that is indicative of atrial fibrillation.
+- Question 33
 
-## Diagnosis
+Long-term survivors of stroke are at high risk for delayed neurologic complications. Cognitive impairment, vascular dementia, and seizures all may occur. Most stroke survivors exhibit neurologic impairment and disability 1 year poststroke and beyond. Fatigue can arise from a high prevalence of sleep-disordered breathing. Cardiorespiratory and repetitive task training and transcranial direct current stimulation may improve activities of daily living in adults who have had a stroke. Cognitive behavioral therapy, exercise, and selective serotonin reuptake inhibitors may reduce symptoms of poststroke depression.
 
-<!-- ignore.. -->
+## Key Point
 
-Diagnosis can be based on a thorough **history and physical exam accompanied by CT or MRI findings.** MRI is more likely to identify infarction of tissue.
-
-Ultrasound can be useful for determining **possible sources of atherosclerosis.**
-
-Echocardiography can be useful to determine **heart defects as an underlying cause of emboli**.
-
-**Magnetic resonance angiography (MRA), computed tomography angiography (CTA), carotid duplex ultrasonography (CDUS), and transcranial doppler ultrasonography (TCD)** can be used to identify if there is an obstructive lesion in a larger artery supplying the CNS.
-
-Treatment consists of **addressing the underlying conditions** leading to ischemia\*\*.\*\*
-
-Patients with TIA due to atherosclerosis should be given **antiplatelet** (e.g. **aspirin** or **clopidogrel**) and**statin therapy.**
-
-Patients with TIA due to severe carotid stenosis (i.e. 70 to 99% occlusion, symptomatic disease) should undergo **carotid endarterectomy** to increase blood flow to the brain.
-
-Patients with TIA due to aortic stenosis should be offered **beta blockers, valvuloplasty or valve replacement**.
-
-<!-- ischemic stroke different presentation managements.. -->
-
-![](https://photos.thisispiggy.com/file/wikiFiles/L13667.jpg)
-
-- if resolve or outside 4 hour window: use aspirin
+- Most stroke survivors exhibit neurologic impairment and disability 1 year poststroke and beyond; depression is highly prevalent in stroke survivors and is one of the leading modifiable risk factors for long-term disability.

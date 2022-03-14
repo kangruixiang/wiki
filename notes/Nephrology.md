@@ -102,8 +102,8 @@ date: 2020-09-07
 - [[diabetes insipidus]]
 
 ## Transplant
-- [[prograft]]
 
+- [[prograft]]
 
 ## Lectures
 

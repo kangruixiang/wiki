@@ -28,6 +28,7 @@ The diagnosis of membranous glomerulopathy is traditionally made by ==kidney bio
 The hallmark biopsy finding is the presence of ==subepithelial immune deposits that alter the glomerular capillary wall==, classically accompanied by intervening “spikes” of glomerular basement membrane extending between the immune deposits in more advanced cases. In addition to serologic testing for anti-PLA2R antibodies, the ==biopsy can be stained for the PLA2R antigen==, which typically yields a higher sensitivity (>80%) than antibody testing in the serum. This testing is used not to make a diagnosis of membranous glomerulopathy but to help distinguish primary from secondary forms of the disease. Such a distinction is crucial because secondary forms are expected to remit if the underlying systemic disease responsible for the lesion is successfully treated. Notably, in patients with membranous glomerulopathy aged 65 years and older, ==malignancies have been detected in up to 25% within 1 year== of their biopsy diagnosis. Therefore, age- and sex-appropriate cancer screening is recommended for all patients at the time of their diagnosis, even those with PLA2R positivity.
 
 Also associtaed with ==hepatitis B==
+
 ```ad-note
 Patients with cancer and nephrotic disease: think about membranous due to perineoplastic association.
 ```

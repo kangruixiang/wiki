@@ -16,9 +16,9 @@ date: 2020-09-07
 - cause:
 	- E. coli (25 to 50%)
 	- Klebsiella pneumonia (15 to 20%)
-	- Enterobacter_ species (5 to 10%)
-	- Enterococcus_ species (10 to 20%)
-	- Bacteroides_ and Clostridia (anaerobes, usually part of a mixed infection)
+	- Enterobacter species (5 to 10%)
+	- Enterococcus species (10 to 20%)
+	- Bacteroides and Clostridia (anaerobes, usually part of a mixed infection)
 - sx:
 	- **charcot triad**: RUQ, fever, jaundice
 	- reynolds pentad: hypotension, AMS. Indicative of **suppurative cholangitis** due to septic shock

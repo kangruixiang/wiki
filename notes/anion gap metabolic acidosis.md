@@ -29,6 +29,7 @@ CAT MUDPILES
 
 Alternative:
 GOLD MARK
+
 - G: glycol
 - O: oxoproline: metabolite of acetamiophen
 - L: lactate
@@ -37,7 +38,6 @@ GOLD MARK
 - A: ASA
 - R: ==renal failure==, correponds to uremia. Bicarb loss usually before stage 5 and regresses after stage 5. AG happens more in stage 5 when kidney is unable to excrete ammonia and other titratable acids
 - K: ketoacidosis
-
 
 ## Diagnosis
 

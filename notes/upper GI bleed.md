@@ -25,9 +25,9 @@ sr-ease: 270
 	- usually in proximal stomach or distal esophagus
 - Mallory-Weiss tear: from repeated vomiting/retching
 - Less commonly
-	- Cameron erosions
-	- Dieulafoy lesion
-	- gastric antral vascular ectasia
+	- ==Cameron erosions==: Cameron lesions are erosions found on the crest of gastric folds within a large hiatal hernia and are thought to be caused by mechanical trauma as the hiatal hernia slides up and down. Up to 5% of patients with known hiatal hernias may have Cameron lesions.
+	- Dieulafoy lesion: ==submucosal arterioles== that intermittently protrude through the mucosa and cause hemorrhage. Dieulafoy lesions are of unknown etiology and account for about 2% of all causes of acute upper gastrointestinal bleeding and are located in the proximal stomach along the lesser curvature. When bleeding they appear as an isolated pumping arteriole in the absence of a mass or ulcer.
+	- gastric antral vascular ectasia (GAVE)
 	- hemobilia
 	- tumors
 	- aortoenteric fistula

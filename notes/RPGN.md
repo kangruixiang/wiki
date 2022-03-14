@@ -29,7 +29,6 @@ The diagnosis of all forms of glomerulonephritis is traditionally made by kidney
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220112203334.png)
 
-
 #### Treatment and Prognosis
 
 Treatment is based on the specific etiology of RPGN. If untreated, RPGN is expected to progress to dialysis dependence in a matter of days to weeks. If treated early, lesions can often be reversed, although CKD is often a lingering consequence.

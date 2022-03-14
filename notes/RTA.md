@@ -5,7 +5,7 @@ date: 2020-09-08
 # RTA
 
 - related: [[nephrology]]
-- tags: #nephrology 
+- tags: #nephrology
 
 ## Type 1 RTA
 

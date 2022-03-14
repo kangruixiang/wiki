@@ -8,8 +8,9 @@ sr-ease: 270
 # dialysis
 
 - related: [[Nephrology]]
-- tags: #nephrology  
+- tags: #nephrology
 ---
+
 ## New dialysis
 
 - Usually dialyze first 3 days in a row before evaluate if can stop
@@ -17,7 +18,7 @@ sr-ease: 270
 ## Types
 
 - CRRT: Convection
-- HD: diffusion and convection 
+- HD: diffusion and convection
 - PD: diffusion
 	- increase serum glucose = worse clearance because of less diffusion
 
@@ -29,6 +30,6 @@ sr-ease: 270
 
 ## Efficiency of dialysis
 
-- measure efficiency with KT/u 
+- measure efficiency with KT/u
 - Should have drop in BUN by 65%
 - Can increase efficiency with time, blood flow, dialyzer

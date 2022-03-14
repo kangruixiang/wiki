@@ -11,7 +11,13 @@ date: 2021-08-26
 - tags: #note
 ---
 
+## Whole blood
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220208104350.png)
+
 ## pRBC
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220208104409.png)
 
 - content:
 	- packed RBC with small amount of plasma
@@ -19,12 +25,18 @@ date: 2021-08-26
 
 ## Plasma
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220208104507.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20220208104555.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20220208104705.png)
+
 - content: coagulation factors, albumin, Igs, plasma proteins
 - indication: restore multiple coagulation factors (DIC)
 - FFP: frozen within 6 hours of collection, shelf life 1 year frozen, 24 hours after thawed, then has 5 days of storage
 - FFP: all soluble plasma proteins + clotting factors. Poor source of fibrinogen
 
 ## Cryoprecipitate
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220208104831.png)
 
 - content:
 	- when FFP thawed, small amount of plasma that precipitates
@@ -35,6 +47,11 @@ date: 2021-08-26
 - dosing: 5-10 units (from multiple donors pooled together)
 
 ## Platelets
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220208104909.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20220208104934.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20220208105000.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20220208105022.png)
 
 - content:
 	- platelet in plasma

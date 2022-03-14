@@ -48,7 +48,7 @@ In patients with **uric acid** stones, management consists of increasing the sol
 
 - risk: Low urine pH; diarrhea; metabolic syndrome; gout; hyperuricosuria
 - treatment: Increase fluids, alkalinize urine with potassium citrate or bicarbonate, Allopurinol
-- allopurinol is not main treatment 
+- allopurinol is not main treatment
 - note: urine pH from UA is not as good as from 24 hour urine because of acute infection
 
 ## Struvite

@@ -11,7 +11,6 @@ sr-ease: 290
 - tags: #note
 ---
 
-
 - AKI is either oliguric or nonoliguric
 - prerenal AKI: responds to fluids
 - ATN = AKI + one of following

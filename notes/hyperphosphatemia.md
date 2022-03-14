@@ -18,7 +18,7 @@ order to prevent protein malnutrition. Similarly, ==intermittent hemodialysis al
 
 The ideal phosphate binder should bind most dietary phosphate in the intestine without producing significant adverse effects. It should also be relatively inexpensive, because most dialysis patients usually consume relatively large daily doses of the binder. Unfortunately, none of the currently used phosphate binders fulfill all these requirements. This is best exemplified by ==aluminum hydroxide==, which is probably the most cost-effective phosphate binder but has largely been abandoned because of the risks of ==aluminum intoxication== with encephalopathy and osteomalacia. As a result, ==calcium acetate and calcium carbonate== replaced aluminum hydroxide as the most widely prescribed phosphate binders.
 
-```ad-note 
+```ad-note
 If use aluminum hydroxide, give 2 doses. Stop sevelamer
 ```
 
@@ -28,8 +28,8 @@ In clinical practice, calcium acetate and sevelamer hydrochloride are currently 
 
 - [[CARE study]]
 
-
 ## Renvela
+
 - Stop when phos > 5.5
 - Can stop when phos < 5
 - Start with 800 TID

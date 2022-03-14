@@ -3,7 +3,22 @@ date: 2020-09-07
 ---
 
 # Neurology
+
+- related: [[Medicine]]
 ---
+
+## MKSAP
+
+- [[Headache and Facial Pain]]
+- [[Head Injury]]
+- [[Seizures and Epilepsy]]
+- [[Stroke]]
+- [[Cognitive Impairment]]
+- [[Movement Disorders]]
+- [[Multiple Sclerosis]]
+- [[Disorders of Spinal Cord]]
+- [[Neuromuscular Disorders]]
+- [[Neuro Oncology]]
 
 ## Meningitis
 
@@ -14,7 +29,7 @@ date: 2020-09-07
 ## Myopathy
 
 - [[myopathy ddx]]
-- [[movement disorders]]
+- [[movement disorders 2]]
 - [[transverse mylelitis]]
 - [[gbs management]]
 
@@ -32,12 +47,11 @@ date: 2020-09-07
 
 ## Eye
 
-- [[eye problems]]
 - [[eye disorders]]
 
 ## MS
 
-- [[multiple sclerosis]]
+- [[multiple sclerosis 2]]
 
 ## Prolactinoma
 
