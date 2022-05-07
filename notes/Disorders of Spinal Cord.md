@@ -37,31 +37,21 @@ Patients with chronic spinal stenosis due to osteoarthritic degenerative spinal 
 
 Initial MRI of the spinal cord at the suspected region of injury is the preferred means of diagnosing compressive myelopathy and will often reveal the cause. Imaging should be performed emergently in cord compression thought to be secondary to abscess or malignancy because neurologic compromise can progress rapidly. CT myelography can show compressive myelopathy when MRI is not feasible but often does not reveal the cause of compression. Additionally, this type of imaging may be difficult to arrange emergently and is problematic in patients with allergies to contrast dyes or impaired kidney function.
 
-## Key Points
-
-- In patients with compressive myelopathy, a history of neoplasia and focal back pain should arouse concern for metastatic disease; the presence of fever and focal back pain and tenderness may indicate an epidural abscess.
-- An initial MRI of the spinal cord at the suspected region of injury is the preferred means of diagnosing compressive myelopathy and will often reveal the cause.
-
 ### Treatment
 
-#### Related Questions
+<!-- spinal cord compression treatment b:1247698825969-->
 
-- Question 18
-- Question 79
+==Surgical decompression== is typically required to treat spinal cord compression, but medical therapies can complement surgical treatment, depending on the underlying cause. Emergent treatment usually is indicated because the most important indicator of long-term neurologic function is the neurologic function at the time of decompression. Neurologic function is rarely regained as a result of therapy, but further deterioration may be prevented.
 
-Surgical decompression is typically required to treat spinal cord compression, but medical therapies can complement surgical treatment, depending on the underlying cause. Emergent treatment usually is indicated because the most important indicator of long-term neurologic function is the neurologic function at the time of decompression. Neurologic function is rarely regained as a result of therapy, but further deterioration may be prevented.
+==Adjunctive therapy== is important; an epidural hematoma may first require management of the bleeding diathesis, and cord compression caused by ==epidural abscess requires antibiotics==. The use of ==glucocorticoids== in traumatic spinal cord compression is controversial. They ==generally are not indicated with hematoma and abscess==. A joint panel of the American Association of Neurological Surgeons and the Congress of Neurological Surgeons has argued against the use of high-dose glucocorticoids in acute spinal cord trauma, given the lack of definitive evidence of benefit and some evidence of potential harm. Despite these recommendations, this issue remains controversial, and many physicians still offer glucocorticoid treatment for this select patient population because of the lack of alternative beneficial strategies.
 
-Adjunctive therapy is important; an epidural hematoma may first require management of the bleeding diathesis, and cord compression caused by epidural abscess requires antibiotics. The use of glucocorticoids in traumatic spinal cord compression is controversial. They generally are not indicated with hematoma and abscess. A joint panel of the American Association of Neurological Surgeons and the Congress of Neurological Surgeons has argued against the use of high-dose glucocorticoids in acute spinal cord trauma, given the lack of definitive evidence of benefit and some evidence of potential harm. Despite these recommendations, this issue remains controversial, and many physicians still offer glucocorticoid treatment for this select patient population because of the lack of alternative beneficial strategies.
-
-Spinal cord compression from metastatic disease requires emergent use of high-dose glucocorticoids and urgent surgical decompression, followed by radiation for most tumor types. Clinical trials have shown the superiority of surgical decompression in optimizing ambulation. Certain radiosensitive tumor types, such as leukemia, lymphoma, myeloma, and germ cell tumors, may not require initial surgical decompression and instead may be treated urgently with radiation therapy. Surgical intervention also is sometimes deferred in patients with a completed neurologic deficit, patients with a poor prognosis or functional status, and patients without a distinct neurologic deficit. For more information on spinal cord compression due to metastatic disease, see [MKSAP18 Hematology and Oncology](https://mksap18.acponline.org/app/topics/ho/mk18_a_ho_s21/mk18_a_ho_s21_1_2_2).
+Spinal cord compression from metastatic disease requires emergent use of ==high-dose glucocorticoids and urgent surgical decompression==, followed by ==radiation== for most tumor types. Clinical trials have shown the superiority of surgical decompression in optimizing ambulation. Certain radiosensitive tumor types, such as leukemia, lymphoma, myeloma, and germ cell tumors, may not require initial surgical decompression and instead may be treated urgently with radiation therapy. Surgical intervention also is sometimes deferred in patients with a completed neurologic deficit, patients with a poor prognosis or functional status, and patients without a distinct neurologic deficit. For more information on spinal cord compression due to metastatic disease, see [MKSAP18 Hematology and Oncology](https://mksap18.acponline.org/app/topics/ho/mk18_a_ho_s21/mk18_a_ho_s21_1_2_2).
 
 For chronic cervical or lumbar stenosis or acute disk herniation, symptomatic management can control symptoms in most patients. Surgical decompression may be required for patients with myelopathy refractory to medical management. See [MKSAP 18 General Internal Medicine](https://mksap18.acponline.org/app/topics/gm/mk18_b_gm_s8/mk18_b_gm_s8_1_2) for more information about treating musculoskeletal pain.
 
-## Key Point
-
-- Spinal cord compression from metastatic disease requires emergent use of high-dose glucocorticoids and urgent surgical decompression, followed by radiation for most tumor types.
-
 ## Noncompressive Myelopathy
+
+<!-- ignore -->
 
 Noncompressive myelopathy can be caused by many inflammatory, infectious, metabolic, vascular, and genetic disorders. Inflammatory causes are most common, including multiple sclerosis (see [Multiple Sclerosis](https://mksap18.acponline.org/app/topics/nr/mk18_a_nr_s7)), neuromyelitis optica, and sarcoidosis.
 

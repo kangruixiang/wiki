@@ -33,6 +33,8 @@ date: 2021-08-29
 
 ## Symptoms
 
+<!-- rheumatoid arthritis sx -->
+
 - gradual onset
 - **symmetrical** joint pain
 	- from joint damage
@@ -48,6 +50,8 @@ date: 2021-08-29
 	- joint swelling, palpable on exam, bogginess
 	- morning stiffness lasting hours
 	- stiffness better with activity
+
+Patients with long-standing (generally 10 years or more) rheumatoid arthritis (RA) are at risk of ==developing C1-C2 subluxation==. Inflammation from RA can lead to attenuation of the transverse ligament that normally limits the posterior motion of the odontoid process of the C2 vertebrae. Instability around the odontoid can impinge upon posterior structures, including the spinal cord and vertebral arteries. Common symptoms include a ==sensation of the head falling off, drop attacks, and painless paresthesia== of the hands and feet; rarely, sudden death can occur. Initial imaging should be radiography of the ==cervical spine with flexion/extension views==; if results are abnormal, ==MRI== should then be performed. Consideration of surgery is necessary for patients with significant subluxation, especially if symptomatic. Patients with long-standing RA undergoing general anesthesia for any kind of surgery should have cervical spine radiography with flexion/extension views to assess for atlantoaxial subluxation, which can lead to neurologic compromise when the neck is extended during intubation.
 
 ### extra-articular
 
@@ -77,25 +81,27 @@ date: 2021-08-29
 
 ### Felty syndrome
 
+<!-- felty syndrome is, sx -->
+
 Anemia of inflammation is the most common RA hematologic abnormality. ==Felty syndrome== consists of ==neutropenia and splenomegaly== and occurs in patients with long-standing, severe, seropositive RA. These patients are at risk for serious bacterial infection, ==lower extremity ulceration==, lymphoma, and vasculitis. With current treatment, Felty syndrome has become rare. Patients with RA can also have a large granular lymphocyte syndrome that can progress to large granular lymphocyte ==leukemia==. Findings overlap with Felty syndrome and include neutropenia, anemia, thrombocytopenia, splenomegaly, and recurrent infections. Patients with RA are at increased risk for lymphomas (particularly large B-cell lymphomas), and risk is correlated with disease activity.
 
 ### Scleritis
+
+<!-- rheumatoid arthritis eye sx -->
 
 RA is one of the most common diseases associated with scleritis. Typical features include ==eye pain, pain with gentle palpation of the globe, and photophobia==, (pain with eye movement). The deep scleral vessels are involved and may lead to ==scleromalacia==, which is characterized by thinning of the sclera and is seen as a dark area in the white sclera. Scleromalacia may lead to perforation of the sclera called scleromalacia perforans. Scleritis can be vision-threatening and lead to blindness; it is therefore important to urgently refer the patient to an ophthalmologist for care.
 
 ### Blood Vessels
 
-A small-vessel cutaneous vasculitis occurs in a small percentage of patients with RA, leading to palpable purpura or periungual infarcts. A very rare, larger-vessel vasculitis similar to polyarteritis nodosa can affect multiple organ systems; prior to current therapy, it had a 5-year mortality of 30% to 50%.
+<!-- ignore -->
+
+A ==small-vessel cutaneous vasculitis== occurs in a small percentage of patients with RA, leading to ==palpable purpura== or ==periungual infarcts==. A very rare, larger-vessel vasculitis similar to polyarteritis nodosa can affect multiple organ systems; prior to current therapy, it had a 5-year mortality of 30% to 50%.
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20210829204436.png)
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20210829204109.png)
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20210829204122.png)
-
-## Key Point
-
-- Extra-articular manifestations and complications of rheumatoid arthritis include rheumatoid nodules, rheumatoid vasculitis, dry eye, small airway disease, interstitial lung disease, pleural effusions, and anemia of inflammation.
 
 ## Labs
 
@@ -112,7 +118,13 @@ A small-vessel cutaneous vasculitis occurs in a small percentage of patients wit
 	- anemia of inflammation
 	- modest thrombocytosis
 
+<!-- rheumatoid factor is, uses, vs anti-CCP -->
+
+==Rheumatoid factor== is an IgM antibody directed against the Fc portion of ==IgG immunoglobulin==. Although characteristically associated with rheumatoid arthritis (RA), ==rheumatoid factor is present in fewer than 70% of patients with RA== and is common in several other diseases. ==Anti–cyclic citrullinated peptide antibodies are more specific for RA== but less sensitive. The presence of both autoantibodies together increases the likelihood of RA.
+
 ## Images
+
+<!-- rheumatoid arthritis imaging findings -->
 
 - early xray can be normal
 - plain xray hands/feet
@@ -120,7 +132,7 @@ A small-vessel cutaneous vasculitis occurs in a small percentage of patients wit
 	- periarticular osteopenia
 	- marginal erosions
 	- joint space narrowing
-- xray C spine with flexion/extension for C1-2 subluxation
+- ==xray C spine with flexion/extension for C1-2 subluxation==
 - MRI/US: more sensitive than xray and are sometimes used to determine response to therapy and progression
 - US: standard for joint fluid, synovial tissue thickening, early erosions, increased vascularity
 - MRI: bone marrow edema, synovitis, erosions
@@ -133,11 +145,11 @@ Marginal erosions and joint-space narrowing (arrows). Erosion at the fifth metat
 
 ## Management
 
-See [Principles of Therapeutics](https://mksap18.acponline.org/app/topics/rm/mk18_a_rm_s2) for details on the uses, mechanisms of action, major toxicities, and/or monitoring requirements of the medications used in RA.
+<!-- ignore -->
 
 ### General Considerations
 
-The 2015 ACR RA treatment guidelines (<https://www.rheumatology.org/Practice-Quality/Clinical-Support/Clinical-Practice-Guidelines/Rheumatoid-Arthritis>) advocate for early diagnosis and aggressive early therapy of RA to prevent irreversible cartilage and bone damage. The 2010 ACR RA classification criteria emphasize sensitivity to permit early diagnosis and institution of disease-modifying therapy (see **[Table 13](https://mksap18.acponline.org/app/topics/rm/tables/mk18_a_rm_t13)**). A key treatment goal is to treat to target, with the target being achievement of remission or low disease activity. Disease activity assessment involves making a measured determination using combinations of numbers of tender and swollen joints (typically utilizing 28 joints that exclude the feet), patient and physician impressions of disease activity, and, in some activity scoring systems, measurement of the erythrocyte sedimentation rate or C-reactive protein. These parameters are combined into a composite score, thus assigning a disease activity ranging from remission, to low, moderate, or high. The Clinical Disease Activity Index (CDAI) and Disease Activity Score 28 (DAS28) are two commonly used instruments to assess disease activity and response to treatment. Treating to target in RA results in less radiographic damage, reduced cardiovascular risk, and increased work productivity compared with conventional care.
+[The 2015 ACR RA treatment guidelines](https://www.rheumatology.org/Practice-Quality/Clinical-Support/Clinical-Practice-Guidelines/Rheumatoid-Arthritis) advocate for early diagnosis and aggressive early therapy of RA to prevent irreversible cartilage and bone damage. The 2010 ACR RA classification criteria emphasize sensitivity to permit early diagnosis and institution of disease-modifying therapy (see **[Table 13](https://mksap18.acponline.org/app/topics/rm/tables/mk18_a_rm_t13)**). A key treatment goal is to treat to target, with the target being achievement of remission or low disease activity. Disease activity assessment involves making a measured determination using combinations of numbers of tender and swollen joints (typically utilizing 28 joints that exclude the feet), patient and physician impressions of disease activity, and, in some activity scoring systems, measurement of the erythrocyte sedimentation rate or C-reactive protein. These parameters are combined into a composite score, thus assigning a disease activity ranging from remission, to low, moderate, or high. The Clinical Disease Activity Index (CDAI) and Disease Activity Score 28 (DAS28) are two commonly used instruments to assess disease activity and response to treatment. Treating to target in RA results in less radiographic damage, reduced cardiovascular risk, and increased work productivity compared with conventional care.
 
 The 2015 ACR RA treatment guidelines can assist in making initial treatment decisions in early RA. Treatment is typically advanced at 12-week intervals with the goal of reaching remission or low disease activity as rapidly as possible. Patients who remain in remission or a low disease activity state for 6 months or longer may be able to reduce treatment intensity. Treatment decisions for established RA are more complex. An initial approach to the treatment of both early and established RA is outlined in **[Figure 6](https://mksap18.acponline.org/app/topics/rm/figures/mk18_a_rm_f06)**.
 

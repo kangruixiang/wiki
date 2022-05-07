@@ -16,6 +16,8 @@ Glucocorticoids are effective in many rheumatologic diseases, including rheumato
 
 Glucocorticoids have numerous adverse effects, which are more likely to occur with higher doses and longer treatment. These include osteoporosis, immunosuppression, skin fragility, glaucoma, cataracts, weight gain, diabetes mellitus, hypertension, psychomotor agitation, osteonecrosis, and hypothalamic-pituitary-adrenal axis suppression.
 
+<!-- glucocorticoid when to worry about osteoporosis, treatment b:1129037692317-->
+
 ==Patients anticipated to be taking ≥2.5-mg prednisone for ≥3 months== should be risk-assessed for glucocorticoid-induced osteoporosis and appropriately managed. Those who are at ==moderate or high risk for osteoporotic fractures== and placed on chronic glucocorticoid therapy should begin ==oral bisphosphonates==.
 
 This patient at risk for glucocorticoid-induced osteoporosis should begin alendronate. One of the many risks and side effects of chronic glucocorticoid therapy is osteoporosis. The Fracture Risk Assessment Tool (FRAX) calculator defines the 10-year fracture risk for patients with T-scores in the −1.0 to −2.5 range. The FRAX calculator incorporates multiple risk factors, including sex, fracture history, femoral neck bone mineral density, glucocorticoid use, smoking, BMI, age, and alcohol intake to determine projected fracture risk. The American College of Rheumatology recommends that patients over the ==age of 40 years at moderate or high risk for osteoporotic fractures== who are to be on at least ==2.5 mg of prednisone daily for 3 months or more== should begin ==prophylactic bisphosphonate therapy== with alendronate, risedronate, or zoledronic acid. In patients on chronic glucocorticoid therapy, prophylactic bisphosphonate therapy significantly increases bone mineral density compared with placebo, and these patients also have fewer new vertebral fractures.
@@ -23,6 +25,8 @@ This patient at risk for glucocorticoid-induced osteoporosis should begin alendr
 In patients at high risk for major osteoporotic fracture (10-year risk greater than 20% or a T score ≤−2.5 or a history of a fragility fracture) taking any dose of glucocorticoids for at least 1 month should receive prophylactic treatment (although these patients should be treated regardless of glucocorticoid therapy). Alendronate, risedronate, zoledronic acid, or teriparatide are therapeutic options. This patient is not in the high-risk category, and teriparatide is therefore not a recommended option.
 
 ### NSAIDs
+
+<!-- ignore -->
 
 NSAIDs prevent prostaglandin production by inhibiting the two isoforms of cyclooxygenase (COX), COX-1 and COX-2. COX-2 is an inducible enzyme typically expressed in inflammatory milieus, whereas COX-1 is constitutively expressed and helps maintain organismal homeostasis. Nearly all available COX inhibitors are nonselective (inhibit both isoenzymes), down-regulating prostaglandin production in inflammatory states and interfering with housekeeping functions of prostanoids (for example, renal blood flow and gut mucosal integrity maintenance) (**[Table 8](https://mksap18.acponline.org/app/topics/rm/tables/mk18_a_rm_t08)**). Nonselective COX inhibitors also inhibit thromboxane A2, inhibiting platelet function and promoting bleeding.
 
@@ -38,11 +42,15 @@ Topical NSAIDs such as diclofenac are available by prescription for arthritis an
 
 Colchicine inhibits microtubules and impairs neutrophil function. It is most commonly employed for gout and acute calcium pyrophosphate crystal arthritis (pseudogout). It is also used to treat hypersensitivity vasculitis and familial Mediterranean fever.
 
-Gastrointestinal side effects (particularly diarrhea) are common. With overdose, ==severe (even fatal) myelosuppression== can occur. Dosing must be adjusted for kidney disease. When given chronically, colchicine can ==rarely cause neuromuscular toxicity==, particularly if coadministered with statin drugs. Concomitant administration of strong CYP3A4 inhibitors (for example, clarithromycin) that reduce the hepatic catabolism of colchicine should be avoided.
+<!-- colchicine side effects b:1606846880271-->
+
+Gastrointestinal side effects (particularly diarrhea) are common. With overdose, ==severe (even fatal) myelosuppression== can occur. Dosing must be adjusted for kidney disease. When given chronically, colchicine can ==rarely cause neuromuscular toxicity==, particularly if coadministered with ==statin drugs==. Concomitant administration of strong CYP3A4 inhibitors (for example, ==clarithromycin==) that reduce the hepatic catabolism of colchicine should be avoided. The coadministration of colchicine and clarithromycin can result in potentially fatal colchicine toxicity that manifests as rhabdomyolysis, acute kidney injury, and pancytopenia. Colchicine is metabolized in the liver by the CYP3A4 cytochrome and should be avoided in patients taking CYP3A4 inhibitors such as clarithromycin and fluconazole. Coadministration with clarithromycin is particularly concerning, because there have been several case reports of fatal outcomes with the combination (even when taken for a short time). Once the patient recovers, however, colchicine may be reinitiated (as it is the combination of the two drugs that led to the current scenario).
 
 ## Analgesics and Pain Pathway Modulators
 
 ### Acetaminophen
+
+<!-- ignore -->
 
 The efficacy of acetaminophen for osteoarthritis and lower back pain has been questioned, with recent controlled trials and meta-analyses demonstrating ==no benefit from the drug==, even at high doses (3000-4000 mg/d). The 2019 guidelines from the American College of Rheumatology and the Arthritis Foundation, however, conditionally recommend acetaminophen for knee, hip, and hand osteoarthritis for patients with limited pharmacologic options.
 
@@ -72,6 +80,8 @@ Methotrexate is a first-line medication for treating RA and other autoimmune dis
 
 Potential side effects include headaches, fatigue, and nausea (particularly around the time of weekly dosing). Hepatotoxicity and cytopenias can occur (especially macrocytic anemia), and dose adjustment is required with kidney disease. Methotrexate should be avoided in patients with significant hepatic or kidney disease. Folic acid supplements minimize toxicity while preserving efficacy. Limiting alcohol intake is recommended.
 
+Daily folic acid supplementation with 1 mg (or weekly folinic acid supplementation) has been found to reduce the mucosal, hematologic, hepatic, and gastrointestinal side effects of methotrexate. Folic acid supplementation also reduces discontinuation of methotrexate for any reason. Methotrexate blocks the cellular utilization of folic acid, and folate depletion is considered to be the cause of most of the side effects associated with methotrexate therapy. Supplementation with folic acid reduces the incidence of side effects without any loss of methotrexate efficacy in treating RA. Folic acid can be taken on the same day as methotrexate because folic acid and methotrexate enter the cell via different pathways. Folinic acid is the reduced form of folate and is typically reserved for patients who have not had a satisfactory response to folic acid. Folinic acid is considerably more expensive than folic acid, and proper timing and administration of folinic acid is complex.
+
 #### Hydroxychloroquine
 
 Hydroxychloroquine is an immunomodulator that is widely used in SLE, in which it decreases mortality and the likelihood of developing nephritis. It is rarely sufficient as single-drug therapy for RA but is useful as an adjunctive therapy.
@@ -82,7 +92,9 @@ Sulfasalazine is used to treat RA and nonaxial psoriatic arthritis, but use has 
 
 #### Leflunomide
 
-Leflunomide is FDA approved for rheumatoid and psoriatic arthritis, with comparable efficacy to methotrexate. Patients must be monitored for hepatotoxicity and myelosuppression. Other common side effects include nausea, headaches, rash, diarrhea, and transaminitis. An uncommon side effect is peripheral neuropathy, but it is usually self-limited if the drug is discontinued. The active metabolite of leflunomide (teriflunomide) has a half-life of nearly 3 weeks; therefore, when the drug needs to be eliminated quickly, an 11-day cholestyramine washout is necessary.
+<!-- leflunomide side effects b:707074191163-->
+
+Leflunomide is FDA approved for rheumatoid and psoriatic arthritis, with comparable efficacy to methotrexate. Patients must be monitored for hepatotoxicity and myelosuppression. Other common side effects include nausea, headaches, rash, diarrhea, and transaminitis. An uncommon side effect is ==peripheral neuropathy==, but it is usually self-limited if the drug is ==discontinued==. The active metabolite of leflunomide (teriflunomide) has a half-life of nearly 3 weeks; therefore, when the drug needs to be eliminated quickly, an 11-day cholestyramine washout is necessary.
 
 #### Azathioprine
 

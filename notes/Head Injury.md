@@ -4,7 +4,7 @@ date: 2022-03-14
 
 # Head Injury
 
-- related: [[Medicine]]
+- related: [[Neurology]]
 - tags: #neurology
 ---
 
@@ -33,25 +33,19 @@ Treatment is matched to the headache phenotype. Acetaminophen, aspirin, NSAIDs, 
 
 ### Severe Traumatic Brain Injury
 
-#### Related Question
+<!-- severe TBI sx, treatment b:1055772148036-->
 
-- Question 4
+Severe TBI may present with an ==alteration in consciousness, seizures, repeated vomiting, or focal neurologic deficits==. Bilateral ==periorbital or mastoid bruising and hemotympanum== may be signs of basilar skull fracture.
 
-Severe TBI may present with an alteration in consciousness, seizures, repeated vomiting, or focal neurologic deficits. Bilateral periorbital or mastoid bruising and hemotympanum may be signs of basilar skull fracture.
+The primary goal of initial management is prevention of hypotension and hypoxia. Normalization of blood oxygenation (arterial PO2 > 60 mm Hg \[8.0 kPa]) and blood pressure (systolic > 90 mm Hg) has been shown to improve outcomes. Early management of elevated intracranial pressure with ==head elevation and mannitol may be required==; continuous measurement of intracranial pressure also may be necessary. ==Head CT== is the preferred imaging study, and ==serial scans== may be necessary. Penetrating injuries, depressed skull fracture, and intracranial hemorrhage all may require urgent surgery.
 
-The primary goal of initial management is prevention of hypotension and hypoxia. Normalization of blood oxygenation (arterial PO2 > 60 mm Hg \[8.0 kPa]) and blood pressure (systolic > 90 mm Hg) has been shown to improve outcomes. Early management of elevated intracranial pressure with head elevation and mannitol may be required; continuous measurement of intracranial pressure also may be necessary. Head CT is the preferred imaging study, and serial scans may be necessary. Penetrating injuries, depressed skull fracture, and intracranial hemorrhage all may require urgent surgery.
+Medical management includes ==mechanical thromboprophylaxis== (with intermittent pneumatic compression) for ==deep venous thrombosis prevention==, glycemic control, and treatment of infectious or gastrointestinal complications. Nutritional support with full caloric replacement by day 7 postinjury is recommended. ==Fever should be controlled aggressively==, with some medical centers advocating induced hypothermia; ==acetaminophen is an appropriate initial treatment==. ==Glucocorticoids worsen the prognosis of severe TBI and should be avoided==.
 
-Medical management includes mechanical thromboprophylaxis (with intermittent pneumatic compression) for deep venous thrombosis prevention, glycemic control, and treatment of infectious or gastrointestinal complications. Nutritional support with full caloric replacement by day 7 postinjury is recommended. Fever should be controlled aggressively, with some medical centers advocating induced hypothermia; acetaminophen is an appropriate initial treatment. Glucocorticoids worsen the prognosis of severe TBI and should be avoided.
-
-## Key Point
-
-- Medical management in the treatment of severe traumatic brain injury includes normalization of blood oxygenation and blood pressure, correction of elevated intracranial pressure, mechanical thromboprophylaxis for deep venous thrombosis, glycemic control, and aggressive control of fever; glucocorticoids should be avoided.
+Prophylactic antibiotics, such as ceftriaxone, are inappropriate for this patient. Fever is a common complication of severe head injury and should be managed aggressively with antipyretic agents.
 
 ### Epidural and Subdural Hematoma
 
-#### Related Question
-
-- Question 47
+<!-- ignore -->
 
 An epidural hematoma arises when an arterial structure is breached and blood collects between the dura mater and skull in a “lentiform” fashion (**[Figure 2](https://mksap18.acponline.org/app/topics/nr/figures/mk18_a_nr_f02)**). Most epidural hematomas involve a laceration of the middle meningeal artery from a temporal bone fracture. Lateral extension is limited by dural attachments at the skull sutures, and expansion occurs inward toward the brain parenchyma. Many patients with an epidural hematoma have a “lucid interval” followed by rapid neurologic compromise. Headache, vomiting, and declining mental status may occur early. Stupor or coma with ipsilateral oculomotor nerve (cranial nerve III) palsy and contralateral hemiparesis may signal transtentorial (uncal) herniation. Urgent surgical evacuation is recommended for those with a GCS score less than 9, anisocoria, or a hematoma greater than 30 mL in volume.
 

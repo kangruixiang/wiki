@@ -58,11 +58,19 @@ Although arthralgia and myalgia often occur at the earlier stages of Lyme diseas
 
 ### _Mycobacterium tuberculosis_
 
-The most common musculoskeletal manifestation of tuberculosis is ==vertebral osteomyelitis== ==(Pott's disease)==, usually resulting from the hematogenous spread of _Mycobacterium tuberculosis_ into the cancellous bone tissue of the vertebral bodies. Patients usually have a primary ==pulmonary focus or extrapulmonary foci== such as the lymph nodes. Predisposing factors for skeletal tuberculosis include previous tuberculosis infection, malnutrition, alcoholism, diabetes mellitus, and HIV infection. The onset of symptoms is commonly insidious, and disease progression is slow, sometimes resulting in delayed diagnosis.
+<!-- TB spinal involvement sx, diagnosis b:860877025194-->
 
-Peripheral arthritis may also occur and typically presents with chronic pain in a single weight-bearing joint such as the knee, with only limited swelling. Concurrent pulmonary tuberculosis is present in a minority of these patients. Musculoskeletal tuberculosis infections are chronic and indolent; laboratory indicators of inflammation may be normal. Synovial fluid shows only nonspecific inflammation, and radiographic abnormalities may be delayed. ==Synovial biopsy== is usually necessary for diagnosis because the yield of synovial fluid smear and culture is less than 50%.
+The most common musculoskeletal manifestation of tuberculosis is ==vertebral osteomyelitis== ==(Pott's disease)==, usually resulting from the hematogenous spread of _Mycobacterium tuberculosis_ into the cancellous bone tissue of the vertebral bodies. Patients usually have a primary ==pulmonary focus or extrapulmonary foci== such as the lymph nodes. Predisposing factors for skeletal tuberculosis include previous tuberculosis infection, malnutrition, alcoholism, diabetes mellitus, and HIV infection. The onset of symptoms is commonly insidious, and disease progression is slow, sometimes resulting in delayed diagnosis. The lower thoracic spine is the most frequently involved segment; common symptoms are back pain, fever, weight loss, and neurologic abnormalities. Paraplegia is the most devastating complication. Diagnosis is suggested by typical clinical presentation, along with evidence of past exposure to tuberculosis or concomitant visceral tuberculosis, and findings on neuroimaging modalities. Bone tissue or abscess samples from needle or surgical biopsy stained for acid-fast bacilli and/or positive cultures are most helpful in diagnosis.
+
+```ad-note
+Middle aged immigrant with weight loss, upper back pain, decreased sensation, granuloma on CXR, vertebral body collapse
+```
+
+==Peripheral arthritis== may also occur and typically presents with chronic pain in a single weight-bearing joint such as the knee, with only limited swelling. Concurrent pulmonary tuberculosis is present in a minority of these patients. Musculoskeletal tuberculosis infections are chronic and indolent; laboratory indicators of inflammation may be normal. Synovial fluid shows only nonspecific inflammation, and radiographic abnormalities may be delayed. ==Synovial biopsy== is usually necessary for diagnosis because the yield of synovial fluid smear and culture is less than 50%.
 
 ### Fungal Infections
+
+<!-- ignore -->
 
 Fungi are uncommon but important causes of bone and joint infections. Risk factors include immunosuppression and exposure to the fungi in endemic areas. Travel and immigration have broadened the risk of some fungal infections to non-endemic areas. Fungal joint infection may be ==indolent and more difficult to diagnose== than other bone and joint infections. Fungal causes of osteomyelitis and arthritis include coccidioidomycosis, blastomycosis, cryptococcosis, candidiasis, and sporotrichosis. Fungal arthritis is usually a result of hematogenous dissemination but can occur after direct inoculation of the joint. Diagnosis of some fungal infections (for example, blastomycosis and sporotrichosis) can be made by synovial fluid examination and culture, whereas serologic testing and synovial biopsy may be needed for other organisms (such as _Coccidioides_). Synovial fluid leukocyte counts vary.
 
@@ -74,11 +82,15 @@ HIV infection is associated with several musculoskeletal disorders, including pa
 
 #### Hepatitis
 
+<!-- Hep B arthritis sx b:348564620580-->
+
 Hepatitis B virus infection causes a ==self-limited arthritis== in up to 25% of infected patients during a prodromal stage prior to the onset of jaundice. Joint involvement can be ==sudden and severe==, with a pattern that is usually ==symmetric==, but can be ==migratory or additive==. Hand and knee joints are most often affected; wrists, ankles, elbows, shoulders, and other large joints may be involved as well. ==Morning stiffness== is common. ==Fusiform swelling of the small joints of the hand== may be found on physical examination. Patients with chronic hepatitis B virus infection may have recurrent but self-limited polyarthralgia or polyarthritis; it is not known to progress or cause joint damage. Both hepatitis B and C virus infection may be accompanied by the presence of rheumatoid factor, which can cause diagnostic confusion.
 
 Acute hepatitis C virus infection can cause acute-onset polyarthritis, including the small hand joints, wrists, shoulders, knees, and hips. One third of patients have an oligoarthritis. Chronic hepatitis C virus infection is often associated with circulating immune complexes, which may produce the clinical syndrome of mixed essential cryoglobulinemia (arthritis, glomerulonephritis, and vasculitis).
 
 #### Parvovirus B19
+
+<!-- ignore -->
 
 Up to 60% of adults with parvovirus B19 experience arthritis. It often presents acutely, is symmetric and polyarticular, and typically involves the proximal small joints of the hands. Parvovirus B19 arthritis should be suspected when appropriate clinical features are present in someone who has exposure to children, such as teachers and caregivers. Acute parvovirus infection is diagnosed by detecting anti-parvovirus IgM antibodies in the serum. Anti-parvovirus IgG antibodies are highly prevalent in the general population and indicate prior infection. Joint symptoms may persist for weeks to months.
 

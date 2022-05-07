@@ -24,6 +24,8 @@ GCA is characterized by granulomatous inflammation of affected vessels with infi
 
 #### Clinical Manifestations and Diagnosis
 
+<!-- GCA sx b:929989253879-->
+
 Common GCA symptoms include ==headache, scalp pain, and temporal artery tenderness==. Symptoms are frequently unilateral but can be bilateral. Aching and fatigue with ==chewing== (jaw claudication) indicates ischemia of the muscles of mastication. Fever, fatigue, and weight loss may be present. The most feared complication is ==ischemic optic neuropathy==, which can cause ==amaurosis fugax== and ==blindness==. Because blindness is usually permanent, early recognition and treatment of any visual change are critical. ==Subcranial disease involving great vessels in the chest occurs in 25% of cases==, resulting in ==upper extremity claudication==. Severe but uncommon complications include ==aortic aneurysm and dissection==. Dilation of the aortic root may cause ==aortic valve regurgitation and heart failure==. ==Up to 50% of patients with GCA have polymyalgia rheumatica== (PMR) that may occur before, concurrent with, or following diagnosis of GCA.
 
 Physical examination may reveal scalp or temporal artery tenderness and induration, reduced pulses and bruits, or aortic regurgitation and heart failure. Laboratory findings may include elevated erythrocyte sedimentation rate (ESR) and/or C-reactive protein (CRP), but some have normal values. Nonspecific evidence of inflammation may include anemia and thrombocytosis.
@@ -32,9 +34,11 @@ GCA is suspected on the basis of the clinical presentation and is confirmed by t
 
 #### Management
 
-Suspected GCA must be treated immediately to prevent visual loss. Prednisone, 1 mg/kg/d, is recommended. Intravenous pulse methylprednisolone for 3 days is used for acute visual loss, but established blindness is usually irreversible. Symptoms and inflammatory markers usually respond rapidly to glucocorticoids; lack of response should prompt reconsideration of the diagnosis. High-dose prednisone is maintained for 2 to 4 weeks; after symptoms resolve and inflammatory markers normalize, prednisone is tapered by 10% to 20% every 2 weeks. Once a dose of 10 mg/d is reached, the taper is slowed to 1 mg per month. Patients should be carefully monitored for symptom recurrence. ESR and/or CRP should be monitored monthly but should not be the sole indication for adjusting the glucocorticoid dose. Mild flares can be managed with increases of prednisone by 10% to 20% and a slower tapering schedule.
+<!-- GCA management b:324197963304-->
 
-Based on limited data, daily low-dose aspirin may help to reduce the risk of blindness and is recommended for those without contraindication. Glucocorticoid-sparing immunosuppressives such as methotrexate are sometimes used, although little data support their efficacy. The IL-6 inhibitor tocilizumab was recently approved by the FDA for treatment of GCA.
+Suspected GCA must be treated immediately to prevent visual loss. ==Prednisone==, 1 mg/kg/d, is recommended. ==Intravenous pulse methylprednisolone for 3 days== is used for acute visual loss, but established blindness is usually irreversible. Symptoms and inflammatory markers usually respond rapidly to glucocorticoids; lack of response should prompt reconsideration of the diagnosis. High-dose prednisone is ==maintained for 2 to 4 weeks==; after symptoms resolve and inflammatory markers normalize, ==prednisone is tapered by 10% to 20% every 2 weeks==. Once a dose of 10 mg/d is reached, the taper is slowed to 1 mg per month. Patients should be carefully monitored for symptom recurrence. ==ESR and/or CRP should be monitored monthly== but should not be the sole indication for adjusting the glucocorticoid dose. Mild flares can be managed with increases of prednisone by 10% to 20% and a slower tapering schedule.
+
+Based on limited data, ==daily low-dose aspirin== may help to reduce the risk of blindness and is recommended for those without contraindication. Glucocorticoid-sparing immunosuppressives such as methotrexate are sometimes used, although little data support their efficacy. The IL-6 inhibitor tocilizumab was recently approved by the FDA for treatment of GCA.
 
 The prognosis for properly treated GCA is good unless aortitis is present. GCA may recur.
 
@@ -42,13 +46,23 @@ The prognosis for properly treated GCA is good unless aortitis is present. GCA m
 
 #### Epidemiology and Pathophysiology
 
-Although not a vasculitis, polymyalgia rheumatica (PMR) is an inflammatory disorder that frequently accompanies GCA. PMR and GCA likely reflect the clinical spectrum of a single disease process, although PMR occurs 3 to 10 times more frequently. Up to 50% of patients presenting with GCA have PMR, and 20% of patients presenting with PMR have GCA symptoms on questioning.
+<!-- c:1367550734987 -->
+
+Although not a vasculitis, ==1.polymyalgia rheumatica (PMR)== is an inflammatory disorder that frequently accompanies ==2.GCA==.
+
+<!-- ignore -->
+
+PMR and GCA likely reflect the clinical spectrum of a single disease process, although PMR occurs 3 to 10 times more frequently. Up to 50% of patients presenting with GCA have PMR, and 20% of patients presenting with PMR have GCA symptoms on questioning.
 
 #### Clinical Manifestations and Diagnosis
+
+<!-- PMR sx b:293485181244-->
 
 PMR is associated with ==pain and stiffness of the neck, shoulder, and hip girdle==. Pain and stiffness are worse after immobility; 1 hour or more of morning stiffness is common. Inflammation is periarticular (bursitis and tenosynovitis). Synovitis in the hands and feet occasionally occurs. Constitutional symptoms and laboratory findings resemble GCA, but temporal artery biopsy should be performed only if GCA is suspected. Diagnosis of PMR is made clinically. Differential diagnosis includes myopathies, metabolic syndromes (thyroid and parathyroid), and musculoskeletal syndromes (capsulitis, cervical spondylosis, or calcium pyrophosphate deposition).
 
 #### Management
+
+<!-- ignore -->
 
 PMR responds dramatically to low-dose prednisone (12.5-20 mg/d); lack of a rapid response should prompt consideration of alternate diagnoses. Prednisone taper is initiated 1 to 2 months after symptom resolution and requires months to years. Monitoring of recurrence is managed similarly to GCA. For relapses, recent guidelines for the management of PMR (developed by a collaborative effort of the American College of Rheumatology and the European League Against Rheumatism) recommend increasing the prednisone to the last pre-relapse dose at which the patient was doing well, followed by a gradual reduction within 4 to 8 weeks back to the relapse dose. Glucocorticoid-sparing therapies are the same as for GCA. Prognosis is good, although periodic recurrences are common.
 
@@ -56,7 +70,9 @@ PMR responds dramatically to low-dose prednisone (12.5-20 mg/d); lack of a rapid
 
 #### Epidemiology and Pathophysiology
 
-Takayasu arteritis (TA) causes inflammation of the large vessels, most commonly the ==aorta==, followed by the subclavian, common carotid, and renal arteries; the pulmonary arteries may also be involved. TA is rare (40/million in Japan and 4.7 to 8/million elsewhere). In contrast to GCA, TA predominantly affects younger women. Arterial lesions are often stenotic (“pulseless disease”), and one third contain aneurysms. Histopathology is similar to GCA.
+<!-- Takayasu demographics, sx, treatment b:926148053062-->
+
+Takayasu arteritis (TA) causes inflammation of the large vessels, most commonly the ==aorta==, followed by the subclavian, common carotid, and renal arteries; the pulmonary arteries may also be involved. TA is rare (40/million in Japan and 4.7 to 8/million elsewhere). In contrast to GCA, TA predominantly affects ==younger women==. Arterial lesions are often stenotic (“==pulseless disease==”), and ==one third contain aneurysms==. Histopathology is similar to GCA.
 
 #### Clinical Manifestations and Diagnosis
 
@@ -71,6 +87,8 @@ Primary treatment of TA is ==high-dose glucocorticoids== (1 mg/kg/d) with a slow
 ### Polyarteritis Nodosa
 
 #### Epidemiology and Pathophysiology
+
+<!-- polyarteritis nodosa demographics, sx, dx, rx b:1522294651985-->
 
 Polyarteritis nodosa (PAN) is a rare systemic ==necrotizing vasculitis== that affects medium and occasionally small arteries. Prevalence is 31/million but declining. PAN is more ==common in men== than women. Average age of onset is ==50 years==.
 
@@ -98,6 +116,8 @@ The gold standard for diagnosis is focal segmental ==panmural necrotizing inflam
 
 #### Epidemiology and Pathophysiology
 
+<!-- primary angiitis of central nervous system demographics, sx, dx, rx b:1574689089039-->
+
 Primary angiitis of the central nervous system (PACNS) is a rare medium-vessel vasculitis of unknown cause that is confined to the central nervous system. Incidence is 2.4/100,000. ==Median age at onset is 50 years==. There are three histologic presentations, all with patchy distribution: ==granulomatous== (58%), lymphocytic (28%), and necrotizing (14%).
 
 #### Clinical Manifestations and Diagnosis
@@ -112,19 +132,11 @@ PACNS is treated with ==high-dose glucocorticoids and cyclophosphamide==. Patien
 
 ### Kawasaki Disease
 
-#### Related Question
-
-- Question 77
+<!-- ignore -->
 
 Kawasaki disease (KD) is a medium-vessel vasculitis that affects children and is very rare in adults. KD presents as fever, rash, cervical lymphadenopathy, conjunctival congestion, and mucositis. Coronary vessel vasculitis, aneurysm formation, and other cardiac complications (heart failure, pericarditis, arrhythmias) may develop. Treatment is with intravenous immunoglobulin and aspirin.
 
 Many patients recover fully. However, coronary aneurysms may develop, and adults who had KD in childhood may suffer long-term cardiac sequelae. Chronic low-dose aspirin is indicated for coronary artery abnormalities. Clopidogrel may be added for cases with multiple aneurisms; warfarin prophylaxis is recommended for giant aneurysms.
-
-## Key Points
-
-- Polyarteritis nodosa most commonly affects the skin, neurologic, and musculoskeletal systems; the gold standard for diagnosis is focal segmental panmural necrotizing inflammation of a medium-sized vessel on biopsy.
-- Patients with primary angiitis of the central nervous system usually present with gradual and progressive symptoms of headache, cognitive impairment, neurologic deficits, transient ischemic attacks, and strokes; treatment consists of high-dose glucocorticoids and cyclophosphamide.
-- Kawasaki disease (KD) affects children; many patients recover fully, but coronary aneurysms may develop, and adults who had KD in childhood may suffer long-term cardiac sequelae.
 
 ## Small-Vessel Vasculitis
 
@@ -148,6 +160,8 @@ Granulomatosis with polyangiitis (GPA) is the most common ANCA-associated vascul
 
 ##### Clinical Manifestations and Diagnosis
 
+<!-- granulomatosis with polyangiitis antibody, sx b:1386148650904-->
+
 GPA affects the ==upper and lower airways, kidneys==, eyes, and ears. At least 50% of patients have constitutional symptoms. More than 95% of patients are ANCA positive, overwhelmingly (>90%) directed against proteinase 3 ==(anti-PR3 antibodies; c-ANCA)==.
 
 GPA has two forms: systemic and localized. Systemic is more common, involves major organs, and is anti-PR3 positive. Localized has more granulomatous inflammation, has less vasculitis, and is less likely to be anti-PR3 positive. Patients in the localized group are more likely to be younger and female; have mainly ear, nose, and throat involvement; and be more prone to relapse.
@@ -155,6 +169,8 @@ GPA has two forms: systemic and localized. Systemic is more common, involves maj
 In the setting of a classic clinical presentation and positive c-ANCA/anti-PR3, diagnosis of GPA is straightforward. However, because of significant risks of treatment, biopsy of involved tissue is usually recommended. Histopathology of most tissues demonstrates pauci-immune necrotizing granulomatous vasculitis; pauci-immune necrotizing glomerulonephritis without granulomas is seen on kidney biopsy.
 
 ##### Management
+
+<!-- GPA management b:694451081905-->
 
 For induction of remission in severe organ-threatening or life-threatening disease, treatment of GPA consists of ==high-dose glucocorticoids plus cyclophosphamide or rituximab==, followed by maintenance therapy with ==azathioprine, mycophenolate mofetil, or rituximab== for at least 12 to 24 months after stable remission has been achieved. Glucocorticoids alone are insufficient to control GPA. Patients with nonsevere forms of GPA (such as arthropathy or upper airway disease) without organ-threatening disease can be treated with glucocorticoids plus either methotrexate or mycophenolate mofetil; such patients should be carefully monitored for treatment failure or the development of renal or other organ-threatening disease, necessitating the more aggressive regimen. Using these approaches, GPA mortality has declined from 90% to around 10%.
 
@@ -172,6 +188,8 @@ Kidney failure and infection are the main causes of mortality.
 
 ##### Epidemiology and Pathophysiology
 
+<!-- microscopic polyangitis antibody, sx b:931972259779-->
+
 The incidence of microscopic polyangiitis (MPA) is estimated at 2.7 to 94/million/year in Europe and lower elsewhere. Average age at onset is between 50 to 60 years with a predilection of men over women (1.8:1). In contrast to GPA, ANCA are less prevalent (50%-75%) and tends to be directed against ==myeloperoxidase (MPO) rather than PR3==.
 
 ##### Clinical Manifestations and Diagnosis
@@ -179,6 +197,8 @@ The incidence of microscopic polyangiitis (MPA) is estimated at 2.7 to 94/millio
 Like GPA, MPA characteristically affects the ==lungs and kidneys==, along with other organ systems. See **[Table 41](https://mksap18.acponline.org/app/topics/rm/tables/mk18_a_rm_t41)** for the clinical features of MPA. Diagnosis is suspected based upon typical clinical findings and positive ANCA, although negative ANCA does not rule out the diagnosis. The diagnostic gold standard is a biopsy demonstrating ==nongranulomatous necrotizing pauci-immune vasculitis== of small vessels or pauci-immune necrotizing crescentic glomerulonephritis in the kidney. Absence of granulomas distinguishes MPA from GPA.
 
 ##### Management
+
+<!-- ignore -->
 
 Like GPA, MPA treatment requires high-dose glucocorticoids plus either cyclophosphamide or rituximab, followed by maintenance therapy with azathioprine, mycophenolate mofetil, or rituximab.
 
@@ -214,7 +234,7 @@ Cryoglobulins can cause immune complex–mediated small-vessel vasculitis. There
 
 ##### Epidemiology and Pathophysiology
 
-Mixed cryoglobulinemia accounts for 85% to 90% of all cases; 90% of mixed cases are related to hepatitis C virus (HCV) infection, which can cause both type II and type III cryoglobulinemia. Autoimmune diseases such as systemic lupus erythematosus and Sjögren syndrome cause type III cryoglobulinemia. Onset is usually in the fifth decade, and women slightly outnumber men.
+Mixed cryoglobulinemia accounts for 85% to 90% of all cases; 90% of mixed cases are related to ==hepatitis C virus== (HCV) infection, which can cause both type II and type III cryoglobulinemia. Autoimmune diseases such as systemic lupus erythematosus and Sjögren syndrome cause type III cryoglobulinemia. Onset is usually in the fifth decade, and women slightly outnumber men.
 
 ##### Clinical Manifestations and Diagnosis
 
@@ -232,13 +252,19 @@ See [MKSAP 18 Nephrology](https://mksap18.acponline.org/app/topics/np/mk18_b_np
 
 ##### Epidemiology and Pathophysiology
 
-IgA vasculitis (Henoch-Schönlein purpura) is a common vasculitis of childhood that occurs rarely in adults. Estimated incidence in adults is 14/million/year. Onset is often preceded by a viral or streptococcal upper respiratory infection.
+<!-- IgA vasculitis sx, dx b:1148089480578-->
+
+IgA vasculitis ==(Henoch-Schönlein purpura)== is a common vasculitis of childhood that occurs rarely in adults. Estimated incidence in adults is 14/million/year. Onset is often preceded by a viral or streptococcal upper respiratory infection.
 
 ##### Clinical Manifestations and Diagnosis
 
-Patients with IgA vasculitis typically present with a palpable purpura in dependent areas. Gastrointestinal symptoms such as abdominal pain or bleeding (65%), arthritis and arthralgia (63%), and glomerulonephritis (40%) may be present. Although rare, life-threatening pulmonary hemorrhage may occur.
+Patients with IgA vasculitis typically present with a ==palpable purpura== in dependent areas. ==Gastrointestinal symptoms== such as abdominal pain or bleeding (65%), ==arthritis and arthralgia== (63%), and ==glomerulonephritis== (40%) may be present. Although rare, life-threatening pulmonary hemorrhage may occur.
 
-There are no specific laboratory tests for diagnosis; serum IgA may be elevated but is not sensitive or specific. Diagnosis is confirmed with biopsy. Skin biopsy demonstrates leukocytoclastic vasculitis with heavy deposits of IgA and complement on immunofluorescent staining. Renal histology is identical to IgA nephropathy.
+```ad-note
+Triad: abdominal pain, arthralgia, purpura
+```
+
+There are no specific laboratory tests for diagnosis; serum IgA may be elevated but is not sensitive or specific. Diagnosis is confirmed with biopsy. ==Skin biopsy== demonstrates ==leukocytoclastic vasculitis with heavy deposits of IgA and complement== on immunofluorescent staining. Renal histology is identical to IgA nephropathy.
 
 ##### Management
 
@@ -247,6 +273,8 @@ Although IgA vasculitis in children tends to be self-limited, adults are more li
 #### Hypersensitivity Vasculitis
 
 ##### Epidemiology and Pathophysiology
+
+<!-- ignore -->
 
 Hypersensitivity vasculitis is a small-vessel vasculitis mediated by immune complex deposition confined to the skin. It may be triggered by an antigen such as a drug or infection; in 50% of cases, the antigen is unknown.
 

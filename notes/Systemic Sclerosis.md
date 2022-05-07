@@ -22,6 +22,8 @@ Although intended for research studies, the 2013 American College of Rheumatolog
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220304093326.png)
 
+<!-- systemic sclerosis types b:1182823728836-->
+
 Classically, SSc is divided into three subtypes based on the extent of skin involvement: limited cutaneous systemic sclerosis (LcSSc), diffuse cutaneous systemic sclerosis (DcSSc), and systemic sclerosis sine scleroderma (internal organ involvement only). These subtypes have clinical and prognostic utility because specific long-term complications may be more likely in one subtype than another; however, overlap is common. Importantly, ==LcSSc is less commonly accompanied by fibrosis of internal organs, but is most commonly associated with pulmonary arterial hypertension and CREST== (calcinosis, Raynaud phenomenon, esophageal dysmotility, sclerodactyly, and telangiectasia) syndrome.
 
 Various disorders may present with skin thickening and other manifestations that overlap with the findings of SSc; these conditions should be considered in the differential diagnosis of SSc (**[Table 29](https://mksap18.acponline.org/app/topics/rm/tables/mk18_a_rm_t29)**). Importantly, these conditions are not typically associated with Raynaud phenomenon, and the absence of Raynaud phenomenon in a patient with skin thickening makes SSc unlikely.
@@ -30,11 +32,15 @@ Various disorders may present with skin thickening and other manifestations that
 
 ## Clinical Manifestations and Diagnosis
 
+<!-- systemic sclerosis antibodies b:648807328747-->
+
 The diagnosis of SSc is dependent on the presence of specific clinical findings and autoantibodies (present in 90%-95% of patients). In patients with clinical features suggestive of SSc, autoantibody testing should be done (**[Table 30](https://mksap18.acponline.org/app/topics/rm/tables/mk18_a_rm_t30)**).
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220304093440.png)
 
 ### Cutaneous Involvement
+
+<!-- systemic sclerosis skin sx b:1043735285215-->
 
 The skin is the most common organ involved in SSc, with the hands being universally affected. In LcSSc, the skin over the fingers/hands, face, and neck is typically affected. In DcSSc, skin involvement is more extensive and additionally includes the arms, trunk, and lower extremities.
 
@@ -45,6 +51,14 @@ A 35-year-old woman with diffuse cutaneous systemic sclerosis. Note shortening o
 
 Vascular complications of the skin include digital infarcts, subungual infections, and ischemic skin ulceration. Another feature is poikiloderma, in which areas of hyperpigmentation mixed with hypopigmentation give the skin a salt-and-pepper appearance.
 
+==Raynaud phenomenon== occurs in approximately 95% of patients with SSc; it is the most common early manifestation of SSc, typically occurring years before other changes. Initially, Raynaud phenomenon is episodic, but with vascular fibrosis, the blood supply becomes permanently restricted. Approximately 80% of patients with the combination of Raynaud phenomenon, an SSc-associated autoantibody, and nailfold capillary changes in an SSc pattern (**[Figure 22](https://mksap18.acponline.org/app/topics/rm/figures/mk18_a_rm_f22)**), will develop SSc.
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220304093725.png)
+
+Capillary loops in systemic sclerosis. _Top_, Early changes with loss of capillary loop density (or drop out) with marked dilatation of the remaining capillary loops. _Bottom_, Late changes with extensive loss of capillary loops.
+
+Digital ulcers occur in about 15% of patients with SSc, typically on the extensor surfaces and tips of the fingers and toes but also on the dorsum of hands and feet and even on the lower extremities. Vascular changes in the extremities may be indicative of involvement of the microcirculation of internal organs.
+
 Facial involvement can lead to limitation of the oral aperture and difficulty eating. The face is also typically devoid of wrinkles, causing patients to sometimes look younger than their age.
 
 Calcinosis occurs in approximately 25% of patients with SSc (**[Figure 20](https://mksap18.acponline.org/app/topics/rm/figures/mk18_a_rm_f20)**). Present in the hands, forearms, elbows, gluteal region, and iliac crest, these deposits can be seen/felt and are easily detected on radiograph.
@@ -53,6 +67,8 @@ Calcinosis occurs in approximately 25% of patients with SSc (**[Figure 20](http
 Calcinosis seen in CREST (calcinosis cutis, Raynaud phenomenon, esophageal dysmotility, sclerodactyly, and telangiectasia) syndrome in limited cutaneous systemic sclerosis. This patient has deposits of calcium in the subcutaneous tissues around the elbow. Calcinosis often occurs in the hands and forearms but can also affect other locations such as the trunk or lower extremities.
 
 ### Musculoskeletal Involvement
+
+<!-- systemic sclerosis joint and muscle sx b:357166012324-->
 
 Joint involvement occurs in 12% to 65% of patients with SSc; it has a hand/wrist predominance and is one of the few forms of inflammatory arthritis that affects the distal interphalangeal joints. Between 1% and 5% of patients have a rheumatoid arthritis–SSc overlap, with positive anti–cyclic citrullinated antibodies and classic rheumatoid arthritis manifestations along with those of SSc.
 
@@ -65,17 +81,9 @@ SSc-associated myositis occurs in 10% to 15% of patients. Myalgia and proximal m
 
 Tendon rubs can be felt or heard with a stethoscope because fibrosis affects tendons/tendons sheaths, leading to palpable and audible friction.
 
-### Vascular Involvement
-
-==Raynaud phenomenon== occurs in approximately 95% of patients with SSc; it is the most common early manifestation of SSc, typically occurring years before other changes. Initially, Raynaud phenomenon is episodic, but with vascular fibrosis, the blood supply becomes permanently restricted. Approximately 80% of patients with the combination of Raynaud phenomenon, an SSc-associated autoantibody, and nailfold capillary changes in an SSc pattern (**[Figure 22](https://mksap18.acponline.org/app/topics/rm/figures/mk18_a_rm_f22)**), will develop SSc.
-
-![](https://photos.thisispiggy.com/file/wikiFiles/20220304093725.png)
-
-Capillary loops in systemic sclerosis. _Top_, Early changes with loss of capillary loop density (or drop out) with marked dilatation of the remaining capillary loops. _Bottom_, Late changes with extensive loss of capillary loops.
-
-Digital ulcers occur in about 15% of patients with SSc, typically on the extensor surfaces and tips of the fingers and toes but also on the dorsum of hands and feet and even on the lower extremities. Vascular changes in the extremities may be indicative of involvement of the microcirculation of internal organs.
-
 ### Gastrointestinal Involvement
+
+<!-- systemic sclerosis GI sx b:1397854385100-->
 
 Symptoms of ==esophageal dysmotility and reflux== are common in all forms of SSc and may offer an early clue to the diagnosis when associated with other symptoms.
 
@@ -89,11 +97,15 @@ More than 70% of patients with SSc have clinical gastrointestinal involvement. G
 
 ### Kidney Involvement
 
-One of the most concerning manifestations of SSc is scleroderma renal crisis, which affects 5% of patients and was previously the chief cause of mortality. Risk factors include DcSSc, use of moderate- to high-dose glucocorticoids, and the presence of anti-RNA polymerase III antibodies. Patients characteristically present with manifestations of hypertensive emergency, including headache, encephalopathy, seizures, and hypertensive retinopathy. Rarely, a normotensive form of scleroderma renal crisis can occur.
+<!-- systemic sclerosis renal sx, risks b:1468622019131-->
 
-Laboratory tests demonstrate microangiopathic hemolytic anemia with schistocytes on peripheral smear, thrombocytopenia, and proteinuria. Serum creatinine is typically elevated and may remain so for some time after controlling blood pressure. Abnormalities in the renin-angiotensin-aldosterone system and endothelin-1 contribute to the pathophysiology.
+One of the most concerning manifestations of SSc is ==scleroderma renal crisis==, which affects 5% of patients and was previously the chief cause of mortality. Risk factors include ==DcSSc==, ==use of moderate- to high-dose glucocorticoids==, and the presence of ==anti-RNA polymerase III antibodies==. Patients characteristically present with manifestations of hypertensive emergency, including headache, encephalopathy, seizures, and hypertensive retinopathy. Rarely, a normotensive form of scleroderma renal crisis can occur.
+
+Laboratory tests demonstrate ==microangiopathic hemolytic anemia with schistocytes== on peripheral smear, thrombocytopenia, and proteinuria. ==Serum creatinine is typically elevated== and may remain so for some time after controlling blood pressure. Abnormalities in the renin-angiotensin-aldosterone system and endothelin-1 contribute to the pathophysiology. ACE inhibitors significantly improve kidney survival and decrease mortality among patients with SRC, regardless of the serum creatinine level.
 
 ### Lung Involvement
+
+<!-- systemic sclerosis lung sx b:988570824200-->
 
 Lung involvement in SSc includes pleuritis and pleural effusions, interstitial lung disease (ILD), pulmonary arterial hypertension (PAH), bronchiolitis, pulmonary veno-occlusive disease, respiratory muscle weakness, and skin involvement of the trunk restricting chest wall movement. Patients are also at increased risk of lung cancer.
 
@@ -102,6 +114,8 @@ Lung involvement in SSc includes pleuritis and pleural effusions, interstitial l
 ==PAH== has a prevalence of 10% in SSc. Patients present with ==exertional dyspnea==, and with more advanced disease may have chest pain and edema as the right ventricle begins to fail. Pulmonary vascular disease occurs in up to 40% of patients with systemic sclerosis. Vascular disease leading to pulmonary arterial hypertension may occur secondary to interstitial lung disease (typically in patients with diffuse cutaneous systemic sclerosis) or as an isolated process (typically in limited cutaneous systemic sclerosis. Patients are usually asymptomatic in early disease but later develop dyspnea on exertion and diminished exercise tolerance. Severe disease can lead to right-sided heart failure. This patient with limited cutaneous systemic sclerosis and progressive dyspnea has a normal chest radiograph and a normal pulmonary examination, but an increased pulmonic sound and a widened split of S2 on cardiac examination compatible with pulmonary hypertension. Taken together, the most likely cause of the patient's progressive dyspnea is pulmonary arterial hypertension. Initial evaluation of this patient should proceed with pulmonary function tests and echocardiography. Patients with SSc should undergo echocardiography annually and more frequently for new or concerning symptoms. PFTs can provide a clue to underlying PAH; an FVC/DLCO ratio of ≥1.6 suggests the diagnosis. Right heart catheterization is required for accurate diagnosis.
 
 ### Cardiac Involvement
+
+<!-- ignore -->
 
 Cardiac involvement with SSc is more common in men. Clinically significant pericarditis occurs in 10% of patients. Myocardial fibrosis is a more significant process caused by vascular vasospasm leading to myocardial ischemia and fibrosis. The result may be heart failure and arrhythmias. Mortality in those with myocardial fibrosis is quite high.
 
@@ -113,10 +127,16 @@ Cardiac involvement with SSc is more common in men. Clinically significant peric
 
 ACE inhibitors (typically ==captopril==) can be lifesaving in patients with ==scleroderma renal crisis== and should be titrated to control blood pressure. Dialysis may be needed temporarily. ACE inhibitor therapy should be continued in scleroderma renal crisis even in the presence of a rising serum creatinine and the need for dialysis, as late improvement may occur. In patients at high risk for developing scleroderma renal crisis, the prophylactic use of calcium channel blockers seems to offer some protection. However, ==prophylactic use of an ACE inhibitor has not been shown to offer protection== and may increase mortality.
 
+<!-- systemic sclerosis lung treatment b:1432965483971-->
+
 ==Cyclophosphamide== can be used for stabilizing ILD, but the impact is modest and may not persist beyond 1 year. Recent evidence suggests that ==mycophenolate mofetil is as useful for stabilizing ILD as cyclophosphamide== in SSc but with less toxicity. Mycophenolate mofetil can also be used for long-term therapy, making it the preferred agent for most patients with SSc-associated ILD.
+
+<!-- c:726182331485 -->
 
 ==Rituximab== is a promising agent in SSc; in case series and one controlled trial, it has stabilized or slightly improved lung function and skin ulcers. In a 2019 randomized controlled trial, the annual rate of decline in forced vital capacity was lower with nintedanib (a tyrosine kinase inhibitor) than with placebo among patients with ILD associated with systemic sclerosis. Autologous hematopoietic stem cell transplantation has been studied for several years in patients with severe SSc; one third to one half of patients had significant improvement in skin thickening and antibody status. However, cost and potential toxicity limit the utility of stem cell transplantation at present.
 
 ## Pregnancy
+
+<!-- ignore -->
 
 Pregnant patients with SSc may experience hypertensive disease, preeclampsia, preterm delivery, and low birth weights. In general, pregnancy does not make SSc worse, and some features (for example, digital ulcers) may actually improve. Contraindications to pregnancy in patients with SSc include PAH and severe restrictive lung disease (FVC of <1 L); in the setting of PAH, the hemodynamic changes of pregnancy can put the mother at considerable risk. See [Principles of Therapeutics](https://mksap18.acponline.org/app/topics/rm/mk18_a_rm_s2/mk18_a_rm_s2_6) for details on medications and pregnancy.

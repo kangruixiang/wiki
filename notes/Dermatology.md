@@ -1,11 +1,40 @@
 ---
-date: 2020-09-07
+date: 2022-04-07
 ---
+---
+
+## date: 2020-09-07
 
 # Dermatology
+
+- related: [[Medicine]]
 ---
 
-## typora-copy-images-to: ./images
+## MKSAP
+
+- [[Approach to the Patient with Dermatologic Disease]]
+- [[Therapeutic Principles in Dermatology]]
+- [[Common Rashes]]
+- [[Disorders of Pigmentation]]
+- [[Drug Reactions]]
+- [[Acneiform Eruptions]]
+- [[Common Skin Infections]]
+- [[Infestations]]
+- [[Bites and Stings]]
+- [[Cuts, Scrapes, and Burns]]
+- [[Common Neoplasms]]
+- [[Pruritus]]
+- [[Urticaria]]
+- [[Autoimmune Bullous Diseases]]
+- [[Cutaneous Manifestations of Internal Disease]]
+- [[Dermatologic Emergencies]]
+- [[Hair Disorders]]
+- [[Nail Disorders]]
+- [[Disorders of the Mucous Membranes]]
+- [[Foot and Lower Leg Ulcers]]
+- [[Dermatologic Conditions of Pregnancy and Aging]]
+
+## Others
 
 - [[pseudofolliculitis barbae]]
 - [[toxic shock]]

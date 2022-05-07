@@ -30,6 +30,8 @@ The most common type of OA is primary OA, in which no identifiable proximal caus
 
 #### Erosive Osteoarthritis
 
+<!-- erosive osteoarthritis xray features b:1054482949185-->
+
 Erosive (inflammatory) OA is an aggressive subset of primary hand OA. Clinically, erosive OA mostly affects the DIP and PIP joints, is ==more inflammatory and painful than typical hand OA== (with erythema and swelling), and is ==more common in women==. Radiographs reveal diagnosis-defining central erosions (in contrast to marginal erosions seen in rheumatoid arthritis) with a “seagull” or “gull-wing” appearance in the finger joints (**[Figure 7](https://mksap18.acponline.org/app/topics/rm/figures/mk18_a_rm_f07)**); joint ankylosis (bony fusion) may also occur. Whether erosive OA comprises a separate disease entity or is part of the continuum of OA remains controversial.
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220302092120.png)
@@ -37,28 +39,27 @@ Plain radiographs showing erosive hand osteoarthritis (OA). Note the classic “
 
 ### Secondary Osteoarthritis
 
+<!-- ignore -->
+
 Secondary OA is historically defined in the presence of a predisposing disorder; however, an increasing number of risk factors are being identified for primary OA, thus blurring the lines between the primary and secondary forms of the disease. Pathologic changes, clinical presentations, symptoms, and management are indistinguishable between primary and secondary OA. When OA is observed in a joint not typically affected by primary OA, however, secondary causes should be entertained. Commonly recognized causes of secondary OA include a history of frank damage such as trauma, joint infection, or surgical repair (such as anterior cruciate ligament repair or meniscectomy); congenitally abnormal joints (for example, hip dysplasia); systemic metabolic, endocrine, and neuropathic disorders, particularly those that affect cartilage; and underlying inflammatory arthritis with accompanying damage (for example, rheumatoid or psoriatic arthritis) (**[Table 15](https://mksap18.acponline.org/app/topics/rm/tables/mk18_a_rm_t15)**).
 
 ### Diffuse Idiopathic Skeletal Hyperostosis
 
-#### Related Question
+<!-- diffuse idiopathic skeletal hyperostosis is, sx, imaging finding b:1276867609210-->
 
-- Question 91
-
-Diffuse idiopathic skeletal hyperostosis (DISH) is a noninflammatory condition characterized by calcification and ossification of spinal ligaments (especially the anterior longitudinal ligament) and entheses (tendon and ligament attachments to bone). Unlike OA, DISH is more common in men. DISH usually presents as back pain and stiffness, with the thoracic spine most often involved. Although spinal ligamentous ossification is also seen in ankylosing spondylitis, the spinal calcifications in DISH are more “flowing,” wider and less vertically oriented than those seen with ankylosing spondylitis. There is additionally no involvement of the sacroiliac joints in DISH.
+Diffuse idiopathic skeletal hyperostosis (DISH) is a noninflammatory condition characterized by ==calcification and ossification of spinal ligaments== (especially the anterior longitudinal ligament) and entheses (tendon and ligament attachments to bone). Unlike OA, DISH is more common in ==men==. DISH usually presents as ==back pain and stiffness==, with the thoracic spine most often involved. Although spinal ligamentous ossification is also seen in ankylosing spondylitis, the spinal calcifications in DISH are more “flowing,” wider and less vertically oriented than those seen with ankylosing spondylitis. There is additionally no involvement of the sacroiliac joints in DISH.
 
 Radiographic changes characteristic of DISH include confluent ossification of at least four contiguous vertebral levels, usually on the right side of the spine (**[Figure 8](https://mksap18.acponline.org/app/topics/rm/figures/mk18_a_rm_f08)**). Patients with DISH have less involvement of the left side of the thoracic spine, perhaps secondary to the aorta serving as a mechanical barrier to the production of bony hyperostosis.
 
-## Key Points
+![](https://photos.thisispiggy.com/file/wikiFiles/20220320105710.png)
 
-- The most common type of osteoarthritis (OA) is primary OA, in which no identifiable proximal cause is recognized.
-- Erosive osteoarthritis (OA) mostly affects the distal interphalangeal and proximal interphalangeal joints, is more inflammatory and painful than typical hand OA (with erythema and swelling), and is more common in women.
-- Commonly recognized causes of secondary osteoarthritis include a history of frank damage; congenitally abnormal joints; systemic metabolic, endocrine, and neuropathic disorders; and underlying inflammatory arthritis.
-- Diffuse idiopathic skeletal hyperostosis is a noninflammatory condition characterized by calcification and ossification of spinal ligaments and entheses; radiographs usually show confluent “flowing” ossification of at least four contiguous vertebral levels, usually on the right side of the spine.
+Plain lumbar radiograph of a patient with diffuse idiopathic skeletal hyperostosis (DISH). Note the calcification at sites of tendinous and ligamentous insertion of the spine, taking the form of flowing ossification of multiple contiguous vertebrae (_arrows_). Also seen here is the typical extensive involvement of the right side of the spine and relative sparing of the left (calcification of the anterior longitudinal ligament is also common, but not readily observed in this view).
 
 ## Diagnosis
 
 ### Clinical Manifestations
+
+<!-- ignore -->
 
 OA diagnosis is based on history and physical examination; radiography is confirmatory but may not be necessary. In early OA, clinical findings may not be accompanied by radiographic changes; conversely, some patients with prominent radiographic changes may have minimal or no symptoms. Patients with OA are typically over 50 years of age; diagnosis at an earlier age should prompt inquiry into a history of prior joint damage, endocrine or metabolic disorders, or a genetic proclivity for early disease.
 

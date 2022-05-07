@@ -114,15 +114,10 @@ Prophylactic anticoagulation in combination with mechanical devices is recommend
 
 ## Paraneoplastic Neurologic Syndromes
 
-#### Related Questions
+<!-- paraneoplastic neurologic syndromes sx, associated cancer and antibodies b:1044947764153-->
 
-- Question 15
-- Question 39
+Antibody-mediated neurologic syndromes may occur as primary autoimmune or paraneoplastic disorders. Various syndromes have been described with different neurologic manifestations and findings on serum and CSF studies (**[Table 53](https://mksap18.acponline.org/app/topics/nr/tables/mk18_a_nr_t53)**). Suggestive symptoms include ==new-onset status epilepticus== in a patient without epilepsy, ==acute psychosis== in a healthy patient, ==acute movement disorder== (ataxia, chorea, myoclonus, tremor), ==acute progressive peripheral neuropathy==, and ==systemic signs of malignancy== (severe anorexia, weight loss, lymphadenopathy).
 
-Antibody-mediated neurologic syndromes may occur as primary autoimmune or paraneoplastic disorders. Various syndromes have been described with different neurologic manifestations and findings on serum and CSF studies (**[Table 53](https://mksap18.acponline.org/app/topics/nr/tables/mk18_a_nr_t53)**). Suggestive symptoms include new-onset status epilepticus in a patient without epilepsy, acute psychosis in a healthy patient, acute movement disorder (ataxia, chorea, myoclonus, tremor), acute progressive peripheral neuropathy, and systemic signs of malignancy (severe anorexia, weight loss, lymphadenopathy).
+![](https://photos.thisispiggy.com/file/wikiFiles/20220328102214.png)
 
 Evaluation should include brain MRI with contrast, antibody testing of the blood and CSF, and imaging (full-body CT, body and brain PET, and ultrasonography, as appropriate) for tumor detection. Treating the symptoms directly is ineffective without appropriate tumor resection and immunotherapy. Even when the tumor is removed, immunotherapy may be needed. Acute management with IV immune globulin or IV methylprednisolone is often helpful. Chronic treatment with azathioprine, mycophenolate, cyclophosphamide, or rituximab may be considered.
-
-## Key Point
-
-- Treatment of paraneoplastic neurologic syndromes usually requires appropriate tumor resection and immunotherapy.

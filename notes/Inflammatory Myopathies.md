@@ -34,13 +34,22 @@ The symptoms of PM usually progress slowly over months, although a more rapid on
 
 #### Cardiopulmonary Involvement
 
+<!-- polymyositis lung involvement sx, antibody b:189326141981-->
+
 Interstitial lung disease, most commonly nonspecific interstitial pneumonitis, occurs in about 10% of patients with PM. It is particularly prominent in the subset of patients with ==antisynthetase syndrome== (also seen in association with dermatomyositis). In addition to interstitial lung disease and myositis, antisynthetase syndrome is characterized by the presence of ==Raynaud phenomenon, nonerosive arthritis, and mechanic's hands, a dermatologic manifestation== characterized by rough, cracked, scaly skin along the lateral aspects of the digits and palms with ==horizontal lines resembling the weathered hands of a laborer== (See [MKSAP 18 Dermatology](https://mksap18.acponline.org/app/topics/dm/mk18_a_dm_s15/mk18_a_dm_s15_1_2)). It can occasionally present as ==rapidly progressive respiratory failure==. Antisynthetase syndrome is associated with autoantibodies against anti-aminoacyl-tRNA synthetases, most commonly ==anti–Jo-1 antibodies==.
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220302095324.png)
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220407090919.png)
+Mechanic hands with hyperkeratotic, fissured skin on the palmar and lateral aspects of fingers seen in a patient with antisynthetase syndrome.
+
+<!-- polymyositis heart sx b:1494327587028-->
+
 Cardiac involvement includes conduction system abnormalities that can result in arrhythmias and sudden death. Pericarditis can occur, and pericardial tamponade has been reported. Patients are also at increased risk for myocardial infarction and heart failure, which represent an important cause of morbidity and mortality in PM.
 
 #### Gastrointestinal Involvement
+
+<!-- ignore -->
 
 The striated muscle of the upper two thirds of the esophagus can be affected by PM, leading to dysphagia, dysmotility, and increased risk of aspiration pneumonia.
 
@@ -70,6 +79,8 @@ Gastrointestinal involvement in DM resembles that in PM.
 
 ## Immune-Mediated Necrotizing Myopathy
 
+<!-- immune-mediated necrotizing myopathy cause, lab, sx, dx b:980614970438-->
+
 IMNM occurs in a small subset of patients with inflammatory myopathy who demonstrate prominent ==myonecrosis on biopsy== without the inflammatory changes typical of the other inflammatory myopathies. An immune-mediated mechanism is suggested by the presence of ==antibodies to signal recognition particles (SRPs) or 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase==. Although statin exposure may result in antibodies to HMG-CoA reductase and IMNM, most patients with statin-induced myopathies have processes other than IMNM (see **[Table 25](https://mksap18.acponline.org/app/topics/rm/tables/mk18_a_rm_t25)**).
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220309095145.png)
@@ -90,6 +101,8 @@ Cardiopulmonary involvement in IMNM is rare. Gastrointestinal involvement has no
 
 ## Inclusion Body Myositis
 
+<!-- inclusion body myositis sx, dx b:36298484369-->
+
 IBM is a uniformly insidious condition and is usually easily distinguishable from PM, DM, and IMNM because of its ==very slow onset== and pattern of muscle involvement.
 
 ### Clinical Manifestations
@@ -104,13 +117,11 @@ Sporadic IBM is the most common muscle disease in elderly populations, is ==more
 
 Up to half of patients with IBM have cricopharyngeal muscle involvement, leading to dysphagia and increased risk of aspiration.
 
+<!-- ignore -->
+
 ## Inflammatory Myopathies and Malignancy
 
 There is an association between risk of malignancy and DM (3- to 12-fold that of age-matched populations) as well as, to a lesser extent, PM. IMNM may occasionally be a paraneoplastic syndrome, but IBM is not strongly associated with malignancy. The risk of malignancy is greatest in the 3 years following the diagnosis of DM or PM. Common associated cancers are ovarian, lung, pancreas, stomach, colon, and lymphoma. Age- and sex-appropriate cancer screening is indicated at the time of diagnosis of DM or PM. Many experts advocate CT of the chest, abdomen, and pelvis, particularly in patients with DM.
-
-## Key Point
-
-- Because of the malignancy risk associated with polymyositis and dermatomyositis, age- and sex-appropriate cancer screening is indicated at the time of diagnosis.
 
 ## Diagnosis
 
@@ -142,20 +153,11 @@ Skin biopsy is useful in diagnosing DM. Light microscopy findings include mild e
 
 Diagnosis of amyopathic DM is made with skin biopsy confirmation of DM in the setting of at least 6 months of normal muscle strength, muscle enzymes, normal EMG, and, if performed, normal muscle biopsy.
 
-## Key Points
-
-- Elevated serum creatine kinase levels are the most sensitive serum indicator of muscle pathology, and levels parallel the severity of involvement.
-- Antibodies against aminoacyl-tRNA synthetases, particularly anti–Jo-1 (anti-histidyl-tRNA synthetase antibodies), have been associated with antisynthetase syndrome (interstitial lung disease, Raynaud phenomenon, arthritis, and mechanic's hands).
-- In patients with inflammatory myopathies, MRI can be helpful to locate a site for muscle biopsy, identify muscle atrophy, and assess therapeutic efficacy.
-- Muscle biopsy is valuable in diagnosing inflammatory myopathies and for excluding metabolic myopathies, mitochondrial disease, and infection.
-
 ## Management
 
-#### Related Question
+Glucocorticoids are the cornerstone of therapy for the inflammatory myopathies except for IBM. Prolonged exposure to high-dose glucocorticoids, particularly in the elderly, can be associated with the appearance of ==steroid-induced myopathy that may cause new proximal muscle weakness== in a patient who had previously been improving; reduction in dose is appropriate management.
 
-- Question 61
-
-Glucocorticoids are the cornerstone of therapy for the inflammatory myopathies except for IBM. Prolonged exposure to high-dose glucocorticoids, particularly in the elderly, can be associated with the appearance of steroid-induced myopathy that may cause new proximal muscle weakness in a patient who had previously been improving; reduction in dose is appropriate management.
+Distinguishing between glucocorticoid-induced myopathy and active inflammatory myopathy is important, particularly in older patients for whom long-term glucocorticoid side effects can be particularly debilitating. The history is suggestive of glucocorticoid myopathy when a patient has been started on high-dose glucocorticoids within a few months, has cushingoid features, and has normal serum creatine kinase levels. No single feature is diagnostic on electromyogram (EMG) or muscle biopsy.
 
 Additional immunosuppressives are often required to control inflammation or to serve as glucocorticoid-sparing agents; methotrexate and azathioprine are most frequently used. DM and PM are most responsive to immunosuppression, although DM is more responsive than PM. For patients with statin-induced IMNM, statin discontinuation is mandatory but not sufficient, and immunosuppressive treatment is required. IBM usually does not respond to immunosuppression, and therapeutic trials should be undertaken only in selected patients and discontinued if benefit is not appreciated. Other immunosuppressives, including mycophenolate mofetil and rituximab, have been used in refractory DM, PM, and IMNM. Intravenous immunoglobulin may be a reasonable alternative in DM.
 

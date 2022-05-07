@@ -64,11 +64,15 @@ There are three components to treating gout: 1) treating acute attacks, 2) proph
 
 #### Treatment of Acute Gouty Arthritis
 
+<!-- acute gout treatment b:360846407897-->
+
 Treatment of acute gout focuses on anti-inflammatory therapy; colchicine, NSAIDs, and glucocorticoids are all reasonable options. Treatment choice should be determined by potential drug interactions and patient comorbidities. The simplest is ==colchicine==, 1.2 mg at the first symptoms of a gout attack, followed 1 hour later by a 0.6-mg dose. Colchicine is most effective when used early in attacks (<24 hours after onset) and is less useful when the attack is well established. High-dose NSAID therapy for 5 to 7 days is effective, as are ==glucocorticoids in any form==—intra-articular injection, intramuscular depot injection (for example, depo-methylprednisolone, 40-80 mg), or an oral “burst” of prednisone (for example, 0.5 mg/kg/d, for 5 days).
 
 Most gout attacks respond to a week or less of therapy, although more severe attacks may require a longer course of treatment. ==For patients with severe and refractory attacks, or with contraindications to other treatments, off-label use of IL-1 inhibitors (anakinra or canakinumab) can be considered==. Gouty cellulitis, if present, should be treated as any other acute gout attack.
 
 #### Urate-Lowering Therapy
+
+<!-- ignore -->
 
 Guidelines conflict as to whether patients with gout should receive dietary counseling to reduce serum urate levels. If recommended, patients may ==limit intake of shellfish, oily fish, red meat, high-fructose foods, and alcohol==. Overly strict diets that are unlikely to be complied with are not helpful, however. ==Weight loss== (when appropriate) and ==increasing dairy intake== may also lower serum urate levels. In patients with hypertension, agents other than diuretics should be used; losartan, for example, has mild uricosuric effects.
 
@@ -76,13 +80,27 @@ It is important to note that guidelines differ regarding the role of pharmacolog
 
 Contrary to prior practice, ==urate-lowering therapy can be initiated during an acute attack if adequate anti-inflammatory therapy is concurrently started==; doing so may improve compliance in some patients.
 
-==Three classes of urate-lowering therapy are available==: xanthine oxidase inhibitors (reduce urate production), uricosuric agents (decrease renal urate resorption), and pegloticase (a uricase). ==Allopurinol== is the recommended first-line therapy and is FDA approved for doses up to 800 mg/d. According to the ACR, allopurinol should be initiated at 100 mg/d and titrated in 100-mg increments as needed, and for those with ==stage 4 or 5 CKD==, allopurinol should be initiated at 50 mg/d and titrated in 50-mg increments as needed. An uncommon but serious complication of allopurinol is a ==hypersensitive rash that may progress to DRESS== (drug reaction with eosinophilia and systemic symptoms) syndrome; the drug should therefore be discontinued in most (if not all) patients who develop a rash. Patients from groups at higher risk for DRESS (certain Asian populations and Black patients) should be tested for ==HLA B5801== before treatment with allopurinol and be considered for an alternative therapy if the result is positive. ==Febuxostat== (Uloric) is equally or more efficacious than allopurinol. It is less likely to cause hypersensitivity reactions than allopurinol and does not require dose adjustment in mild to moderate CKD, but ==it is expensive==. In February 2019, the FDA mandated a boxed warning for febuxostat regarding the ==increased risk for cardiovascular death and all-cause mortality== with the drug. This boxed warning was based on a large postmarketing trial that compared the cardiovascular safety of allopurinol and febuxostat. The trial was not placebo-controlled, and it remains unclear whether allopurinol improved cardiovascular mortality or febuxostat increased risk. The FDA has also limited the approved use of febuxostat for patients who are ==unresponsive to or cannot tolerate allopurinol==.
+==Three classes of urate-lowering therapy are available==: xanthine oxidase inhibitors (reduce urate production), uricosuric agents (decrease renal urate resorption), and pegloticase (a uricase).
+
+<!-- allopurinol dosing, side effects b:308710960087-->
+
+==Allopurinol== is the recommended first-line therapy and is FDA approved for doses up to 800 mg/d. According to the ACR, allopurinol should be initiated at 100 mg/d and titrated in 100-mg increments as needed, and for those with ==stage 4 or 5 CKD==, allopurinol should be initiated at 50 mg/d and titrated in 50-mg increments as needed. An uncommon but serious complication of allopurinol is a ==hypersensitive rash that may progress to DRESS== (drug reaction with eosinophilia and systemic symptoms) syndrome; the drug should therefore be discontinued in most (if not all) patients who develop a rash. Patients from groups at higher risk for DRESS ==(certain Asian populations including Thai, Han Chinese, and Korean, and Black patients)== should be tested for ==HLA B5801== before treatment with allopurinol and be considered for an alternative therapy if the result is positive.
+
+<!-- febuxostat compared to allopurinol, when to use b:388129033470-->
+
+==Febuxostat== (Uloric) is equally or more efficacious than allopurinol. It is less likely to cause hypersensitivity reactions than allopurinol and does not require dose adjustment in mild to moderate CKD, but ==it is expensive==. In February 2019, the FDA mandated a boxed warning for febuxostat regarding the ==increased risk for cardiovascular death and all-cause mortality== with the drug. This boxed warning was based on a large postmarketing trial that compared the cardiovascular safety of allopurinol and febuxostat. The trial was not placebo-controlled, and it remains unclear whether allopurinol improved cardiovascular mortality or febuxostat increased risk. The FDA has also limited the approved use of febuxostat for patients who are ==unresponsive to or cannot tolerate allopurinol==.
+
+<!-- probenecid uses, avoid when b:433695389967-->
 
 The uricosuric agent ==probenecid== (Probalan) is infrequently used as monotherapy because it is less effective than xanthine oxidase inhibitors and should be ==avoided in patients with CKD or nephrolithiasis==. Combination therapy with a xanthine oxidase inhibitor and probenecid (or the incidentally uricosuric agent losartan) may be more effective than a xanthine oxidase inhibitor alone. A more effective uricosuric agent, lesinurad, was discontinued by its manufacturer in 2019 for business reasons.
+
+<!-- recurrent or tophaceous gout treatment b:1081376533947-->
 
 For patients with ==severe recurrent and/or tophaceous gout== intolerant or resistant to standard therapies, ==pegloticase== is an option. Infused every 2 weeks, ==pegloticase lowers serum urate to nearly zero==, but 30% to 50% of patients develop antibodies to the drug within a month, rendering it ineffective and increasing the likelihood of infusion reactions. ==Other urate-lowering therapies should be discontinued with initiation of pegloticase== because they can mask the development of antibodies that manifest as rising serum urate levels. Patients starting pegloticase should be placed on prophylaxis to prevent acute gout attacks; colchicine, prednisone, or NSAIDs are appropriate. Pegloticase should be discontinued in any patient for whom it ceases to work. Coadministration of pegloticase with an immunosuppressive, such as methotrexate, may reduce the risk for loss of efficacy and infusion reactions.
 
 #### Prophylaxis
+
+<!-- gout prophylaxis when starting prevention therapy b:848872463344-->
 
 When initiating urate-lowering therapy, mobilization of uric acid crystals from the joints and soft tissues can provoke acute attacks. Accordingly, patients starting urate-lowering therapy should be placed on ==anti-inflammatory prophylaxis== to prevent flares. The ACR strongly recommends continuing prophylaxis for ==3 to 6 months==, with ongoing evaluation and continued prophylaxis as needed if flares continue. Most patients tolerate colchicine, ==0.6 mg (once or twice daily==); for those who do not, low-dose NSAIDs or glucocorticoids are appropriate substitutes.
 
@@ -92,6 +110,8 @@ Deposition of calcium pyrophosphate (CPP) crystals in and on cartilaginous surfa
 
 ### Epidemiology and Pathophysiology
 
+<!-- ignore -->
+
 CPPD primarily affects the ==elderly==, and ==prior joint damage== is a significant risk factor. The risk for cartilage calcification (chondrocalcinosis) doubles for every decade past 60 years, and nearly half of patients in their late 80s have CPPD. For younger patients with CPPD, consideration of contributory metabolic disease (hyperparathyroidism, hemochromatosis, hypophosphatasia, hypomagnesemia) is warranted.
 
 The pathophysiology of CPPD is incompletely understood. ==Pyrophosphate produced by chondrocytes likely precipitates with calcium== to form CPP crystals, which then activate inflammatory pathways resulting in an acute arthritic attack. CPPD may also drive osteoarthritis by inducing proinflammatory activity in chondrocytes and synovial fibroblasts, resulting in cartilage damage. Epidemiologic evidence suggests that cartilage calcification might play a role in osteoarthritis of the knees and wrists, but not at the hip.
@@ -100,12 +120,16 @@ The pathophysiology of CPPD is incompletely understood. ==Pyrophosphate produced
 
 #### Asymptomatic Calcium Pyrophosphate Deposition
 
+<!-- CPPD imaging finding b:440828167019-->
+
 Asymptomatic CPPD occurs with radiographic changes in the absence of clinical symptoms. Cartilage calcification appears as a ==linear opacity below the surface of articular cartilage== (**[Figure 25](https://mksap18.acponline.org/app/topics/rm/figures/mk18_a_rm_f25)**). It most commonly occurs in the knees, wrists (triangular fibrocartilage), pelvis (pubis symphysis), and metacarpophalangeal (MCP) joints, in descending order. Asymptomatic CPPD is common in the elderly and in osteoarthritic joints, and it may be a precursor of osteoarthritis with CPPD.
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220306092509.png)
 Cartilage calcification ==(chondrocalcinosis)== of the knee. This radiograph shows linearly arranged calcific deposits in the articular cartilage (_arrow_).
 
 #### Acute Calcium Pyrophosphate Crystal Arthritis
+
+<!-- ignore -->
 
 Acute CPP crystal arthritis ==(pseudogout)== typically presents as a monoarticular inflammatory arthritis, characterized by sudden onset of swelling, pain, loss of function, tenderness, and warmth of the affected joint, usually a knee or wrist. Similar to acute gout, attacks may be provoked by systemic insults such as major surgery or acute illness. Attacks are usually milder than those of gout, but if untreated ==can persist for months==. Definitive diagnosis requires identification of CPP crystals (along with leukocytes) in synovial fluid; in contrast to uric acid crystals, the CPP crystals are ==rhomboid shaped and positively birefringent under polarized light==. Radiographic evidence of cartilage calcification in elderly patients with acute monoarticular arthritis is suggestive but not diagnostic of acute CPP crystal arthritis.
 
