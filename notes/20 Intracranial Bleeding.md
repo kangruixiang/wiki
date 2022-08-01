@@ -5,8 +5,6 @@ date: 2020-09-07
 # 20 Intracranial Bleeding
 ---
 
-## typora-copy-images-to: ./images
-
 # ICP
 
 ## Causes

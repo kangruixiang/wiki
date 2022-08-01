@@ -16,4 +16,6 @@ Stool examination has low sensitivity (<50%) for diagnosis due to periodic shedd
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_16.png)
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220702094841.png)
+
 ![](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_17.png)

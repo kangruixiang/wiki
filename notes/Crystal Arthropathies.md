@@ -44,7 +44,9 @@ Chronic recurrent gout and tophaceous gout result from a failure to recognize or
 
 In chronic recurrent gout, ==patients experience increasingly frequent and severe, and often polyarticular, arthritic attacks==. These attacks may eventually evolve into a ==persistent chronic arthritis==.
 
-Other patients with long-standing disease develop ==tophaceous gout==. Tophi are solid chalky white masses of uric acid, surrounded by inflammatory cells and a rind of fibrous tissue. They are located around joints and in soft tissues, with a predilection for the extensor surfaces of the elbows, the distal Achilles tendon, the fingers (usually from the proximal interphalangeal joints distally) (**[Figure 23](https://mksap18.acponline.org/app/topics/rm/figures/mk18_a_rm_f23)**), and the cartilaginous portions of the ears. The size ranges from millimeters to several centimeters in diameter. Tophi are deforming, can interfere with function, and directly erode bone. Ulceration of overlying skin can occur, and accompanying infection can be difficult to treat because tophi are avascular.
+Other patients with long-standing disease develop ==tophaceous gout==. Tophi are solid chalky white masses of uric acid, surrounded by inflammatory cells and a rind of fibrous tissue. They are located around joints and in soft tissues, with a predilection for the extensor surfaces of the elbows, the distal Achilles tendon, the fingers (usually from the ==proximal interphalangeal joints distally==) (**[Figure 23](https://mksap18.acponline.org/app/topics/rm/figures/mk18_a_rm_f23)**), and the cartilaginous portions of the ears. The size ranges from millimeters to several centimeters in diameter. Tophi are deforming, can interfere with function, and directly erode bone. Ulceration of overlying skin can occur, and accompanying infection can be difficult to treat because tophi are avascular.
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220716133244.png)
 
 ### Diagnosis
 
@@ -67,6 +69,8 @@ There are three components to treating gout: 1) treating acute attacks, 2) proph
 <!-- acute gout treatment b:360846407897-->
 
 Treatment of acute gout focuses on anti-inflammatory therapy; colchicine, NSAIDs, and glucocorticoids are all reasonable options. Treatment choice should be determined by potential drug interactions and patient comorbidities. The simplest is ==colchicine==, 1.2 mg at the first symptoms of a gout attack, followed 1 hour later by a 0.6-mg dose. Colchicine is most effective when used early in attacks (<24 hours after onset) and is less useful when the attack is well established. High-dose NSAID therapy for 5 to 7 days is effective, as are ==glucocorticoids in any form==—intra-articular injection, intramuscular depot injection (for example, depo-methylprednisolone, 40-80 mg), or an oral “burst” of prednisone (for example, 0.5 mg/kg/d, for 5 days).
+
+Colchicine is effective for acute gouty arthritis, but is limited by frequent gastrointestinal side effects and is a second-line agent.  Colchicine is less effective than corticosteroids.  ==Chronic administration in CKD patients can lead to colchicine accumulation== in the blood and cause significant neuromyopathy.
 
 Most gout attacks respond to a week or less of therapy, although more severe attacks may require a longer course of treatment. ==For patients with severe and refractory attacks, or with contraindications to other treatments, off-label use of IL-1 inhibitors (anakinra or canakinumab) can be considered==. Gouty cellulitis, if present, should be treated as any other acute gout attack.
 

@@ -4,7 +4,7 @@ date: 2020-09-07
 
 # septic arthritis
 
-- related: [[MSK]], [[ID]], [[pediatric septic arthritis]], [[osteomyelitis]], [[prosthetic joint infection]], [[notes]]
+- related: [[MSK]], [[ID]], [[pediatric septic arthritis]], [[osteomyelitis]], [[prosthetic joint infection]], [[notes]], [[arthrocentesis]]
 
 ## Causes
 

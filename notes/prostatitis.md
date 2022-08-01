@@ -5,6 +5,20 @@ date: 2020-09-06
 # prostatitis
 
 - related: [[ID]]
+- tags: #note
+---
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220716091539.png)
+
+This patient's presentation is most consistent with ==acute bacterial prostatitis== (ABP).  Most cases are due to ==Gram-negative== (eg, _Escherichia coli_, _Proteus mirabilis_, _Klebsiella_, _Enterobacter_) organisms.  ==Gram-positive== (eg, _Staphylococcus aureus_, _Streptococci, Enterococci_) infections are less common and are usually due to remote infection elsewhere, prolonged catheterization, or recent prostatic surgery.
+
+Patients typically present with ==acute urinary complaints== (eg, frequency, urgency, urge incontinence), pelvic/perineal pain, cloudy urine, and ==systemic symptoms== (eg, fever, chills, malaise, myalgia).  Digital examination shows an ==exquisitely tender prostate== that is warm and edematous.  ==Prostate massage is **not** recommended==, however, due to pain and increased risk of bacteremia.  In addition, prostate fluid is not necessary for diagnosis.
+
+==Acute urinary retention== is an infrequent complication of acute prostatitis, and bladder drainage must be done by ==suprapubic catheterization==.  ==Catheter insertion== through the inflamed urethra into the bladder is ==contraindicated== in acute prostatitis.
+
+Evaluation includes urine ==Gram stain and culture==.  ==Empiric antibiotics== that effectively penetrate the prostate (eg, oral ==trimethoprim-sulfamethoxazole== \[TMP-SMX] or ==fluoroquinolone==) are recommended.  Intravenous antibiotics are recommended for septic-appearing patients.  Oral antibiotics are usually continued for ==prolonged periods== (eg, 4 weeks) and tailored to culture results.  After the infection resolves, patients usually need urologic evaluation to determine the underlying cause.
+
+==Chronic bacterial prostatitis== (CBP) can be a complication of ABP due to inadequate duration of treatment.  CBP tends to present with less severe urinary symptoms and without significant systemic findings.  Most urologists ==obtain urine and prostate fluid specimens after prostate massage== for diagnosis.  ==Fluoroquinolones== are the preferred first-line agent.  Patients usually require a prolonged course of antibiotics ranging from 6 weeks to 6-12 months in some cases.
 
 <!-- bacterial prostatitis sx, dx, rx. Acute vs chronic vs UTI -->
 

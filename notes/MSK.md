@@ -37,6 +37,7 @@ date: 2020-09-07
 - [[pediatric septic arthritis]]
 - [[prosthetic joint infection]]
 - [[Joint Aspirate]]
+- [[arthrocentesis]]
 
 ## Shoulder Problems
 

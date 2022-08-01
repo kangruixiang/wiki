@@ -115,7 +115,7 @@ Mildly erythematous patches with fine scale that are well demarcated and are con
 
 Tinea can be suspected based on clinical presentation and pruritus; however, diagnosis is based on visualization by microscopic examination of ==branching hyphae in the keratin (scale) using a potassium hydroxide preparation==. To confirm the diagnosis, a ==fungal culture== can be performed, which provides species identification, and is the preferred method for diagnosing tinea capitis. Hair shafts should be included in the specimen.
 
-<!-- tinea treatment -->
+<!-- tinea treatment b:474587084856-->
 
 Dermatophytosis of non-hair–bearing skin with limited involvement can be treated topically with ==imidazole creams, such as miconazole, clotrimazole, and ketoconazole==, applied once to ==twice daily for 2 to 4 weeks==, ensuring that the application extends a few centimeters beyond the advancing border. Other topical agents including ==terbinafine 1% and ciclopiroxolamine 0.77%== can also be used. Unlike superficial fungal infections caused by _Candida_, dermatophytes ==do not respond to topical nystatin==. Combined antifungal agents and topical glucocorticoids should be avoided as they can lead to increased recurrences and treatment failures. Dermatophytosis of hair-bearing skin, including ==tinea capitis==, or those with recurrent or extensive skin involvement, should be treated with oral antifungal agents such as ==terbinafine or itraconazole==. Tinea should be treated to prevent skin breakdown, which can be an entry port for bacterial infection.
 

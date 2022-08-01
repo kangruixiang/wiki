@@ -4,7 +4,32 @@ date: 2020-09-07
 
 # ID
 
-- Keywords: [[Step 3]], [[Medicine]]
+- related: [[Step 3]], [[Medicine]]
+---
+
+## MKSAP
+
+- [[Central Nervous System Infections]]
+- [[Prion Diseases of the Central Nervous System]]
+- [[Skin and Soft Tissue Infections]]
+- [[Community-Acquired Pneumonia]]
+- [[Tick-Borne Diseases]]
+- [[Urinary Tract Infections]]
+- [[Mycobacterium tuberculosis Infection]]
+- [[Nontuberculous Mycobacterial Infections]]
+- [[Fungal Infections]]
+- [[Sexually Transmitted Infections]]
+- [[Osteomyelitis MKSAP]]
+- [[Fever of Unknown Origin MKSAP]]
+- [[Primary Immunodeficiencies]]
+- [[Bioterrorism]]
+- [[Travel Medicine]]
+- [[Infectious Gastrointestinal Syndromes]]
+- [[Infections in Transplant Recipients]]
+- [[Health Care–Associated Infections]]
+- [[HIV-AIDS]]
+- [[Viral Infections]]
+- [[Stewardship and Emerging Resistance]]
 
 ## Fever
 
@@ -63,6 +88,7 @@ date: 2020-09-07
 - [[anthrax]]
 - [[microbes by organs]]
 - [[acinetobacter]]
+- [[vibrio vulnificus can be fatal in liver disease patients]]
 
 ### Tick Born Illnesses
 
@@ -78,6 +104,7 @@ date: 2020-09-07
 - [[plasmodium]]
 - [[cryptosporidium]]
 - [[cyclospora]]
+- [[Schistosomiasis]]
 
 ## Iatrogenic
 
@@ -106,3 +133,4 @@ date: 2020-09-07
 ## Otheres
 
 - [[transplant infection]]
+- [[culture negative endocarditis]]

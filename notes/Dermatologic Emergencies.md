@@ -79,7 +79,7 @@ Acute generalized exanthematous pustulosis (AGEP) refers to the rapid onset of a
 
 ## Erythroderma
 
-<!-- erythroderma is, cause, sx, rx -->
+<!-- erythroderma is, cause, sx, rx b:836761338242-->
 
 ==Erythroderma== is defined as ==diffuse erythema== covering 80% to 90% body surface area and is commonly associated with ==pruritus, peripheral edema, erosions, scaling, and lymphadenopathy== (**[Figure 133](https://mksap18.acponline.org/app/topics/dm/figures/mk18_a_dm_f133)**). The most common causes are ==idiopathic== (up to 40%), exacerbation of a preexisting rash, or ==medication reaction== (**[Table 31](https://mksap18.acponline.org/app/topics/dm/tables/mk18_a_dm_t31)**). Atopic dermatitis or psoriasis can flare to erythroderma following injudicious usage and abrupt cessation of systemic glucocorticoids. Alopecia, nail dystrophy, and thickening of the palms and soles are indicative of a long-standing cause such as cutaneous T-cell lymphoma, graft-versus-host disease, psoriasis, or pityriasis rubra pilaris. Drug reactions, staphylococcal scalded skin syndrome, and autoimmune bullous diseases often have a more acute onset without a long-standing history of preceding dermatosis. When erythroderma is acute, thick scaling of the palms and soles or nail changes do not occur. Complications may result from heat and fluid loss across the inflamed skin.
 

@@ -51,7 +51,7 @@ Cherry angiomas are benign vascular lesions with a familial predisposition that 
 
 ### Dermatofibroma
 
-<!-- dermatofibroma is, sx -->
+<!-- dermatofibroma is, sx b:1116507507659-->
 
 ==Dermatofibromas== are ==benign==, fibrohistiocytic lesions that are common on the ==extremities==, particularly the legs of ==young women==, and are associated with trauma. Dermatofibromas are ==tan-to-brown discrete papules== that often have a slightly darker brown ring encircling the main part of the lesion; ==they “dimple” when lateral pressure== is applied to the lesion with the thumb and first finger (**[Figure 71](https://mksap18.acponline.org/app/topics/dm/figures/mk18_a_dm_f71)**). Treatment is not necessary, and recurrences are common after shave removal. Multiple dermatofibromas have been associated with HIV infection and systemic lupus erythematosus.
 

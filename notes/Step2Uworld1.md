@@ -1028,16 +1028,6 @@ Laboratory findings that support the diagnosis of serum sickness-like reaction i
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/U11764.jpg)
 
-# Jarich
-
-<!-- Jarisch Herxheimer reaction cause, symptoms, treatment.. -->
-
-![](https://photos.thisispiggy.com/file/wikiFiles/L23080.jpg)
-
-This patient with primary syphilis (chancre) received a dose of penicillin G last night and now has the **Jarisch-Herxheimer reaction**.  This reaction is seen primarily in patients with **early syphilis** treated with antibiotic medication.  The **rapid destruction of spirochetes** causes an **acute febrile illness**, typically within 12 hours of treatment.  Symptoms include headache, myalgias, rigors, sweating, hypotension, and worsened syphilitic rash (diffuse, macular, including palms and soles).  Manifestations are usually self-limited and **resolve spontaneously within 48 hours**.
-
-The Jarisch-Herxheimer reaction can also occur after the treatment of other spirochetes (eg, _Borrelia burgdorferi_) and atypical organisms (eg, _Bartonella_).
-
 # ENT Cancer
 
 <!-- ENT scc management.. -->

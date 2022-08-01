@@ -11,6 +11,45 @@ sr-ease: 296
 - tags: #note
 ---
 
+## Quick Overview
+
+- Introduction
+	- Always introduce yourself and the team before big family discussions
+	- Make sure burning questions to be answered
+	- Keep at top level, don't jump to answer specific questions in the beginning
+	- Assess emotion at each level. Don't proceed if you sense resistance or unnamed emotions
+- Start with emotion, build rapport
+	- We can't imagine how hard it is for you
+	- How are you coping?
+		- breakdown => explore emotions, stop
+		- doing ok => keep going
+- Assess ==disease understanding==
+	- What is your understanding
+	- Tell me what you've been told
+- Assess ==prognostic awareness==
+- Assess for values
+	- Has he/she ever indicated to you what would be unacceptable level of suffering?
+	- For example, some people... no nursing home
+	- Others would say, keep going no matter what
+	- What about artificial nutrition
+- Pause for transition
+	- Is it ok if we talk about prognosis
+	- Would it be ok if I share my biggest worry
+	- Hope/worry statements
+- Assess for ==value specific to prognosis== once they have good understanding. Do not proceed if they have poor understanding of disease and prognosis
+	- Some people would say considering everything they've been through, they would opt to go for comfort and not suffering
+	- Others would keep treating with everything in reasonable fashion to prolong life
+
+## Words to use
+
+- To get answer for the near future:
+	- We are worried your ___ is getting sicker. There may come a time when he/she need to be moved to the ICU and even may require mechanical support.
+- Patient may die soon:
+	- I'm worried despite our best efforts, your loved one may die in the near future. What would be helpful for us to know is that if that were to happen, what your loved one would say
+		- Some people want heroic measures to bring them back to life
+		- Some people would want to be comfortable in that case and allow them to pass away peacefully
+- I recognize this is a tough place to be. I don't expect any decisions to be made today
+
 ## Overview
 
 - Know the headliner: one liner that summarizes his status short term or long term
@@ -176,14 +215,3 @@ Trying something for a defined period of time with a preferred outcome:
 - "This means you wrist band will change to No CPR. This does not change the care you receive now. It means if you die, we will let you be at peace."
 - Affirm the decision
 - "The decision you have made is a loving and logical decision for you and your family. I agree with your decision"
-
-## Others
-
-How to have goals of care conversation:
-
-- Introduction
-- Assess situation, build rapport
-	- What we found here
-- Transition
-	- Some people would say considering everything they've been through, they would opt to go for comfort and not suffering
-	- Others would keep treating with everything in reasonable fashion to prolong life

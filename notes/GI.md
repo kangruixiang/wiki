@@ -30,6 +30,8 @@ date: 2020-09-07
 - [[nutrition assessment]]
 - [[dysphagia]]
 - [[achalasia and pseudoachalasia]]
+- [[roux-en-y]]
+- [[esophageal perforation]]
 
 ## Lower GI
 
@@ -47,6 +49,9 @@ date: 2020-09-07
 - [[IBS]]
 - [[microscopic colitis]]
 - [[bowel regimens]]
+- [[ileal resection leads to vitamin b12 deficiency]]
+- [[metformin reduces b12 absorption]]
+- [[Ogilvie syndrome aka colonic pseudoobstruction]]
 
 ## ID
 

@@ -10,13 +10,15 @@ date: 2022-04-06
 
 ## Melanotic Macule
 
-<!-- melanotic macule -->
+<!-- melanotic macule b:1545108424636-->
 
 A melanotic macule is a ==small, well-circumscribed, brown-to-black== mucosal lesion. The most common location is the ==lower lip== (**[Figure 149](https://mksap18.acponline.org/app/topics/dm/figures/mk18_a_dm_f149)**), but they may also be found on the gingival, buccal mucosa, or tongue, or within the genital mucosa. If large, papular, or not well-circumscribed, biopsy should be performed to rule out melanoma. Solitary lesions are the rule, and multiple lesions suggest the possibility of rare inherited disorders such as Peutz-Jeghers syndrome.
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220411090313.png)
 
 ## Amalgam Tattoo
+
+<!-- ignore -->
 
 Amalgam dental fillings contain metals that can be inadvertently implanted into the adjacent mucosa at the time of dental filling. They present as blue-gray macules and do not change over time. In cases of uncertainty, a mucosal biopsy should be performed.
 

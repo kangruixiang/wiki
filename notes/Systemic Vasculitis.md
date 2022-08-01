@@ -30,7 +30,7 @@ Common GCA symptoms include ==headache, scalp pain, and temporal artery tenderne
 
 Physical examination may reveal scalp or temporal artery tenderness and induration, reduced pulses and bruits, or aortic regurgitation and heart failure. Laboratory findings may include elevated erythrocyte sedimentation rate (ESR) and/or C-reactive protein (CRP), but some have normal values. Nonspecific evidence of inflammation may include anemia and thrombocytosis.
 
-GCA is suspected on the basis of the clinical presentation and is confirmed by temporal artery biopsy and/or imaging of great vessels. New or atypical headache, jaw claudication, or visual changes in a patient over the age of 50 years, especially with concurrent PMR, should raise suspicion. Temporal artery biopsy is diagnostic, but false-negative results are common; bilateral temporal artery biopsy can increase the yield. Importantly, temporal artery biopsy will remain abnormal for up to 2 weeks after initiation of glucocorticoids. Angiography is used to document and follow subcranial disease.
+GCA is suspected on the basis of the clinical presentation and is confirmed by temporal artery biopsy and/or imaging of great vessels. New or atypical headache, jaw claudication, or visual changes in a patient over the age of 50 years, especially with concurrent PMR, should raise suspicion. Temporal artery biopsy is diagnostic, but false-negative results are common; ==bilateral temporal artery biopsy can increase the yield (obtain contralateral biopsy if high enough suspicion)==. Importantly, temporal artery biopsy will remain abnormal for up to 2 weeks after initiation of glucocorticoids. Angiography is used to document and follow subcranial disease.
 
 #### Management
 
@@ -208,11 +208,11 @@ Prognosis is worse in the setting of pulmonary hemorrhage or rapidly progressive
 
 ##### Epidemiology and Pathophysiology
 
-Eosinophilic granulomatosis with polyangiitis (EGPA) is the rarest ANCA-associated vasculitis, with an incidence of 0.11 to 2.66/million/year and a prevalence of 10 to 14/million (France). EGPA has no predisposition for gender or ethnicity. In addition to neutrophil activation, eosinophil infiltration, activation, and degranulation participate in the pathogenesis.
+Eosinophilic granulomatosis with polyangiitis ==(EGPA)== is the rarest ANCA-associated vasculitis, with an incidence of 0.11 to 2.66/million/year and a prevalence of 10 to 14/million (France). EGPA has no predisposition for gender or ethnicity. In addition to neutrophil activation, eosinophil infiltration, activation, and degranulation participate in the pathogenesis.
 
 ##### Clinical Manifestations and Diagnosis
 
-The typical patient with EGPA has a history of asthma (96%-100%), nasal polyps, rhinitis, sinusitis, and/or atopy. A prodromal phase (months to years) consisting of arthralgia, myalgia, malaise, fever, and weight loss may occur. An eosinophilic phase with increased peripheral and tissue eosinophilia follows, with migratory pulmonary infiltrates and, less commonly, endomyocardial infiltration and gastrointestinal disease. The subsequent acute vasculitic phase includes mononeuritis multiplex or peripheral sensorimotor neuropathy (70%), kidney (25%), and skin involvement (60%). Paradoxically, the vasculitis phase is often associated with improvement of asthma. See **[Table 41](https://mksap18.acponline.org/app/topics/rm/tables/mk18_a_rm_t41)** for the clinical features of EGPA.
+The typical patient with EGPA has a history of ==asthma== (96%-100%), nasal polyps, rhinitis, sinusitis, and/or ==atopy==. A prodromal phase (months to years) consisting of arthralgia, myalgia, malaise, fever, and weight loss may occur. An eosinophilic phase with increased peripheral and tissue ==eosinophilia== follows, with ==migratory pulmonary infiltrates== and, less commonly, endomyocardial infiltration and gastrointestinal disease. The subsequent acute vasculitic phase includes mononeuritis multiplex or peripheral sensorimotor neuropathy (70%), kidney (25%), and skin involvement (60%). Paradoxically, the vasculitis phase is often associated with improvement of asthma. See **[Table 41](https://mksap18.acponline.org/app/topics/rm/tables/mk18_a_rm_t41)** for the clinical features of EGPA.
 
 Laboratory findings show peripheral eosinophilia of more than 10%, or more than 1500/µL (1.5 × 109/L). Only 50% of patients have a positive ANCA, mostly directed against MPO.
 

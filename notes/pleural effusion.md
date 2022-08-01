@@ -2,12 +2,13 @@
 date: 2020-09-07
 ---
 
-# pleural effusion
+# Pleural Effusion
 
-- Keywords:: [[Medicine]], [[Pulmonology]], [[chest tube]]
+- related: [[Pulmonology]], [[chest tube]]
+- tags: #pulmonology
 ---
 
-## Normal
+## Pathophysiology
 
 - normal pleural fluid production and absorption:
 	- 17 ml / day
@@ -33,14 +34,14 @@ date: 2020-09-07
 	- Solid
 - Transudative vs exudative
 
-## Transudative
+### Transudative
 
 - Transudative: not disease of pleura
 	- CHF
 	- Cirrhosis
 	- Nephropathy
 
-## Exudative
+### Exudative
 
 - Exudative: Pleural surface upset
 	- Inflammatory
@@ -49,6 +50,14 @@ date: 2020-09-07
 	- Rheumatological (serositis)
 
 ## Fluid analysis
+
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200128194948762.png)
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20200909203145_2.png)
+
+Pleural fluid with **low pH, very low glucose** levels (< 30 mg/dL), and extremely **high LDH levels** (>1000 U/L) are typically found in empyema or rheumatoid pleurisy.  **Rheumatoid effusions** are often yellow-greenish in appearance and have cell counts <5000/µL with predominantly **lymphocytes**.  In contrast, fluid in empyema appears purulent with a high cell count (>50,000/µL) and neutrophilic predominance **(Choice A)**.  Rheumatoid effusions are typically found in 5% of patients with RA.
+
+### Exudative vs Transudative
 
 - Lights Criteria
 	- LDH > 0.6
@@ -62,21 +71,21 @@ date: 2020-09-07
 - WBC:
 	- neutrophil predominant: infection, rheumatoid arthritis
 	- lymphocyte: TB, cancer, lymphoma
-	- eosinophils: PE, cancer, air/blood
+	- eosinophils: PE, cancer, air/blood, [[BAPE]]
 - Glucose of 0: empyema or RA
-- Types of infection
+
+### Types of infection
+
 - Simple effusion: common, small, thin. Usually comes with pneumonia
 	- Conservative management, treat pneumonia, thoracentesis
 - Complicated parapneumonic effusion: septation, loculation, fibrinous strands from inflammatory proteins
-	- pH < 7.2, glucose < 40
+	- ==pH < 7.2==, ==glucose < 40==
 	- Thora vs chest tube (tpa, dornase)
 - Empyema: worst, +culture, pus, pH < 7.2
 	- Chest tube or surgery
-
-## Infection etiology
-
-- CAP: veridans strep, pneumococci, staph aureus, anaerobes
-- HAP: staph
+- Infection etiology
+	- CAP: veridans strep, pneumococci, staph aureus, anaerobes
+	- HAP: staph
 
 ## Thoracentesis
 
@@ -94,14 +103,6 @@ date: 2020-09-07
 	- increased BUN or creatinine > 6 are high risks for bleeding
 - intercostal artery: closer to ribs more lateral you are, usually good > 6cm from spine
 
-## Lights
-
-<!-- Light criteria causes -->
-
-![](https://photos.thisispiggy.com/file/wikiFiles/image-20200128194948762.png)
-
-![](https://photos.thisispiggy.com/file/wikiFiles/20200909203145_2.png)
-
 ## Malignant pleural effusion
 
 <!-- malignant pleural effusion characteristics -->
@@ -111,13 +112,13 @@ date: 2020-09-07
 - In addition, due to impaired diffusion of glucose across the inflamed pleura and increased usage of glucose by malignant cells, malignant effusions typically have low glucose with a **pleural fluid/serum glucose ratio <0.5**.
 - Low glucose ratio is also characteristic of complicated parapneumonic effusions and pleural effusions due to rheumatologic disease, tuberculosis, and esophageal rupture.  These effusions with low glucose also typically have low pH levels (eg, <7.3).
 
-Breast cancer is the most common cause of malignant pleural effusion in women.  Serum lactate dehydrogenase is often elevated in breast cancer and other malignancies (eg, lymphoma), which provides an additional clue to the diagnosis in this patient.
+==Breast cancer is the most common cause== of malignant pleural effusion in women.  ==Serum lactate dehydrogenase== is often elevated in breast cancer and other malignancies (eg, lymphoma), which provides an additional clue to the diagnosis in this patient.
 
 <!-- malignant pleural effusion management -->
 
-The presence of a **malignant pleural effusion** in a patient with lung cancer is a very poor prognostic sign regardless of the tumor cell type, with a median survival of only 4 months.  According to the most recent TNM staging criteria for patients with  non-small cell lung cancer (NSCLC), which includes adenocarcinoma,  patients with a malignant pleural or pericardial effusion are classified as stage IV, which equates to advanced, incurable disease. The  management of such patients is **palliative**.
+The presence of a **malignant pleural effusion** in a patient with lung cancer is a ==very poor prognostic sign== regardless of the tumor cell type, with a median survival of only 4 months.  According to the most recent TNM staging criteria for patients with  non-small cell lung cancer (NSCLC), which includes adenocarcinoma,  patients with a malignant pleural or pericardial effusion are classified as stage IV, which equates to advanced, incurable disease. The  management of such patients is **palliative**.
 
-Although some patients with malignant pleural effusions may remain asymptomatic  and do not need to be treated, many will develop symptoms associated  with the effusion (eg, shortness of breath). Initial management of  symptomatic patients consists of large-volume thoracentesis. If the  effusion reaccumulates slowly and the patient has a very short expected  survival, a repeated thoracentesis can be performed once symptoms  recur. More aggressive intervention is required for patients in whom  the effusion reaccumulates rapidly (eg, <1 month) or in those with a  longer expected survival. In these cases, **chemical pleurodesis** is most appropriate, which consists of **obliterating the pleural space** by inducing **pleural** inflammation and **fibrosis** using a sclerosing agent (eg, talc). Placement of an indwelling  pleural drainage catheter is another option but is associated with a  higher rate of adverse events (eg, infection).
+Although some patients with malignant pleural effusions may remain asymptomatic  and do not need to be treated, many will develop symptoms associated  with the effusion (eg, shortness of breath). Initial management of  symptomatic patients consists of ==large-volume thoracentesis==. If the  effusion reaccumulates slowly and the patient has a very short expected  survival, a repeated thoracentesis can be performed once symptoms  recur. More aggressive intervention is required for patients in whom  the effusion reaccumulates rapidly (eg, <1 month) or in those with a  longer expected survival. In these cases, **==chemical pleurodesis==** is most appropriate, which consists of **obliterating the pleural space** by inducing **pleural** inflammation and **fibrosis** using a sclerosing agent (eg, talc). Placement of an indwelling  pleural drainage catheter is another option but is associated with a  higher rate of adverse events (eg, infection).
 
 ## Post op pleural effusion
 

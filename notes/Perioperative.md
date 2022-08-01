@@ -8,6 +8,8 @@ date: 2021-07-24
 
 - [[perioperative DVT prophylaxis]]
 
+- [[perioperative management of chronic glucocorticoid]]
+
 ### Preoperative Laboratory Testing
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20210826142426.png)
@@ -23,10 +25,6 @@ There is a paucity of high-quality evidence to guide perioperative medication ma
 
 ### Postoperative Care
 
-#### Related Question
-
-- Question 45
-
 Promotion of patient mobilization, use of lung expansion modalities (see [Perioperative Risk-Reduction Strategies](https://mksap18.acponline.org/app/topics/gm/mk18_b_gm_s17/mk18_b_gm_s17_3_3)), improvement in patient nutrition, and enhanced recovery after surgery (ERAS) programs may all decrease the likelihood of postoperative complications. Early mobilization and physical therapy (as necessary) are important components of the postoperative care plan and may decrease the probability of postoperative pneumonia and venous thromboembolism (VTE).
 
 Malnutrition is a risk factor for perioperative morbidity, including infection and poor wound healing, and several nutrition risk stratification tools are available to identify patients at risk for postoperative complications related to malnutrition. The Subjective Global Assessment of Nutritional Status tool incorporates history of calorie intake and physical examination findings, whereas the Nutritional Risk Screening Tool relies on age, BMI and weight loss, and severity of the current medical condition. Serum protein markers, including albumin and prealbumin, are also predictive of postoperative complications. Loss of 15% of body weight over 6 months and a serum albumin level less than 3.0 g/dL (30 g/L) are the most predictive factors of poor surgical outcomes related to malnutrition. Notably, increased enteral calorie intake is effective in reducing postoperative complications.
@@ -39,22 +37,11 @@ Postoperative ileus, or gastrointestinal hypomotility after surgery, is associat
 
 The prevention and treatment of PONV, a common postoperative event that results in significant patient distress, require a multifaceted approach that involves identifying at-risk patients, reducing baseline risk factors, providing prophylaxis, and treating symptoms. Risk factors for PONV include female sex; young age; nonsmoking status; and use of general anesthesia, postoperative opioids, or volatile anesthetics. Although many risk-mitigation strategies include intraoperative and immediate postoperative care, the internist plays an important role in ensuring adequate postoperative hydration, minimizing the use of opioids, and providing pharmacologic antiemetic therapy.
 
-## Key Points
-
-- Preoperative laboratory testing should be performed based on the patient's medical conditions, physical examination findings, and preoperative symptoms; routine laboratory panels expose patients to unnecessary testing and are not recommended.
-- There is a paucity of high-quality evidence to guide perioperative medication management; in general, most medications are tolerated throughout the perioperative period.
-- Optimization of nutritional status, early mobilization, use of lung expansion modalities, and enhanced recovery after surgery programs are important components of the postoperative care plan.
-- Treatment of postoperative ileus includes minimization of postoperative opioids, adequate hydration, bowel rest, electrolyte repletion, postoperative ambulation, and use of chewing gum.
-
 ## Cardiovascular Perioperative Management
 
 ### Cardiovascular Risk Assessment
 
-#### Related Questions
-
-- Question 34
-- Question 82
-- Question 133
+![](https://photos.thisispiggy.com/file/wikiFiles/20220706075841.png)
 
 Preoperative cardiac evaluation entails assessment of patient-specific risk, surgery-specific risk, and urgency of surgery (emergent, urgent, or time sensitive). The approach recommended by the American College of Cardiology (ACC)/American Heart Association (AHA) for perioperative cardiovascular evaluation in patients undergoing noncardiac surgery is presented in **[Figure 29](https://mksap18.acponline.org/app/topics/gm/figures/mk18_b_gm_f29)**.
 
@@ -100,13 +87,6 @@ Preoperative evaluation by a pulmonary hypertension specialist is advised for pa
 
 In patients with hypertension, urgent blood pressure lowering is not mandatory preoperatively unless there is evidence of end-organ dysfunction, in which case surgery should be delayed and blood pressure treated. Deferral of surgery may also be considered in patients with a systolic blood pressure of 180 mm Hg or higher or diastolic blood pressure of 110 mm Hg or higher. Moderate preoperative hypertension has not been linked to adverse perioperative outcomes, although evidence is lacking regarding a specific blood pressure threshold. The perioperative use of specific antihypertensive agents is outlined in **[Table 91](https://mksap18.acponline.org/app/topics/gm/tables/mk18_b_gm_t91)**.
 
-## Key Points
-
-- Patients with low cardiovascular risk (<1% risk for perioperative major adverse cardiac event \[MACE]) may proceed to surgery without preoperative cardiac stress testing, whereas patients with elevated risk (≥1% risk for perioperative MACE) should undergo assessment of functional capacity to determine necessity for cardiac stress testing.
-- Routine electrocardiography is not indicated in asymptomatic patients undergoing low-risk surgical procedures.
-- In patients with coronary artery disease, routine coronary angiography or revascularization should be performed for recognized indications based on existing clinical practice guidelines and should not be performed exclusively to reduce perioperative cardiovascular events.
-- Patients with hypertension who are undergoing surgery do not require urgent blood pressure lowering preoperatively unless there is evidence of end-organ dysfunction.
-
 ## Pulmonary Perioperative Management
 
 Perioperative pulmonary complications include pneumonia, respiratory failure, and exacerbation of underlying lung disease. Pulmonary perioperative management involves pulmonary risk assessment, including screening for obstructive sleep apnea (OSA), assessment of any underlying lung disease with optimization of treatment, and optimization of perioperative risk-reduction strategies.
@@ -129,20 +109,9 @@ Risk for pulmonary complications should be mitigated with perioperative risk-red
 
 In patients diagnosed with OSA, continuous positive airway pressure (CPAP) should be initiated preoperatively. Patients at high risk for OSA undergoing nonelective surgery should be placed on continuous pulse oximetry and monitored for oxygen desaturation, apneas, reduced respiration rate, and oversedation in the postanesthesia care unit (PACU); patients with recurrent respiratory events in the PACU benefit from additional monitoring postoperatively. All patients with known OSA should bring their CPAP device to the hospital for use in the perioperative period.
 
-## Key Points
-
-- Preoperative chest radiography is indicated only in patients with signs or symptoms of pulmonary disease and in patients with underlying cardiac or pulmonary disease and new or unstable symptoms.
-- Spirometry should not be routinely performed preoperatively except in patients undergoing lung resection.
-- All patients undergoing surgery should be screened for obstructive sleep apnea, which is associated with adverse perioperative outcomes, including cardiac events, pulmonary complications, and ICU admissions.
-
 ## Hematologic Perioperative Management
 
 ### Venous Thromboembolism Prophylaxis
-
-#### Related Questions
-
-- Question 3
-- Question 98
 
 The American College of Chest Physicians (ACCP) antithrombotic guideline provides recommendations for VTE prophylaxis for both orthopedic and nonorthopedic surgery populations (**[Table 95](https://mksap18.acponline.org/app/topics/gm/tables/mk18_b_gm_t95)**). In patients undergoing general surgery or abdominal-pelvic surgery, the ACCP recommends using the Caprini score to estimate the patient's risk for postoperative thrombosis (**[Table 96](https://mksap18.acponline.org/app/topics/gm/tables/mk18_b_gm_t96)**).
 
@@ -151,10 +120,6 @@ Hip fracture surgery, total knee arthroplasty, and total hip arthroplasty pose a
 Multiple guidelines recommend against the routine placement of inferior vena cava filters for VTE prophylaxis. Routine surveillance for VTE with venous compression ultrasonography is also not recommended in patients undergoing orthopedic surgery, general surgery, abdominal-pelvic surgery, and trauma surgery.
 
 ### Perioperative Management of Anticoagulant Therapy
-
-#### Related Question
-
-- Question 167
 
 Anticoagulant therapy increases the risk for perioperative hemorrhage and should be discontinued in most patients before surgery. Minor surgery, including dental extractions and minor skin surgery, can be completed while a patient is anticoagulated. Vitamin K antagonist (warfarin) therapy may also be continued in some patients undergoing cardiac device implantation, although the best approach to these procedures in patients receiving non–vitamin K antagonist oral anticoagulants (NOACs), including direct thrombin and factor Xa inhibitors, is unclear. In any case, collaboration with the surgeon or proceduralist is crucial to ensure that it is safe for the patient to remain anticoagulated. When it is necessary to discontinue anticoagulation, vitamin K antagonists should be discontinued at least 5 days before surgery; most procedures can be safely performed with an INR of less than 1.5. The duration for which NOACs are discontinued before surgery depends on the bleeding risk of the procedure, the patient's kidney function, and the medication half-life; generally, NOACs can be stopped 2 to 3 days preoperatively because of their shorter half-lives.
 
@@ -165,10 +130,6 @@ Postprocedural management of anticoagulation is based on thrombotic and bleeding
 Because of the risk for spinal epidural hematoma, anticoagulant use with concomitant neuraxial (spinal and epidural) anesthesia should be avoided.
 
 #### Atrial Fibrillation
-
-#### Related Question
-
-- Question 123
 
 The decision to initiate bridging anticoagulation in patients with atrial fibrillation is based on bleeding risk and thrombotic risk. Procedures with an intermediate or high risk for bleeding almost always require interruption of anticoagulation.
 
@@ -183,10 +144,6 @@ In patients receiving warfarin anticoagulant therapy for a mechanical prosthetic
 Recommendations for bridging anticoagulation in those with a history of venous thromboembolism, including patients with thrombophilias, are included in **[Table 100](https://mksap18.acponline.org/app/topics/gm/tables/mk18_b_gm_t100)**.
 
 ### Perioperative Management of Antiplatelet Medications
-
-#### Related Question
-
-- Question 61
 
 The perioperative management of dual antiplatelet therapy (DAPT), comprising aspirin plus a P2Y12 inhibitor (clopidogrel, ticagrelor, or prasugrel), in patients with CAD depends on the presence of a bare metal or drug-eluting coronary stent, time since stent placement, and, to some degree, the indication for DAPT (stable ischemic heart disease \[SIHD] or acute coronary syndrome \[ACS] within the last year).
 
@@ -205,13 +162,6 @@ In all patients undergoing surgery, a careful preoperative bleeding history, inc
 In orthopedic and cardiac surgery patients and those with a history of stable CAD, the American Association of Blood Banks recommends a restrictive transfusion threshold (hemoglobin level of 8 g/dL \[80 g/L]), as studies indicate that a restrictive threshold results in equivalent or improved patient outcomes. Similarly, in hospitalized hemodynamically stable patients, a transfusion threshold of 7 g/dL (70 g/L) is recommended.
 
 The American Association of Blood Banks recommends a platelet transfusion threshold of 50,000/µL (50 × 109/L) for patients undergoing major non-neurologic surgery or lumbar puncture. Patients with mild thrombocytopenia due to immune thrombocytopenia are typically able to proceed to surgery at the recommended threshold. Postoperative thrombocytopenia warrants further evaluation, especially in patients with heparin exposure owing to the risk for heparin-induced thrombocytopenia. See [MKSAP 18 Hematology and Oncology](https://mksap18.acponline.org/app/topics/ho/mk18_a_ho_s5/mk18_a_ho_s5_3_2_2_2) for a discussion of heparin-induced thrombocytopenia.
-
-## Key Points
-
-- Patients undergoing general surgery or abdominal-pelvic surgery who are at high risk for venous thromboembolism should receive pharmacologic prophylaxis (with low-molecular-weight heparin or low-dose unfractionated heparin) in combination with mechanical prophylaxis.
-- The minimum recommended duration of pharmacologic venous thromboembolism prophylaxis in patients undergoing orthopedic surgery is 10 to 14 days; however, in patients without increased bleeding risk, extended-duration postoperative prophylaxis (up to 35 days) is preferred.
-- In patients treated with percutaneous coronary intervention who are undergoing elective noncardiac surgery, dual antiplatelet therapy should be continued uninterrupted for at least 30 days after bare metal stent placement and a minimum of 6 months after drug-eluting stent placement.
-- In orthopedic and cardiac surgery patients and those with a history of CAD, the American Association of Blood Banks recommends a restrictive transfusion threshold (hemoglobin level of 8 g/dL \[80 g/L]).
 
 ## Perioperative Management of Endocrine Diseases
 
@@ -237,27 +187,13 @@ Consultation with an endocrinologist is advised if emergent surgery is required 
 
 Patients with adrenal insufficiency should be evaluated for the need for perioperative supplemental glucocorticoid dosing, known as stress dosing. The decision to initiate perioperative stress dosing is guided by limited evidence, although one strategy uses patient characteristics and the degree of surgical stress to determine management (**[Table 101](https://mksap18.acponline.org/app/topics/gm/tables/mk18_b_gm_t101)**). Perioperative supplemental glucocorticoid dosing recommendations are provided in **[Table 102](https://mksap18.acponline.org/app/topics/gm/tables/mk18_b_gm_t102)**.
 
-## Key Points
-
-- In patients with diabetes mellitus who are undergoing surgery, oral and injectable noninsulin medications should be withheld, replaced with supplemental insulin, and resumed at hospital discharge or when the patient has resumed a full diet.
-- Patients with untreated, asymptomatic mild hypothyroidism may proceed to surgery without further testing or treatment.
-- Surgery should be deferred in patients with severe uncontrolled hypo- or hyperthyroidism.
-
 ## Perioperative Management of Kidney Disease
 
 Patients with chronic kidney disease (CKD) are at increased perioperative risk for fluid and electrolyte imbalance, metabolic acidosis, anemia, bleeding diathesis, and cardiac events, depending on the severity of the underlying disease. For patients undergoing hemodialysis, it is advisable to consult a nephrologist for review of the dialysate prescription, adjustment of fluid removal, and management of peridialysis heparin. Patients with less advanced CKD require correction of electrolyte abnormalities and optimization of volume status preoperatively. In all patients with kidney disease undergoing surgery, it is important to avoid iodinated contrast dye and other nephrotoxic agents and minimize perioperative hypotension.
 
 Perioperative acute kidney injury portends an increased risk for postoperative CKD and, in those with underlying CKD, end-stage kidney disease. The two most important means of mitigating the risk for acute kidney injury are maintenance of renal blood flow and avoidance of further insults to the kidneys. Renal blood flow is maintained by avoiding renal hypoperfusion; effectively managing diuresis and antihypertensive medications; and treating anemia, which may impair peripheral vasodilation. Careful medication review is also warranted to ensure appropriate dosing based on renal clearance.
 
-## Key Point
-
-- The two most important means of mitigating the risk for acute kidney injury in the perioperative period are maintenance of renal blood flow and avoidance of further insults to the kidneys.
-
 ## Perioperative Management of Liver Disease
-
-#### Related Question
-
-- Question 21
 
 Liver disease increases risk for perioperative infection, encephalopathy, bleeding, fluid retention, and acute kidney and liver decompensation. Patients with chronic liver disease require careful preoperative evaluation and risk stratification using the Model for End-stage Liver Disease (MELD) score and Child-Turcotte-Pugh classification. Patients with compensated liver disease, including those with a MELD score of less than 8 to 10, are often able to proceed with surgery with optimal medical management. In patients with intermediate risk, referral to a hepatologist is reasonable before proceeding with surgery. Those with severe liver disease are at increased and often prohibitive risk for perioperative complications and death; patients with a MELD score greater than 15 should be referred for transplant evaluation before surgery if appropriate. Patients with Child-Pugh class C disease or a MELD score greater than 20 are at high risk for death, and all but the most urgent and life-saving surgeries should be avoided until after liver transplantation.
 
@@ -274,11 +210,6 @@ Patients with Parkinson disease are predisposed to perioperative delirium, hallu
 Asymptomatic carotid bruit is a common finding in older adults but is not predictive of perioperative stroke and therefore requires no preoperative evaluation. Perioperative stroke is discussed in [MKSAP 18 Neurology](https://mksap18.acponline.org/app/topics/nr/mk18_a_nr_s4/mk18_a_nr_s4_3_4).
 
 Delirium commonly occurs in the postoperative setting, especially in the elderly. Risk factors and treatment are similar to those for delirium in the general hospital setting (see [MKSAP 18 Neurology](https://mksap18.acponline.org/app/topics/nr/mk18_a_nr_s5/mk18_a_nr_s5_4)).
-
-## Key Points
-
-- Patients with Parkinson disease should continue antiparkinson agents through surgery, and surgery should be scheduled for as early in the day as possible to minimize missed doses.
-- Asymptomatic carotid bruit is a common finding in older adults but is not predictive of perioperative stroke and therefore requires no preoperative evaluation.
 
 ## Perioperative Management of the Pregnant Patient
 

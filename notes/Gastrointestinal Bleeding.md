@@ -42,7 +42,7 @@ For variceal bleeding and other hemodynamically significant bleeding, ==resuscit
 
 #### Pre-Endoscopic Care
 
-<!-- UGIB medical management -->
+<!-- UGIB medical management b:713136942698-->
 
 ==Intravenous proton pump inhibitor== (PPI) therapy initiated before endoscopy ==decreases high-risk endoscopic stigmata== seen (**[Figure 33](https://mksap18.acponline.org/app/topics/gi/figures/mk18_a_gi_f33)** and **[Figure 34](https://mksap18.acponline.org/app/topics/gi/figures/mk18_a_gi_f34)**) but does not influence outcome. ==Octreotide and antibiotics== (IV rocephin 1g q24 and then afterwards transition to cipro 500mg q12) should be initiated if ==variceal hemorrhage== is suspected. ==Intravenous erythromycin== given before endoscopy ==improves gastric visualization== and decreases the need for repeat endoscopy, but it should be administered only when requested by the endoscopist, not routinely. Nasogastric tube lavage is not required, as it has shown no evidence of clinical benefit.
 
@@ -50,13 +50,17 @@ Patients with hemodynamic instability or active bleeding (hematemesis or recurre
 
 #### Post-Endoscopic Care
 
-Patients with low-risk stigmata (see **[Figure 35](https://mksap18.acponline.org/app/topics/gi/figures/mk18_a_gi_f35)**) can be ==fed within 24 hours of endoscopy==, receive ==once-daily oral PPI therapy==, and be discharged from the hospital. Patients with ==high-risk lesions== and those with adherent clots requiring endoscopic treatment should receive ==intravenous PPI therapy for 72 hours== to decrease risk for rebleeding and remain in the hospital for this interval. ==Twice-daily oral PPI therapy should continue for 2 weeks for high-risk lesions==.
+![](https://photos.thisispiggy.com/file/wikiFiles/20220710211108.png)
+
+Patients with low-risk stigmata (see **[Figure 35](https://mksap18.acponline.org/app/topics/gi/figures/mk18_a_gi_f35)**) can be ==fed within 24 hours of endoscopy==, receive ==once-daily oral PPI therapy==, and be discharged from the hospital. Patients with ==high-risk lesions== and those with ==adherent clots== requiring endoscopic treatment should receive ==intravenous PPI therapy for 72 hours== to decrease risk for rebleeding and remain in the hospital for this interval. ==Twice-daily oral PPI therapy should continue for 2 weeks for high-risk lesions==.
+
+Ulcers with **high-risk** features for rebleeding (eg, active bleeding, adherent clot, visible vessel) typically require endoscopic treatment.  Most rebleeding occurs in the first **72 hours**, so patients should be monitored during this time while on high-dose intravenous PPI therapy.  A **clear liquid diet** is advised as urgent interventions (eg, repeat endoscopy) may be needed if bleeding recurs.  Stable patients may then be transitioned to a regular diet and oral PPI therapy and discharged.  Routine "second-look" endoscopy has not been shown to be beneficial and is indicated only if there is rebleeding, poor visualization during the initial endoscopy (eg, due to blood/debris), or concern that initial endoscopic therapy was suboptimal.
 
 When hemostasis is secure, ==antithrombotic agents can be restarted while continuing high-dose oral PPI therapy twice daily==. Patients with idiopathic peptic ulcer disease, unrelated to NSAID use or _Helicobacter pylori_ infection, should continue once-daily oral PPI therapy indefinitely because of the high risk for recurrent bleeding.
 
 #### Endoscopic Evaluation and Treatment
 
-<!-- UGIB endoscopic management -->
+<!-- UGIB endoscopic management b:1045585356785-->
 
 Upper endoscopy is the primary diagnostic modality for evaluating UGIB. For patients hospitalized with UGIB, endoscopy should be performed ==within 24 hours of resuscitation==; in those with ==rapid bleeding or suspected variceal hemorrhage==, it should be ==done more emergently==. The possibility of ==aortoenteric fistula== should always be considered in patients who have had previous ==aortic graft surgery== and who present with ==gastrointestinal bleeding== because aortoenteric fistula is life-threatening, with a mortality rate of 50% even with surgical intervention. When there is a high degree of suspicion for an aortoenteric fistula, ==CT with intravenous contrast== should be performed before endoscopy or other types of gastrointestinal evaluation.
 
@@ -68,9 +72,15 @@ Ulcers at low risk for rebleeding, for which endoscopic therapy is not indicated
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220507095832.png)
 Mallory-Weiss tear. A superficial linear mucosal tear (_arrow_) seen on endoscopic retroflexion in the proximal stomach.
 
+#### Aortoenteric Fistula
+
+<!-- aortoenteric fistula demographics, sx, dx b:80693053438-->
+
+The patient presents with the classic “herald bleed” of ==aortoenteric fistula:== a ==brisk bleed== associated with ==hypotension== that stops spontaneously and then is followed later by ==massive gastrointestinal hemorrhage==. An aortoenteric fistula is a ==communication== between the aorta and the gastrointestinal tract, most commonly located in the ==distal duodenum==, especially the third portion, because the duodenum is fixed and located just anterior to the aorta. The possibility of an aortoenteric fistula must be considered in a patient with ==previous aortic graft surgery== who presents with ==gastrointestinal bleeding==. It is a ==life-threatening condition==, with a mortality rate of ==50==% even with surgical intervention. In this setting, the aortoenteric fistula is most commonly due to ==graft infection==, and associated ==fever and leukocytosis== occurs. When there is a high degree of suspicion for aortoenteric fistula, CT with intravenous contrast should be performed before other types of gastrointestinal evaluation because CT can be performed promptly and is noninvasive. CT can reveal evidence of graft infection, such as perigraft soft-tissue thickening or loss of tissue planes, and its reported sensitivity for aortoenteric fistula is 80% or greater.
+
 #### Variceal Bleed
 
-<!-- variceal bleed management -->
+<!-- variceal bleed management b:241041540682-->
 
 The initial therapy for ==acute esophageal variceal hemorrhage== (**[Figure 37](https://mksap18.acponline.org/app/topics/gi/figures/mk18_a_gi_f37)**) is resuscitation in an ICU with the goal of maintaining hemodynamic stability and a hemoglobin of 7 g/dL (70 g/L). ==Overtransfusion can precipitate variceal rebleeding== due to increased portal pressure.
 
@@ -90,7 +100,7 @@ Twenty percent of all cases of gastrointestinal bleeding originate in the colon 
 
 ### Causes
 
-<!-- LGIB causes -->
+<!-- LGIB causes b:1600962908397-->
 
 The most common cause of minor LGIB is ==hemorrhoidal bleeding==. Hemorrhoidal bleeding is usually characterized by a ==small volume of bright red blood== and does not cause hemodynamic instability or significant volume loss (see [Disorders of the Small and Large Bowel](https://mksap18.acponline.org/app/topics/gi/mk18_a_gi_s4/mk18_a_gi_s4_10_1_1) for discussion of hemorrhoids). ==Causes of severe LGIB== that may lead to clinical instability include diverticular bleeding, colonic angiodysplasia, postpolypectomy bleeding, Dieulafoy lesion, solitary rectal ulcer syndrome, rectal varices, or malignancy (**[Table 38](https://mksap18.acponline.org/app/topics/gi/tables/mk18_a_gi_t38)**). Fifteen percent of patients with a presumed lower gastrointestinal source of bleeding are found to have an ==upper gastrointestinal source==.
 
@@ -112,7 +122,7 @@ An initial patient assessment and hemodynamic resuscitation should be performed 
 
 ### Management
 
-<!-- LGIB management -->
+<!-- LGIB management b:904729090043-->
 
 Resuscitation goals for patients with LGIB should be normalization of blood pressure and heart rate, as well as the transfusion of packed red blood cells if needed to maintain the hemoglobin level above 7 g/dL (70 g/L), with a ==threshold of 9 g/dL (90 g/L) in patients with massive bleeding==, or when treatment may be delayed. ==Platelet transfusion to maintain counts above 50,000 cells/µL== (50 × 109/L) is recommended in patients with active bleeding. The decision to discontinue or reverse anticoagulant agents should balance the risk of ongoing bleeding with the risk of thromboembolic events and often requires a multidisciplinary approach.
 
@@ -180,7 +190,7 @@ Anemia should be treated with blood transfusion acutely if needed and iron suppl
 
 ## Anticoagulation
 
-<!-- GI bleed: discontinueing and restarting ASA, P2Y12 inhibitors, warfarin, non-vit K -->
+<!-- GI bleed: discontinueing and restarting ASA, P2Y12 inhibitors, warfarin, non-vit K b:819158438665-->
 
 ==Vitamin K and 4-factor prothrombin complex concentrate== should be administered to patients on anticoagulation with a ==supratherapeutic INR==. The risk for continued bleeding on anticoagulation therapy should be weighed against the risk associated with stopping therapy. Furthermore, ==endoscopy should not be delayed== for anticoagulation reversal. For patients with an INR in or slightly above the therapeutic range (up to 2.7), normalization of the INR does not reduce rebleeding risk but delays endoscopy and decreases the sensitivity of endoscopy to identify important prognostic indicators related to risk for rebleeding.
 

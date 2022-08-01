@@ -8,10 +8,6 @@ date: 2021-12-30
 - tags: #nephrology
 ---
 
-### ANCA-Associated Glomerulonephritis
-
-See [MKSAP 18 Rheumatology](https://mksap18.acponline.org/app/topics/rm/mk18_a_rm_s14/mk18_a_rm_s14_4_1) for more information on ANCA-associated vasculitis.
-
 #### Epidemiology and Pathophysiology
 
 ANCA-associated glomerulonephritis (pauci-immune crescentic glomerulonephritis) accounts for more than half of all RPGN cases and has a particularly high prevalence in patients >65 years of age presenting with AKI and active urinary sediment. ANCA are autoantibodies that target proteins within neutrophil granules and monocyte lysosomes. There are two types of vasculitis-associated ANCA: p-ANCA (perinuclear) is directed against the neutrophil enzyme myeloperoxidase (MPO), and c-ANCA (cytoplasmic) is directed against the neutrophil proteinase 3 (PR3).

@@ -14,12 +14,12 @@ date: 2020-09-07
 - Rx:
 	- remove foreign body
 	- fluid replacement, extensive, sometimes 20L per day
-	- Clindamycin: prevents toxin synthesis
-	- \+/- staph abx (vancomycin, oxacillin, nafcilin)
+	- ==Clindamycin:== prevents toxin synthesis
+	- \+/- staph abx (==vancomycin==, oxacillin, nafcilin)
 	- Steroids doesn't work
 	- Epinephrine and antihistamines don't work either (not allergic reaction)
 
-A 25-year-old man is brought to the emergency department due to high-grade **fever, chills, myalgias, and skin rash**, which started on the day of admission.  He also had nausea and 3 episodes of profuse watery diarrhea and is now feeling lightheaded.  Two days ago, he underwent corrective surgery for a deviated nasal septum but otherwise has no other past medical history.  The patient has not traveled recently and has not been around sick contacts.  He does not use illicit drugs.  His temperature is 39.4 C (103 F), blood pressure is 85/50 mm Hg, and pulse is 116/min.  Oxygen saturation is 98% on room air.  He is lethargic but has no focal weakness or nuchal rigidity.  Examination shows clear lung fields and tachycardia with normal first and second heart sounds.  The abdomen is soft and nontender.  There is **nasal packing** in both nostrils.  Skin examination shows a diffuse, red, macular rash that also involves the palms and soles.
+A 25-year-old man is brought to the emergency department due to high-grade **fever, chills, myalgias, and skin rash**, which started on the day of admission.  He also had nausea and 3 episodes of profuse ==watery diarrhea== and is now feeling lightheaded.  Two days ago, he underwent corrective surgery for a deviated ==nasal== septum but otherwise has no other past medical history.  The patient has not traveled recently and has not been around sick contacts.  He does not use illicit drugs.  His temperature is 39.4 C (103 F), blood pressure is 85/50 mm Hg, and pulse is 116/min.  Oxygen saturation is 98% on room air.  He is lethargic but has no focal weakness or nuchal rigidity.  Examination shows clear lung fields and tachycardia with normal first and second heart sounds.  The abdomen is soft and nontender.  There is **==nasal packing==** in both nostrils.  Skin examination shows a ==diffuse, red, macular rash== that also involves the ==palms and soles==.
 
 <!-- ignore -->
 

@@ -24,11 +24,13 @@ The list of possible organic causes of dyspepsia is extensive (**[Table 5](http
 
 ### Evaluation and Management
 
+<!-- dyspepsia management. Functional dyspepsia management b:1350783094560-->
+
 The approach to testing for dyspepsia should be based on patient age, severity of symptoms, and risk for gastric cancer. Upper endoscopy is commonly ordered to exclude upper gastrointestinal neoplasia; however, it is invasive and costly. Given the low incidence of malignancy and consideration for cost effectiveness in the evaluation of dyspepsia in younger adults, the American College of Gastroenterology (ACG) and the Canadian Association of Gastroenterology (CAG) have jointly ==recommended routine use of upper endoscopy only in patients aged 60 years and older to exclude malignancy==. The ACG/CAG guidelines recommend ==against the routine use of upper endoscopy in patients younger than age 60 years==, even in the presence of alarm features including weight loss, anemia, dysphagia, persistent vomiting, and severe symptoms, because these features are poor predictors of organic pathology, such as malignancy, peptic ulcer disease, or esophagitis. ==Consideration of endoscopy at a younger age is reasonable for patients at higher risk of malignancy==, such as those with childhood years spent in a region where gastric cancer is endemic (Asia, Russia, and South America) or those with a positive family history.
 
-For patients younger than age 60 years with dyspepsia symptoms, the ACG/CAG guidelines recommend noninvasive testing for ==_Helicobacter pylori_==. Other testing, such as routine laboratory testing, screening for celiac disease, abdominal imaging, or gastric emptying, should be considered on an individual basis.
+For patients ==younger than age 60 years== with dyspepsia symptoms, the ACG/CAG guidelines recommend noninvasive testing for ==_Helicobacter pylori_==. Other testing, such as routine laboratory testing, screening for celiac disease, abdominal imaging, or gastric emptying, should be considered on an individual basis.
 
-Management of dyspepsia is directed at treatment of the underlying cause. Patients who test positive for _H. pylori_ should receive eradication therapy. If _H. pylori_ testing is negative or _H. pylori_ eradication fails to relieve the dyspepsia, an empiric trial of a proton pump inhibitor (PPI) should be pursued for 4 weeks. Patients whose symptoms are not alleviated with PPI therapy should undergo further evaluation with an upper endoscopy. Patients diagnosed with functional dyspepsia after the exclusion of organic disease can be treated with a variety of interventions (**[Figure 8](https://mksap18.acponline.org/app/topics/gi/figures/mk18_a_gi_f08)**).
+Management of dyspepsia is directed at treatment of the underlying cause. Patients who test positive for _H. pylori_ should receive ==eradication therapy==. If _H. pylori_ testing is negative or _H. pylori_ eradication fails to relieve the dyspepsia, an ==empiric trial of a proton pump inhibitor (PPI) should be pursued for 4 weeks==. Patients whose symptoms are not alleviated with PPI therapy should undergo further evaluation with an ==upper endoscopy==. Patients diagnosed with functional dyspepsia after the exclusion of organic disease can be treated with a variety of interventions (**[Figure 8](https://mksap18.acponline.org/app/topics/gi/figures/mk18_a_gi_f08)**).
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220501093941.png)
 
@@ -39,6 +41,8 @@ FODMAP = Fermentable Oligosaccharides, Disaccharides, Monosaccharides, And Polyo
 ## Peptic Ulcer Disease
 
 ### Clinical Features, Diagnosis, and Complications
+
+<!-- ignore -->
 
 The most frequently reported symptom of peptic ulcer disease (PUD) is epigastric pain, frequently described as worse during fasting and improved with eating or use of antacid or antisecretory therapy. Pain may be accompanied by other dyspeptic symptoms, such as early satiety, abdominal bloating, nausea, belching, or heartburn (from coexistent esophagitis). Epigastric pain may be minimal or absent in the elderly, immunosuppressed patients, and chronic NSAID users.
 
@@ -86,9 +90,13 @@ Testing for eradication of _H. pylori_ should be done ==after completion of erad
 
 ### Atrophic Gastritis
 
-Chronic atrophic gastritis can present as either an environmental metaplastic atrophic gastritis (EMAG), also called multifocal atrophic gastritis, or an autoimmune atrophic gastritis (AMAG). EMAG is the result of _H. pylori_ infection, and typically improves after _H. pylori_ eradication. AMAG is caused by autoantibody formation to parietal cell antigens, and is commonly associated with pernicious anemia. The achlorhydria from chronic atrophic gastritis can lead to iron deficiency, small intestinal bacterial overgrowth, and enteric infections. The hypergastrinemia associated with AMAG can promote the development of gastric carcinoid. Goals of therapy for patients with AMAG include the prevention of pernicious anemia and iron deficiency with vitamin B12 supplementation and iron replacement, and surveillance for gastric neoplasm. There are no universally accepted surveillance protocols for gastric neoplasm in the United States. A screening upper endoscopy with gastric biopsy is recommended in the setting of pernicious anemia.
+<!-- atrophic gastritis is, types, sx, management b:1613702170312-->
+
+==Chronic atrophic gastritis== can present as either an environmental metaplastic atrophic gastritis ==(EMAG)==, also called multifocal atrophic gastritis, or an autoimmune atrophic gastritis ==(AMAG)==. EMAG is the result of _H. pylori_ infection, and typically improves after _H. pylori_ eradication. ==AMAG== is caused by ==autoantibody formation to parietal cell== antigens, and is commonly ==associated with pernicious anemia== and has no cure. The ==achlorhydria (reduced gastric acid production)== from chronic atrophic gastritis can lead to iron deficiency, small intestinal bacterial overgrowth, and enteric infections. The ==secondary hypergastrinemia== associated with AMAG can promote the development of gastric carcinoid. Goals of therapy for patients with AMAG include the ==prevention of pernicious anemia== and ==iron deficiency with vitamin B12 supplementation== and iron replacement, and ==surveillance for gastric neoplasm==. It is prudent to perform ==upper endoscopy and gastric biopsy== at the time of pernicious anemia diagnosis to evaluate for these cancers; however, the benefit on ongoing surveillance endoscopy is unclear. Autoimmune-related pernicious anemia and associated iron deficiency anemia are likely to require lifelong vitamin B12 and iron replacement, respectively.
 
 ### Intestinal Metaplasia
+
+<!-- ignore -->
 
 Gastric intestinal metaplasia is a preneoplastic gastropathy arising from chronic inflammation associated with _H. pylori_ infection. As such, patients with gastric intestinal metaplasia should be tested and treated for _H. pylori_ if the infection is identified. Other causes of chronic inflammation, including other gastric infections, chemical agents, and autoimmune disease, may also promote progression to gastric intestinal metaplasia. There is no conclusive evidence that long-term PPI use promotes the development of intestinal metaplasia. Gastric intestinal metaplasia is believed to be an intermediary stage in the multistage progression from chronic atrophic gastritis to gastric adenocarcinoma. If metaplasia is secondary to _H. pylori_ infection, eradication therapy may decrease progression to gastric adenocarcinoma. Given the rarity of gastric adenocarcinoma in the United States, current guidelines recommend against the routine use of surveillance endoscopy in gastric intestinal metaplasia. Surveillance programs do exist in other parts of the world, and endoscopic surveillance should be considered in patients at increased risk (such as those with complete or extensive gastric intestinal metaplasia on endoscopy; those with a family history of gastric cancer; racial/ethnic minorities; or those who have emigrated from East Asia, Russia, or South America).
 
@@ -124,11 +132,19 @@ Gastroparesis is a heterogeneous clinical syndrome with three components to the 
 
 ### Diagnostic Testing
 
+<!-- suspected gastroparesis evaluation b:393011820858-->
+
 The first study performed to evaluate suspected gastroparesis is an ==upper endoscopy== to exclude a gastric outlet obstruction. Once a structural cause for symptoms has been excluded, an objective test to assess ==gastric emptying== is performed. There are three testing modalities available to assess gastric emptying: ==gastric scintigraphy, wireless motility capsule, and the radiolabeled carbon breath test== using 13C-labeled _Spirulina platensis_ (**[Table 14](https://mksap18.acponline.org/app/topics/gi/tables/mk18_a_gi_t14)**). Gastric scintigraphy is the most commonly used modality. Narcotic and anticholinergic agents must be stopped at least 72 hours before a gastric emptying study. Once delayed emptying is objectively confirmed, additional testing maybe required to determine the underlying cause of the gastroparesis.
+
+Gastric emptying scintigraphy is the most appropriate next step in management. The diagnosis of gastroparesis requires: (1) the presence of specific symptoms; (2) the absence of mechanical outlet obstruction; and (3) objective evidence of delay in gastric emptying into the duodenum.
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220511165018.png)
 
 ### Management
 
-The severity of gastroparesis-related symptoms does not correlate with the severity of delayed gastric emptying, particularly with regard to the symptoms of abdominal bloating and epigastric pain. This suggests that gastroparesis is not simply a motility disorder but one of altered sensation as well. Because poor glycemic control (blood glucose level >200 mg/dL \[11.1 mmol/L]) can worsen symptoms as well as gastric emptying, tight glycemic control is the most important element of treatment of diabetic gastroparesis. Initial management also includes correction of dehydration and electrolyte abnormalities, and nutritional support if needed. Initial dietary intervention should consist of small, frequent meals that are low in fat and soluble fiber. Referral to a dietician may be beneficial.
+<!-- gastroparesis management b:1205868027446-->
+
+The severity of gastroparesis-related symptoms does not correlate with the severity of delayed gastric emptying, particularly with regard to the symptoms of abdominal bloating and epigastric pain. This suggests that gastroparesis is not simply a motility disorder but one of altered sensation as well. Because poor glycemic control (blood glucose level >200 mg/dL, 11.1 mmol/L) can worsen symptoms as well as gastric emptying, tight glycemic control is the most important element of treatment of diabetic gastroparesis. Initial management also includes correction of dehydration and electrolyte abnormalities, and nutritional support if needed. Initial dietary intervention should consist of small, frequent meals that are low in fat and soluble fiber. Referral to a dietician may be beneficial.
 
 Pharmacologic therapy is used to improve gastric emptying and to treat symptoms. Metoclopramide is the only prokinetic approved in the United States for the treatment of gastroparesis. To minimize the significant risk for neurologic side effects, including dystonia, Parkinsonian movements, and tardive dyskinesia, the lowest effective dose should be used. Therapy must be stopped immediately if neurologic side effects develop.
 
@@ -141,6 +157,8 @@ Interventional therapy, such enteral feeding via jejunostomy, gastric stimulator
 ## Gastric Polyps and Subepithelial Lesions
 
 ### Gastric Polyps
+
+<!-- ignore -->
 
 Polyps in the stomach include fundic gland polyps, hyperplastic polyps, and adenomas. Fundic gland polyps and hyperplastic polyps account for 70% to 90% of stomach polyps. Fundic gland polyps are commonly seen in the setting of PPI use and are also found in patients with familial adenomatous polyposis. All gastric polyps should be biopsied to determine polyp histology.
 
@@ -162,23 +180,23 @@ A carcinoid tumor is a well-differentiated neuroendocrine tumor originating in t
 
 ### Epidemiology and Risk Factors
 
-Stomach adenocarcinoma has an incidence rate of 6.7 in 100,000 persons and a mortality rate of 3.4 per 100,000 persons in the United States. Rates have steadily decreased since the 1990s. There are two types of gastric cancer: intestinal-type, which is more common, and diffuse-type. _H. pylori_ is a recognized risk factor for both types of cancer. Other risk factors primarily associated with intestinal-type gastric adenocarcinoma include male sex; ethnicity (incidence is highest in persons of Asian and Pacific Island descent, and mortality is highest in non-Hispanic White persons); geography (the highest rates worldwide occur in Asia, Eastern Europe, and Central and South America); diet high in smoked, salted, and pickled foods as well as nitrates and nitrites; smoking; and obesity. Additional risk factors include previous stomach surgery, pernicious anemia, and hereditary syndromes such as hereditary diffuse gastric cancer (associated with the diffuse type), Lynch syndrome, and familial adenomatous polyposis. Gastric intestinal metaplasia and dysplasia are also risk factors for gastric adenocarcinoma.
+Stomach adenocarcinoma has an incidence rate of 6.7 in 100,000 persons and a mortality rate of 3.4 per 100,000 persons in the United States. Rates have steadily decreased since the 1990s. There are two types of gastric cancer: intestinal-type, which is more common, and diffuse-type. _H. pylori_ is a recognized risk factor for both types of cancer. Other risk factors primarily associated with intestinal-type gastric adenocarcinoma include male sex; ethnicity (incidence is highest in persons of Asian and Pacific Island descent, and mortality is highest in non-Hispanic White persons); geography (the highest rates worldwide occur in Asia, Eastern Europe, and Central and South America); diet high in smoked, salted, and pickled foods as well as nitrates and nitrites; smoking; and obesity. Additional risk factors include previous stomach surgery, pernicious anemia, and hereditary syndromes such as hereditary ==diffuse gastric cancer== (associated with the diffuse type), Lynch syndrome, and familial adenomatous polyposis. Gastric intestinal metaplasia and dysplasia are also risk factors for gastric adenocarcinoma.
 
 ### Screening and Surveillance
 
 There is no recommendation for population-based screening for gastric adenocarcinoma in countries with a low incidence of gastric cancer, such as the United States. If intestinal metaplasia with high-grade dysplasia is identified, it should be resected because 25% of cases progress to adenocarcinoma. Screening and surveillance is indicated for patients with familial adenomatous polyposis and Lynch syndrome.
 
+"The patient's presentation is suggestive of gastric cancer, specifically diffuse gastric cancer. Proposed criteria for selection of patients for genetic testing for hereditary diffuse gastric cancer include the following: family members with two or more documented cases of gastric cancer in first- or second-degree relatives, with at least one diffuse gastric cancer diagnosed before age 50 years; family members with multiple lobular breast cancers with or without diffuse gastric cancer in first- or second-degree relatives; and, a personal diagnosis of diffuse gastric cancer before age 35 years from a low-incidence population such as in Canada and the United States. Based on the patient's young age and history of multiple family members with gastric and lobular breast cancer, hereditary diffuse gastric cancer is a likely diagnosis. The best diagnostic test for gastric cancer is an upper endoscopy with multiple biopsies of the stomach. The syndrome of hereditary diffuse gastric cancer is associated with mutations in the _CDH1_ gene. The risk for diffuse gastric cancer approaches 80% in carriers of the mutation, and prophylactic gastrectomy is recommended in mutation carriers who have not developed gastric cancer."
+
 ### Clinical Manifestations and Diagnosis
 
-Symptoms of gastric adenocarcinoma may be vague. They include poor appetite, weight loss, abdominal pain, early satiety, nausea, and vomiting. Signs of gastric adenocarcinoma include iron deficiency anemia. Diagnosis is typically made by upper endoscopy with biopsies.
-
-For treatment of gastric cancer, see [MKSAP 18 Hematology and Oncology.](https://mksap18.acponline.org/app/topics/ho/mk18_a_ho_s14/mk18_a_ho_s14_4)
+Symptoms of gastric adenocarcinoma may be vague. They include poor appetite, weight loss, abdominal pain, early satiety, nausea, and vomiting. Signs of gastric adenocarcinoma include ==iron deficiency anemia==. Diagnosis is typically made by upper endoscopy with biopsies.
 
 ## Gastric Surgery Complications
 
 Partial or complete gastric resections are performed for benign and malignant disease. The extent of resection, type of reconstruction, and nature of the disease affect postoperative morbidity and mortality. ==Partial gastric resection== allows for preservation of some function of the stomach, but in the setting of malignancy, it requires lifelong surveillance of the remaining stomach for recurrence. Patients who undergo partial gastrectomy for benign disease have an increased risk for cancer in the gastric remnant 15 to 20 years after surgery, with reported frequency ranging from 0.8% to 8.9%.
 
-<!-- dumping syndrome cause, sx, rx -->
+<!-- dumping syndrome cause, sx, rx b:248822726125-->
 
 ==Dumping syndrome==, which results from ==rapid gastric emptying== after gastric surgery, can cause significant postprandial gastrointestinal and vasomotor symptoms. Clinical features of early dumping syndrome occur ==within 30 minutes of eating== due to gastrointestinal hormone ==hypersecretion==, ==autonomic dysregulation==, and bowel distention. Symptoms include ==palpitations, flushing or pallor, diaphoresis, lightheadedness, hypotension, and fatigue, followed by diarrhea, nausea, abdominal bloating, cramping, and borborygmus==. Late symptoms occur 1 to 3 hours after meals because of reactive hypoglycemia and can include decreased concentration, faintness, and altered consciousness. In severe cases, ==protein-wasting malnutrition== can occur. It is estimated that 25% to 50% of all patients who have undergone gastric surgery experience some symptoms of dumping syndrome, but severe, persistent symptoms occur in only about 10%. ==Oral glucose challenge testing== is useful to make the diagnosis, with a sensitivity as high as 100% and a specificity of 94%.
 

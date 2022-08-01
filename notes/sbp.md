@@ -7,7 +7,7 @@ sr-ease: 270
 
 # sbp
 
-- related: [[GI]], [[hepatic encephalopathy]]
+- related: [[GI]], [[hepatic encephalopathy]], [[paracentesis]]
 - tags: #note
 ---
 

@@ -46,7 +46,7 @@ Clindamycin and erythromycin are two topical antibiotics used in the treatment o
 
 ## Phototherapy
 
-<!-- phototherapy types, which one for psoriasis -->
+<!-- phototherapy types, which one for psoriasis b:1487800436680-->
 
 When taken 2 hours before ultraviolet A (UVA) light exposure, oral psoralen increases the absorption of UVA. Historically, the combination of psoralen plus UVA (PUVA) phototherapy for the treatment of psoriasis has been shown to be effective but significantly increased the risk for developing skin cancer. ==Newer phototherapy units using a narrow band of ultraviolet B (UVB)== has been shown to be safe and effective with a much smaller risk of skin cancer.
 

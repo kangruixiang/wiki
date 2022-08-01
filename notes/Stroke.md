@@ -87,6 +87,14 @@ ICH can present similarly to ischemic stroke, with ==headache and impaired consc
 
 The mainstay of acute treatment and prevention is control of blood pressure. Clinical and radiologic features can be used to calculate a patient's ICH score, which informs 30-day mortality and is recommended in the assessment of patients with ICH (**[Table 25](https://mksap18.acponline.org/app/topics/nr/tables/mk18_a_nr_t25)**). The main cause of early neurologic deterioration is hematoma expansion. Another leading cause of death is early withdrawal of care. Guidelines caution against termination of care within the first 48 hours.
 
+#### Amyloid Angiopathy
+
+This patient, who has a ==history== of a right occipital lobe intracerebral hemorrhage ==(ICH)== and now has a left frontoparietal lobar ICH, likely has cerebral **amyloid angiopathy** (CAA).  CAA is the ==second most common cause of ICH== and is due to infiltration of cerebral blood vessels with an abnormal beta-pleated sheet protein (amyloid), which causes the ==blood vessels to lose their natural elasticity== and become more fragile and bleed easily.  Most patients are asymptomatic but may present with ==transient neurologic symptoms== (eg, weakness, paresthesias) or, more commonly, symptoms of **==spontaneous lobar ICH==** (eg, headache, focal deficits or hemiparesis, seizures, altered mental status).
+
+CAA is probable in patients **age >75** with **multiple lobar** (ie, cortical and subcortical white matter) **hemorrhages** on brain imaging.  Hemorrhage usually spares the ventricles and deep brain structures (eg, putamen, thalamus, pons).  Postmortem examination confirms the diagnosis.  Treatment is similar to other cases of ICH.  The overall outcome of patients with CAA is slightly better than in those with hypertensive hemorrhage, although the **risk of recurrence** and rate of complications are higher.
+
+==Hypertensive hemorrhages== are the most common cause of ICH.  However, they occur ==most frequently in the basal ganglia== (putamen) followed by the thalamus, pons, and cerebellum (unlike the lobar ICHs seen with CAA).  This patient's history of recurrent lobar ICH and her only moderately elevated blood pressure on presentation make CAA more likely than hypertensive hemorrhage.
+
 ### In-Hospital Stroke Considerations
 
 In-hospital stroke is most often ischemic and frequently observed perioperatively. Patients undergoing cardiac surgery involving cardiopulmonary bypass, particularly multivalve procedures, are at highest risk for stroke in the postoperative setting. The most common cause is atrial fibrillation.
@@ -153,6 +161,8 @@ Elevated intracranial pressure is a major determinant of morbidity and mortality
 #### Subarachnoid Hemorrhage Treatment
 
 <!-- SAH treatment b:426954167363-->
+
+SAH has a mortality rate of nearly 10% before patients reach the hospital and 25% within the first 24 hours of presentation.  ==Rebleeding is the major cause of death within the first 24 hours==, particularly within the first 6 hours.  The initial step in managing suspected SAH is ==conventional angiogram== as soon as possible with an endovascular approach (eg, coiling and/or stenting) to ==stabilize the aneurysm==.
 
 Treatment of SAH focuses on ==prevention of early (≤48 hours) and late neurologic complications==. Within the ==first 48 hours==, a major cause of morbidity is ==aneurysmal rebleeding==; early ==surgical exclusion of the ruptured aneurysm== and maintenance of a ==blood pressure of less than 140/80 mm Hg== is required. Elevated intracranial pressure from obstructive hydrocephalus, cerebral edema, seizures, and cerebral vasospasm are other leading causes of poor outcomes.
 

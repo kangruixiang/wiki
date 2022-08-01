@@ -64,3 +64,5 @@ date: 2020-09-07
 - [[migraine]]
 - [[Headache2]]
 - [[headache]]
+- [[brachial plexopathy]]
+- [[Bell's palsy]]

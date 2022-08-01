@@ -40,7 +40,7 @@ Treatment for rosacea is targeted toward the most prominent signs and symptoms i
 
 ## Hidradenitis Suppurativa
 
-<!-- hidradenitis suppurativa sx, rx -->
+<!-- hidradenitis suppurativa sx, rx b:418884131414-->
 
 Hidradenitis suppurativa is an inflammatory skin disorder of the ==apocrine glands==. The pathogenesis of hidradenitis begins with follicular occlusion but not infection or inflammation of the apocrine glands. Following occlusion, secretions build up in the follicular duct and result in rupture and a subsequent inflammatory reaction that resembles a bacterial abscess. Following this, an acute inflammatory reaction is triggered in the surrounding tissue. The role of bacteria is controversial and is likely a secondary colonization since lesions are initially sterile, and antibiotics are not entirely effective in preventing new lesions.
 

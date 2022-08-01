@@ -5,6 +5,11 @@ date: 2020-09-09
 # glaucoma
 
 - related: [[Eye Disorders]]
+---
+
+<!-- open and closed glaucoma sx, rx -->
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220613135033.png)
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20200909203145_9.png)
 ![](https://photos.thisispiggy.com/file/wikiFiles/20200909203145_10.png)

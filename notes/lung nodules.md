@@ -63,7 +63,7 @@ date: 2020-09-07
 
 <!-- features of lung nodules that are malignant vs benign -->
 
-## Certain patterns of calcification within the pulmonary nodule are strongly suggestive of benign lesions, including **popcorn**, concentric or **laminated, central**, and **diffuse homogeneous** calcifications. Popcorn calcification is characteristically seen on  radiographic imaging in patients with pulmonary hamartoma. Eccentric  calcification (area of asymmetric calcification), as well as reticular  or punctate calcification, should raise suspicion for malignancy.
+Certain patterns of calcification within the pulmonary nodule are strongly suggestive of benign lesions, including **popcorn**, concentric or **laminated, central**, and **diffuse homogeneous** calcifications. Popcorn calcification is characteristically seen on  radiographic imaging in patients with pulmonary hamartoma. Eccentric  calcification (area of asymmetric calcification), as well as reticular  or punctate calcification, should raise suspicion for malignancy.
 
 8/2021 notes
 
@@ -105,13 +105,13 @@ date: 2020-09-07
 
 ## Patients risk factor
 
-- smmoking
+- smoking
 - cancer hx
 - COPD
 - FHx
 - work exposure
 	- asbestosis: 20-30 years latency, pleural plaque
-	- BAPE: effusion, eosinophil predominant, unilateral effusion
+	- [[BAPE]]: effusion, eosinophil predominant, unilateral effusion
 	- construction working
 	- ship building
 	- brake pads

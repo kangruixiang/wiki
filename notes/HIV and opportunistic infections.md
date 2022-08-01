@@ -22,7 +22,9 @@ _Cryptococcus_ infection usually presents as subacute meningitis with headache, 
 
 <!-- HIV and toxo when, sx, dx, rx -->
 
-_Toxoplasma gondii_ infection in AIDS usually presents in patients with CD4 cell counts less than 100/µL. Because it is a reactivation disease, patients are usually serology positive. Clinical presentation includes headache, fever, and focal neurologic deficits. Imaging by CT or MRI (which is more sensitive) reveals multiple ring-enhancing lesions. The differential diagnosis includes primary central nervous system lymphoma, which most often appears as a single lesion on imaging, and progressive multifocal leukoencephalopathy, which is usually nonenhancing. Diagnosis of central nervous system toxoplasmosis is usually presumptive based on presentation, imaging, and response to empiric treatment.
+==_Toxoplasma gondii_== infection in AIDS usually presents in patients with CD4 cell counts less than 100/µL. Because it is a ==reactivation disease==, patients are ==usually serology positive==. Clinical presentation includes headache, fever, and focal neurologic deficits. Imaging by CT or MRI (which is more sensitive) reveals ==multiple ring-enhancing lesions==. The differential diagnosis includes ==primary central nervous system lymphoma==, which most often appears as a ==single lesion== on imaging, and ==progressive multifocal leukoencephalopathy==, which is usually ==nonenhancing==. Diagnosis of central nervous system toxoplasmosis is usually presumptive based on presentation, imaging, and response to empiric treatment.
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220706072554.png)
 
 <!-- HIV MAC when, sx, dx -->
 

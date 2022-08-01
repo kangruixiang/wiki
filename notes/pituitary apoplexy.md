@@ -11,6 +11,8 @@ sr-ease: 310
 - tags: #note
 ---
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220712073754.png)
+
 ## Symptoms
 
 - nausea, vomiting
@@ -29,3 +31,5 @@ sr-ease: 310
 
 - neurosurgical and endocrine emergency
 - [[stress dose steroid]]
+
+Pituitary apoplexy is an **endocrine emergency**, and the outcome can be catastrophic if it is not diagnosed and treated appropriately.  Some patients may develop meningeal signs that may lead to misdiagnosis of subarachnoid hemorrhage or meningitis.  Pituitary apoplexy is complicated by acute **secondary adrenal deficiency** in more than two-thirds of patients, which can be life-threatening and lead to severe, refractory hypotension.  This patient has features of adrenal insufficiency and needs immediate **high-dose glucocorticoid therapy**.  Given the frequency of adrenal insufficiency in pituitary apoplexy, empiric glucocorticoid therapy is recommended even in patients without features of adrenal insufficiency.

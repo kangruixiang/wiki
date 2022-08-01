@@ -54,6 +54,8 @@ Although the categories listed here are extremely helpful in identifying and dia
 
 <!-- psoritic arthritis sx, xray findings b:773537374308-->
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220731153910.png)
+
 Psoriatic arthritis is an inflammatory joint disease ==associated with psoriasis==. Estimates of the frequency of psoriatic arthritis among patients with psoriasis vary from 7% to 42%. Men and women are equally affected, and the usual age of onset is between 30 to 50 years. Psoriasis precedes or co-occurs with arthritis symptoms in about 90% of patients with psoriatic arthritis; less commonly, the rash may follow the arthritis, with a latency period as long as a decade. Skin involvement may be subtle, involving only areas such as the umbilicus, perineum, or gluteal cleft. There is no correlation between the extent of skin involvement and the severity of joint symptoms. In addition to skin lesions, ==nail pitting and onychodystrophy== are seen; nail involvement is a risk factor for developing joint disease, particularly of the distal interphalangeal joints (**[Figure 12](https://mksap18.acponline.org/app/topics/rm/figures/mk18_a_rm_f12)**).
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220320104807.png)
@@ -76,6 +78,9 @@ Features particularly characteristic of psoriatic arthritis include asymmetric d
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220320104834.png)
 Radiograph showing pencil-in-cup deformity of the fifth metatarsal joint and ankylosis of the fourth metatarsal joint in a patient with psoriatic arthritis.
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220731153939.png)
+Hand x-rays can reveal erosive changes with new bone formation, lysis of the terminal phalanges, joint destruction, "pencil-in-cup" appearance, and joint lysis with ankylosis.
 
 <!-- ignore -->
 

@@ -24,11 +24,15 @@ Abdominal imaging can be helpful in the assessment of a patient with abnormal li
 
 ### Hepatitis A
 
-Hepatitis A virus (HAV) is an RNA virus that causes acute hepatitis mediated by the host immune response. HAV infection is a self-limited illness, but atypical forms exist, including a relapsing, remitting infection with cholestatic features and, rarely, acute liver failure. HAV is transmitted by the fecal-oral route. Risk factors include international travel, contacts with household members with HAV infection, men who have sex with men, homelessness, and exposure to day care or institutionalized settings. The incidence of HAV infection declined dramatically after introduction of universal childhood HAV vaccination, but rates have recently increased among unvaccinated people, especially those reporting homelessness or drug use (see [MKSAP 18 Infectious Disease](https://mksap18.acponline.org/app/topics/id/mk18_b_id_s15/mk18_b_id_s15_6)).
+Hepatitis A virus (HAV) is an RNA virus that causes acute hepatitis mediated by the host immune response. HAV infection is a self-limited illness, but ==atypical forms== exist, including a ==relapsing, remitting infection with cholestatic features== and, rarely, acute liver failure. HAV is transmitted by the fecal-oral route. Risk factors include international travel, contacts with household members with HAV infection, men who have sex with men, homelessness, and exposure to day care or institutionalized settings. The incidence of HAV infection declined dramatically after introduction of universal childhood HAV vaccination, but rates have recently increased among unvaccinated people, especially those reporting homelessness or drug use (see [MKSAP 18 Infectious Disease](https://mksap18.acponline.org/app/topics/id/mk18_b_id_s15/mk18_b_id_s15_6)).
 
-Mortality is rare but may be increased in patients with preexisting chronic liver disease. The incubation period for HAV is 15 to 50 days. A prodrome of malaise, nausea, vomiting, fever, and right-upper-quadrant pain is followed by development of jaundice, with physical examination findings of jaundice and hepatomegaly. HAV can be transmitted during the prodrome stage and up to 1 week after development of jaundice. Laboratory studies may show aminotransferase levels greater than 1000 U/L and total bilirubin level of 10 mg/dL (171 µmol/L) or higher, mostly direct (conjugated). A positive test for IgM antibodies to HAV is suggestive of acute illness, although false positives may occur in the setting of other viral infections. The presence of IgG antibodies to HAV indicates previous infection or vaccination and provides immunity from reinfection. Treatment is supportive, and 90% of patients or more recover fully within 3 to 6 months of infection.
+Mortality is rare but may be increased in patients with preexisting chronic liver disease. The ==incubation period== for HAV is 15 to 50 days. A ==prodrome== of malaise, nausea, vomiting, fever, and right-upper-quadrant pain is followed by development of jaundice, with physical examination findings of jaundice and hepatomegaly. HAV can be transmitted during the prodrome stage and up to 1 week after development of jaundice. Laboratory studies may show aminotransferase levels greater than 1000 U/L and total bilirubin level of 10 mg/dL (171 µmol/L) or higher, mostly direct (conjugated). A positive test for IgM antibodies to HAV is suggestive of acute illness, although false positives may occur in the setting of other viral infections. The presence of IgG antibodies to HAV indicates previous infection or vaccination and provides immunity from reinfection. Treatment is supportive, and 90% of patients or more recover fully within 3 to 6 months of infection.
 
-For postexposure prophylaxis, the Advisory Committee on Immunization Practices recommends that HAV vaccine be administered to all persons aged 12 months or older. In addition to HAV vaccine, immunoglobulin may be administered to persons aged 40 years or older depending on the provider's risk assessment. Persons who have recently been exposed to HAV and who have not been immunized should receive postexposure prophylaxis as soon as possible, within 2 weeks of exposure.
+Either of the two inactivated cell culture–produced vaccines that have become part of the recommended routine childhood vaccine schedule can be used. In addition to avoiding potentially contaminated food and water, vaccination is also strongly advised for those planning to ==travel to areas that pose significant risk of infection==. Ideally, vaccination should occur ==at least 2 to 4 weeks== before departure. Nevertheless, a ==single dose of vaccine given any time before travel== provides adequate protection in otherwise healthy persons. Depending on the particular vaccine product used, a ==second dose== is administered between 6 to 18 months later.
+
+Passive immunization with intramuscular immune globulin adds no benefit when administered alone or in combination with vaccination for most healthy patients when time before travel is short. However, to optimally guard against infection, ==immune globulin== is recommended with vaccination in persons with ==chronic liver disease== or other chronic medical conditions, immunocompromised states, and older adults if travel is scheduled in less than 2 weeks. Immune globulin alone would also be warranted in persons who are allergic to or decline vaccination and in children younger than 12 months for whom the vaccine is not approved.
+
+For ==postexposure prophylaxis==, the Advisory Committee on Immunization Practices recommends that ==HAV vaccine== be administered to all persons aged 12 months or older. In addition to HAV vaccine, immunoglobulin may be administered to persons ==aged 40 years or older== depending on the provider's risk assessment. Persons who have recently been exposed to HAV and who have not been immunized should receive postexposure prophylaxis as soon as possible, within 2 weeks of exposure.
 
 ### Hepatitis B
 
@@ -38,13 +42,13 @@ Hepatitis B virus (HBV) is a DNA virus affecting 240 million persons worldwide a
 
 HBV infection presents as ==acute hepatitis== in a minority of patients. Approximately 30% of adults may develop ==jaundice== as a result of acute infection with aminotransferase levels as high as 3000 U/L and nonspecific symptoms including malaise, nausea, and right-upper-quadrant pain. ==Acute liver failure== (ALF) develops in approximately 0.5% of patients. Typically, adult patients recover within 1 to 4 months. Chronic HBV infection is diagnosed after 6 months in patients with ==persistent hepatitis B surface antigen== (HBsAg) detected in serum.
 
-<!-- HBV serology interpretation -->
+<!-- HBV serology interpretation b:891230423433-->
 
 Interpretation of HBV screening serologies is shown in **[Table 28](https://mksap18.acponline.org/app/topics/gi/tables/mk18_a_gi_t28)**.
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220501100043.png)
 
-<!-- HBV 4 phases -->
+<!-- HBV 4 phases b:1010299599319-->
 
 There are four phases of chronic HBV infection: ==immune tolerant==, ==immune active==, ==immune control== (inactive chronic HBV infection), and ==reactivation== (**[Figure 30](https://mksap18.acponline.org/app/topics/gi/figures/mk18_a_gi_f30)**).
 
@@ -91,13 +95,23 @@ All patients infected with HCV should be tested for HBV and HIV because of the p
 
 Patients with chronic HCV infection require a fibrosis assessment with a transient or MRI elastography or liver biopsy, unless they have a documented short duration of disease, decompensated cirrhosis, or a radiologic diagnosis of cirrhosis.
 
+<!-- hepatitis C treatment b:846701250972-->
+
 All patients infected with HCV should be considered for treatment unless there are significant life-limiting comorbidities or major barriers to adherence to treatment.
 
 Treatment regimens include a combination of direct-acting antivirals, using different mechanisms to prevent viral reproduction (**[Table 31](https://mksap18.acponline.org/app/topics/gi/tables/mk18_a_gi_t31)**). Regimens are chosen based on genotype, previous treatment experience and response, and fibrosis status. Patients whose infection does not respond to newer regimens are generally managed by a hepatologist or infectious disease specialist because resistance-associated substitution–guided retreatment may be necessary. Patients with decompensated cirrhosis should see a hepatologist before treatment and be considered for liver transplantation. Post–liver transplantation recurrence of HCV infection is universal in treatment-naïve patients. Success rates of HCV treatment after liver transplantation are excellent.
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220512092410.png)
+
 Cure is defined by the absence of HCV RNA in blood 12 weeks after completion of treatment. HCV antibodies remain positive indefinitely and should not be rechecked. Patients can become reinfected after new exposures, and HCV RNA testing is appropriate to identify new infection. Cure rates exceed 90% in the majority of patients. Virologic cure reduces the risk for progression to cirrhosis, complications of cirrhosis, hepatocellular carcinoma, and liver-related mortality. Patients with stage F3 fibrosis or cirrhosis require ongoing surveillance for hepatocellular carcinoma even after virologic cure. Patients with cryoglobulinemic vasculitis and non-Hodgkin lymphoma are more likely to experience remission when HCV is eradicated.
 
+"A combination of ledipasvir and sofosbuvir is the most appropriate treatment for this patient. The patient has Meltzer triad—consisting of asthenia, arthralgia, and palpable purpura—which is the classic presentation of type II mixed cryoglobulinemia, a vasculitis that most often arises in the context of chronic hepatitis C virus (HCV) infection. Meltzer triad is seen in less than 30% of patients, but nearly all patients with type II cryoglobulinemia develop cutaneous findings, as seen in this patient. Other findings may include peripheral neuropathy; membranoproliferative glomerulonephritis; and pulmonary, central nervous system, or gastrointestinal vasculitis. Urinalysis may show dysmorphic erythrocytes and proteinuria, which are features of glomerulonephritis, but this patient shows no evidence of kidney involvement or other end-organ damage. The best initial treatment for a mild presentation of mixed cryoglobulinemia arising from chronic HCV infection is to treat and eradicate HCV with sofosbuvir-ledipasvir. Other direct-acting antiviral agents that could be used interchangeably to treat genotype 1 HCV include grazoprevir-elbasvir; paritaprevir-ritonavir, ombitasvir, and dasabuvir; glecaprevir-pibrentasvir; sofosbuvir-daclatasvir; and sofosbuvir-velpatasvir. It is expected that other combinations of direct-acting antivirals will be developed. Treatment of HCV infection with direct-acting antiviral combinations results in a sustained virologic response (cure) in more than 90% of patients, even in those who were previously and unsuccessfully treated with pegylated interferon and ribavirin. In approximately 90% of cases, eradication of HCV leads to resolution of the mixed cryoglobulinemia.
+
+Most of the data pertaining to the treatment of HCV infection in patients with mixed cryoglobulinemia involve treatment with pegylated interferon and ribavirin. However, pegylated interferon and ribavirin are no longer recommended for treatment of HCV infection due to adverse effects and lower efficacy compared to interferon-free, direct-acting antiviral therapy."
+
 ### Hepatitis D
+
+<!-- ignore -->
 
 Hepatitis D virus (HDV) is a defective RNA virus that requires HBV for human infection. HDV is endemic in the Mediterranean basin and Pacific islands and uncommon in Western countries. The diagnosis of HDV infection is made through detection of HDV IgG. The clinical course can range from inactive disease to progressive liver disease (in the case of simultaneous HBV-HDV coinfection) to fulminant hepatitis in HDV superinfection. Patients infected with HDV with evidence of progressive liver disease should receive treatment with pegylated interferon for 12 months; cure rates are 25% to 45%.
 
@@ -121,7 +135,7 @@ Other viruses associated with elevated liver chemistries include human herpes vi
 
 ## Autoimmune Hepatitis
 
-<!-- autoimmune hepatitis is, sx, dx, rx -->
+<!-- autoimmune hepatitis is, sx, dx, rx b:154450796719-->
 
 Autoimmune hepatitis is a ==chronic inflammatory hepatitis== that is four times more common in ==women== than in men and can be associated with other autoimmune diseases (most commonly autoimmune thyroiditis, synovitis, or ulcerative colitis). It can affect individuals at any age but most commonly occurs in ==middle-aged adults==. The presentation of autoimmune hepatitis can vary from ==asymptomatic elevation of transaminase levels== to extrahepatic symptoms such as ==myalgia and malaise to acute liver failure==. Diagnosis is made based on laboratory results (including ==positive antinuclear and smooth-muscle antibodies and elevated IgG levels==), exclusion of other diagnoses (such as Wilson disease, viral hepatitis, and drug-induced liver injury), and histologic findings on liver biopsy.
 
@@ -147,41 +161,33 @@ Alcoholic cirrhosis can be diagnosed on clinical and radiologic grounds in patie
 
 ## Drug-Induced Liver Injury
 
-Drug-induced liver injury encompasses a spectrum of liver injury and can be induced by many medications. Prescription, over-the-counter, and herbal medications have been implicated. Acetaminophen is the most recognized medication to have intrinsic hepatotoxicity, and its pattern of liver injury is easily recognizable. People who chronically drink alcohol can develop acetaminophen hepatotoxicity even when taking therapeutic doses of acetaminophen. The early recognition of acetaminophen-induced liver injury is critical so that _N_-acetylcysteine can be administered promptly to prevent liver failure.
+<!-- drug induced liver injury causes, sx, labs, dx b:1038809852803-->
 
-Antibiotic (particularly amoxicillin-clavulanate) and antiepileptic medications (phenytoin and valproate) are among the most common medications associated with drug-induced liver injury, representing 60% of cases. The most common antimicrobials that cause acute liver failure in the United States are antituberculosis drugs, sulfa-containing antimicrobial agents, and antifungal agents. The pattern of liver test abnormalities and histological injury can be unpredictable. Some medications, such as amoxicillin-clavulanate, can cause a cholestatic hepatitis, whereas others, such as erythromycin, can cause differing patterns of liver pathology. Patients should be asked about exposure within the past 6 months to medications, both prescription and nonprescription as well as herbal and dietary supplements. Withdrawal of the potentially offending drug with resolution of liver injury supports the diagnosis. Re-exposure to the drug to demonstrate recurrence is not advisable, due to the risk of severe hepatitis upon rechallenge.
+==Drug-induced liver injury== encompasses a spectrum of liver injury and can be induced by many medications. Prescription, over-the-counter, and herbal medications have been implicated. Acetaminophen is the most recognized medication to have intrinsic hepatotoxicity, and its pattern of liver injury is easily recognizable. People who chronically drink alcohol can develop acetaminophen hepatotoxicity even when taking therapeutic doses of acetaminophen. The early recognition of ==acetaminophen-induced liver injury== is critical so that _N_-acetylcysteine can be administered promptly to prevent liver failure.
 
-Jaundice that occurs in the setting of cholestatic drug reactions can take months to resolve. An elevated bilirubin level in the setting of increased hepatic transaminases greater than three times the upper limit of normal is associated with mortality rates as high as 14%. Until resolution occurs, there is potential for progression to liver failure and a need for liver transplantation.
+==Antibiotic== (particularly ==amoxicillin-clavulanate==) and antiepileptic medications ==(phenytoin and valproate)== are among the most common medications associated with drug-induced liver injury, representing 60% of cases. The most common antimicrobials that cause acute liver failure in the United States are ==antituberculosis== drugs, sulfa-containing antimicrobial agents, and ==antifungal agents==. The pattern of liver test abnormalities and histological injury can be unpredictable. Some medications, such as amoxicillin-clavulanate, can cause a ==cholestatic hepatitis==, whereas others, such as erythromycin, can cause ==differing patterns of liver pathology==. Patients should be asked about exposure within the past 6 months to medications, both prescription and nonprescription as well as herbal and dietary supplements. Withdrawal of the potentially offending drug with resolution of liver injury supports the diagnosis. Re-exposure to the drug to demonstrate recurrence is not advisable, due to the risk of severe hepatitis upon rechallenge.
 
-## Key Points
-
-- Acetaminophen, antibiotics (particularly amoxicillin-clavulanate), and antiepileptic agents (phenytoin and valproate) are the most common causes of drug-induced liver injury.
-- Liver injury typically resolves after discontinuation of the offending drug.
+==Jaundice== that occurs in the setting of cholestatic drug reactions can take months to resolve. An ==elevated bilirubin level== in the setting of ==increased hepatic transaminases== greater than three times the upper limit of normal is associated with mortality rates as high as 14%. Until resolution occurs, there is potential for progression to liver failure and a need for liver transplantation.
 
 ## Acute Liver Failure
 
-#### Related Question
+<!-- acute liver failure definition, causes b:179741185185-->
 
-- Question 50
+Acute liver failure is defined as the onset of ==hepatic encephalopathy== and a ==prolonged prothrombin time within 26 weeks== of occurrence of ==jaundice== or other symptoms of liver inflammation in the absence of chronic liver disease. The most common cause of acute liver failure in the United States is ==acetaminophen overdose==. Other widely recognized causes are presented in **[Table 32](https://mksap18.acponline.org/app/topics/gi/tables/mk18_a_gi_t32)**. The diagnosis requires immediate referral to a liver transplant center.
 
-Acute liver failure is defined as the onset of hepatic encephalopathy and a prolonged prothrombin time within 26 weeks of occurrence of jaundice or other symptoms of liver inflammation in the absence of chronic liver disease. The most common cause of acute liver failure in the United States is acetaminophen overdose. Other widely recognized causes are presented in **[Table 32](https://mksap18.acponline.org/app/topics/gi/tables/mk18_a_gi_t32)**. The diagnosis requires immediate referral to a liver transplant center.
+![](https://photos.thisispiggy.com/file/wikiFiles/20220508150729.png)
 
-Patients with acute liver failure require careful monitoring of mental status because progressive hepatic encephalopathy can result in cerebral edema (see [Hepatic Encephalopathy](https://mksap18.acponline.org/app/topics/gi/mk18_a_gi_s6/mk18_a_gi_s6_10_4)). Kidney injury is common, and continuous renal replacement therapy is better tolerated than intermittent hemodialysis. Patients with acute liver failure are at risk for hypoglycemia and infection.
+<!-- acute liver failure management b:516051220528-->
 
-Specific treatment is based on the cause: _N_-acetylcysteine is used for acetaminophen intoxication; antiviral medications for HBV infection and herpes simplex hepatitis; penicillin G for _Amanita_ mushroom poisoning; and delivery of the fetus for acute fatty liver of pregnancy. Prompt treatment is crucial. For example, mortality rates for acetaminophen intoxication are lowest when _N_-acetylcysteine is administered within 12 hours of ingestion.
+Patients with acute liver failure require careful monitoring of mental status because progressive hepatic encephalopathy can result in ==cerebral edema== (see [Hepatic Encephalopathy](https://mksap18.acponline.org/app/topics/gi/mk18_a_gi_s6/mk18_a_gi_s6_10_4)). ==Kidney injury is common==, and ==continuous renal replacement therapy== is better tolerated than intermittent hemodialysis. Patients with acute liver failure are at risk for ==hypoglycemia and infection==.
 
-## Key Points
-
-- The most common cause of acute liver failure in the United States is acetaminophen overdose.
-- The diagnosis of acute liver failure requires immediate referral to a liver transplant center.
+==Specific treatment== is based on the cause: ==_N_-acetylcysteine== is used for acetaminophen intoxication; ==antiviral medications== for HBV infection and herpes simplex hepatitis; ==penicillin G== for _Amanita_ mushroom poisoning; and ==delivery of the fetus== for acute fatty liver of pregnancy. Prompt treatment is crucial. For example, mortality rates for acetaminophen intoxication are lowest when _N_-acetylcysteine is administered within 12 hours of ingestion.
 
 ## Metabolic Liver Diseases
 
 ### Nonalcoholic Fatty Liver Disease
 
-#### Related Question
-
-- Question 4
+<!-- ignore -->
 
 Nonalcoholic fatty liver disease (NAFLD) is the most common cause of liver disease in the world. Some 30% of the U.S. population may be affected by this condition. Most patients with NAFLD do not have liver inflammation. In these patients, the presence of fat in the liver without inflammation or fibrosis is considered a benign condition. Patients who have fatty liver with inflammation (nonalcoholic steatohepatitis \[NASH]) have progressive disease that can lead to fibrosis and cirrhosis. NAFLD usually develops due to the metabolic syndrome, leading to triglyceride accumulation within the liver. Consequently, the American Diabetes Association recommends that patients with type 2 diabetes or prediabetes and elevated ALT or fatty liver on ultrasound should be evaluated for NASH and liver fibrosis. The mechanisms by which patients with NAFLD develop NASH are not fully understood. Metabolic, genetic, and environmental factors likely play a role. Patients with NAFLD are often diagnosed by abdominal imaging. Ultrasound, CT, and MRI can detect the presence of hepatic fat. Symptoms of NAFLD are nonspecific and include fatigue and vague right-upper-quadrant abdominal pain. NASH is characterized by inflammation, risk for progressive fibrosis, and development of cirrhosis. NASH may affect 5% of the U.S. population. Mildly elevated hepatic transaminases are common in NASH. Unrecognized NASH is likely a major cause of cryptogenic cirrhosis.
 
@@ -207,49 +213,48 @@ Hemochromatosis is discussed further in [MKSAP 18 Hematology and Oncology](http
 
 ### Wilson Disease
 
-#### Related Question
+<!-- Wilson demographics, sx, dx, rx b:99648421171-->
 
-- Question 55
+Wilson disease is a rare autosomal recessive disorder that causes ==accumulation of copper== in the liver. The accumulation of copper can result in ==sudden liver failure== and the need for emergent liver transplantation, especially in ==younger patients==. Unexplained liver disease or liver failure in any patient younger than age 40 years should prompt an investigation for Wilson disease, although older patients with Wilson disease have also been described.
 
-Wilson disease is a rare autosomal recessive disorder that causes accumulation of copper in the liver. The accumulation of copper can result in sudden liver failure and the need for emergent liver transplantation, especially in younger patients. Unexplained liver disease or liver failure in any patient younger than age 40 years should prompt an investigation for Wilson disease, although older patients with Wilson disease have also been described.
-
-Decompensated Wilson disease presents with Coombs-negative hemolytic anemia due to the sudden release of copper from hepatocytes. Laboratory findings include high levels of urinary copper and low levels of ceruloplasmin and ALP. Neurological changes can be seen in patients with Wilson disease (tremor, early-onset Parkinson disease, dystonia). Kayser-Fleischer rings can be seen on slit-lamp examination of patients with Wilson disease and neurologic findings. Histological changes on liver biopsy can be nonspecific, although levels of hepatic copper are typically high. Genetic testing for mutations in the _ATP7B_ gene confirms Wilson disease.
+Decompensated Wilson disease presents with ==Coombs-negative hemolytic anemia== due to the sudden ==release of copper== from hepatocytes. Laboratory findings include ==high levels of urinary copper and low levels of ceruloplasmin== and ==ALP==. ==Neurological changes== can be seen in patients with Wilson disease (==tremor==, early-onset Parkinson disease, dystonia). ==Kayser-Fleischer rings== can be seen on slit-lamp examination of patients with Wilson disease and neurologic findings. Histological changes on liver biopsy can be nonspecific, although levels of hepatic copper are typically high. Genetic testing for mutations in the _ATP7B_ gene confirms Wilson disease.
 
 Treatment is lifelong and involves administration of copper chelators. Trientine is preferred over penicillamine due to a lower rate of adverse effects. Zinc supplements can be administered to decrease the intestinal absorption of copper.
 
-## Key Points
-
-- Nonalcoholic fatty liver disease is the commonest cause of liver disease in the world.
-- Management of nonalcoholic liver disease is focused on weight loss through dietary and lifestyle modification.
-- α1-Antitrypsin deficiency is an autosomal recessive genetic disorder that results in accumulation of a variant protein in the liver; homozygosity can result in liver injury and cirrhosis.
-- Hereditary hemochromatosis is a condition characterized by excessive iron absorption that results in accumulation of iron in the liver and the development of cirrhosis.
-- Wilson disease is a rare autosomal recessive disorder that causes accumulation of copper in the liver.
+> \[!Note]
+> Young patient presenting with new jaundice, hemolytic anemia, high bili
 
 ## Cholestatic Liver Disease
 
 ### Primary Biliary Cholangitis
 
-Primary biliary cholangitis (PBC), previously termed primary biliary cirrhosis, is an autoimmune disease affecting the small and medium bile ducts with a female to male predominance of 9 to 1. It is more common in individuals of European descent. PBC can present with fatigue and pruritus, but many patients are asymptomatic, with the diagnosis suggested by elevated ALP levels. Diagnosis does not require liver biopsy when the ALP is at least 1.5 times the upper limit of normal and antimitochondrial antibody testing is positive, or when other PBC-specific autoantibodies, including sp100 or gp210, are present if antimitochondrial antibody testing is negative. In patients with negative antibody test results and strong suspicion for PBC, a liver biopsy is necessary. Transient or MRI elastography can be used for fibrosis staging.
+<!-- primary biliary cholangitis demographics, sx, dx b:538641649135-->
 
-The initial treatment is ursodeoxycholic acid. Response to treatment is defined by improvement of ALP level to less than 1.67 times the upper limit of normal. Patients whose disease does not respond to ursodeoxycholic acid should receive obeticholic acid. Dose reductions are required for obeticholic acid use in patients with decompensated cirrhosis to avoid worsening liver failure. Ursodeoxycholic acid treatment results in histologic improvement, better survival rates, and diminished need for liver transplantation. Patients who present with normal bilirubin and albumin levels and respond to treatment have a life expectancy similar to that of individuals without PBC.
+Primary biliary cholangitis (PBC), previously termed primary biliary cirrhosis, is an ==autoimmune disease affecting the small and medium bile ducts== with a ==female to male predominance== of 9 to 1. It is more common in individuals of ==European descent==. PBC can present with ==fatigue and pruritus==, but many patients are ==asymptomatic==, with the diagnosis suggested by ==elevated ALP levels==. Diagnosis does not require liver biopsy when the ALP is at least 1.5 times the upper limit of normal and ==antimitochondrial antibody (AMA) testing== is positive, or when other PBC-specific autoantibodies, including sp100 or gp210, are present if antimitochondrial antibody testing is negative. In patients with negative antibody test results and strong suspicion for PBC, a ==liver biopsy is necessary==. ==Transient or MRI elastography== can be used for fibrosis staging.
 
-PBC is associated with other autoimmune conditions, particularly autoimmune thyroid disease. Therefore, in patients with PBC, thyroid-stimulating hormone level should be checked on a yearly basis. In patients with a PBC score of 4.1 or greater ([www.mayoclinic.org/medical-professionals/model-end-stage-liver-disease/updated-natural-history-model-for-primary-biliary-cirrhosis](http://www.mayoclinic.org/medical-professionals/model-end-stage-liver-disease/updated-natural-history-model-for-primary-biliary-cirrhosis)), upper endoscopy is indicated to assess for esophageal varices. First-degree relatives of patients with PBC, especially women, should be screened by checking their ALP level periodically. Patients with advanced disease should be managed like other patients with cirrhosis and portal hypertension (see [Complications of Advanced Liver Disease](https://mksap18.acponline.org/app/topics/gi/mk18_a_gi_s6/mk18_a_gi_s6_10_1)). In addition, the American Association for the Study of Liver Diseases recommends screening for hepatocellular carcinoma with ultrasonography at 6-month intervals for men and patients with cirrhosis. Patients should ensure dietary intake of 1000 to 1500 mg of calcium and 1000 IU of vitamin D daily, with supplements if needed. Patients are at increased risk for osteoporosis; appropriate screening and treatment with bisphosphonate therapy should be considered. Patients with elevated lipid levels may be at risk for cardiovascular disease and can be considered for lipid-lowering therapy. Fat-soluble vitamin deficiencies should be treated with parenteral or water-soluble supplements. Liver transplant outcomes for patients with PBC are excellent, with a 1-year survival rate greater than 90% and a recurrence rate of approximately 20% at 5 years after liver transplantation.
+<!-- primary biliary cholangitis rx b:1597452335922-->
+
+The initial treatment is ==ursodeoxycholic acid==. Response to treatment is defined by ==improvement of ALP level== to less than 1.67 times the upper limit of normal. Patients whose disease does not respond to ursodeoxycholic acid should receive ==obeticholic acid==. Dose reductions are required for obeticholic acid use in patients with ==decompensated cirrhosis== to avoid worsening liver failure. Ursodeoxycholic acid treatment results in histologic improvement, better survival rates, and diminished need for liver transplantation. Patients who present with normal bilirubin and albumin levels and respond to treatment have a life expectancy similar to that of individuals without PBC.
+
+PBC is associated with other autoimmune conditions, particularly ==autoimmune thyroid disease==. Therefore, in patients with PBC, ==thyroid-stimulating hormone level== should be checked on a ==yearly basis==. In patients with a PBC score of 4.1 or greater, ==upper endoscopy== is indicated to assess for ==esophageal varices==. ==First-degree relatives== of patients with PBC, especially women, should be screened by ==checking their ALP level periodically==. Patients with advanced disease should be managed like other patients with cirrhosis and portal hypertension (see [Complications of Advanced Liver Disease](https://mksap18.acponline.org/app/topics/gi/mk18_a_gi_s6/mk18_a_gi_s6_10_1)). In addition, the American Association for the Study of Liver Diseases recommends screening for hepatocellular carcinoma with ==ultrasonography at 6-month intervals== for men and patients with cirrhosis. Patients should ensure dietary intake of 1000 to 1500 mg of ==calcium and 1000 IU of vitamin D daily==, with supplements if needed. Patients are at increased risk for ==osteoporosis==; appropriate screening and treatment with bisphosphonate therapy should be considered. Patients with ==elevated lipid levels== may be at risk for cardiovascular disease and can be considered for ==lipid-lowering therapy==. Fat-soluble vitamin deficiencies should be treated with parenteral or water-soluble supplements. Liver transplant outcomes for patients with PBC are excellent, with a 1-year survival rate greater than 90% and a recurrence rate of approximately 20% at 5 years after liver transplantation.
 
 ### Primary Sclerosing Cholangitis
 
-<!-- PSC pathogenesis -->
+<!-- PSC pathogenesis b:206694913956-->
 
 Primary sclerosing cholangitis (PSC) is an ==autoimmune fibroinflammatory disease of the large bile ducts==, but it can also affect the small bile ducts (small-duct PSC). It is more common in men than in women, which is unique among the autoimmune liver diseases. PSC is associated with inflammatory bowel disease (IBD) in about 85% of cases; up to 7.5% of patients with ==ulcerative colitis== have PSC.
 
-<!-- PSC surveillance -->
+<!-- PSC surveillance b:1147206092165-->
 
-All patients with PSC and without known IBD should have a colonoscopy at the time of PSC diagnosis. Patients with concomitant IBD may have a unique PSC-IBD phenotype, characterized by rectal sparing, mild pancolitis, and backwash ileitis; this carries a higher risk for colon cancer, requiring colonoscopy with ==surveillance biopsies every 1 to 2 years==, as well as a higher risk for pouchitis after total colectomy.
+All patients with PSC and without known IBD should have a ==colonoscopy at the time of PSC diagnosis==. Patients with concomitant IBD may have a unique PSC-IBD phenotype, characterized by rectal sparing, mild pancolitis, and backwash ileitis; this carries a higher risk for colon cancer, requiring colonoscopy with ==surveillance biopsies every 1 to 2 years==, as well as a higher risk for pouchitis after total colectomy.
 
 Patients with PSC have a ==15% lifetime risk for cholangiocarcinoma== and also have an ==increased risk for gallbladder cancer==. Surveillance for cholangiocarcinoma with CA 19-9 and ultrasonography or, preferably, MRCP should be completed every 6 to 12 months. The incidence of cholangiocarcinoma is highest in the first 2 years after diagnosis of PSC is made.
 
-<!-- PSC diagnosis, when to do ERCP -->
+<!-- PSC diagnosis, when to do ERCP b:630201229753-->
 
 The diagnosis of PSC can be made noninvasively through ==MR cholangiopancreatography== (MRCP) (**[Figure 31](https://mksap18.acponline.org/app/topics/gi/figures/mk18_a_gi_f31)**). ==Endoscopic retrograde cholangiopancreatography== (ERCP) should be considered in patients with ==jaundice, worsening pruritus, bacterial cholangitis==, or a dominant ==stricture or bile duct mass== seen on MRCP. Symptoms of bacterial cholangitis, increasing jaundice, and pruritus ==can signify strictures that may improve with dilation or stenting==, or, alternatively, ==removing sludge or stone debris== in the bile ducts via ERCP. A dominant stricture in a patient with PSC must be evaluated for cholangiocarcinoma by obtaining biliary brushings for cytologic examination, and, if available, fluorescent in situ hybridization to evaluate chromosomal abnormalities. Diagnosis of PSC does not usually require liver biopsy; small-duct PSC, which cannot be diagnosed by MRCP, is an exception.
+
+In most patients, PSC presents as a stricturing process in the ==medium to large bile ducts==, readily identifiable by MR cholangiopancreatography (alternating strictures and dilations resulting in a “string of beads” pattern). However, a ==minority of patients== may present with involvement of only the small bile ducts, called ==small-duct PSC==. The ==cholangiogram is normal in these patients==; the diagnosis of small-duct PSC can only be made by ==liver biopsy==. Small-duct PSC is associated with a better prognosis than typical PSC, although 10% to 20% of patients with small-duct PSC eventually develop changes in the medium and large ducts.
 
 PSC often requires liver transplantation and has the highest case-based mortality rate among the autoimmune liver diseases. Median transplant-free survival for patients with PSC is 12 years. There is no current medical therapy for PSC. ==ERCP to dilate strictures and remove stones== is used in symptomatic patients.
 
@@ -267,13 +272,13 @@ The MELD score can estimate postoperative mortality in patients with cirrhosis (
 
 ## Complications of Advanced Liver Disease
 
-<!-- uncomplicated vs complicated cirrhosis -->
+<!-- uncomplicated vs complicated cirrhosis b:651873727420-->
 
 Patients with chronic liver disease from any cause are at risk for the development of cirrhosis. ==Uncomplicated cirrhosis== is referred to as “==compensated cirrhosis==” and may be asymptomatic or associated with nonspecific symptoms. ==Decompensated cirrhosis== includes patients with complications such as ==ascites, jaundice, hepatocellular carcinoma, hepatorenal syndrome, variceal hemorrhage, spontaneous bacterial peritonitis, and hepatic encephalopathy==.
 
 ### Portal Hypertension
 
-<!-- portal HTN cause and result -->
+<!-- portal HTN cause and result b:1585561866506-->
 
 Portal venous hypertension develops in the setting of advanced cirrhosis due to ==obstruction of blood flow== caused by ==intrahepatic fibrosis==, the development of regenerating ==liver nodules==, and ==increased== intrahepatic vascular ==resistance==. Prehepatic causes, including portal vein thrombosis, and posthepatic causes, such as Budd-Chiari syndrome, can also result in portal hypertension in the absence of cirrhosis. ==Hypersplenism==, often also associated with thrombocytopenia, further increases flow within the portal vein, exacerbating portal hypertension. Complications of portal hypertension include ==gastroesophageal varices==, ==ascites==, and ==hepatic encephalopathy== due to poor hepatic clearance of absorbed nitrogenous compounds from the intestines. These complications of portal hypertension herald a high rate of further complications and mortality, leading to consideration for liver transplantation.
 
@@ -291,17 +296,21 @@ Gastric varices are seen in as many as 20% of patients with cirrhosis and are re
 
 ### Hepatic Encephalopathy
 
-Hepatic encephalopathy is characterized by ==brain dysfunction== ranging from minimal abnormalities to frank coma. It occurs due to ==insufficient hepatic function== and porto-systemic ==shunting of blood== caused by portal hypertension or vascular shunting. The development of hepatic encephalopathy can be spontaneous or precipitated by other conditions such as infection, sedating medications, volume depletion, or gastrointestinal bleeding, and heralds worsening of liver function.
+<!-- hepatic encephalopathy pathogenesis, sx b:541574945940-->
 
-Minimal manifestations of hepatic encephalopathy can be detected on neuropsychiatric testing, although overt changes of hepatic encephalopathy, ranging from personality changes to frank coma, are common in the setting of advanced cirrhosis (**[Table 35](https://mksap18.acponline.org/app/topics/gi/tables/mk18_a_gi_t35)**). Asterixis, a flapping hand tremor, is typically present in middle stages of hepatic encephalopathy. Asterixis is typically absent in subclinical stages of hepatic encephalopathy and is lost as patients progress to later stages of hepatic encephalopathy, including coma.
+Hepatic encephalopathy is characterized by ==brain dysfunction== ranging from minimal abnormalities to frank coma. It occurs due to ==insufficient hepatic function== and porto-systemic ==shunting of blood== caused by ==portal hypertension or vascular shunting==. The development of hepatic encephalopathy can be spontaneous or precipitated by other conditions such as infection, sedating medications, volume depletion, or gastrointestinal bleeding, and heralds worsening of liver function.
 
-Patients with hepatic encephalopathy should be monitored in an ICU. Diminishing consciousness should prompt consideration of intubation because airway-protective reflexes can be lost in the advanced stage of hepatic encephalopathy. Measures to reduce intracranial hypertension include elevation of the head of the bed and increasing serum osmolality with mannitol infusions.
+Minimal manifestations of hepatic encephalopathy can be detected on neuropsychiatric testing, although overt changes of hepatic encephalopathy, ranging from ==personality changes to frank coma==, are common in the setting of advanced cirrhosis (**[Table 35](https://mksap18.acponline.org/app/topics/gi/tables/mk18_a_gi_t35)**). ==Asterixis==, a flapping hand tremor, is typically present in middle stages of hepatic encephalopathy. Asterixis is typically ==absent in subclinical stages== of hepatic encephalopathy and is lost as patients progress to later stages of hepatic encephalopathy, including coma.
 
-The treatment of hepatic encephalopathy is multifaceted. Precipitating causes, such as infection or gastrointestinal bleeding, should be promptly treated. The nonabsorbed disaccharide lactulose is typically administered to decrease absorption of nitrogenous substances. If a suboptimal response is seen with lactulose therapy, rifaximin can be administered to alter bacterial flora in the intestinal lumen. While rifaximin is better tolerated than lactulose, it is more expensive. Initial treatment with lactulose is preferred.
+<!-- hepatic encephalopathy treatment b:474230563777-->
+
+Patients with hepatic encephalopathy should be ==monitored in an ICU==. Diminishing consciousness should prompt consideration of ==intubation== because airway-protective reflexes can be lost in the advanced stage of hepatic encephalopathy. Measures to ==reduce intracranial hypertension== include ==elevation of the head of the bed== and ==increasing serum osmolality with mannitol== infusions.
+
+The treatment of hepatic encephalopathy is multifaceted. Precipitating causes, such as ==infection== or ==gastrointestinal bleeding==, should be promptly treated. The nonabsorbed disaccharide ==lactulose== is typically administered to decrease absorption of nitrogenous substances. If a suboptimal response is seen with lactulose therapy, ==rifaximin== can be administered to alter bacterial flora in the intestinal lumen. While rifaximin is better tolerated than lactulose, it is more expensive. Initial treatment with lactulose is preferred.
 
 ### Ascites
 
-<!-- ascites ddx -->
+<!-- ascites ddx b:187889156902-->
 
 Ascites occurs in 50% of patients within 10 years of diagnosis of cirrhosis and is the most common complication of cirrhosis. The finding of a fluid wave on physical examination can detect ascites; other findings are less reliable. Ultrasound is useful for identifying the presence of ascites. When ascites is first detected, ==diagnostic paracentesis should be performed==. The serum-ascites albumin gradient is measured by subtracting the level of albumin in the ascitic fluid from a concurrent serum albumin measurement:
 
@@ -317,9 +326,11 @@ Cirrhosis is the cause in 85% of patients with ascites. The management of ascite
 
 Patients with ascites should ==discontinue ACE inhibitors and NSAIDs==. ==TIPS or intermittent paracentesis== can be considered in patients with refractory ascites and a low MELD score. ==Indwelling drains== in ascites due to portal hypertension are associated with high rates of complications and are not recommended.
 
+Blood pressure falls with worsening cirrhosis, resulting in reduced renal blood flow and glomerular filtration. A compensatory upregulation of the ==renin-angiotensin system== results in increased levels of vasoconstrictors, including vasopressin, angiotensin, and aldosterone, which support systemic blood pressure and kidney function. ==ACE inhibitors and angiotensin receptor blockers impair the compensatory response to cirrhosis-related hypotension== and thereby ==impair the ability to excrete excess sodium and water== and may also affect survival. Medications that decrease kidney perfusion, including NSAIDs, ACE inhibitors such as lisinopril, and angiotensin receptor blockers, should be discontinued because their use often worsens ascites due to portal hypertension.
+
 ### Spontaneous Bacterial Peritonitis
 
-<!-- SBP definition, ppx when and which medication, rx -->
+<!-- SBP definition, ppx when and which medication, rx b:868433830879-->
 
 Spontaneous bacterial peritonitis (SBP) is an ==infection of ascitic fluid== in the setting of portal hypertension. SBP has a high mortality rate, and patients who develop SBP should be considered for liver transplantation. SBP can present with ==fever, abdominal pain, and kidney disease==, but its presence should be considered in ==any patient with ascites who experiences a decline in condition==. Patients with ==very low total protein levels in their ascitic fluid== (<1.5 g/dL \[15 g/L]) in conjunction with serum sodium level less than or equal to 130 mEq/L (130 mmol/L), serum creatinine level greater than or equal to 1.2 mg/dL (106.1 µmol/L), blood urea nitrogen level greater than or equal to 25 mg/dL (8.9 mmol/L), serum bilirubin level greater than or equal to 3 mg/dL (51.3 µmol/L), or Child-Turcotte-Pugh class B or C cirrhosis are at high risk for development of SBP and should be given ==long-term primary prophylaxis== with a fluoroquinolone antibiotic (for example, norfloxacin or ciprofloxacin).
 
@@ -339,13 +350,13 @@ Treatment of HRS involves withdrawal of diuretics, volume expansion, with intrav
 
 ### Hepatopulmonary Syndrome
 
-<!-- hepatopulmonary syndrome pathogenesis, sx, dx, rx -->
+<!-- hepatopulmonary syndrome pathogenesis, sx, dx, rx b:1068262223211-->
 
 ==Hepatopulmonary syndrome== is characterized by ==dilation of intrapulmonary vessels== in patients with ==portal hypertension==, resulting in ==right-to-left shunting of blood and hypoxemia==. A high alveolar-arterial oxygen gradient results from functional shunting. Dilation of pulmonary vasculature occurs at the base of the lungs, so hypoxemia is most noted when patients are upright or sitting, when shunting is maximal. Features of hepatopulmonary syndrome include ==orthodeoxia== (worsening oxygen saturation while upright) and ==platypnea== (worsening sense of dyspnea when upright). The diagnosis should be suspected in patients with ==portal hypertension== who have symptoms of ==dyspnea and evidence of hypoxia==. ==Pulse oximetry== is often used to screen for changes in the arterial oxygen saturation level with changes of position. The diagnosis is made by demonstrating an ==arterial oxygen tension less than 80 mm Hg== (10.7 kPa) breathing ambient air, or an ==alveolar-arterial gradient of 15 mm Hg (2 kPa) or greater==, along with evidence of intrapulmonary shunting on echocardiography with agitated saline or macroaggregated albumin study. The detection of ==intrapulmonary shunting of blood== is best confirmed by echocardiography with agitated saline (also known as a bubble study), during which ==bubbles are identified in the left side of the heart after 5 beats==, demonstrating that the shunting of blood is not intracardiac. Hepatopulmonary syndrome is initially treated with supplemental oxygen, but it is uniformly fatal without liver transplantation.
 
 ### Portopulmonary Hypertension
 
-<!-- portopulmonary HTN is, sx, dx, rx -->
+<!-- portopulmonary HTN is, sx, dx, rx b:696478673558-->
 
 Patients with ==cirrhosis and portal hypertension== who present with ==dyspnea on exertion== should be suspected of having portopulmonary hypertension. While less common than hepatopulmonary syndrome, portopulmonary hypertension is a complication of advanced cirrhosis with a high mortality rate. ==Echocardiography== demonstrates ==right ventricular systolic pressures greater than 50 mm Hg==, which should prompt ==right-heart catheterization to confirm the diagnosis==. Although portopulmonary hypertension was formerly considered a contraindication to liver transplantation, patients with preserved right ventricular function who can attain a mean pulmonary artery pressure of less than 35 mm Hg with the use of vasodilator therapies ==can benefit from liver transplantation==. ==Prostacyclin analogues, phosphodiesterase inhibitors, and endothelin receptor antagonists== have been used to successfully treat portopulmonary hypertension.
 
@@ -355,7 +366,7 @@ Patients with ==cirrhosis and portal hypertension== who present with ==dyspnea o
 
 Patients with chronic liver disease are at risk for severe complications if they develop acute hepatitis and should be vaccinated against HAV and HBV if they are not immune. Nonresponse to vaccinations is more common in patients with cirrhosis, and postvaccination immunity should be assessed. Patients with chronic liver disease should receive annual influenza vaccination and recommended pneumococcal vaccinations. Other vaccinations should be given based on current recommendations (see [MKSAP 18 General Internal Medicine](https://mksap18.acponline.org/app/topics/gm/mk18_b_gm_s3/mk18_b_gm_s3_4)).
 
-Patients with cirrhosis should be counseled to avoid the use of alcohol. Sedating medications such as opiates and benzodiazepines should be avoided because they can precipitate symptoms of hepatic encephalopathy. Raw shellfish can transmit _Vibrio vulnificus_, which can be fatal in patients with cirrhosis; therefore, patients with cirrhosis should be counseled to avoid the consumption of raw shellfish.
+Patients with cirrhosis should be counseled to avoid the use of alcohol. Sedating medications such as opiates and benzodiazepines should be avoided because they can precipitate symptoms of hepatic encephalopathy. ==Raw shellfish can transmit _Vibrio vulnificus_==, which can be ==fatal in patients with cirrhosis==; therefore, patients with cirrhosis should be counseled to avoid the consumption of raw shellfish.
 
 Patients with cirrhosis should be screened for osteoporosis. Cholestasis results in decreased absorption of vitamin D, and all causes of cirrhosis can be associated with osteoporosis. The cause of osteoporosis in patients with cirrhosis is multifactorial and is associated with jaundice, hypogonadism, and decreased levels of insulin-like growth factor that are common in cirrhosis. Patients with osteoporosis should be treated with bisphosphonates. Patients with esophageal varices should receive intravenous rather than oral bisphosphonates. Patients with identified osteopenia should be treated with supplemental calcium plus vitamin D. Weight-bearing exercise should be encouraged in all patients with cirrhosis.
 
@@ -375,7 +386,7 @@ Hepatic cysts are a common radiological finding on abdominal imaging. Simple cys
 
 Hepatic adenomas are rare liver neoplasms. Despite the benign nature of these lesions, adenomas that are greater than 5 cm in size have potential for risk for hemorrhage or malignant transformation. Hepatic adenomas are associated with oral contraception use and occur eight times more frequently in women than in men. Other risk factors include androgen treatment, type 1 and 3 glycogen storage disease, and obesity. Increasingly, hepatic adenoma is an incidental finding on abdominal ultrasound, CT, or MRI. Hepatic adenomas can be differentiated from focal nodular hyperplasia using MRI with gadobenate dimeglumine or gadoxetate disodium contrast. Biopsy is indicated when there is diagnostic uncertainty but may increase the risk for bleeding; therefore, it should only be performed if the diagnosis will result in a meaningful change in management. Hepatic adenomas 5 cm in size or smaller can be managed with serial imaging every 6 months for a 2-year period. For patients with hepatic adenomas larger than 5 cm in size, the risk for hemorrhage or malignant transformation is elevated and surgical resection should be considered.
 
-Oral contraceptives should be discontinued in all patients with hepatic adenomas with follow-up CT or MRI at 6- to 12-month intervals to confirm stability or regression in the size of the lesion. The duration of surveillance depends on subsequent imaging findings. Biopsy to risk-stratify hepatic adenomas can be considered on a case-by-case basis. Hepatic adenomas with β-catenin activation are at higher risk for malignant transformation into hepatocellular carcinoma. Men with hepatic adenomas are at increased risk for malignant transformation, and resection is recommended.
+==Oral contraceptives should be discontinued== in all patients with hepatic adenomas with ==follow-up CT or MRI== at 6- to 12-month intervals to confirm stability or regression in the size of the lesion. The duration of surveillance depends on subsequent imaging findings. Biopsy to risk-stratify hepatic adenomas can be considered on a case-by-case basis. Hepatic adenomas with β-catenin activation are at higher risk for malignant transformation into hepatocellular carcinoma. Men with hepatic adenomas are at increased risk for malignant transformation, and resection is recommended.
 
 ### Focal Nodular Hyperplasia
 
@@ -399,29 +410,39 @@ Amebic abscesses of the liver are found in developing areas of the world or in m
 
 Hepatocellular carcinoma is the most common liver tumor arising in patients with cirrhosis, the fifth most common cause of cancer worldwide, and the second most common cause of cancer-related deaths worldwide. Approximately 85% of patients with hepatocellular carcinoma have cirrhosis.
 
-Patients with cirrhosis, regardless of the cause, require surveillance liver ultrasound with or without α-fetoprotein measurement every 6 months, which leads to early diagnosis, increased rate of curative treatment, and improved 3-year survival rates. Patients with HBV infection can develop hepatocellular carcinoma even in the absence of cirrhosis; therefore, surveillance for hepatocellular carcinoma is recommended even in the absence of cirrhosis in individuals at high risk (individuals with HBV who are from sub-Saharan Africa and older than age 20 years, Asian men older than age 40 years, and Asian women older than age 50 years). The diagnosis of hepatocellular carcinoma can usually be made without biopsy using multiphase contrast-enhanced CT or MRI in patients with cirrhosis and a lesion at least 1 cm in size. Biopsy may be needed for lesions that are large, growing, or indeterminant on imaging.
+Patients with cirrhosis, regardless of the cause, ==require surveillance liver ultrasound== with or without ==α-fetoprotein measurement every 6 months==, which leads to early diagnosis, increased rate of curative treatment, and improved 3-year survival rates. Patients with HBV infection can develop hepatocellular carcinoma even in the absence of cirrhosis; therefore, surveillance for hepatocellular carcinoma is recommended even in the absence of cirrhosis in individuals at high risk (individuals with HBV who are from sub-Saharan Africa and older than age 20 years, Asian men older than age 40 years, and Asian women older than age 50 years).
 
-Many specialty societies have issued guidelines for the management of hepatocellular carcinoma. Patients with CTP class A cirrhosis, without significant portal hypertension or jaundice, and a singular lesion 5 cm in size or smaller should be considered for resection. Liver transplantation should be considered in patients with hepatocellular carcinoma within the Milan criteria and with portal hypertension or jaundice. The Milan criteria are as follows: up to three liver lesions 3 cm in size or smaller or one lesion 5 cm in size or smaller, without macrovascular invasion, and without extrahepatic spread. Patients who are not surgical or liver transplantation candidates should be considered for locoregional therapy in the absence of macrovascular invasion (tumor thrombus) or extrahepatic spread. Locoregional therapies include radiofrequency ablation, microwave ablation, transarterial chemoembolization, and transarterial radioembolization. Decisions about locoregional therapy are increasingly made through multidisciplinary tumor boards. Sorafenib is used for advanced hepatocellular carcinoma, which includes cases with macrovascular invasion or extrahepatic spread. In 2017, the FDA approved two drugs for second-line therapy: regorafenib, an oral multi-kinase inhibitor, and nivolumab, an intravenous humanized monoclonal antibody against the programmed cell death receptor.
+<!-- hepatocellular carcinoma diagnosis b:1474762289269-->
+
+The ==diagnosis== of hepatocellular carcinoma can usually be made ==without biopsy== using ==multiphase contrast-enhanced CT or MRI in patients with cirrhosis and a lesion at least 1 cm in size== that enhance in the arterial phase and have washout of contrast in the venous phase.. Biopsy may be needed for lesions that are large, growing, or indeterminant on imaging.
+
+<!-- hepatocellular carcinoma management b:11659509640-->
+
+Many specialty societies have issued guidelines for the management of hepatocellular carcinoma. Patients with ==CTP class A cirrhosis==, ==without significant portal hypertension or jaundice==, and a ==singular lesion 5 cm== in size or smaller should be considered for ==resection==. ==Liver transplantation== should be considered in patients with hepatocellular carcinoma within the ==Milan criteria== and with ==portal hypertension or jaundice==. The Milan criteria are as follows: up to three liver lesions 3 cm in size or smaller or one lesion 5 cm in size or smaller, without macrovascular invasion, and without extrahepatic spread. Patients who are not surgical or liver transplantation candidates should be considered for ==locoregional therapy== in the absence of macrovascular invasion (tumor thrombus) or extrahepatic spread. Locoregional therapies include radiofrequency ablation, microwave ablation, transarterial chemoembolization, and transarterial radioembolization. Decisions about locoregional therapy are increasingly made through multidisciplinary tumor boards. ==Sorafenib== is used for advanced hepatocellular carcinoma, which includes cases with macrovascular invasion or extrahepatic spread. In 2017, the FDA approved two drugs for second-line therapy: ==regorafenib==, an oral multi-kinase inhibitor, and ==nivolumab==, an intravenous humanized monoclonal antibody against the programmed cell death receptor.
 
 ## Liver Transplantation
 
-Referral for liver transplantation is indicated in patients whose MELD score is 15 or greater because liver transplantation provides a survival advantage in these patients. Patients with decompensated cirrhosis, including ascites, esophageal variceal bleeding, hepatic encephalopathy, jaundice, or hepatocellular carcinoma, should also be considered for referral. Patients should generally abstain from alcohol for at least 6 months, although transplant centers may differ in their requirements for sobriety duration and chemical-dependency treatment. Other factors important in candidate selection are adequate social support, adherence to treatment, and absence of significant cardiopulmonary, psychiatric, and active infectious diseases.
+<!-- when to refer for liver transplant b:675843112215-->
 
-Appropriate candidates are placed on the national waiting list, with the highest priority given to patients with acute liver failure and high MELD-Na scores. In some conditions, the most common being hepatocellular carcinoma, exception points are added to the MELD score, resulting in increased scores every 3 months. Other conditions eligible for MELD exception points include portopulmonary hypertension, hepatopulmonary syndrome, familial amyloidotic polyneuropathy, primary hyperoxaluria, cystic fibrosis, and cholangiocarcinoma.
+Referral for liver transplantation is indicated in patients whose ==MELD score is 15 or greater== because liver transplantation provides a survival advantage in these patients. Patients with ==decompensated cirrhosis==, including ascites, esophageal variceal bleeding, hepatic encephalopathy, jaundice, or ==hepatocellular carcinoma==, should also be considered for referral. Patients should generally ==abstain from alcohol== for at least 6 months, although transplant centers may differ in their requirements for sobriety duration and chemical-dependency treatment. Other factors important in candidate selection are adequate social support, adherence to treatment, and absence of significant cardiopulmonary, psychiatric, and active infectious diseases.
+
+Appropriate candidates are placed on the national waiting list, with the highest priority given to patients with acute liver failure and high MELD-Na scores. In some conditions, the most common being ==hepatocellular carcinoma==, exception points are added to the MELD score, resulting in increased scores every 3 months. Other conditions eligible for MELD exception points include portopulmonary hypertension, hepatopulmonary syndrome, familial amyloidotic polyneuropathy, primary hyperoxaluria, cystic fibrosis, and cholangiocarcinoma.
 
 The average 1- and 5-year survival rates after liver transplantation are 92% and 75% to 85%, respectively. Recipients require lifelong immunosuppression, most commonly using tacrolimus, and less often, cyclosporine. Both drugs are metabolized by cytochrome P450 3A isozymes and pose a risk for drug-drug interactions. Recipients are at increased risk for developing diabetes, hypertension, hyperlipidemia, chronic kidney disease, and malignancy secondary to immunosuppressive medications.
 
 ## Pregnancy-Related Liver Diseases
 
+<!-- ignore -->
+
 During pregnancy, physiological changes occur that mimic chronic liver disease. Altered hormonal states and increasing circulatory volume can lead to lower-extremity edema, palmar erythema, and spider angiomata.
 
-<!-- hepatitis and pregnancy, prevention how. Breastfeeding ok? -->
+<!-- hepatitis and pregnancy, prevention how. Breastfeeding ok? b:1458279186464-->
 
 In pregnant women with preexisting chronic liver disease, ==HBV and HCV can be transmitted== to the newborn. There are no specific steps that can be taken to eliminate the risk for vertical transmission of HCV; however, vertical transmission is relatively rare, with less than 5% of women with HCV viremia transmitting the virus to their children.
 
 ==HBV== carries a higher risk for vertical transmission. Among women with replicating HBV infection, the ==vertical transmission rate can be as high as 90%==. Pregnant women with an HBV ==DNA level greater than 200,000 IU/mL between gestational weeks 24 and 28== should ==start oral antiviral== treatment to prevent vertical transmission. Oral antiviral agents approved in pregnancy include ==lamivudine, telbivudine, and tenofovir==. ==Breastfeeding is not contraindicated== during treatment. ==Passive immunization with HBV immune globulin== and active ==HBV vaccination== should be administered to ==newborns within 12 hours== of delivery. These measures can reduce vertical transmission rates by 95%. Administration of antiviral medications in the third trimester to pregnant women with high HBV viremia can further reduce the risk for vertical transmission.
 
-<!-- autoimmune hepatitis pregnancy management -->
+<!-- autoimmune hepatitis pregnancy management b:66200944728-->
 
 Women with autoimmune hepatitis who become pregnant typically continue the use of prednisone and/or azathioprine, which are generally felt to be safe during pregnancy.
 
@@ -429,7 +450,7 @@ Women with autoimmune hepatitis who become pregnant typically continue the use o
 
 Several diseases of the liver are unique to pregnancy and can affect the health of both the mother and fetus. During the first trimester, hyperemesis gravidarum occurs when prolonged, intractable vomiting results in fluid and electrolyte abnormalities. Elevated hepatic transaminase levels are seen in up to 50% of cases of hyperemesis gravidarum, but jaundice is rare. Laboratory abnormalities typically resolve when vomiting abates. Pyridoxine and antiemetic medications can resolve symptoms of hyperemesis gravidarum.
 
-<!-- intrahepatic cholestasis is of pregnancy is, rx, prognosis -->
+<!-- intrahepatic cholestasis is of pregnancy is, rx, prognosis b:1363117242886-->
 
 ==Intrahepatic cholestasis of pregnancy== is presumed to result from cholestatic effects of increased levels of pregnancy-related hormones. Increased risk for this condition can be seen in women of South American descent, twin pregnancies, and in women with a history of liver disease. Intrahepatic cholestasis of pregnancy typically presents in the ==second to third trimesters== of pregnancy. Symptoms include ==pruritus== in most patients and jaundice in 10% to 25% of patients. ==Serum bile acid levels are elevated== and help to establish the diagnosis. ==Fetal complications==, including placental insufficiency, premature labor, and sudden fetal death, are more common in intrahepatic cholestasis of pregnancy. ==Ursodeoxycholic acid== produces relief of pruritus and results in biochemical improvement, but it ==does not improve fetal outcomes==. ==Increased fetal mortality== is noted to occur late in gestation. ==Delivery is typically induced at 36 to 38 weeks== of gestation in women with proven
 disease.
@@ -438,7 +459,7 @@ disease.
 
 The most serious pregnancy-related liver diseases occur in the third trimester of pregnancy and are associated with high rates of maternal and fetal mortality. In these conditions, the only ==definitive therapy is delivery== of the fetus. ==HELLP (Hemolysis, Elevated Liver enzymes, and Low Platelets==) syndrome is a severe complication of ==preeclampsia==. HELLP typically presents with nonspecific symptoms such as abdominal pain, nausea with vomiting, pruritus, and jaundice. Rates of maternal and fetal morbidity and mortality are high. Patients with HELLP syndrome should, therefore, be managed in high-risk obstetrical units. Blood pressure, fluid and electrolytes, kidney function, and coagulopathy may require careful management in the perinatal state. Although delivery is the definitive therapy for HELLP syndrome, the maternal condition may continue to worsen in the immediate postpartum period. Resolution is typically seen within days after delivery. Rarely, liver transplantation may be required if liver recovery is not seen. HELLP can reoccur in as many as 25% of subsequent pregnancies.
 
-<!-- acute fatty liver of pregnancy is, sx, rx -->
+<!-- acute fatty liver of pregnancy is, sx, rx b:653188674744-->
 
 ==Acute fatty liver of pregnancy== is a rare but serious condition that also occurs ==late in pregnancy==. It presents with symptoms similar to those of HELLP syndrome. Women with this condition typically present with a 1- to 2-week history of nausea and vomiting, right-upper-quadrant or epigastric pain, headache, jaundice, anorexia, and/or polyuria and polydipsia (due to associated transient diabetes insipidus). Indicators of liver failure, including ==hypoglycemia== and ==coagulopathy==, are often worse in acute fatty liver of pregnancy than in HELLP syndrome; both conditions require close monitoring to prevent adverse maternal and fetal outcomes. Acute fatty liver of pregnancy is a ==potential cause of acute liver failure==. Affected patients may require transfer to a liver transplant center. ==Prompt delivery== of the fetus once the diagnosis is recognized typically ==results in improvement== of the mother's medical condition within 48 to 72 hours. Acute fatty liver of pregnancy can reoccur in subsequent pregnancies. It is also associated with long-chain 3-hydroxyacyl CoA dehydrogenase deficiency, and affected women and their offspring should be screened for this deficiency.
 

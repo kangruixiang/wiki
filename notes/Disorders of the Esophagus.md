@@ -107,11 +107,13 @@ The first step in addressing refractory GERD is to ==optimize PPI therapy== by e
 
 ### Eosinophilic Esophagitis
 
-<!-- eosinophilic esophagitis demographics, sx, dx, rx -->
+<!-- eosinophilic esophagitis demographics, sx, dx, rx b:1051221297511-->
 
 ==Eosinophilic esophagitis== (EoE) is a condition commonly associated with ==dysphagia and food bolus obstruction==. Most patients are diagnosed between the ==second and fifth decades of life==, and EoE is more commonly seen in ==men==. Patients often have other ==atopic conditions== such as asthma, rhinitis, dermatitis, and seasonal or food allergies. The reported prevalence is as high as 40 to 90 per 100,000 in the United States. The diagnostic criteria for EoE are esophageal symptoms ==(dysphagia)==, esophageal ==biopsies showing 15 eosinophils/hpf== or greater, and exclusion of other causes of eosinophilia. Examples of other causes include GERD; hypereosinophilic syndrome; infections (fungal, viral); autoimmune and connective tissue disorders; Crohn disease with esophageal involvement; and drug hypersensitivity reactions. EoE is a diagnosis made in the absence of peripheral eosinophilia.
 
-==Endoscopic findings include rings, longitudinal furrows, luminal narrowing, and white exudates and plaques==. If assessment identifies no other causes of eosinophilia, EoE can be diagnosed and appropriate therapy initiated, with a PPI or swallowed aerosolized topical glucocorticoids (fluticasone or budesonide). Very limited evidence suggests diet modification may be effective in the prevention of EoE. An empiric elimination diet—removing the foods most commonly associated with food allergies, such as egg, soy, wheat, peanuts, cow's milk, and fish/shellfish—and elemental amino acid–based diets have been used. ==Endoscopic dilation== should be considered in patients with continued dysphagia caused by esophageal stricture not responding to medical therapy.
+==Endoscopic findings include rings, longitudinal furrows, luminal narrowing, and white exudates and plaques==. If assessment identifies no other causes of eosinophilia, EoE can be diagnosed and appropriate therapy initiated, with a PPI or swallowed aerosolized topical glucocorticoids (fluticasone or budesonide). Very limited evidence suggests diet modification may be effective in the prevention of EoE. An ==empiric elimination diet==—removing the foods most commonly associated with food allergies, such as egg, soy, wheat, peanuts, cow's milk, and fish/shellfish—and elemental amino acid–based diets have been used. ==Endoscopic dilation== should be considered in patients with continued dysphagia caused by esophageal stricture not responding to medical therapy.
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220511205634.png)
 
 ### Infectious Esophagitis
 
@@ -141,10 +143,16 @@ GERD is the most common cause of noncardiac chest pain. However, hypercontractil
 
 ##### Achalasia and Pseudoachalasia
 
-==Achalasia== is a hypertonic motility condition defined by ==inadequate relaxation of the LES and aperistalsis==. Achalasia can be ==idiopathic== or ==associated== with viral, autoimmune, and neurodegenerative disorders and infection (Chagas disease). ==Damage to the ganglion cells== and myenteric plexus in the esophageal body and LES leads to uncontested ==cholinergic nerve activation==, which prevents LES relaxation. Achalasia affects men and women equally, with an annual incidence of 1 in 100,000 individuals. It commonly occurs between 30 and 60 years of age. Patients present with dysphagia occurring with both solids and liquids along with nonacidic regurgitation of undigested food. Additional symptoms include heartburn, weight loss, and chest pain unresponsive to acid-reducing agents. ==Extrinsic compression== from surgical procedures, such as fundoplication or bariatric surgery (gastric band), can also cause secondary achalasia. ==Barium esophagography== is the initial diagnostic test, which shows dilation of the esophagus with narrowing at the gastroesophageal junction (GEJ), known as a “bird's beak” (**[Figure 5](https://mksap18.acponline.org/app/topics/gi/figures/mk18_a_gi_f05)**). Upper endoscopy reveals retained food and saliva, no signs of mechanical obstruction or mass, and “tightness” at the GEJ while advancing the scope into the stomach. Esophageal manometry showing incomplete LES relaxation and aperistalsis confirms the diagnosis of achalasia.
+<!-- achalasia cause, sx b:235742670380-->
+
+==Achalasia== is a hypertonic motility condition defined by ==inadequate relaxation of the LES and aperistalsis==. Achalasia can be ==idiopathic== or ==associated== with viral, autoimmune, and neurodegenerative disorders and infection (Chagas disease). ==Damage to the ganglion cells== and myenteric plexus in the esophageal body and LES leads to uncontested ==cholinergic nerve activation==, which prevents LES relaxation. Achalasia affects men and women equally, with an annual incidence of 1 in 100,000 individuals. It commonly occurs between 30 and 60 years of age. Patients present with ==dysphagia occurring with both solids and liquids== along with nonacidic ==regurgitation of undigested food==. Additional symptoms include ==heartburn, weight loss, and chest pain== unresponsive to acid-reducing agents. ==Extrinsic compression== from surgical procedures, such as fundoplication or bariatric surgery (gastric band), can also cause ==secondary achalasia==. ==Barium esophagography== is the initial diagnostic test, which shows dilation of the esophagus with narrowing at the gastroesophageal junction (GEJ), known as a “bird's beak” (**[Figure 5](https://mksap18.acponline.org/app/topics/gi/figures/mk18_a_gi_f05)**). ==Upper endoscopy== reveals retained food and saliva, no signs of mechanical obstruction or mass, and “tightness” at the GEJ while advancing the scope into the stomach. ==Esophageal manometry== showing incomplete LES relaxation and aperistalsis confirms the diagnosis of achalasia.
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220501093437.png)
 Barium esophagram showing the typical appearance of a dilated esophagus and “bird's beak” narrowing at the gastroesophageal junction in a patient with achalasia.
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220508152530.png)
+
+<!-- achalasia vs pseudoachalasia b:1178688540330-->
 
 ==Pseudoachalasia== is a result of ==malignant tumor infiltration== or other secondary causes, and can present ==similarly to achalasia causing myenteric plexus damage==. Unlike achalasia, this condition has been associated with ==sudden weight loss later in life==, usually ==after age 50 years==. Patients have ==short duration of symptoms==. Tumors capable of infiltrating the myenteric plexus include those of the distal esophagus, gastric cardia, pancreatic, breast, lung, and hepatocellular. Suspected pseudoachalasia should be evaluated with CT or endoscopic ultrasound.
 
@@ -152,7 +160,9 @@ Barium esophagram showing the typical appearance of a dilated esophagus and “b
 > achalasia: longer sx duration
 > pseudoachalasia: shorter duration, older person
 
-Approaches to treatment of achalasia include endoscopic or surgical intervention with the goal of lowering LES pressure, which relieves symptoms. Medical therapy is uncommonly used.
+<!-- achalasia treatment b:1394963869244-->
+
+Approaches to treatment of achalasia include ==endoscopic or surgical intervention== with the goal of lowering LES pressure, which relieves symptoms. Medical therapy is uncommonly used.
 
 Endoscopic therapy involves injection of ==botulinum toxin==, ==pneumatic dilation==, or peroral endoscopic ==myotomy==. Botulinum toxin injection into the LES inhibits acetylcholine release, causing LES relaxation. However, after 1 year, only 40% of patients have continued relief of symptoms. Botulinum toxin injection can be repeated, but successive treatments are often less effective for symptom management. Pneumatic dilation is an effective nonsurgical therapy. Dilators ranging from 30 mm to 40 mm in size are used to disrupt the circular muscle. Clinical symptom improvement ranges from 50% to 90%, and the most common complication is perforation. Peroral endoscopic myotomy is a newer endoscopic procedure in which the physician creates an esophageal submucosal tunnel extending to the level of the LES and then performs a myotomy. Studies have shown resolution of symptoms in over 80% of patients. Surgical treatment consists of laparoscopic myotomy of the circular muscle fibers. Fundoplication is also recommended to avoid reflux symptoms after myotomy. Determining whether a patient should receive endoscopic or surgical therapy often depends on local expertise.
 
@@ -162,6 +172,8 @@ Patients with achalasia for more than 10 years have increased risk for squamous 
 
 ##### Diffuse Esophageal Spasm and Nutcracker Esophagus
 
+<!-- diffuse esophageal spasm pathogenesis, sx, dx, rx b:577283248952-->
+
 ==Diffuse esophageal spasm== is a hypercontractile state presenting with ==chest pain or dysphagia==. Symptoms often ==respond to nitroglycerin==, suggesting a flaw in esophageal nitric-oxide production. The esophagus has a “==corkscrew==” (**[Figure 6](https://mksap18.acponline.org/app/topics/gi/figures/mk18_a_gi_f06)**) or “rosary bead” appearance on esophagography. Esophageal manometry shows simultaneous high-amplitude (>30 mm Hg) ==esophageal contractions== with intermittent aperistaltic contractions. Medical therapy with antidepressants (trazadone and imipramine) or a phosphodiesterase inhibitor (sildenafil) can relieve chest pain. Dysphagia may ==respond to calcium channel blockers==. ==Botulinum toxin== injection has been reported to alleviate dysphagia symptoms.
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220501093527.png)
@@ -170,6 +182,8 @@ Findings of a “corkscrew esophagus” (caused by multiple simultaneous contrac
 “Nutcracker” or “jackhammer” esophagus is found in patients with high-amplitude peristaltic contractions of greater than 220 mm Hg.
 
 #### Hypotonic Motility Disorders
+
+<!-- ignore -->
 
 Hypotonic disorders of the esophagus are marked by lack of contractility and incomplete peristalsis. Patients may report symptoms of GERD, which result from decreased LES pressure or dysphagia from incomplete peristalsis. In most cases, the cause of hypotonic esophageal disease is unknown. However, secondary causes include smooth-muscle relaxants, anticholinergic agents, estrogen, progesterone, connective tissue disorders (scleroderma), and pregnancy. Esophageal manometry shows hypotonic, weak nonperistaltic contractions in the distal esophagus. Findings can mimic achalasia.
 
@@ -181,28 +195,40 @@ Treatment includes lifestyle changes, such as eating upright and eating liquid o
 
 #### Epidemiology and Screening
 
-==Barrett esophagus== is defined as the extension of the ==metaplastic columnar epithelium== above the GEJ into the esophagus. Barrett esophagus is a consequence of GERD, even in patients who experience no clinical symptoms, and is classified as a premalignant condition because it has the potential to progress to esophageal cancer. Risk factors associated with Barrett esophagus include ==chronic GERD== (for more than 5 years), ==age older than 50 years==, male sex, White race, tobacco use, and obesity. Drinking alcohol is not associated with increased risk for Barrett esophagus, and wine consumption might be protective.
+==Barrett esophagus== is defined as the extension of the ==metaplastic columnar epithelium== above the GEJ into the esophagus. Barrett esophagus is a ==consequence of GERD==, even in patients who experience no clinical symptoms, and is classified as a premalignant condition because it has the potential to progress to esophageal cancer. Risk factors associated with Barrett esophagus include ==chronic GERD== (for more than 5 years), ==age older than 50 years==, male sex, White race, tobacco use, and obesity. Drinking alcohol is not associated with increased risk for Barrett esophagus, and wine consumption might be protective.
 
-Risk factors associated with Barrett esophagus progression to dysplasia or esophageal cancer include older age, long Barrett esophagus length, obesity, and tobacco use. Some studies have suggested that the use of PPIs, NSAIDs, and statins may be protective; however, this has not been established, and the use of these agents solely for prevention of progression to dysplasia is not recommended. The annual cancer risk associated with Barrett esophagus without dysplasia is 0.2% to 0.5% per year. For Barrett esophagus with low-grade dysplasia, annual risk for cancer is 0.7% per year, and for Barrett esophagus with high-grade dysplasia, 7% per year.
+Risk factors associated with Barrett esophagus ==progression to dysplasia or esophageal cancer== include older age, long Barrett esophagus length, obesity, and tobacco use. Some studies have suggested that the use of PPIs, NSAIDs, and statins may be protective; however, this has not been established, and the use of these agents solely for prevention of progression to dysplasia is not recommended. The annual cancer risk associated with Barrett esophagus without dysplasia is 0.2% to 0.5% per year. For Barrett esophagus with low-grade dysplasia, annual risk for cancer is 0.7% per year, and for Barrett esophagus with high-grade dysplasia, 7% per year.
 
-About 10% of patients with GERD are found to have Barrett esophagus on endoscopy. Studies have suggested individuals with multiple risk factors for esophageal carcinoma and chronic GERD might benefit from screening. Men older than age 50 years with GERD symptoms for more than 5 years and additional risk factors (nocturnal reflux symptoms, hiatal hernia, elevated BMI, intra-abdominal distribution of body fat, tobacco use) may benefit from screening endoscopy. Women do not require routine endoscopic screening for Barrett esophagus. Evidence does not support routine screening for Barrett esophagus based on GERD symptoms for the general population.
+<!-- Barrett esophagus screening b:1284873594952-->
+
+About 10% of patients with GERD are found to have Barrett esophagus on endoscopy. Studies have suggested individuals with multiple risk factors for esophageal carcinoma and chronic GERD might benefit from screening. ==Men older than age 50 years with GERD symptoms for more than 5 years and additional risk factors== (nocturnal reflux symptoms, hiatal hernia, elevated BMI, intra-abdominal distribution of body fat, tobacco use) may benefit from screening endoscopy. ==Women do not require routine endoscopic screening for Barrett esophagus==. Evidence does not support ==routine screening for Barrett esophagus based on GERD symptoms== for the general population.
 
 #### Diagnosis and Management
 
-The diagnosis of Barrett esophagus is established based on endoscopic findings (**[Figure 7](https://mksap18.acponline.org/app/topics/gi/figures/mk18_a_gi_f07)**) with biopsy, which are then confirmed by pathology showing specialized intestinal metaplasia with acid-mucin–containing goblet cells. Endoscopy measurements have categorized Barrett esophagus into short-segment (≤3 cm) or long-segment (>3 cm). The Prague classification more accurately assesses a segment of Barrett esophagus using the degree of circumferential disease (C followed by a number indicating the length in cm) along with maximal Barrett esophagus segment length (M followed by a number indicating the length in cm). For example, a patient with Barrett esophagus extending circumferentially for 2 cm above the squamocolumnar junction but with tongues of Barrett esophagus extending 5 cm above the squamocolumnar junction would have a Prague classification of C2M5.
+<!-- Barrett endoscopic diagnosis b:1154190937347-->
+
+The diagnosis of Barrett esophagus is established based on endoscopic findings (**[Figure 7](https://mksap18.acponline.org/app/topics/gi/figures/mk18_a_gi_f07)**) with biopsy, which are then confirmed by ==pathology showing specialized intestinal metaplasia== with acid-mucin–containing goblet cells. Endoscopy measurements have categorized Barrett esophagus into ==short-segment== (≤3 cm) or ==long-segment== (>3 cm). The Prague classification more accurately assesses a segment of Barrett esophagus using the ==degree of circumferential disease== (C followed by a number indicating the length in cm) along with maximal Barrett esophagus segment length (M followed by a number indicating the length in cm). For example, a patient with Barrett esophagus extending circumferentially for 2 cm above the squamocolumnar junction but with tongues of Barrett esophagus extending 5 cm above the squamocolumnar junction would have a Prague classification of C2M5.
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220501093654.png)
 Upper endoscopic view of Barrett mucosa, with salmon-colored mucosa representing Barrett mucosa compared with the normal pearl-colored squamous mucosa.
 
-Barrett esophagus progresses along a pathway from intestinal metaplasia, to indefinite for dysplasia, to low-grade dysplasia, to high-grade dysplasia, to invasive adenocarcinoma. Surveillance and treatment recommendations are based on grade of Barrett esophagus and the presence of dysplasia (**[Table 4](https://mksap18.acponline.org/app/topics/gi/tables/mk18_a_gi_t04)**).
+<!-- barrett progression and surveillaince b:1555449174458-->
 
-In patients with Barrett esophagus, medical therapy should be used to treat reflux symptoms and to heal reflux esophagitis. Initial dosing is once daily. There is no strong evidence that antireflux surgery can prevent the progression of Barrett esophagus to adenocarcinoma when compared to medical therapy with PPIs. NSAIDs and aspirin should not be prescribed as an antineoplastic strategy.
+Barrett esophagus ==progresses along a pathway== from intestinal ==metaplasia==, to ==indefinite== for dysplasia, to ==low-grade== dysplasia, to ==high-grade== dysplasia, to invasive ==adenocarcinoma==. Surveillance and treatment recommendations are based on grade of Barrett esophagus and the presence of dysplasia (**[Table 4](https://mksap18.acponline.org/app/topics/gi/tables/mk18_a_gi_t04)**).
 
-Patients with a diagnosis of Barrett esophagus indefinite for dysplasia should start or optimize PPI therapy to treat symptoms or heal esophagitis, followed by repeat upper endoscopy. Treatment to remove Barrett esophagus is recommended for patients with high-grade dysplasia and confirmed low-grade dysplasia. Endoscopy-based therapies include radiofrequency ablation and endoscopic mucosal resection, possibly used in combination. Endoscopic therapies have had similar outcomes to surgery (esophagectomy) in patients with high-grade dysplasia, but local expertise and patient preference will determine the best course of therapy. The Prague classification is useful to more accurately assess response to endoscopic therapy.
+![](https://photos.thisispiggy.com/file/wikiFiles/20220510092556.png)
+
+<!-- Barrett esophagus treatment b:515836495836-->
+
+In patients with Barrett esophagus, medical therapy should be used to treat reflux symptoms and to heal reflux esophagitis. ==Initial dosing is once daily==. There is no strong evidence that antireflux surgery can prevent the progression of Barrett esophagus to adenocarcinoma when compared to medical therapy with PPIs. NSAIDs and aspirin should not be prescribed as an antineoplastic strategy.
+
+Patients with a diagnosis of Barrett esophagus indefinite for dysplasia should ==start or optimize PPI therapy== to treat symptoms or heal esophagitis, followed by ==repeat upper endoscopy==. Treatment to remove Barrett esophagus is recommended for patients with ==high-grade dysplasia== and ==confirmed low-grade dysplasia==. Endoscopy-based therapies include ==radiofrequency ablation and endoscopic mucosal resection==, possibly used in combination. Endoscopic therapies have had similar outcomes to surgery ==(esophagectomy)== in patients with high-grade dysplasia, but local expertise and patient preference will determine the best course of therapy. The Prague classification is useful to more accurately assess response to endoscopic therapy.
 
 ### Esophageal Carcinoma
 
 #### Epidemiology
+
+<!-- ignore -->
 
 The incidence of esophageal cancer varies widely between regions of the world; high-prevalence areas include Asia and southern and eastern Africa. Worldwide, squamous cell carcinoma comprises about 90% of all esophageal cancers, but incidence has been decreasing in Western countries as the incidence of adenocarcinoma is rising. Esophageal cancer occurs in the fifth to seventh decade of life and is three to four times more common in men. In the United States, about 16,000 new cases are reported annually, with 15,000 deaths occurring within the same year. The overall 5-year survival rate ranges from 15% to 25%, depending on the stage of the cancer at the time of initial presentation. The rate has remained relatively unchanged since 2000.
 

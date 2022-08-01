@@ -13,6 +13,8 @@ sr-ease: 298
 
 ## Etiologies
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220707071422.png)
+
 CAT MUDPILES
 
 - CO/cyanide/congenital heart failure
@@ -36,7 +38,7 @@ GOLD MARK
 - D: D lactate
 - M: methanol
 - A: ASA
-- R: ==renal failure==, correponds to uremia. Bicarb loss usually before stage 5 and regresses after stage 5. AG happens more in stage 5 when kidney is unable to excrete ammonia and other titratable acids
+- R: ==renal failure==, correponds to uremia. Bicarb loss usually before stage 5 and regresses after stage 5. AG happens more in stage 5 when kidney is unable to excrete ammonia and other titratable acids. Uremia could also be related to ==steroids== and GI bleed.
 - K: ketoacidosis
 
 ## Diagnosis

@@ -4,6 +4,12 @@ date: 2020-09-07
 
 # acute pericarditis
 
+- related: [[Cardiology]]
+- tags: #cardiology
+---
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220716092517.png)
+
 <!--  acute pericarditis rx -->
 
 - Naproxen in combination with colchicine is the treatment of choice for most patients with idiopathic or viral acute pericarditis.

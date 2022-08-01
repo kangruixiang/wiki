@@ -123,7 +123,7 @@ Most patients do not need treatment, as these lesions are often asymptomatic and
 
 ### Seborrheic Dermatitis
 
-<!-- seborrheic dermatitis sx, cause, rx -->
+<!-- seborrheic dermatitis sx, cause, rx b:1514870701691-->
 
 Seborrheic dermatitis is a common condition characterized by greasy yellow, scaly, erythematous patches in seborrheic areas (the scalp, face, ears, upper chest, axillae, and inguinal folds) (**[Figure 15](https://mksap18.acponline.org/app/topics/dm/figures/mk18_a_dm_f15)**). Specific areas of involvement on the face are the eyebrows, medial aspects of the cheeks, inter-eyebrow region, and the nasal ala. Men are more frequently affected than women. This disease is believed to be caused by a heightened sensitivity to lipophilic yeasts such as _Malassezia_. It is more prevalent in patients who are immunocompromised, such as those with HIV/AIDS or organ transplant patients. In HIV/AIDS patients, the severity of seborrheic dermatitis is inversely correlated with the CD4 counts, may extend beyond typical locations, and may be difficult to control. Patients with Parkinson disease or Down syndrome also have a higher prevalence of seborrheic dermatitis. Diagnosis is made clinically based on the distribution and appearance. Factors contributing to flares include sleep deprivation and stress.
 

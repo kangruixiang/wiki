@@ -4,6 +4,10 @@ date: 2020-09-07
 
 # Atheroembolism is a complication of cardiac catherization
 
+- related: [[Cardiology]], [[ACS]]
+- tags: #cardiology
+---
+
 <!-- heart cath atheroembolism sx -->
 
 - Risk of cardiac catherization is small. One risk is atheroembolism

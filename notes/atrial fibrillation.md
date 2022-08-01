@@ -61,6 +61,9 @@ date: 2021-09-13
 - pill-in-the-pocket approach: pts with infrequent afib and no structural heart disease
 	- on BB/CCB
 	- flecainide/propafenone: take at onset of episode
+	- fleicanide: need AV nodal blockade such as BB to avoid 1:1 Vfib from Afib
+	- Class 1c: need ischemic work up prior to initiate in hospital. Could also initiate then ischemic work up afterwards
+	- Class 3: watch out for QTc prolongation (sotalol)
 
 ### Ablation
 

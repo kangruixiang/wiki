@@ -15,15 +15,15 @@ sr-ease: 290
 
 Anti–glomerular basement membrane (anti-GBM) antibody disease is a rare form of ==RPGN== with an incidence of less than one case per million per year. Anti-GBM antibody disease accounts for about 20% of RPGN cases in adults. The lesion is more frequently seen in ==White== patients and has a bimodal age and gender distribution, with peak incidences in ==young men in the second and third decades== of life and in ==older women in the sixth and seventh decades== of life. More than half of patients with anti-GBM antibody disease present with RPGN and ==pulmonary hemorrhage==. About one third of patients present with isolated glomerulonephritis. ==Notably, up to one third of patients have concurrent circulating ANCA (usually antimyeloperoxidase, MPO) antibodies==.
 
-Circulating anti-GBM antibodies target the alpha-3 chain of type IV collagen. When anti-GBM antibodies bind rapidly and tightly to the GBM, they incite an intense inflammatory response that translates to the typically fulminant nature of this disease.
+Circulating anti-GBM antibodies target the alpha-3 chain of ==type IV collagen==. When anti-GBM antibodies bind rapidly and tightly to the GBM, they incite an intense inflammatory response that translates to the typically fulminant nature of this disease.
 
 ## Clinical Manifestations
 
-The presentation of anti-GBM antibody disease is similar to that of other forms of RPGN previously described, with ==macroscopic or microscopic hematuria, erythrocyte casts, varying ranges of proteinuria, and usually moderate to severe AKI==. ==Lung involvement (Goodpasture syndrome) occurs in >50% of patients==; hemoptysis can be a presenting symptom, although shortness of breath or cough should also raise suspicion for a pulmonary-renal syndrome even in the absence of hemoptysis.
+The presentation of anti-GBM antibody disease is similar to that of other forms of RPGN previously described, with ==macroscopic or microscopic hematuria, erythrocyte casts, varying ranges of proteinuria, and usually moderate to severe AKI==. ==Lung involvement (Goodpasture syndrome) occurs in >50% of patients==; ==hemoptysis== can be a presenting symptom, although shortness of breath or cough should also raise suspicion for a pulmonary-renal syndrome even in the absence of hemoptysis.
 
 ## Diagnosis
 
-==Kidney biopsy== in anti-GBM disease shows a crescentic glomerulonephritis on light microscopy and pathognomonic ==linear staining for IgG== along the glomerular capillaries, indicative of antibodies directed against the GBM. Serologic testing for anti-GBM antibodies is performed at the time of diagnosis. The serologic test is done by indirect immunofluorescence or direct enzyme-linked immunoassay (ELISA), with sensitivity ranging from 60% to 100%; therefore, a kidney biopsy to confirm diagnosis is recommended unless contraindicated. Even with a renal biopsy diagnosis, antibody levels should be measured because their titers can be followed to assess efficacy of therapy.
+==Kidney biopsy== in anti-GBM disease shows a ==crescentic glomerulonephritis== on light microscopy and pathognomonic ==linear staining for IgG== along the glomerular capillaries, indicative of antibodies directed against the GBM. Serologic testing for anti-GBM antibodies is performed at the time of diagnosis. The serologic test is done by indirect immunofluorescence or direct enzyme-linked immunoassay ==(ELISA)==, with sensitivity ranging from 60% to 100%; therefore, a kidney biopsy to confirm diagnosis is recommended unless contraindicated. Even with a renal biopsy diagnosis, antibody levels should be measured because their titers can be followed to assess efficacy of therapy.
 
 ## Treatment and Prognosis
 

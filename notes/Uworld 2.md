@@ -787,19 +787,6 @@ This patient has acute onset of bloody diarrhea associated with abdominal pain. 
 
 The enterohemorrhagic _E coli_ (EHEC) strain produces Shiga toxin, which causes an inflammatory diarrhea syndrome with bloody stools and abdominal pain.  EHEC infection is most frequently associated with consumption of contaminated beef products, although there have been documented outbreaks associated with other foods such as fruits, leafy vegetables, and milk products.  Isolated cases without a clear source are also common.  The diagnosis can be confirmed with assay for Shiga toxin in stool.  Stool culture can also identify toxin-producing strains.  Treatment is generally supportive; antibiotics are not helpful and may increase the risk of hemolytic uremic syndrome.
 
-## Hirsutism
-
-<!-- rapid onset hirsutism in women evaluation.. -->
-
-Although most women with hirsutism (excess terminal hair growth) have polycystic ovary syndrome (PCOS), **rapid-onset hirsutism**, with or without virilization (eg, vocal deepening, excessive muscular development, clitoromegaly), suggests very high androgen levels due to an **androgen-secreting neoplasm** of the ovaries or adrenal glands.
-
-The primary ovarian androgens include testosterone, androstenedione, and dehydroepiandrosterone.  The adrenals produce these as well as dehydroepiandrosterone-sulfate (DHEAS).  Therefore, women with a suspected androgen-producing tumor should be evaluated with serum **testosterone** and **DHEAS** levels:
-
-- Elevated testosterone levels with normal DHEAS levels suggest an ovarian source (more common).
-- Elevated DHEAS levels suggest an adrenal tumor (far less common).
-
-DHEAS and DHEA have negligible intrinsic androgenic action but are converted to androstenedione and subsequently to testosterone in peripheral tissues.  Some adrenal tumors can also directly produce testosterone.
-
 ## Bilirubin
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/L13480.jpg)

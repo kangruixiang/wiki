@@ -4,7 +4,8 @@ date: 2020-09-07
 
 # hyperparathyroidism
 
-- Keywords: [[Endocrine]], [[Parathyroid]]
+- related: [[Endocrine]], [[Parathyroid]]
+- tags: #endocrine
 ---
 
 # Hyperparathyroidism
@@ -27,8 +28,11 @@ date: 2020-09-07
 
 <!-- Primary hyperparathyroidism management -->
 
-- Asymptomatic and age >50: **regular follow up** with serum Ca, creatinine, DXA scanning
-- Symptomatic or age <50: parathyroidectomy
+- regular follow up with serum Ca, creatinine, DXA scanning
+	- Asymptomatic and age >50
+- Surgery:
+	- Symptomatic, established complications, or age <50
+	- Elevated Ca >1 above normal or urinary Ca > 400
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/image-20200713170015044.png)
 

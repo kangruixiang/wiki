@@ -24,7 +24,7 @@ Rashes in persons with skin of color may be harder to detect since the pink-red 
 
 ## Diagnostic Tests for Skin Disorders
 
-<!-- skin disorder diagnostic tests -->
+<!-- skin disorder diagnostic tests b:1056656663461-->
 
 Diagnostic tools and tests that may augment the physical examination include preparation of specimens using ==potassium hydroxide== (KOH), ==wet mounting==, or ==Tzanck== preparations; and use of a ==Wood lamp== or a dermatoscope to visualize lesions. These techniques and tools are easy to use and have minimal equipment requirements; however, skill and experience are necessary for accurate and reliable interpretation.
 

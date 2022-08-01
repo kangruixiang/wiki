@@ -6,6 +6,16 @@ date: 2020-09-07
 
 - related: [[Medicine]]
 
+## MKSAP
+
+- [[Disorders of Glucose Metabolism]]
+- [[Disorders of the Pituitary Gland]]
+- [[Disorders of the Adrenal Glands]]
+- [[Disorders of the Thyroid Gland]]
+- [[Reproductive Disorders]]
+- [[Transgender Hormone Therapy Management]]
+- [[Calcium and Bone Disorders]]
+
 ## Pituitary
 
 - [[pituitary adenoma]]
@@ -35,6 +45,7 @@ date: 2020-09-07
 - [[Cushing syndrome]]
 - [[steroids and cortisol]]
 - [[stress dose steroid]]
+- [[perioperative management of chronic glucocorticoid]]
 
 ## Diabetes
 
@@ -52,6 +63,7 @@ date: 2020-09-07
 ## Repro
 
 - [[male hypogonadism]]
+- [[testosterone replacement therapy]]
 
 ## MISC
 

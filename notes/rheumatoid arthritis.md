@@ -143,6 +143,9 @@ Advanced RA: ulnar deviation, marginal erosions (arrows), joint space narrowing,
 ![](https://photos.thisispiggy.com/file/wikiFiles/20210829205427.png)
 Marginal erosions and joint-space narrowing (arrows). Erosion at the fifth metatarsophalangeal joint is often the first radiographic sign of rheumatoid arthritis foot involvement.
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220731210200.png)
+Radiographic erosions **("marginal erosion")**, such as the left 3rd metacarpophalangeal joint in this patient (blue arrow), can suggest RA and indicate underlying erosive RA.  These erosions eventually lead to joint inflammation and loss of joint space (red arrows).
+
 ## Management
 
 <!-- ignore -->

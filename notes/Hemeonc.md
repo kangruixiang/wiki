@@ -9,6 +9,30 @@ date: 2020-09-07
 
 ## MKSAP
 
+- [[management of bone metastasis]]
+- [[Hematopoietic Stem Cells and Their Disorders]]
+- [[Multiple Myeloma and Related Disorders]]
+- [[Erythrocyte Disorders]]
+- [[Iron Overload Syndromes]]
+- [[Platelet Disorders]]
+- [[MKSAP Bleeding Disorders]]
+- [[MKSAP Transfusion Medicine]]
+- [[Thrombotic Disorders]]
+- [[Hematologic Issues in Pregnancy]]
+- [[Issues in Oncology]]
+- [[Breast Cancer]]
+- [[Ovarian Cancer]]
+- [[MKSAP Cervical Cancer]]
+- [[Gastroenterological Malignancies]]
+- [[Lung Cancer]]
+- [[Head and Neck Cancer]]
+- [[Genitourinary Cancer]]
+- [[Lymphoid Malignancies]]
+- [[Cancer of Unknown Primary Site]]
+- [[Melanoma]]
+- [[Oncologic Urgencies and Emergencies]]
+- [[Effects of Cancer Therapy and Survivorship]]
+
 ## Heme
 
 - [[Bleeding disorders]]
@@ -27,6 +51,8 @@ date: 2020-09-07
 - [[transfusion medicine]]
 - [[DIC vs liver disease]]
 - [[anticoagulation reversal]]
+- [[autoimmune hemolytic anemia]]
+- [[supratherapeutic INR]]
 
 ## Oncology
 
@@ -35,3 +61,4 @@ date: 2020-09-07
 - [[febrile neutropenia]]
 - [[leukostasis]]
 - [[tumor lysis syndrome]]
+- [[prevention of recurrent VTE in cancer patients]]

@@ -4,7 +4,7 @@ date: 2021-04-21
 
 # fall in elderly patients
 
-- related:[[Geriatrics]]
+- related: [[Geriatrics]]
 
 - break hip: worst mortality, more than heart attack
 

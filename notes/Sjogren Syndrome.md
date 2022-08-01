@@ -16,9 +16,13 @@ Sjögren syndrome is an autoimmune exocrinopathy affecting ==salivary and lacrim
 
 The most common presentation of Sjögren syndrome is ==sicca==, consisting of ==dryness of the eyes== (keratoconjunctivitis sicca) and ==mouth== (xerostomia). Patients report gritty eyes or a foreign body sensation. Oral dryness can cause caries and difficulty eating unmoistened food. Symmetric parotid and lacrimal swelling is common, as is skin and vaginal dryness.
 
-Extraglandular manifestations may also occur (**[Table 22](https://mksap18.acponline.org/app/topics/rm/tables/mk18_a_rm_t22)**). Arthralgia and arthritis are common; the joint distribution and presentation resemble rheumatoid arthritis but without bone erosions (Jaccoud arthropathy). Patients with Sjögren syndrome are at increased risk for non-Hodgkin lymphoma, presumably related to chronic lymphocyte activation.
+==Extraglandular manifestations== may also occur (**[Table 22](https://mksap18.acponline.org/app/topics/rm/tables/mk18_a_rm_t22)**). ==Arthralgia== and arthritis are common; the joint distribution and presentation resemble rheumatoid arthritis but without bone erosions (Jaccoud arthropathy). Patients with Sjögren syndrome are at increased risk for non-Hodgkin ==lymphoma==, presumably related to chronic lymphocyte activation.
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220305083822.png)
+
+<!-- sjogren renal sx -->
+
+The most common renal manifestation of SS is **==chronic interstitial nephritis==**.  Patients with this condition usually have ==mild renal insufficiency==, a fairly benign urinalysis, and renal tubular abnormalities such as **==distal renal tubular acidosis==** (leading to metabolic acidosis with hypokalemia) and nephrogenic **==diabetes insipidus==** (leading to low urine osmolality, frequent urination, and excessive thirst).
 
 ## Diagnosis
 

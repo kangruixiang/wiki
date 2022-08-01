@@ -22,3 +22,5 @@ The diagnosis of urticaria is clinical. ==Physical maneuvers== that can help wit
 ==Hereditary angioedema==, distinct from the more typical mast-cell associated angioedema, is caused by activation of the complement cascade due to ==lack of or dysfunction of C1 esterase inhibitor==. Hereditary angioedema may cause sporadic localized edema involving the head and neck and is differentiated from mast cell-associated angioedema by the lack of typical urticarial lesions. Diagnosis is by testing for ==quantitative and functional levels of C1 esterase inhibitor== and ==C4 complement levels==.
 
 Diagnostic workup for urticaria is not recommended unless history suggests a specific cause. If symptoms persist, laboratory tests, including a complete blood count with differential, urinalysis, erythrocyte sedimentation rate or C-reactive protein, thyroid-stimulating hormone, and liver chemistry tests, can be considered. If associated with systemic symptoms or suspicion of urticarial vasculitis, testing directed by the findings should be considered.
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220706080209.png)

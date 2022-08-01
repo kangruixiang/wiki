@@ -10,7 +10,7 @@ date: 2022-04-28
 
 ## Asymptomatic Gallstones
 
-<!-- different types of gallstones -->
+<!-- different types of gallstones b:433382016987-->
 
 Gallstones can be characterized as either ==cholesterol stones or pigment stones==, which are black or brown. Cholesterol stones are the result of ==supersaturation of the bile with cholesterol==; they account for approximately 75% of cases in the United States. Risk factors for cholesterol cholelithiasis include ==older age, female sex== (twice as likely as in men), American ==Indian== ethnicity, ==Western diet, pregnancy, rapid weight loss, obesity, total parenteral nutrition, and drugs== such as estrogen and somatostatin analogues. ==Black pigment== stones, usually composed of ==calcium bilirubinate==, can form in patients with chronic ==hemolytic disease states==, ineffective erythropoiesis, ileal disease such as ==Crohn disease==, and ==cirrhosis==. ==Brown pigment== stones are composed of ==unconjugated bilirubin== and varying amounts of other substances, such as cholesterol, but also contain bacteria. These are typically found in patients with biliary stasis and bacterial biliary infection, as can be seen in chronic biliary obstruction.
 
@@ -42,22 +42,13 @@ The Rome 4 criteria for gallbladder disorders suggest that evaluation for functi
 
 ## Common Bile Duct Stones and Cholangitis
 
-#### Related Question
-
-- Question 12
-
-Stones in the common bile duct are a leading cause of obstructive jaundice. Complications in patients with common bile duct stones are more common than in those with gallstones, but 20% of patients spontaneously pass the stones, and less than 50% of patients develop symptoms. Symptomatic common bile duct stones present with jaundice, abdominal pain, or pruritus due to obstruction of bile flow. Common duct stones may be visualized by transabdominal ultrasonography. In the absence of direct visualization, the combination of an elevated bilirubin level and dilated common duct on ultrasonography makes the diagnosis of common duct stone highly likely. Endoscopic retrograde cholangiopancreatography (ERCP) is the preferred therapeutic method for stone extraction and should be performed in patients with a high likelihood of choledocholithiasis. In patients who are suspected of having common bile duct stones but have indeterminate findings on ultrasonography, magnetic resonance cholangiopancreatography (MRCP) or endoscopic ultrasonography should be performed to avoid the risks of ERCP. Cholecystectomy should be performed within 2 weeks of stone extraction. Intraoperative cholangiography and ultrasonography are other alternatives for assessing for the presence of common bile duct stones.
+Stones in the common bile duct are a leading cause of obstructive jaundice. Complications in patients with common bile duct stones are more common than in those with gallstones, but 20% of patients spontaneously pass the stones, and less than 50% of patients develop symptoms. ==Symptomatic common bile duct stones== present with jaundice, abdominal pain, or pruritus due to obstruction of bile flow. Common duct stones may be visualized by ==transabdominal ultrasonography==. In the absence of direct visualization, the combination of an ==elevated bilirubin level and dilated common duct (> 6mm)== on ultrasonography makes the diagnosis of common duct stone highly likely. Endoscopic retrograde cholangiopancreatography ==(ERCP)== is the preferred therapeutic method for stone extraction and should be performed in patients with a high likelihood of choledocholithiasis. In patients who are suspected of having common bile duct stones but have indeterminate findings on ultrasonography, magnetic resonance cholangiopancreatography ==(MRCP)== or endoscopic ultrasonography should be performed to avoid the risks of ERCP. ==Cholecystectomy should be performed within 2 weeks of stone extraction==. Intraoperative cholangiography and ultrasonography are other alternatives for assessing for the presence of common bile duct stones.
 
 The presence of cholangitis is heralded by the onset of the Charcot triad (fever, jaundice, and right-upper-quadrant abdominal pain) or Reynold pentad (Charcot triad plus hypotension and altered mental status). Cholangitis is potentially life-threatening, and antibiotic therapy targeting gram-negative _Enterobacteriaceae_ should be administered. Identified common bile duct stones should be removed urgently with ERCP in patients with cholangitis, after which elective cholecystectomy should be performed during the initial hospitalization or within 2 weeks to reduce the risk for complications. In patients who are not surgical candidates, endoscopic sphincterotomy can be performed to facilitate the passage of additional common bile duct stones.
 
-## Key Points
-
-- Endoscopic retrograde cholangiopancreatography is the preferred therapeutic method for relieving obstruction due to a common bile duct stone.
-- Cholangitis (heralded by the onset of fever, jaundice, and right-upper-quadrant abdominal pain) is potentially life-threatening; antibiotic therapy targeting gram-negative _Enterobacteriaceae_ should be administered, and identified common bile duct stones should be removed urgently.
-
 ## Gallbladder Polyps
 
-<!-- gallbladder polyps management -->
+<!-- gallbladder polyps management b:296320369116-->
 
 Gallbladder polyps, usually incidental findings, can be seen on 1% to 5% of gallbladder ultrasounds. ==They can be neoplastic==, such as an adenoma, or ==nonneoplastic==, such as cholesterol polyps or adenomyomas. The best predictor of a malignant or premalignant lesion is size of the gallbladder polyp, ==with polyps greater than 1 cm in size being more likely to be neoplastic==. ==Gallbladder polyps associated with gallbladder stones or primary sclerosing cholangitis are also more likely to be neoplastic==. Management of gallbladder polyps is outlined in **[Figure 32](https://mksap18.acponline.org/app/topics/gi/figures/mk18_a_gi_f32)**.
 
@@ -90,8 +81,3 @@ The preferred treatment for distal cholangiocarcinoma is a Whipple resection.
 Metastatic cholangiocarcinoma of any variety should be treated with gemcitabine-cisplatin.
 
 The 5-year survival rate for patients with cholangiocarcinoma (excluding liver transplant recipients), including those who undergo resection, is 20% to 30%.
-
-## Key Points
-
-- Resection is first-line treatment for cholangiocarcinoma.
-- Selected patients with unresectable hilar cholangiocarcinoma smaller than 3 cm in size and without extrahepatic spread may be candidates for liver transplantation.

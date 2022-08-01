@@ -12,14 +12,11 @@ The nail complex is composed of the nail plate, hyponychium, proximal and latera
 
 ## Infection
 
-Onychomycosis is a fungal (dermatophyte) infection of the nail commonly seen in elderly persons, especially those with comorbidities such as diabetes mellitus, peripheral vascular disease, or immunosuppression. The most common sites of infection are the toenails. It can appear as distal subungual and proximal subungual onychomycosis. Distal subungual onychomycosis is the most common pattern. The distal nail plate becomes discolored (yellow, white, or brown) and thickened. Under the nail plate, there is an accumulation of subungual debris, resulting in separation of the plate from the bed (onycholysis) (**[Figure 141](https://mksap18.acponline.org/app/topics/dm/figures/mk18_a_dm_f141)**). Proximal subungual onychomycosis appears similar except that it starts at the proximal nail fold. This pattern is rare and can be associated with HIV and immunosuppression.
+==Onychomycosis== is a fungal (dermatophyte) infection of the nail commonly seen in elderly persons, especially those with comorbidities such as diabetes mellitus, peripheral vascular disease, or immunosuppression. The most common sites of infection are the toenails. It can appear as distal subungual and proximal subungual onychomycosis. Distal subungual onychomycosis is the most common pattern. The distal nail plate becomes discolored (yellow, white, or brown) and thickened. Under the nail plate, there is an accumulation of subungual debris, resulting in separation of the plate from the bed (onycholysis) (**[Figure 141](https://mksap18.acponline.org/app/topics/dm/figures/mk18_a_dm_f141)**). Proximal subungual onychomycosis appears similar except that it starts at the proximal nail fold. This pattern is rare and can be associated with HIV and immunosuppression.
 
-Onychomycosis is treated mostly for cosmetic reasons. Confirmation of infection with potassium hydroxide preparation, staining with periodic acid-Schiff, or fungal culture should be done before treatment. Topical antifungal agents are of limited efficacy. Oral therapy with terbinafine or itraconazole is more effective.
+![](https://photos.thisispiggy.com/file/wikiFiles/20220706074646.png)
 
-## Key Points
-
-- Onychomycosis is a fungal (dermatophyte) infection of the nail commonly seen in elderly persons, especially those with comorbidities such as diabetes mellitus, peripheral vascular disease, or immunosuppression.
-- Oral therapy with terbinafine or itraconazole is the preferred treatment for onychomycosis; confirmation of infection should be done before treatment.
+Onychomycosis is treated mostly for cosmetic reasons. ==Confirmation of infection== with potassium hydroxide preparation, staining with periodic acid-Schiff, or fungal culture should be done before treatment. Topical antifungal agents are of limited efficacy. ==Oral therapy with terbinafine or itraconazole== is more effective.
 
 ## Paronychia
 

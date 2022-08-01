@@ -10,7 +10,9 @@ date: 2022-01-12
 
 ## AIN
 
-- vascularture, glomerulus spared
+![](https://photos.thisispiggy.com/file/wikiFiles/20220614145925.png)
+
+- vasculature, glomerulus spared
 - causes
 	- allergy/drug induced: 70%
 	- infections: acute/chronic pyelo
@@ -22,7 +24,8 @@ date: 2022-01-12
 - labs
 	- na wasting, acidification, normal to mildly increased proteinuria
 	- WBC, hyperkalemia, hypokalemia
-    ![](https://photos.thisispiggy.com/file/wikiFiles/20220112134727.png)
+- Urine: WBC, WBC casts, mild RBC, mild proteinuria, maybe eosinophils
+  ![](https://photos.thisispiggy.com/file/wikiFiles/20220112134727.png)
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220112135036.png)
 

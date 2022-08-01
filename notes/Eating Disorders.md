@@ -4,24 +4,31 @@ date: 2020-09-07
 
 # Eating Disorders
 
+- related: [[Psychiatry]]
+---
+
+<!-- anorexia vs bulimia -->
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220613140350.png)
+
 <!-- anorexia is, BMI criteria.. -->
 
-Anorexia nervosa is an eating disorder characterized by **restriction of food intake** due to a fear of gaining weight and disturbance of one's perception of one's body. It may be divided into 2 subtypes:
+==Anorexia nervosa== is an eating disorder characterized by **restriction of food intake** due to a ==fear of gaining weight== and ==disturbance of one's perception== of one's body. It may be divided into 2 subtypes:
 
 - Restrictive: Severe limitation of food intake is the primary means to weight loss.
 - Binge-eating/purging: Periods of food intake are compensated by self-induced vomiting, laxative or diuretic abuse, and/or excessive exercise.
 
-Patients with **anorexia** are commonly known to be "perfectionists". Suspect anorexia if a question stem describes a young patient who is extremely competitive and high-achieving with a low BMI (particularly BMI < 18.5).
+Patients with **anorexia** are commonly known to be "perfectionists". Suspect anorexia if a question stem describes a ==young patient== who is ==extremely competitive== and high-achieving with a ==low BMI== (particularly BMI < 18.5).
 
 <!-- anorexia treatment.. -->
 
 Treatment of anorexia involves **psychotherapy.** Consider addressing **maladaptive** **family dynamics** leading to feelings of inadequacy in the patient, as these life stressors could exacerbate the condition. Hospitalization may be necessary in cases of crisis, whether medical (arrhythmia) or psychiatric (suicide).
 
-**SSRIs** are not typically effective due to lack of tryptophan from nutritional deprivation (contrast this to the treatment of bulimia nervosa!).
+**==SSRIs** are not typically effective== due to lack of tryptophan from nutritional deprivation (contrast this to the treatment of bulimia nervosa!).
 
-Avoid bupropion for comorbid depression in anorexia, due to the drug's low seizure threshold. The common electrolye imbalances in anorexia put patients at higher risk for **seizures**.
+==Avoid bupropion== for comorbid depression in anorexia, due to the drug's low seizure threshold. The common electrolye imbalances in anorexia put patients at higher risk for **==seizures==**.
 
-Low-dose atypical antipsychotics such as olanzapine may be used to promote weight gain in **anorexia**. Other sedative psychoactive medications such as mirtazapine may have a role as well.
+Low-dose atypical antipsychotics such as ==olanzapine== may be used to promote weight gain in **anorexia**. Other sedative psychoactive medications such as mirtazapine may have a role as well.
 
 Note that such pharmacotherapy has no value in bulimics, who typically have normal or above normal body weight.
 
@@ -43,20 +50,20 @@ Patients with anorexia have **at-risk pregnancies**: IUGR, prematurity, and smal
 
 # Bulimia
 
-<!-- bulimia is, BMI.. -->
+<!-- bulimia is, BMI -->
 
 Bulimia nervosa is characterized by **binge eating** followed by **compensatory behavior** such as vomiting or excessive exercise. There are two subcategories of bulimia, depending on the type of compensatory behavior utilized:
 
 - **Purging type:** Involves vomiting, laxatives, diuretics, etc.
 - **Nonpurging type**: Involves excessive exercise or fasting
 
-In contrast to patients with anorexia, **patients with bulimia are normal weight or slightly overweight** (BMI >18.5 kg/m2).
+In contrast to patients with anorexia, **patients with bulimia are ==normal weight or slightly overweight==** (BMI >18.5 kg/m2).
 
 **Signs of bulimia may include hypotension, tachycardia, dry skin, and menstrual irregularities.**
 
 <!-- bulemia treatment.. -->
 
-The 1st line pharmacological treatment for bulimia nervosa is a **SSRI** (e.g. **fluoxetine**). Psychotherapy is also useful.
+The 1st line pharmacological treatment for bulimia nervosa is a **SSRI** (e.g. **==fluoxetine==**). Psychotherapy is also useful.
 
 **Bupropion** is contraindicated in patients with anorexia or bulimia since it can cause seizures in this population.
 

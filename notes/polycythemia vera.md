@@ -12,7 +12,7 @@ date: 2021-06-02
 - erythrocytosis
 - questions to ask
 	- smoking history
-	- hormonal therapy
+	- hormonal therapy (testosterone increases Hgb)
 	- OSA hx
 	- renal/liver cancer
 	- burning pain in hands/feet
@@ -39,6 +39,7 @@ date: 2021-06-02
 
 ## Treatment
 
+- patients on testosterone therapy require hematocrit monitoring; testosterone supplementation should be **decreased/discontinued** if hematocrit levels are **>54%**.
 - decrease thrombosis
 - prevent bleed
 - decrease sx

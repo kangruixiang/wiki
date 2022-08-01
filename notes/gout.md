@@ -5,18 +5,16 @@ date: 2020-12-08
 # gout
 
 - related: [[Rheumatology]]
+---
 
 - risks: obesity, alcohol, DM, men, aging
-
 - premenopausal women don't have gout
-
-- not every with increased uric acid has gout
-
+- not every one with increased uric acid has gout
 - hyperuricemia >7 for male, >6 for female
+	- if > 10, risk increases to 30-50%
+	- goal < 6 if diagnosed with gout
 
-- if > 10, risk increases to 30-50%
-
-- goal < 6 if diagnosed with gout
+## Pathogenesis
 
 - pathogenesis: over producer or under excretor
 	- can do 24 hour collection. > 800mg in urine = overproducer. <800 = underexcretor (90% of problem)
@@ -53,27 +51,41 @@ date: 2020-12-08
 	- limit high fructose
 	- limit organ meats, seafoods
 
-- diagnosis:
-	- clinical findings: suspected vs probable
-	- imaging confirmation
-	- MSU crystals, negative birefringent, yellow when parallel
-	- inflammatory synovial fluid, neutrophil predominant
-	- septic synovial fluid may contain urate crystals
-	- intracellular crystals more confident to be gout than extracellular (phagocytosed). If only extracellular, think about infections
-	- during acute attack, serum uric acid level can be low or high
+## Diagnosis
 
-- treatment
+- clinical findings: suspected vs probable
+- imaging confirmation
+- MSU crystals, negative birefringent, yellow when parallel
+- inflammatory synovial fluid, neutrophil predominant
+- septic synovial fluid may contain urate crystals
+- intracellular crystals more confident to be gout than extracellular (phagocytosed). If only extracellular, think about infections
+- during acute attack, serum uric acid level can be low or high
 
-- allopurinol
-	- starting dose: no greater than 100mg/day
-	- CKD4 or worse: start at 50mg/day
-	- max dose: 800mg
-	- titrate 2-5 weeks to max dose. Can increase above 300mg daily, even with renal impairment
-	- toxicity: hypersensitivity reaction, elevated hepatic enzymes
-	- don't use with azathioprine/mercaptopurine = pancytopenia
-	- may potentiate warfarin
+## Treatment
+
+Colchicine is effective for acute gouty arthritis, but is limited by frequent gastrointestinal side effects and is a second-line agent.  Colchicine is less effective than corticosteroids.  Chronic administration in CKD patients can lead to colchicine accumulation in the blood and cause significant neuromyopathy.
+
+## Prevention
+
+### Allopurinol
+
+- starting dose: no greater than 100mg/day
+
+- CKD4 or worse: start at 50mg/day
+
+- max dose: 800mg
+
+- titrate 2-5 weeks to max dose. Can increase above 300mg daily, even with renal impairment
+
+- toxicity: hypersensitivity reaction, elevated hepatic enzymes
+
+- don't use with azathioprine/mercaptopurine = pancytopenia
+
+- may potentiate warfarin
 
 - gout with tophi: even with goal uric acid, likelihood of gout flare up is higher than normal, 6 months colchicine with allopurinol
+
+### Urloric
 
 - feboxostat Urloric
 	- dose once a day, can increase to 80mg
@@ -94,8 +106,6 @@ date: 2020-12-08
 	- frequent attacks, 2 or more a year
 	- CKD 2 or worse: 1 gout attack
 	- hx of urolithiasis
-
--
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20201208124806.png)
 ![](https://photos.thisispiggy.com/file/wikiFiles/20201208123719.png)

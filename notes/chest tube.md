@@ -8,7 +8,7 @@ e---
 
 # chest tube
 
-- related: [[Pulmonology]], [[pleural effusion]]
+- related: [[Pulmonology]], [[Pleural Effusion]]
 ---
 
 ## Indications
@@ -36,5 +36,5 @@ e---
 
 ## Removing chest tube
 
-- Air: no suction, no bubbles => clamp tubclamp tube, trial 4 hours or longer
+- Air: no suction, no bubbles => clamp tube, trial 4 hours or longer
 - liquid: < 150cc/24 hours, no clamping needed

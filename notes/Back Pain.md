@@ -5,10 +5,6 @@ date: 2020-09-07
 # Back Pain
 ---
 
-## typora-copy-images-to: ./images
-
-# Overview
-
 ## Alarming symptoms
 
 <!-- back pain alarming symptoms -->
@@ -34,6 +30,8 @@ date: 2020-09-07
 ## Workup
 
 <!-- someone comes in with lower back pain, workup -->
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220731153426.png)
 
 Someone comes in with lower back pain:
 
@@ -95,8 +93,6 @@ In the acute phase of spinal cord injury, patients can develop spinal shock and 
 - diagnosis: clinical
 - treatment: exercise, NSAIDS.,
 
-# Something Else
-
 ## Disc Herniation
 
 <!-- disc herniation path, pt, symptoms, diagnosis, treatment -->
@@ -107,7 +103,15 @@ In the acute phase of spinal cord injury, patients can develop spinal shock and 
 - diagnosis: Xray probably negative, MRI next
 - treatment: depends on severity/lifestyle
 	- neurosurgery > conservative at 6 mo (probably atheletes)
-	- neurosurgery = conservative at 1 yo (probably older guy just wants to live).,
+	- neurosurgery = conservative at 1 yo (probably older guy just wants to live)
+
+## Acute lumbosacral radiculopathy
+
+This patient's symptoms - back pain radiating down the leg which is worsened with coughing or bearing down - are consistent with an **==acute lumbosacral radiculopathy==** (ALSR).  ALSR is most often due to a ==mechanical compression of the L5 and/or S1 dorsal root==, usually by a ==herniated disk==.  ALSR typically presents with low back and leg pain (**sciatica**), often with ==associated numbness and/or weakness in the leg==.  Reproduction of radicular pain with flexion at the hip and dorsiflexion at the ankle (positive **straight leg raise**) is relatively specific for the diagnosis.
+
+Most patients with ALSR will have spontaneous improvement, and can be managed with conservative measures for comfort.  Studies of various medications in ALSR have largely been mixed, though non-steroidal anti-inflammatory drugs (**NSAIDs**) are often effective and are well tolerated.  Anti-spasmodics/muscle relaxants may also be considered, but they are associated with significant sedation and inconsistent benefits.  Opioids appear to be less effective and are associated with sedation and a significant risk of dependence.  Pain-modifying drugs such as gabapentin are primarily used for chronic symptoms and also cause significant sedation **(Choice B)**.
+
+Patients with ALSR should usually be advised to maintain **light-normal activity**.  A **brief period of bed rest** (<3 days) is also acceptable, but extended bed rest has been shown to provide no benefit and may prolong recovery.  If the patient's symptoms fail to improve, or there are new neurological deficits at follow-up, magnetic resonance imaging of the lumbo-sacral spine and surgical referral may be indicated.
 
 ## Osteophyte
 

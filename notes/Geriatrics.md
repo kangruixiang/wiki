@@ -9,3 +9,4 @@ date: 2020-09-07
 - [[Dementia]]
 - [[neuropsychiatric testing]]
 - [[fall in elderly patients]]
+- [[polypharmacy and medications in elderly]]

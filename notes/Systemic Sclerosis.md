@@ -38,6 +38,8 @@ The diagnosis of SSc is dependent on the presence of specific clinical findings 
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220304093440.png)
 
+This patient's presentation is consistent with CREST syndrome, a variant of the limited cutaneous form.  These patients are **anti-centromere antibody** positive and carry a more favorable prognosis (in comparison to DcSS).  They do not develop renal failure or the cardiac disease that can be seen with DcSS **(Choices A & B)**; however, they are more prone to developing **pulmonary hypertension**, often without interstitial fibrosis.  In contrast, patients with DcSS may develop severe forms of interstitial lung disease.
+
 ### Cutaneous Involvement
 
 <!-- systemic sclerosis skin sx b:1043735285215-->
@@ -54,7 +56,6 @@ Vascular complications of the skin include digital infarcts, subungual infection
 ==Raynaud phenomenon== occurs in approximately 95% of patients with SSc; it is the most common early manifestation of SSc, typically occurring years before other changes. Initially, Raynaud phenomenon is episodic, but with vascular fibrosis, the blood supply becomes permanently restricted. Approximately 80% of patients with the combination of Raynaud phenomenon, an SSc-associated autoantibody, and nailfold capillary changes in an SSc pattern (**[Figure 22](https://mksap18.acponline.org/app/topics/rm/figures/mk18_a_rm_f22)**), will develop SSc.
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220304093725.png)
-
 Capillary loops in systemic sclerosis. _Top_, Early changes with loss of capillary loop density (or drop out) with marked dilatation of the remaining capillary loops. _Bottom_, Late changes with extensive loss of capillary loops.
 
 Digital ulcers occur in about 15% of patients with SSc, typically on the extensor surfaces and tips of the fingers and toes but also on the dorsum of hands and feet and even on the lower extremities. Vascular changes in the extremities may be indicative of involvement of the microcirculation of internal organs.
@@ -70,7 +71,7 @@ Calcinosis seen in CREST (calcinosis cutis, Raynaud phenomenon, esophageal dysmo
 
 <!-- systemic sclerosis joint and muscle sx b:357166012324-->
 
-Joint involvement occurs in 12% to 65% of patients with SSc; it has a hand/wrist predominance and is one of the few forms of inflammatory arthritis that affects the distal interphalangeal joints. Between 1% and 5% of patients have a rheumatoid arthritis–SSc overlap, with positive anti–cyclic citrullinated antibodies and classic rheumatoid arthritis manifestations along with those of SSc.
+==Joint involvement== occurs in 12% to 65% of patients with SSc; it has a hand/wrist predominance and is one of the few forms of inflammatory arthritis that affects the distal interphalangeal joints. Between 1% and 5% of patients have a rheumatoid arthritis–SSc overlap, with positive anti–cyclic citrullinated antibodies and classic rheumatoid arthritis manifestations along with those of SSc.
 
 Patients with SSc may develop ==acro-osteolysis==, or resorption of the terminal bony tuft of fingers and less commonly the toes, with prevalence as high as 20% to 25% in more severe disease (**[Figure 21](https://mksap18.acponline.org/app/topics/rm/figures/mk18_a_rm_f21)**).
 
@@ -101,7 +102,7 @@ More than 70% of patients with SSc have clinical gastrointestinal involvement. G
 
 One of the most concerning manifestations of SSc is ==scleroderma renal crisis==, which affects 5% of patients and was previously the chief cause of mortality. Risk factors include ==DcSSc==, ==use of moderate- to high-dose glucocorticoids==, and the presence of ==anti-RNA polymerase III antibodies==. Patients characteristically present with manifestations of hypertensive emergency, including headache, encephalopathy, seizures, and hypertensive retinopathy. Rarely, a normotensive form of scleroderma renal crisis can occur.
 
-Laboratory tests demonstrate ==microangiopathic hemolytic anemia with schistocytes== on peripheral smear, thrombocytopenia, and proteinuria. ==Serum creatinine is typically elevated== and may remain so for some time after controlling blood pressure. Abnormalities in the renin-angiotensin-aldosterone system and endothelin-1 contribute to the pathophysiology. ACE inhibitors significantly improve kidney survival and decrease mortality among patients with SRC, regardless of the serum creatinine level.
+Laboratory tests demonstrate ==microangiopathic hemolytic anemia with schistocytes== on peripheral smear, thrombocytopenia, and proteinuria. ==Serum creatinine is typically elevated== and may remain so for some time after controlling blood pressure. Abnormalities in the renin-angiotensin-aldosterone system and endothelin-1 contribute to the pathophysiology. ==ACE inhibitors== significantly improve kidney survival and decrease mortality among patients with SRC, regardless of the serum creatinine level.
 
 ### Lung Involvement
 

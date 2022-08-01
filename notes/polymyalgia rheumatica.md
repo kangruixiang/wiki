@@ -4,7 +4,8 @@ date: 2020-09-07
 
 # polymyalgia rheumatica
 
-- Keywords:: [[Step 3]], [[Allergy and Immunology]]
+- Related: [[Step 3]], [[Allergy and Immunology]]
+- tags: #rheumatology
 ---
 
 **Polymyalgia rheumatica** is an **autoimmune disease with several sites of muscle and joint pain** and it is commonly associated with [[temporal arteritis]].
@@ -19,9 +20,9 @@ Polymyalgia rheumatica is more common in:
 
 The presentation of polymyalgia rheumatica includes **symmetrical morning muscle stiffness and pain in the neck, shoulders, and hips**. Morning stiffness lasting >1 hour.
 
-Physical exam findings include **fatigue, edema of the extremities, tenderness to palpation, movement limited by pain**, but **normal muscle strength** unlike [[polymyositis and dermatomyositis#Polymyositis|polymyositis]], which presents with decreased muscle strength.
+Physical exam findings include **fatigue, edema of the extremities, tenderness to palpation, movement limited by pain**, but **==normal muscle strength==** unlike [[polymyositis and dermatomyositis#Polymyositis|polymyositis]], which presents with decreased muscle strength.
 
-In PMR, the physical examination is frequently unremarkable with patients having no focal tenderness or pain with active or passive range of motion.  Signs of inflammation in the joints are absent.  When asked to identify the location of their pain, patients typically indicate the soft tissues and not the joints.
+In PMR, the physical examination is frequently unremarkable with patients having ==no focal tenderness or pain== with active or passive range of motion.  ==Signs of inflammation in the joints are absent==.  When asked to identify the location of their pain, patients typically indicate the ==soft tissues and not the joints==.
 
 ## Diagnosis
 
@@ -33,7 +34,7 @@ Because polymyalgia rheumatica has such a **strong correlation with temporal art
 
 ## Treatment
 
-Treatment of polymyalgia rheumatica involves **low dose corticosteroids that are slowly tapered**.
+Treatment of polymyalgia rheumatica involves **==low dose corticosteroids== that are slowly tapered**.
 
 ## Uworld
 
@@ -47,4 +48,4 @@ A minority of cases are associated with giant cell arteritis (GCA), a  vasculiti
 
 Virtually 100% of patients with PMR respond rapidly to glucocorticoid  treatment; however, symptoms may relapse in up to half after the steroid dosage is tapered.
 
-Although both PMR and rheumatoid arthritis (RA) can cause aching pain and stiffness, only RA causes joint destruction. These diseases can be differentiated by the distribution of symptoms: PMR causes proximal symptoms (eg, shoulders, hip girdle), whereas RA tends to affect  smaller, more distal joints (eg, metacarpophalangeal joints, proximal  interphalangeal joints, wrists) and results in joint swelling and  deformity.
+Although both PMR and rheumatoid arthritis (RA) can cause aching pain and stiffness, ==only RA causes joint destruction==. These diseases can be differentiated by the distribution of symptoms: ==PMR causes proximal symptoms== (eg, shoulders, hip girdle), whereas RA tends to affect  smaller, more distal joints (eg, metacarpophalangeal joints, proximal  interphalangeal joints, wrists) and results in joint swelling and  deformity.

@@ -13,7 +13,7 @@ date: 2021-01-02
 - cirrhosis pts have respiratory alkalosis
 	- ascites/hydrothorax causes hyperventilation
 	- hyperammonaemia and hepatic encephalopathy also cause hyperventilation
-- albumin causes alkalosis
+- decreased albumin causes alkalosis
 	- albumin is weak acid
 	- 1g decrease in albumin causes base excess of 3
 

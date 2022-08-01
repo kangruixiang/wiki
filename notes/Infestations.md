@@ -10,7 +10,7 @@ date: 2022-04-06
 
 ## Scabies
 
-<!-- scabies treatment -->
+<!-- scabies treatment b:951902046603-->
 
 Scabies (_Sarcoptes scabiei)_ infestation is characterized by intensely pruritic, crusted papules, nodules, and burrows that develop in the interdigital spaces, wrists, ankles, breasts, periumbilical area, and genitals (**[Figure 56](https://mksap18.acponline.org/app/topics/dm/figures/mk18_a_dm_f56)**). In older adults, the immunocompromised, or Down syndrome patients, highly contagious crusted (Norwegian) scabies occurs with extensive thick concrete-like scale. Scabies is transmitted by close personal contact, and diagnosis is performed by microscopic identification of the mites, eggs, or feces from skin scrapings prepared with mineral oil (**[Figure 57](https://mksap18.acponline.org/app/topics/dm/figures/mk18_a_dm_f57)**). See **[Table 14](https://mksap18.acponline.org/app/topics/dm/tables/mk18_a_dm_t14)** for treatment. ==Pruritus may persist for weeks after eradication== of scabies and does not necessarily represent resistance or reinfection. “Postscabetic pruritus” can be treated with ==antihistamines, topical glucocorticoids, and, if severe, oral glucocorticoids== can be used.
 

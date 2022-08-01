@@ -9,6 +9,20 @@ date: 2020-09-07
 
 ## Anatomy
 
+- Epidemiology and Risk Factors
+- [[Diagnostic Testing in Cardiology]]
+- [[Coronary Artery Disease]]
+- [[Heart Failure]]
+- [[Arrhythmias]]
+- [[Valvular Heart Disease]]
+- [[Myocardial Disease]]
+- [[Pericardial Disease]]
+- [[Adult Congenital Heart Disease]]
+- [[Diseases of the Aorta]]
+- [[Peripheral Artery Disease]]
+- [[Cardiovascular Disease in Cancer Survivors]]
+- [[Pregnancy and Cardiovascular Disease]]
+
 ## Physiology
 
 - [[EKG basics]]
@@ -27,6 +41,8 @@ date: 2020-09-07
 - [[Statin initiation]]
 - [[amiodarone dosing]]
 - [[DAPT]]
+- [[omeprazole reduces Plavix absorption]]
+- [[3 sec sinus pause and 5 sec afib cause needs pacemaker]]
 
 ## Pathology
 
@@ -40,6 +56,7 @@ date: 2020-09-07
 - [[syncope]]
 - [[DVT and PE]]
 - [[left axial myxoma]]
+- [[subclavian steal syndrome]]
 
 ## Others
 

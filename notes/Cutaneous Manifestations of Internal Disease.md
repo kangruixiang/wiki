@@ -38,7 +38,7 @@ The scleroderma family of disorders is discussed in the [MKSAP 18 Rheumatology]
 
 Treatment with disease-modifying anti-inflammatory drugs such as methotrexate and mycophenolate are recommended to slow the progression of cutaneous sclerosis but result in only modest benefit. Patients with progressive sclerosis will progress to sclerodactyly or thick, hide-like skin of the fingers. This skin sclerosis will progress from distal to proximal (**[Figure 109](https://mksap18.acponline.org/app/topics/dm/figures/mk18_a_dm_f109)**). Both diffuse and limited sclerosis can affect the face resulting in restriction of the oral aperture, atrophied lips, and perioral creases radiating around the mouth (**[Figure 110](https://mksap18.acponline.org/app/topics/dm/figures/mk18_a_dm_f110)**). Sclerosis can result in acroosteolysis (resorption of the finger tips) and fixed contractures of the fingers, wrists, elbows, or feet.
 
-<!-- localized scleroderma findings -->
+<!-- localized scleroderma findings b:228709259771-->
 
 ==Localized scleroderma (morphea)== begins as red-violet plaques that progress to ==isolated sclerotic circumscribed plaques== (**[Figure 111](https://mksap18.acponline.org/app/topics/dm/figures/mk18_a_dm_f111)**). The scarring sclerosis is ==permanent==, and active lesions will have a ==violet-pink border== that fades as disease activity burns out. Most commonly, patients will have one to a few plaques, but the disease can generalize. Morphea is ==not associated== with sclerodactyly or systemic disease (esophageal dysmotility, interstitial lung disease, or kidney involvement). ==Raynaud phenomenon is uncommon== in these patients. Treatment is best accomplished with topical and systemic glucocorticoids or calcineurin inhibitors, methotrexate, or UVA therapy.
 
@@ -140,7 +140,7 @@ Management of pyoderma gangrenosum is multidimensional. The underlying disease s
 
 ### Dermatitis Herpetiformis
 
-<!-- dermatitis herpetiformis is, locations, biopsy shows, rx -->
+<!-- dermatitis herpetiformis is, locations, biopsy shows, rx b:596974723123-->
 
 Dermatitis herpetiformis is a neutrophilic dermatoses caused by ==IgA antibodies against tissue and epidermal transglutaminase==. Dermatitis herpetiformis typically presents with intensely ==pruritic papules== and ==fragile vesicles== that rapidly break leaving tiny erosions (see [Autoimmune Bullous Diseases](https://mksap18.acponline.org/app/topics/dm/mk18_a_dm_s14) and [MKSAP 18 Gastroenterology and Hepatology](https://mksap18.acponline.org/app/topics/gi/mk18_a_gi_s4/mk18_a_gi_s4_2)). The ==elbows, knees, scalp, and lower back== are the most common sites of involvement. A skin biopsy will show numerous ==neutrophils stuffing the dermal papillae==, and a granular pattern of ==IgA deposition== will be seen on direct immunofluorescence.
 
@@ -148,7 +148,7 @@ Most patients with dermatitis herpetiformis will have an underlying gluten-sensi
 
 ### Porphyria Cutanea Tarda
 
-<!-- porphyria cutanea tarda sx, cause, rx -->
+<!-- porphyria cutanea tarda sx, cause, rx b:1316333681337-->
 
 Porphyria cutanea tarda presents with ==increased skin fragility== noted on ==sun-exposed areas==, most frequently on the ==dorsal hands==. ==Small vesicles rupture leaving erosions== (**[Figure 119](https://mksap18.acponline.org/app/topics/dm/figures/mk18_a_dm_f119)**). On close examination, milia are often seen in the healed areas that were once vesicles. Milia represent small epidermal inclusion cysts that develop after subepidermal blister formation. As the disease progresses, ==hyperpigmentation of skin and hypertrichosis== of the forehead/temples is commonly seen. Jaundice may be present.
 
@@ -173,7 +173,7 @@ Sweet syndrome, or acute febrile neutrophilic dermatosis, is characterized by fe
 
 ### Amyloidosis
 
-<!-- amyloidosis cutanous sx -->
+<!-- amyloidosis cutanous sx b:1530516390270-->
 
 The hallmark of systemic amyloidosis with cutaneous involvement and cutaneous amyloidosis is ==extracellular deposition of altered amyloid protein== in the skin. In primary (systemic) immunoglobulin light-chain amyloidosis (AL), ==AL amyloid deposits in multiple organs== including the skin. ==Skin manifestations are present in 30% to 40%== of patients and include generalized ==waxy appearance==, ==easy bruising== with minor pressure (pinch ==purpura==) (**[Figure 121](https://mksap18.acponline.org/app/topics/dm/figures/mk18_a_dm_f121)**), ==violaceous discoloration== around the eyes (“raccoon eyes”), yellow waxy papules and plaques especially in a periorbital location (**[Figure 122](https://mksap18.acponline.org/app/topics/dm/figures/mk18_a_dm_f122)**), dystrophic nails, and macroglossia (**[Figure 123](https://mksap18.acponline.org/app/topics/dm/figures/mk18_a_dm_f123)**). When the diagnosis is suspected, patients should be screened with immunofixation of serum and urine and serum free light chain assay. Skin biopsies for the diagnosis of AL are controversial, as even when amyloid protein is seen in the dermis, the biochemical composition must be established with immunofixation studies (see [MKSAP 18 Hematology and Oncology](https://mksap18.acponline.org/app/topics/ho/mk18_a_ho_s2/mk18_a_ho_s2_5)).
 
@@ -207,11 +207,17 @@ Acanthosis nigricans presents as velvety-to-verrucous, gray-to-brown thickening 
 
 ### Necrobiosis Lipoidica
 
-Necrobiosis lipoidica is a chronic condition that is seen mainly in patients with diabetes mellitus, both type 1 (more commonly) and type 2. Necrobiosis lipoidica presents as well-demarcated, indurated, yellow-brown oval plaques with central atrophy and telangiectasias. Lesions are typically seen on the bilateral pretibial areas but can occur anywhere on the body.
+<!-- ncrobiosis lipoidica is -->
+
+==Necrobiosis lipoidica== is a chronic condition that is seen mainly in patients with ==diabetes mellitus==, both type 1 (more commonly) and type 2. Necrobiosis lipoidica presents as ==well-demarcated, indurated, yellow-brown oval plaques== with central atrophy and telangiectasias. Lesions are typically seen on the bilateral pretibial areas but can occur anywhere on the body.
 
 The diagnosis is usually made on clinical findings, but a punch biopsy of skin to include subcutaneous tissue can be performed to confirm the diagnosis. Histology shows a necrobiotic granulomatous dermatitis. Only a small portion of patients with diabetes (0.3% to 1.6%) develop necrobiosis lipoidica, and in most patients the diabetes precedes necrobiosis lipoidica. Patients with necrobiosis lipoidica without diabetes should be monitored closely for diabetes. Glycemic control does not usually lead to resolution of necrobiosis lipoidica. Treatment is challenging, and relapses are common.
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220525141206.png)
+
 ### Pretibial Myxedema
+
+<!-- ignore -->
 
 Autoimmune thyroid disease, particularly Graves disease, may uncommonly be associated with pretibial myxedema, an accumulation of glycosaminoglycans in the dermis, usually over the lower legs. Pretibial myxedema presents with firm nodules and plaques with a “peau d’ orange” appearance on the pretibial area (**[Figure 125](https://mksap18.acponline.org/app/topics/dm/figures/mk18_a_dm_f125)**). Diagnosis is based on clinical findings, elevated thyroid-stimulating immunoglobins, and skin biopsy showing characteristic accumulation of mucin in the dermis. Control of the hyperthyroidism does not usually lead to resolution of pretibial myxedema.
 

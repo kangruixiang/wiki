@@ -32,7 +32,7 @@ Risk factors for severe disease include age ==older than 55== years, medical com
 
 ### Management
 
-<!-- acute pancreatitis management: fluid, abx, feeding -->
+<!-- acute pancreatitis management: fluid, abx, feeding b:1142061113465-->
 
 Mainstays of management include fluid resuscitation, pain management, and antinausea medication.
 
@@ -42,15 +42,19 @@ Routine use of antibiotics is not warranted in acute pancreatitis, unless there 
 
 In mild acute pancreatitis, oral ==feedings can be started as soon as nausea and vomiting are controlled== and clinical symptoms begin to subside. ==Enteral feeding== should begin ==within 72 hours== if oral feeding is not tolerated; it is usually required in patients with moderately severe or severe acute pancreatitis. Feeding with a ==nasojejunal tube== has traditionally been preferred, but data suggest that ==nasogastric feedings are likely equally effective and easier to administer==. Enteral feeding promotes a healthy gut-mucosal barrier to prevent translocation of bacteria into inflamed tissues.
 
-<!-- gallstone pancreatitis management -->
+<!-- gallstone pancreatitis management b:6025031629-->
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220711073049.png)
 
 If a biliary cause of acute pancreatitis is suspected, ==serial liver chemistry tests and clinical symptoms== can show whether the biliary obstruction is ongoing or resolving. Endoscopic retrograde cholangiopancreatography (==ERCP) is not indicated== in patients with gallstone pancreatitis ==unless there is persistent elevation of liver chemistries== or if ==choledocholithiasis is seen== on imaging studies. Patients with cholangitis should undergo urgent ERCP. Patients with uncomplicated gallstone pancreatitis should be ==considered for cholecystectomy== before discharge.
 
 There is no value in rechecking serum amylase and lipase levels after the diagnosis is established.
 
+Patients with ==mild to moderate gallstone pancreatitis should receive supportive care== (eg, analgesics, intravenous fluids) as most stones pass into the duodenum.  However, patients with evidence of **common bile duct obstruction** or **acute cholangitis** can benefit from **urgent (<24 hours) endoscopic retrograde cholangiopancreatography ==(ERCP)==** with sphincterotomy, as this has been shown to reduce disease severity.
+
 ### Complications
 
-<!-- types of pancreatitis fluid collections, management -->
+<!-- types of pancreatitis fluid collections, management b:1312656878607-->
 
 There are two overlapping phases of acute pancreatitis with two peaks in mortality. The early phase is the first week of the disease, when the body is responding to local pancreatic injury and the cytokine cascade, and SIRS and organ failure are possible. The late phase occurs after the first week and may persist for weeks to months in patients with moderately severe or severe acute pancreatitis. Significant risk for infection in peripancreatic fluid collections and necrosis occurs in the late phase.
 
@@ -72,7 +76,13 @@ CT scan showing maturation and liquefaction of pancreas necrosis of nearly the e
 
 Contrast-enhanced CT may not be able to distinguish solid from liquid content in fluid collections; therefore, necrotic collections are frequently misdiagnosed as pancreatic pseudocysts. Pancreatic ==pseudocysts do not require drainage== unless they cause significant symptoms, regardless of size. Because they contain only fluid, pseudocysts are easily drained under endoscopic or radiographic guidance. ==Walled-off necrosis== is not as amenable to percutaneous or endoscopic drainage due to solid necrotic debris within the cavity and may require endoscopic, radiologic, or surgical debridement.
 
-The management of suspected infected necrosis includes ==initiation of antibiotics== (for example, imipenem-cilastatin, meropenem, or ciprofloxacin plus metronidazole) with consideration of ==fine-needle aspiration== with Gram stain and culture under CT guidance. Drainage procedures or debridement should be delayed for at least 4 weeks if possible to allow encapsulation of the necrosis with a fibrous wall.
+The management of suspected infected necrosis includes ==initiation of antibiotics== (for example, imipenem-cilastatin, meropenem, or ciprofloxacin plus metronidazole) with consideration of ==fine-needle aspiration== with Gram stain and culture under ==CT guidance==. Drainage procedures or debridement should be delayed for at least 4 weeks if possible to allow encapsulation of the necrosis with a fibrous wall.
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220607213259.png)
+
+**Infected** necrosis occurs in one-third of patients with necrotizing pancreatitis and should be suspected in those who do not improve or who deteriorate clinically after a week of hospitalization.
+
+These patients may either be treated with empiric antibiotics or first undergo **CT-guided aspiration** with Gram stain and culture to direct antimicrobial therapy.  **Carbapenems** (eg, imipenem, meropenem) or a combination of a quinolone and metronidazole is a recommended empiric regimen due to the coverage of gut-derived organisms and superior penetration into the pancreatic tissue.  Patients who fail to respond to antibiotics may require percutaneous or open surgical debridement of infected necrosis (eg, necrosectomy).
 
 ## Chronic Pancreatitis
 
@@ -96,7 +106,7 @@ Surgery offers the best long-term results for chronic, refractory pain managemen
 
 ## Autoimmune Pancreatitis and IgG4 Disease
 
-<!-- autoimmune pancreatitis pathogenesis, sx, imaging, rx -->
+<!-- autoimmune pancreatitis pathogenesis, sx, imaging, rx b:412772987877-->
 
 Autoimmune pancreatitis (AIP) is a frequent manifestation of ==IgG4-related disease==. Other organs that can be affected include the lacrimal and salivary glands, central nervous system, kidneys, thyroid gland, lungs, biliary tract and liver, prostate gland, retroperitoneum, and lymph nodes. Storiform fibrosis and obliterative phlebitis are characteristics seen in the pancreas and biliary tract. The most common pancreatic manifestation of IgG4-related disease is ==type 1 AIP==, with abundant infiltration of IgG4-positive plasma cells and lymphocytes. ==Type 2 AIP== has no or few IgG4-positive cells but is characterized by idiopathic duct-centric neutrophil infiltration, known as a granulocytic epithelial lesion. Type 2 AIP is a pancreas-specific disease with occasional association with ulcerative colitis. The 2011 International Consensus of Diagnostic Criteria for Autoimmune Pancreatitis endorsed the concept of type 1 and type 2 disease, but there is some debate over whether type 2 should be considered an IgG4-related disease.
 
@@ -137,7 +147,7 @@ Adenocarcinoma of the ==ampulla of Vater== accounts for 0.2% of gastrointestinal
 
 ## Cystic Lesions of the Pancreas
 
-<!-- pancratic cystic lesions and neoplasms -->
+<!-- pancratic cystic lesions and neoplasms b:218311297985-->
 
 ==Pancreatic cysts== are found incidentally in 15% of patients undergoing abdominal imaging. The detection of a cystic lesion in the pancreas causes anxiety in patients and clinicians and is a growing driver of health care use in the United States.
 
@@ -154,6 +164,18 @@ Magnetic resonance cholangiopancreatogram of a main-duct intraductal papillary m
 
 <!-- ignore -->
 
-Pancreatic neuroendocrine tumors are rare, representing 3% of primary pancreatic neoplasms. Ten to twenty-five percent of pancreatic neuroendocrine tumors are functional and hypersecrete hormones. Tumors may be sporadic or part of an inherited disorder. Initial evaluation includes blood and urine tests for chromogranin A, 5-hydroxyindoleacetic acid, gastrin, glucagon, insulin and proinsulin (if clinically indicated; requires fasting with concurrent glucose), pancreatic polypeptide, and vasoactive intestinal polypeptide to determine functional status. Most functional pancreatic neuroendocrine tumors secrete gastrin (gastrinoma) or insulin (insulinoma). Genetic testing for multiple endocrine neoplasia type 1 is recommended in all young patients with gastrinomas or insulinomas, and in any patient with a family or personal history of other endocrinopathies or multiple pancreatic neuroendocrine tumors. Genetic testing for other associated inherited disorders, such as von Hippel-Lindau syndrome, tuberous sclerosis, or neurofibromatosis–1, should be considered based on clinical and family history.
+Pancreatic neuroendocrine tumors are rare, representing 3% of primary pancreatic neoplasms. Ten to twenty-five percent of pancreatic neuroendocrine tumors are functional and hypersecrete hormones. Tumors may be sporadic or part of an inherited disorder. Initial evaluation includes blood and urine tests for chromogranin A, 5-hydroxyindoleacetic acid, gastrin, glucagon, insulin and proinsulin (if clinically indicated; requires fasting with concurrent glucose), pancreatic polypeptide, and vasoactive intestinal polypeptide to determine functional status. Most functional pancreatic neuroendocrine tumors secrete gastrin ==(gastrinoma)== or insulin ==(insulinoma)==. Genetic testing for multiple endocrine neoplasia type 1 is recommended in all young patients with gastrinomas or insulinomas, and in any patient with a family or personal history of other endocrinopathies or multiple pancreatic neuroendocrine tumors. Genetic testing for other associated inherited disorders, such as von Hippel-Lindau syndrome, tuberous sclerosis, or neurofibromatosis–1, should be considered based on clinical and family history.
 
 Imaging is recommended with multiphasic CT or MRI of the abdomen. Endoscopic ultrasonography (90% sensitive) or octreotide scintigraphy may be needed to detect small lesions. For functional pancreatic neuroendocrine tumors, surgery is recommended if more than 90% of the tumor can be resected. For nonfunctional tumors associated with multiple endocrine neoplasia type 1 and von Hippel-Lindau syndrome, surgery is usually recommended if the tumors are greater than 2 to 3 cm in size. Medical management of gastrinomas includes oral proton pump inhibitors two or three times daily or somatostatin analogs. High-volume or progressive disease is best managed in conjunction with a gastroenterologist.
+
+### Gastrinoma
+
+<!-- gastrinoma sx, dx -->
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220701062834.png)
+
+This patient’s presentation and endoscopic findings suggest ==gastrinoma== ==(Zollinger-Ellison syndrome)==, which can be sporadic or found in conjunction with multiple endocrine neoplasia type 1 ==(MEN-1)== in 20% of cases.  Gastrinomas usually present in patients ==age 20-50== with dyspepsia, reflux symptoms, abdominal pain, weight loss, or frank gastrointestinal bleeding.  Endoscopy often shows ==thickened gastric folds, multiple peptic ulcers, refractory ulcers== despite proton pump inhibitor use, or ==ulcers distal to the duodenum== in the ==jejunum==.  The gastrin level should be checked in suspected gastrinoma; a level < 110 pg/mL rules it out.
+
+A gastrin level > 1000 pg/mL is highly suggestive and requires checking the ==gastric pH==, with pH > 4 ruling out gastrinoma.  A pH < 4 suggests gastrinoma and requires further testing (eg, endoscopic ultrasound, somatostatin receptor scintigraphy, and CT or MRI) for localization.
+
+A gastrin level of 110-1000 pg/mL requires a follow-up ==secretin stimulation test==.  A negative secretin test rules out gastrinoma; a positive test requires further localization testing.  Gastrinoma associated with MEN-1 syndrome usually responds to proton pump therapy.  However, surgery is usually preferred for sporadic gastrinomas or MEN-1 patients with uncontrolled symptoms on medical therapy.

@@ -5,6 +5,10 @@ date: 2020-09-07
 # vertigo common causes
 
 - related: [[Neurology]]
+- tags: #neurology
+---
+
+<!-- vertigo common causes -->
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20200907203433_3.png)
 
@@ -17,7 +21,7 @@ date: 2020-09-07
 
 ## Vestibular Neuritis or labyrinthritis (+hearing loss)
 
-- path: viral
+- path: viral (herpes)
 - symptoms:
 	- 4 weeks after URI
 	- **single episode**
@@ -26,7 +30,7 @@ date: 2020-09-07
 	- maybe NV
 - diagnosis:
 	- positive **head-thrust test**: In this test, the patient focuses on the examiner's nose while the examiner quickly rotates the patient's head 10-15 degrees to the side; normally, the eyes remain fixed on the target, but in a patient with a peripheral vestibular disorder, the eyes initially rotate with the head before voluntarily redirecting back to the target (corrective saccade).
-- treatment: steroids, anti-vertigo (meclizine)
+- treatment: steroids, anti-vertigo (meclizine), acyclovir for herpes
 
 ## Meniere
 

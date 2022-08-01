@@ -21,6 +21,10 @@ date: 2020-09-07
 - [[capacity and competency]]
 - [[medicare medicaid]]
 - [[blood draw]]
+- [[SSRI side effects]]
+- [[acute bacterial sinusitis]]
+- [[tobacco smoking cessation]]
+- [[dry mouth can be treated with cevimeline or other muscarinics]]
 
 ## Poisoning
 

@@ -4,6 +4,10 @@ date: 2020-09-07
 
 # nephrotic syndrome
 
+- related: [[Nephrology]]
+- tags: #nephrology
+---
+
 <!-- nephrotic syndrome risk for thrombic event why -->
 
 Patients with severe nephrotic syndrome are predisposed to thrombotic  events. One possible mechanism for hypercoagulability is loss of  natural anticoagulants in the urine. Thromboses occur most commonly in  the renal veins and deep veins of the lower extremities. Chronic renal  vein thrombi are usually asymptomatic. (Acute renal vein thrombi often  lead to renal infarction but are not typically seen in nephrotic  syndrome.) Lower extremity deep vein thromboses can sometimes lead to  pulmonary embolism. Patients with nephrotic syndrome are also at  increased risk for venous clots in the cerebral veins and arterial clots in the cerebral or lower limb vasculature. The highest risk patients  include those with underlying membranous nephropathy, serum albumin < 2.0 g/dl, and massive proteinuria. There is no clear evidence to  support prophylactic anticoagulation for nephrotic syndrome.

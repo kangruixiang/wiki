@@ -4,7 +4,7 @@ date: 2021-05-01
 
 # ACS
 
-- related:  [[Cardiology]], [[Cardiac Ischemia]]
+- related:  [[Cardiology]], [[Cardiac Ischemia]], [[Atheroembolism is a complication of cardiac catherization]]
 ---
 
 ## Acute Coronary Syndromes
@@ -25,6 +25,8 @@ date: 2021-05-01
 - Biotin can increase troponin levels
 
 ## STEMI
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220716092509.png)
 
 - pathogenesis: plaque rupture, platelet adhesion/activation/aggregation, thrombosis, vessel occlusion
 - transmural infarct

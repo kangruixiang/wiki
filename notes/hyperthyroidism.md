@@ -36,7 +36,7 @@ sr-ease: 290
 - Methimazole
 - Others
 	- steroids
-	- high dose iodine: can use up to 5 days to stop thyroid hormone prouction
+	- high dose iodine: can use up to 5 days to stop thyroid hormone production
 	- cholestyramine: reduce recycling
 	- rarely plamaphresis: remove thyroid stimulating abx, protein bound thyroid hormones
 

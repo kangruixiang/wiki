@@ -16,11 +16,6 @@ Determining the location and mechanism of injury is crucial for rapidly deciding
 
 Many patients with myelopathy report pain at the level of the compressive disease. Squeezing or banding sensations around the chest or abdomen near the level of spinal cord compression may be reported. Focal tenderness to percussion over the spinal column may be elicited. Disruptions in bowel and bladder function and loss of sphincter tone also are often noted. These varied symptoms may lead to unnecessary cardiac, pulmonary, gastrointestinal, or urinary tract evaluations and to a delayed diagnosis.
 
-## Key Points
-
-- Corticospinal tract injury results in spastic paresis or paralysis, with weakness, hyperreflexia, muscle spasticity, and extensor plantar responses; there is often loss of sensation at or below the site of injury.
-- Injury to the distal spinal cord and lower roots (cauda equina syndrome) results in decreased muscle tone, areflexia, and loss of perianal sensation.
-
 ## Compressive Myelopathy
 
 ### Clinical Presentation
@@ -30,10 +25,6 @@ Spinal cord compression often presents with neck or back pain, followed by weakn
 Patients with chronic spinal stenosis due to osteoarthritic degenerative spinal disease frequently present with chronic myelopathic symptoms. Compressive myelopathy should thus be considered in older patients with gait dysfunction or weakness. Degenerative spinal disease often affects the cervical and lumbar regions, but thoracic cord involvement is quite rare. Most patients with chronic compressive myelopathy initially report progressive leg weakness, spasticity, distal numbness, and bladder impairment. Some with lumbar stenosis describe symptoms similar to vascular claudication (pseudoclaudication), with exertional groin, thigh, or buttock pain, and possibly also of weakness or numbness.
 
 ### Diagnosis
-
-#### Related Question
-
-- Question 57
 
 Initial MRI of the spinal cord at the suspected region of injury is the preferred means of diagnosing compressive myelopathy and will often reveal the cause. Imaging should be performed emergently in cord compression thought to be secondary to abscess or malignancy because neurologic compromise can progress rapidly. CT myelography can show compressive myelopathy when MRI is not feasible but often does not reveal the cause of compression. Additionally, this type of imaging may be difficult to arrange emergently and is problematic in patients with allergies to contrast dyes or impaired kidney function.
 
@@ -57,38 +48,24 @@ Noncompressive myelopathy can be caused by many inflammatory, infectious, metabo
 
 ### Idiopathic Transverse Myelitis
 
-#### Related Question
+Idiopathic transverse myelitis (ITM) (**[Figure 27](https://mksap18.acponline.org/app/topics/nr/figures/mk18_a_nr_f27)**) is a monophasic, inflammatory, and demyelinating disorder of the spinal cord. ITM typically affects ==only one region of the spinal cord== and is considered to be a para- or postinfectious inflammatory response. Affected patients frequently experience subacute weakness, ==sensory changes==, and ==bladder or bowel dysfunction==. Some patients experience an initial prodrome of back pain or a thoracic banding sensation.
 
-- Question 88
-
-Idiopathic transverse myelitis (ITM) (**[Figure 27](https://mksap18.acponline.org/app/topics/nr/figures/mk18_a_nr_f27)**) is a monophasic, inflammatory, and demyelinating disorder of the spinal cord. ITM typically affects only one region of the spinal cord and is considered to be a para- or postinfectious inflammatory response. Affected patients frequently experience subacute weakness, sensory changes, and bladder or bowel dysfunction. Some patients experience an initial prodrome of back pain or a thoracic banding sensation.
+![](https://photos.thisispiggy.com/file/wikiFiles/20220710103334.png)
+MRI of the cervical spine in a patient with transverse myelitis. Sagittal T2-weighted (_left_) and axial T2-weighted (_right_) images both demonstrate hyperintensity within the parenchyma of the spinal cord (_red arrows_).
 
 The diagnostic criteria for ITM require presence of clinical features of the syndrome, evidence of inflammation (either cerebrospinal fluid leukocytosis or contrast enhancement on spinal cord MRI), and exclusion of other potential causes. Those with complete myelitis (symptoms referable to complete rather than partial cord transection), a lack of elevated oligoclonal bands or IgG index in the cerebrospinal fluid, and no lesions on brain MRI are much more likely to have ITM than other disorders, such as multiple sclerosis. This is a crucial distinction because ITM is not a recurrent disorder and does not require long-term immunomodulatory therapy. Recurrence of symptoms or new symptoms beyond a 30-day period should arouse suspicion for multiple sclerosis or other recurrent disorders.
 
-The consensus-based treatment of ITM is intravenous methylprednisolone, 1 g/d for 3 to 7 days. This therapy is intended to stop inflammatory damage of the spinal cord and allow for recovery of neurologic function. Patients whose disease is refractory to glucocorticoids may benefit from plasmapheresis or cyclophosphamide.
+The consensus-based treatment of ITM is ==intravenous methylprednisolone==, 1 g/d for 3 to 7 days. This therapy is intended to stop inflammatory damage of the spinal cord and allow for recovery of neurologic function. Patients whose disease is refractory to glucocorticoids may benefit from plasmapheresis or cyclophosphamide.
 
 Infectious causes of transverse myelitis should always be considered when evaluating patients for possible ITM. Herpes simplex virus, varicella zoster virus, West Nile virus, human T-lymphotropic virus, Lyme disease, and neurosyphilis infections can affect the spinal cord. HIV infection can cause a transverse myelitis–like syndrome at the time of seroconversion or result in a chronic degenerative vacuolar myelopathy in patients with chronic low CD4 cell counts. Mycobacterium tuberculosis can infect the meninges and spinal cord and present with a transverse myelitis-like syndrome. Treatment should be directed against a particular infection if present. The addition of glucocorticoids to treat these disorders is controversial but may be indicated when infections are associated with significant spinal cord edema.
 
-## Key Points
-
-- Patients with complete myelitis, no oligoclonal bands or IgG index in the cerebrospinal fluid, and no lesions on brain MRI are much more likely to have idiopathic transverse myelitis than multiple sclerosis.
-- Treatment of idiopathic transverse myelitis is intravenous methylprednisolone; secondary causes of transverse myelitis, including infection, should first be excluded.
-
 ### Subacute Combined Degeneration
 
-#### Related Question
-
-- Question 54
-
-Severe and prolonged vitamin B12 deficiency can result in subacute combined degeneration, which refers to a dysfunction of the corticospinal and dorsal sensory tracts of the spinal cord that manifests as spastic paresis with reduced vibration and position sense and ataxia. MRI can show increased signal in the affected white-matter pathways without associated inflammatory changes. Laboratory study results show a low serum vitamin B12 level with elevated levels of serum methylmalonic acid and homocysteine. Macrocytic anemia may be present, but the neurologic manifestations of B12 deficiency may precede development of anemia. The clinical symptoms of vitamin B12 deficiency can sometimes occur with low-normal serum B12 levels, and thus supportive laboratory studies should be performed in patients with a high index of clinical suspicion. Vitamin B12 replacement usually halts progression of the disease but may not necessarily reverse existing symptoms.
+==Severe and prolonged vitamin B12 deficiency== can result in ==subacute combined degeneration==, which refers to a dysfunction of the ==corticospinal== and ==dorsal sensory tracts== of the spinal cord that manifests as spastic paresis ==with reduced vibration and position sense== and ==ataxia==. MRI can show ==increased signal== in the affected white-matter pathways ==without associated inflammatory changes==. Laboratory study results show a ==low serum vitamin B12 level== with ==elevated levels of serum methylmalonic acid and homocysteine==. Macrocytic anemia may be present, but the neurologic manifestations of B12 deficiency may precede development of anemia. The clinical symptoms of vitamin B12 deficiency can sometimes occur with low-normal serum B12 levels, and thus supportive laboratory studies should be performed in patients with a high index of clinical suspicion. Vitamin B12 replacement usually halts progression of the disease but may not necessarily reverse existing symptoms.
 
 Nitrous oxide abuse also can cause a relative vitamin B12 deficiency that results in subacute combined degeneration. Supplementation of vitamin B12 in those circumstances without cessation of the drug may impede improvement in symptoms.
 
 Copper deficiency (due to malabsorption, nutritional deficiency, or zinc toxicity) can also cause subacute combined degeneration. This entity should be considered in patients with suggestive symptoms who have normal vitamin B12 levels. Myelopathy from such nutritional deficiencies should specifically be considered in patients with previous bariatric surgical procedures.
-
-## Key Point
-
-- Severe and prolonged vitamin B12 deficiency can result in subacute combined degeneration; in patients with suggestive symptoms of this disorder and normal vitamin B12 levels, copper deficiency should be considered.
 
 ### Vascular Disorders
 

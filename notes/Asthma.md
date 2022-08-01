@@ -4,6 +4,9 @@ date: 2020-09-07
 
 # Asthma
 
+- related: [[Pulmonology]]
+---
+
 Asthma
 
 <!-- asthma severity and therapy -->

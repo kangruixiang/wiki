@@ -20,6 +20,8 @@ sr-ease: 290
 
 ## symptoms
 
+<!-- lyme disease stages and sx -->
+
 ![](https://photos.thisispiggy.com/file/wikiFiles/image-20200823062139874.png)
 
 - most patient won't recall tick bite
@@ -72,12 +74,16 @@ This patient's knee joint effusion, minimal pain, no fever, and recent tick bite
 
 ## Diagnosis
 
+<!-- ignore -->
+
+Diagnosis is confirmed by clinical features and ==positive ELISA== and ==western blot Lyme serologies==.
+
 - 2 tier EIA but very low PPV
 - IgM and IgG bands remain positive for years
 - IgM does not mean acute infection
 - 5% population of NE US has positive baseline test
 - Don't test unless there are symptoms
-- early localized: clinical diagnosis. Serology neg. Repeat serology in a few weeks
+- ==early localized: clinical diagnosis==. Serology neg. Repeat serology in a few weeks
 - early disseminated: usually positive 80-90%
 - late: negative serology excludes diagnosis
 
@@ -85,6 +91,8 @@ This patient's knee joint effusion, minimal pain, no fever, and recent tick bite
 
 - usually 10 days doxycycline
 - alternative: amoxicillin, cefuroxime
+
+Current guidelines recommend hospital admission with ==IV antibiotics== (ceftriaxone preferred) to ==prevent long-term complications== in ==symptomatic patients== and those with ==second- or third-degree AV block== or ==first-degree AV block with PR interval > 300 msec==.  Oral antibiotics (eg, doxycycline, amoxicillin, and cefuroxime) should be continued at discharge for a 21- to 28-day total course.  Complete AV block requires temporary pacing as these blocks are self-limited and usually improve within 1 week.  Lesser conduction disturbances may take up to 6 weeks for resolution.
 
 In the past, doxycycline was not generally used to treat Lyme disease in patients age <8 due to the risk of tooth discoloration, but the American Academy of Pediatrics now recommends ≤21-day course of doxycycline as first-line treatment for late Lyme disease.  Doxycycline is preferred due to better penetration into the CNS (eradicates organisms lodged there) and excellent efficacy against coinfecting, tick-transmitted pathogens (eg, _Anaplasma phagocytophilum_).  Patients are also advised to rest and avoid high-impact activities until all symptoms resolve to reduce the risk of additional joint damage.  More than 90% of patients are cured after oral antibiotic therapy.
 
@@ -96,7 +104,5 @@ In the past, doxycycline was not generally used to treat Lyme disease in patient
 	- fatigue, cognitive
 	- myalgia
 - does not require prolonged abx course
-
-<!-- lyme disease stages and sx -->
 
 This patient had a tick bite in Pennsylvania 3 months ago and now has left knee swelling and synovial fluid evidence of inflammation, raising strong suspicion for **Lyme arthritis**, the most common late complication of Lyme disease.  Lyme disease is a spirochetal infection caused by _**Borrelia burgdorferi**_.  It is transmitted by the deer tick _Ixodes scapularis_ during blood feeding.  Most cases occur in rural parts of the upper midwestern and northeastern United States, where the tick is endemic.  Initial transmission is often (~80%) marked by a spreading, annular rash (erythema migrans) and systemic symptoms; however, asymptomatic or unrecognized cases often go untreated, leading to persistent infection.

@@ -13,7 +13,7 @@ sr-ease: 290
 
 ## Epidemiology and Pathophysiology
 
-Membranous glomerulopathy (membranous nephropathy) is a ==leading cause== of the ==nephrotic syndrome in White adults==. Epidemiology has remained constant over the past several decades. Disease occurs at an approximate rate of 1 case per 100,000 persons per year, with a peak incidence between 30 and 50 years of age. Approximately 75% of cases are considered primary; the remaining 25% are considered secondary to systemic diseases such as systemic lupus erythematosus, hepatitis B virus infection, and solid tumors.
+Membranous glomerulopathy (membranous nephropathy) is a ==leading cause== of the ==nephrotic syndrome in White adults==. Epidemiology has remained constant over the past several decades. Disease occurs at an approximate rate of 1 case per 100,000 persons per year, with a peak incidence between 30 and 50 years of age. Approximately 75% of cases are considered primary; the remaining 25% are considered secondary to systemic diseases such as ==systemic lupus erythematosus, hepatitis B virus infection, and solid tumors==.
 
 In the past decade, target antigens and their associated autoantibodies responsible for the development of primary membranous glomerulopathy cases have been identified. The M-type phospholipase A2 receptor (==PLA2R==) is the specific podocyte antigen responsible for eliciting immune complex formation with circulating autoantibodies in most primary cases. Anti-PLA2R antibodies are detected in approximately 75% of primary cases and are rarely found in secondary forms. Additional alternative ==podocyte autoantigens== have been reported in patients with primary membranous glomerulopathy, potentially filling in the missing gaps in PLA2R antibody–negative disease. ==Membranous glomerulopathy occurs when circulating antibodies permeate the glomerular basement membrane and, in the subepithelial space, form immune complexes== with epitopes on podocyte membranes.
 
@@ -29,7 +29,7 @@ The hallmark biopsy finding is the presence of ==subepithelial immune deposits t
 
 Also associtaed with ==hepatitis B==
 
-```ad-note
+```
 Patients with cancer and nephrotic disease: think about membranous due to perineoplastic association.
 ```
 

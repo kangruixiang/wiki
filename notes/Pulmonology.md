@@ -5,18 +5,31 @@ date: 2020-09-07
 # Pulmonology
 
 - Keywords:: [[Step 3]], [[Medicine]]
+---
+
+## MKSAP
+
+- [[Occupational Lung Disease]]
+
+## Normal
+
+- [[pulmonary auscultations]]
 
 ## Obstructive Lung Disease
 
 - [[COPD]]
 - [[Asthma]]
+- [[acute asthma exacerbation]]
+- [[bronchiectasis]]
+- [[COPD patients have proportional pulmonary hypertension]]
 
 ## Pulmonary Infections
 
 - [[Tuberculosis]]
-- [[pleural effusion]]
+- [[Pleural Effusion]]
 - [[ABPA]]
 - [[Pneumonia]]
+- [[eosinophilic pneumonia]]
 
 ## Lung Cancers
 
@@ -27,14 +40,21 @@ date: 2020-09-07
 
 - [[ILD]]
 - [[UIP]]
-- [[silicosis]]
+- [[Silicosis]]
+- [[asbestosis]], [[BAPE]]
 
 ## Airway
 
 - [[airway management]]
 - [[PF ratio]]
 - [[new test file]]
+- [[autoPeep]]
+- [[rhinitis medicamentosa is rebound rhinitis from medication uses]]
 
 ## Thorax
 
 - [[chest tube]]
+
+## Others
+
+- [[hepatopulmonary syndrome]]

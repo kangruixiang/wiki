@@ -7,30 +7,17 @@ date: 2020-09-07
 - related: [[ID]], [[tick born infections]]
 ---
 
-- grow in intracellular vacuoles called morulae
-
-## Anaplasma
-
-- similar to Lyme location
-
-- Midwest, NE
-
-- Ehrlichia: more in south
-
-- flu like
-	- fever
-	- myalgia
-	- headache
-	- cough
-    slide: 62
-
 <!-- ehrlichiosis cause, symptoms, labs, diagnosis, treatment -->
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/L17252.jpg)
 
-This vignette depicts a patient with a typical case of ehrlichiosis.  Ehrlichiosis is a **tick-borne** infection caused by _Ehrlichia chaffeensis_ and _E ewingii_.  These bacteria are carried by ticks, including the lone star tick (_Amblyomma americanum_), found in the **southeastern and south central United States**.  The principal reservoir is the white tail deer.
+![](https://photos.thisispiggy.com/file/wikiFiles/20220712074813.png)
 
-Ehrlichiosis is characterized by an **acute febrile illness with malaise and altered mental status**.  Ehrlichiosis is **not often associated with a rash** (<30% in adults) and is described as "Rocky Mountain spotted fever (RMSF) without the spots."  Neurologic symptoms may include confusion, mental status changes, clonus, and neck stiffness.  Laboratory studies often show **leukopenia and/or thrombocytopenia**, along with **elevated aminotransferases** and lactate dehydrogenase.
+Ehrlichiosis is a **tick-borne** infection caused by _Ehrlichia chaffeensis_ and _E ewingii_.  These bacteria are carried by ticks, including the lone star tick (_Amblyomma americanum_), found in the **southeastern and south central United States**.  The principal reservoir is the ==white tail deer==.
+
+HME typically occurs in the spring and summer months in the southeastern and south central United States.  It is similar to human granulocytic anaplasmosis (HGA), another form of ehrlichiosis (seen primarily in the northeastern and midwestern United States and rarely associated with rash) that is transmitted by the _Ixodes scapularis_ tick, which is also the vector for Lyme disease and babesiosis.
+
+Ehrlichiosis is characterized by an **acute febrile illness with malaise and altered mental status**.  Ehrlichiosis is **==not often associated with a rash==** (<30% in adults) and is described as "Rocky Mountain spotted fever (RMSF) without the spots."  Neurologic symptoms may include ==confusion, mental status changes, clonus, and neck stiffness==.  Laboratory studies often show **leukopenia and/or thrombocytopenia**, along with **elevated aminotransferases** and lactate dehydrogenase.
 
 The diagnosis is often clinical, although definitive diagnosis can be made through visualization of intracytoplasmic morulae in white blood cells or through polymerase chain reaction testing. **Doxycycline** is the appropriate treatment and is **often initiated empirically** when the diagnosis is suspected while confirmatory testing is pending.
 
@@ -45,4 +32,27 @@ Although many infections present identically to HME, the salient feature in this
 
 Infectious mononucleosis can present with fever, cytopenia, and elevated aminotransferase levels. However, other components of the infectious mononucleosis triad (fever, pharyngitis, and cervical lymphadenopathy) were absent in this patient.
 
-The rapid response to doxycycline treatment is consistent with Rocky Mountain spotted fever (RMSF) infection. However, the pronounced leukopenia and absence of a rash more than 1 week into the illness argue against this diagnosis.
+The rapid response to doxycycline treatment is consistent with Rocky Mountain spotted fever (RMSF) infection. However, the ==pronounced leukopenia and absence of a rash more than 1 week into the illness argue against this diagnosis==.
+
+_Rickettsia rickettsii_ causes Rocky Mountain spotted fever (RMSF) and can look similar in its early stages to HME, but leukopenia is less common in RMSF.  In addition, the RMSF rash (seen in 90% of patients) usually begins on the extremities.
+
+- grow in intracellular vacuoles called morulae
+
+## Anaplasma
+
+- similar to Lyme location
+
+- same Ixodes tick
+
+- can have coinfection (erythema migran with fever, leukopenia, transminitis)
+
+- Midwest, NE
+
+- Ehrlichia: more in south
+
+- flu like
+	- fever
+	- myalgia
+	- headache
+	- cough
+    slide: 62

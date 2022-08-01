@@ -31,13 +31,13 @@ Syndrome with **excess cortisol**.
 
 <!-- Cushing's disease, most common cause -->
 
-Most common cause:..
+Most common cause:
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/k4waQL2.jpg)
 
 <!-- Cushing's syndrome types -->
 
-Types of Cushing's syndrome..
+Types of Cushing's syndrome
 
 - **ACTH-independent**: either **exogenous cortisol (steroid) therapy or adrenal adnenoma producing cortisol**. In this case, there would be a **low ACTH** from pituitary because of negative feedback
 - **ACTH-dependent**: **tumors secreting ACTH**. Could be Cushing's disease (pituitary ACTH tumor) or small cell lung cancer
@@ -134,7 +134,7 @@ Steps for diagnosing Cushing's:..
 
 <!-- Cushing's diagnosis. Determine cause between ACTH dependent and independent -->
 
-![](https://photos.thisispiggy.com/file/wikiFiles/lQgj7Xv.jpg)..
+![](https://photos.thisispiggy.com/file/wikiFiles/lQgj7Xv.jpg)
 
 ### Step 3, Pituitary vs ACTH
 

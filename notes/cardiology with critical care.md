@@ -60,7 +60,7 @@ date: 2021-04-28
 		- mod: 100-200
 		- severe: <100
 - low plateau pressure
-- permissive hypercapnia, pH > 7.25
+- ==permissive hypercapnia, pH > 7.25==, do not have to get back to 7.4 with 40 CO2. Due to the magnitude of benefits from LTVV, it is sometimes recommended that ==bicarbonate drips be started temporarily== to ==maintain an acceptable pH== if needed, rather than making ventilator changes that would violate LTVV parameters.
 - relative hypoxemia: spO2 88-94%, keep FiO2 < 60%
 - start with volume control
 - low tidal volume: 6cc/kg IBW

@@ -38,6 +38,7 @@ OB:
 - [[breast abscess in feeding]]
 - [[fetal growth restriction]]
 - [[spontaneous abortions]]
+- [[vaccinations during pregnancy]]
 
 ## GYN
 

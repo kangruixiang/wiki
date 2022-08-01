@@ -22,6 +22,7 @@ date: 2020-09-07
 - [[depression and anxiety 12 2020 notes]]
 - [[narcolepsy]]
 - [[treat end of life depression with methylphenidate]]
+- [[lithium toxicity]]
 
 # Personality Disorders
 
@@ -55,12 +56,6 @@ Whenever possible, the first step in the treatment of corticosteroid-induced psy
 This patient has a first episode of major depression that has responded to acute treatment with citalopram. To reduce the  risk of depressive relapse, guidelines recommend that patients with a **single episode** of **major depressive disorder** should **continue antidepressant** treatment for approximately **6 months following acute response** (referred to as "continuation phase treatment"). The dosage that  achieved response should be maintained and not reduced (ie, the dose  that gets the patient well keeps the patient well) **(Choice A)**.
 
 Patients with a history of multiple episodes (recurrent major depressive  disorder), chronic episodes (≥2 years), strong family history, or severe episodes (eg, suicide attempt) should be considered for maintenance  treatment. This typically involves continuing antidepressant medication for 1-3 years following remission to reduce the risk of recurrence **(Choice D)**.  Patients with a history of highly recurrent (eg, ≥3 lifetime episodes)  and very severe, chronic major depressive episodes may need to continue  maintenance treatment indefinitely.
-
-## Lithium
-
-<!-- lithium toxicity cause, sx, rx -->
-
-![](https://photos.thisispiggy.com/file/wikiFiles/image-20200204200415962.png)
 
 <!-- lithium and suicide -->
 

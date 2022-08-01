@@ -6,7 +6,7 @@ date: 2020-09-07
 
 <!-- CAH overall pathogenesis -->
 
-![](https://photos.thisispiggy.com/file/wikiFiles/8yFmMif.jpg)..
+![](https://photos.thisispiggy.com/file/wikiFiles/8yFmMif.jpg)
 
 <!-- CAH overall symptoms -->
 
@@ -14,7 +14,7 @@ Symptoms
 
 - Low cortisol:
 
-![](https://photos.thisispiggy.com/file/wikiFiles/7DuyszO.jpg)..
+![](https://photos.thisispiggy.com/file/wikiFiles/7DuyszO.jpg)
 
 ## 21 Alpha Hydroxylase
 
@@ -22,13 +22,11 @@ Symptoms
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/KrrRXur.jpg)
 
-.
-
 ![](https://photos.thisispiggy.com/file/wikiFiles/dlzw9sZ.jpg)
 
 <!-- classic cause of CAH -->
 
-21 alpha hydroxylase deficiency..
+21 alpha hydroxylase deficiency
 
 <!-- 21 alpha hydroxylase deficiency symptoms -->
 
@@ -37,8 +35,6 @@ Symptoms: can have salt losing or non salt losing form
 ![](https://photos.thisispiggy.com/file/wikiFiles/OGZZ0VV.jpg)
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/P1DIt43.jpg)
-
-.
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/6v9ZWYM.jpg)
 

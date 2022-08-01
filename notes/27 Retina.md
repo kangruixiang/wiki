@@ -5,8 +5,6 @@ date: 2020-09-07
 # 27 Retina
 ---
 
-## typora-copy-images-to: ./images
-
 # Structures
 
 <!-- retina and macula are, where, contains. What is choroid.. -->
@@ -52,7 +50,13 @@ date: 2020-09-07
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/zwNf03I.jpg)
 
-.
+## Hypertensive retinopathy
+
+<!-- ignore -->
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220613134845.png)
+
+==Hypertensive retinopathy== can present with gradual, ==painless, binocular vision loss== and headaches, although most patients have no visual symptoms initially.  Characteristic features on funduscopic examination include "==copper and silver wiring==," ==hard exudates==, ==flame hemorrhages==, ==arteriovenous nicking==, arteriolar narrowing, and ischemic changes ("cotton wool spots").
 
 ## Diabetic Retinopathy
 
@@ -156,6 +160,7 @@ date: 2020-09-07
 - artery occlusion: ischemia
 - Tay Sachs: sphingolipid accumulate around macula
 - patient can have painless vision loss
+- acute retinal ischemia due to ==thrombosis or emboli== in the central retinal artery (branch of ophthalmic artery).  Patients develop ==sudden-onset, painless loss of vision in one eye==, with a cherry red macula and retinal pallor on examination.  Additional findings may include a relative afferent pupillary defect (Marcus Gunn pupil).
 
 ## Papilledema
 
@@ -195,6 +200,8 @@ date: 2020-09-07
 <!-- dry macular degeneration fundoscopy -->
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/oCP7Xv8.jpg)
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220613134532.png)
 
 - yellow dots.
 

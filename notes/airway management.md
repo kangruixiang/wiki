@@ -4,7 +4,7 @@ date: 2020-11-21
 
 # airway management
 
-- related: [[emergency medicine]]
+- related: [[emergency medicine]], [[ICU]], [[Pulmonology]]
 
 ## FiO2 and liters
 
