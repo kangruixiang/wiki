@@ -4,7 +4,7 @@ date: 2022-04-28
 
 # Colorectal Neoplasia
 
-- related: [[GI]]
+- related: [[GI]], [[metastatic colon cancer to liver]]
 - tags: #GI
 ---
 

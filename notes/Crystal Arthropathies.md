@@ -116,7 +116,11 @@ Deposition of calcium pyrophosphate (CPP) crystals in and on cartilaginous surfa
 
 <!-- ignore -->
 
-CPPD primarily affects the ==elderly==, and ==prior joint damage== is a significant risk factor. The risk for cartilage calcification (chondrocalcinosis) doubles for every decade past 60 years, and nearly half of patients in their late 80s have CPPD. For younger patients with CPPD, consideration of contributory metabolic disease (hyperparathyroidism, hemochromatosis, hypophosphatasia, hypomagnesemia) is warranted.
+![](https://photos.thisispiggy.com/file/wikiFiles/20220802215358.png)
+
+CPPD primarily affects the ==elderly==, and ==prior joint damage== is a significant risk factor. The risk for cartilage calcification (chondrocalcinosis) doubles for every decade past 60 years, and nearly half of patients in their late 80s have CPPD. For younger patients with CPPD, consideration of contributory metabolic disease (==hyperparathyroidism==, hemochromatosis, hypophosphatasia, hypomagnesemia) is warranted.
+
+Hyperparathyroidism can lead to chondrocalcinosis in the articular cartilage; **parathyroidectomy** can precipitate a pseudogout attack due to an abrupt drop in serum calcium levels, which triggers crystal shedding into the synovial fluid.
 
 The pathophysiology of CPPD is incompletely understood. ==Pyrophosphate produced by chondrocytes likely precipitates with calcium== to form CPP crystals, which then activate inflammatory pathways resulting in an acute arthritic attack. CPPD may also drive osteoarthritis by inducing proinflammatory activity in chondrocytes and synovial fibroblasts, resulting in cartilage damage. Epidemiologic evidence suggests that cartilage calcification might play a role in osteoarthritis of the knees and wrists, but not at the hip.
 

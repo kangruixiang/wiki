@@ -13,6 +13,8 @@ sr-ease: 290
 
 ## Sx
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220802212704.png)
+
 - tachycardia
 - AMS, psychosis, agitation, anxiety
 - lid lag, stare, itchy eyes

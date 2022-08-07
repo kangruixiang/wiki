@@ -22,6 +22,8 @@ Renal failure typically occurs from **recurrent pyelonephritis** and **nephrolit
 
 ### Diagnosis
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220803112843.png)
+
 **Ultrasonography** is the best initial diagnostic test for ADPKD, and can detect cysts within the kidneys, liver, and pancreas.
 
 _CT and MRI are more sensitive and used when there is a negative ultrasound with a strong family history._
@@ -38,6 +40,8 @@ Other helpful tests include the following:
 - **GFR -** decreased, based on the degree of nephron involvement
 - **CBC -** may reveal anemia
 - **Serum calcium and phosphorous levels -** hypocalcemia and hyperphosphatemia may result depending on the degree of renal failure
+
+This patient's number of kidney cysts, liver cysts, and possible family history of cerebral aneurysm (father's stroke) is consistent with likely autosomal dominant polycystic kidney disease (ADPKD).  The characteristic ultrasound findings for ADPKD are listed in the above table.  Autosomal dominant polycystic kidney disease is frequently associated with hepatic cysts (up to 20-80% of patients), pancreatic cysts, cerebral aneurysms (5-20% of patients), cardiac valvular disease (e.g., mitral or aortic regurgitation), and diverticulosis.  Genetic testing should be performed in this patient to confirm the diagnosis.  Treatment is mainly supportive with close follow-up to monitor renal function and treatment of associated conditions (e.g., hypertension).
 
 ### Complications
 

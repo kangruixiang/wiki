@@ -10,6 +10,10 @@ date: 2021-07-24
 
 - [[perioperative management of chronic glucocorticoid]]
 
+- [[perioperative warfarin management]]
+
+- [[hold tamoxifen before surgery]]
+
 ### Preoperative Laboratory Testing
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20210826142426.png)

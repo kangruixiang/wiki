@@ -242,7 +242,7 @@ PBC is associated with other autoimmune conditions, particularly ==autoimmune th
 
 <!-- PSC pathogenesis b:206694913956-->
 
-Primary sclerosing cholangitis (PSC) is an ==autoimmune fibroinflammatory disease of the large bile ducts==, but it can also affect the small bile ducts (small-duct PSC). It is more common in men than in women, which is unique among the autoimmune liver diseases. PSC is associated with inflammatory bowel disease (IBD) in about 85% of cases; up to 7.5% of patients with ==ulcerative colitis== have PSC.
+Primary sclerosing cholangitis (PSC) is an ==autoimmune fibroinflammatory disease of the large bile ducts==, but it can also affect the small bile ducts (small-duct PSC). It is more common in ==men than in women==, which is unique among the autoimmune liver diseases. PSC is associated with inflammatory bowel disease (IBD) in about 85% of cases; up to 7.5% of patients with ==ulcerative colitis== have PSC.
 
 <!-- PSC surveillance b:1147206092165-->
 

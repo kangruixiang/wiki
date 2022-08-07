@@ -4,6 +4,10 @@ date: 2020-09-07
 
 # breast mass
 
+- related: [[OBGYN]], [[breast pain]]
+- tags: #obgyn
+---
+
 <!-- palpable breast mass management -->
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20200901071741.png)

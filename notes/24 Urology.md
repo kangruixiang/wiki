@@ -494,9 +494,9 @@ Causes of priapism include:
 
 Since priapism in patients with sickle cell disease is a low flow priapism due to occlusion of venous drainage with stasis and ischemia, the treatment is the following:
 
-- **Aspiration of blood, followed by saline irrigation and injection of adrenergic agonist**
+- **Aspiration of blood, followed by saline irrigation and injection of adrenergic agonist** (corpus cavernosum aspiration)
 - **If still refractory, blood exchange transfusion**
-- **Surgical intervention (only considered if priapism lasts >12 hours)**
+- **Surgical intervention (only considered if priapism lasts >12 hours)**. Persistent priapism (>12 hours) may require surgical **shunting** (glans-spongiosum shunt) to bypass blood from the corpus cavernosum to the corpus spongiosum and relieve the occlusion.
 
 The treatment of priapism not associated with sickle cell disease centers around **intracavernosal phenylephrine**.
 

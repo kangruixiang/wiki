@@ -58,3 +58,11 @@ Longitudinal brown pigmentation with transverse streaks on the nail plate charac
 <!-- ignore -->
 
 Squamous cell carcinoma of the nail unit often presents with pain, swelling, and erythema. It commonly arises in the nail fold and appears as a hyperkeratotic papule and plaque similar to warts (**[Figure 148](https://mksap18.acponline.org/app/topics/dm/figures/mk18_a_dm_f148)**). If treatment of a wart does not progress as expected, a biopsy is warranted to rule out squamous cell carcinoma, which is strongly associated with human papillomavirus infection.
+
+## Nail pitting
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220805110234.png)
+
+This patient has nail **pitting** (small depressions on nail plate) and distal **onycholysis** (nail separation from nail bed), which are typical manifestations of psoriasis.  **Psoriasis** is a common inflammatory skin disorder characterized by erythematous, well-defined **plaques** covered by thick silvery **scales**.  The lesions are typically seen over the scalp, knees, elbows, back and gluteal cleft, and nail plates, and may be associated with mild itching.  Psoriatic arthritis is a common extradermal manifestation, and the risk is increased in those with nail involvement.
+
+The diagnosis of psoriasis is typically based on clinical findings.  For this patient, a careful skin examination may identify classic plaques and clarify the diagnosis.  Skin lesions are usually treated with high-potency topical corticosteroids.  Mild nail psoriasis involving 1 or 2 digits can be treated with topical corticosteroids and/or vitamin D analogs (eg, calcipotriol).  Widespread nail involvement, as in this patient, generally warrants systemic therapy (eg, tumor necrosis factor-alpha inhibitors, methotrexate).

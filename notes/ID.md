@@ -35,6 +35,7 @@ date: 2020-09-07
 
 - [[fever of unknown origin]]
 - [[fever in travelers]]
+- [[treat fever in asplenic patients seriously]]
 
 ## Viral
 
@@ -89,6 +90,9 @@ date: 2020-09-07
 - [[microbes by organs]]
 - [[acinetobacter]]
 - [[vibrio vulnificus can be fatal in liver disease patients]]
+- [[antibiotic prophylaxis for secondary prevention of rheumatic fever]]
+- [[MAC]]
+- [[sexually transmitted proctitis]]
 
 ### Tick Born Illnesses
 
@@ -130,7 +134,7 @@ date: 2020-09-07
 - [[abscesses]]
 - [[foodborne illnesses]]
 
-## Otheres
+## Others
 
 - [[transplant infection]]
 - [[culture negative endocarditis]]

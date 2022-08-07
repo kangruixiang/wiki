@@ -11,3 +11,4 @@ date: 2020-09-07
 - [[posterior MI]]
 - [[Atheroembolism is a complication of cardiac catherization]].
 - [[Patients with uncomplicated myocardial infarction may return to work 2 weeks after initial event]].
+- [[different types of exercise stress test]]

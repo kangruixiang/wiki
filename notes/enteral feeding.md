@@ -25,6 +25,16 @@ sr-ease: 290
 - Bolus: patient in stable condition
 - Continuous: less stable patient
 
+## Timing
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220806093002.png)
+
+Nutrition is crucial to the care of a critically ill patient.  Nutrition support is necessary to prevent cumulative caloric deficits and to aid recovery.  Enteral nutrition (EN) is preferred as it is more physiologic and helps maintain intestinal structure and gut-barrier function.  Early EN (within 24 to 48 hours) has been shown to decrease hospital length of stay and mortality.
+
+EN is withheld if the patient is **severely** hemodynamically unstable with **decreased intravascular volume** due to the risk of bowel ischemia.  Absence of bowel sounds or flatus is not a contraindication to early enteral feeding, even in patients who have undergone surgery for bowel perforation or colorectal disease.  In this patient, the overall benefits outweigh the increased risk of vomiting.
+
+Gastric feeding is preferred because of ease of tube placement and earlier feeding initiation.  Prokinetic agents ==(metoclopramide or erythromycin)== can be attempted if there is feeding intolerance.  ==Post-pyloric tubes== can be placed if there is feeding intolerance or the patient is at ==high risk for aspiration==.  Meta-analyses comparing gastric and small-bowel feeding show no differences in pneumonia, ICU length of stay, or mortality.
+
 ## Assess feeding tolerance
 
 - stool frequency

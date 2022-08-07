@@ -56,7 +56,7 @@ The acute phase of the disease lasts 1 to 2 weeks, and skin reepithelization may
 
 <!-- SJS treatment b:459347601750-->
 
-Treatment of SJS/TEN is highly controversial. Intravenous glucocorticoids or intravenous immune globulins are probably the most commonly used treatments, but neither is supported by strong evidence. Supportive care in an ICU with experienced nursing staff is critical for wound care, and many patients are transferred to a burn center. Infection is a significant cause of mortality. A low threshold is recommended for performing cultures and initiation of empiric antibiotics, but use of prophylactic antibiotics is not recommended. Ophthalmologic and urologic consultations are mandatory if ocular or genital involvement is present, as destructive scarring may occur in these areas.
+Treatment of SJS/TEN is highly controversial. ==Intravenous glucocorticoids or intravenous immune globulins== are probably the most commonly used treatments, but neither is supported by strong evidence. Supportive care in an ICU with experienced nursing staff is critical for wound care, and many patients are transferred to a burn center. Infection is a significant cause of mortality. A low threshold is recommended for ==performing cultures and initiation of empiric antibiotics==, but use of prophylactic antibiotics is not recommended. Ophthalmologic and urologic consultations are mandatory if ocular or genital involvement is present, as destructive scarring may occur in these areas.
 
 ## Drug Hypersensitivity Syndrome (or DRESS Syndrome)
 

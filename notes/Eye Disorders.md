@@ -16,6 +16,30 @@ Eye disorders
 - [[choroidal melanomas]]
 - [[glaucoma]]
 
+## Hordeolum
+
+<!-- hordeolum is -->
+
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200208092024378.png)
+
+Hordeolum (stye) is a bacterial infection of the sebaceous glands in the eyelid. Patients have tenderness, redness, and swelling at the eyelid  margins. Hordeolum is not a complication of bacterial conjunctivitis.
+
+Hordeolum is the acute obstruction of the meibomian gland, eyelash follicle, or lid-margin tear gland, with associated inflammation and possible _Staphylococcus aureus_ infection.  It does not result in inflammation of the globe itself.
+
+## Uveitis
+
+Examination findings in anterior uveitis can include hyperemia concentrated at the junction of the sclera and cornea ==(ciliary flush)==, pupillary constriction, a hazy "flare" in the aqueous humor, and layering of white cells in the anterior chamber ==(hypopyon)==.
+
+![](https://photos.thisispiggy.com/file/wikiFiles/L11902.jpg)
+
+The presence of leukocytes in the anterior chamber is diagnostic of anterior uveitis and differentiates it from other causes of red eye.  Anterior chamber flare is another common manifestation and is created by extravasated protein that causes dispersal of light on slit lamp examination.  Patients with suspected uveitis warrant expedited ophthalmology consultation.  Topical corticosteroids are the treatment of choice for noninfectious uveitis.
+
+## Episcleritis
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220805205546.png)
+
+Episcleritis does not commonly present with pain but rather with erythema and tearing.  Vision remains unimpaired.
+
 ## Common Vision Problems
 
 Refractory vision abnormalities are **conditions that affect the focal point of vision relative to the retina**. They include myopia, hyperopia and astigmatism.

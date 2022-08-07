@@ -56,19 +56,19 @@ subpleural sparing:
 
 reverse halo sign:
 
-## ![](https://photos.thisispiggy.com/file/wikiFiles/20200906125021_5.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200906125021_5.png)
 
-\`\`\`mermaid
+```mermaid
 graph LR
-id1\[Diffuse Parenchymal Lung Disease]-->id2\["DPLD of known cause (drugs) or association (collagen, vascular disease)"]
+id1[Diffuse Parenchymal Lung Disease]-->id2["DPLD of known cause (drugs) or association (collagen, vascular disease)"]
 id1-->id3\[Idiopathic interstial pneumonias]
 id1-->id4\[Granulomatous DPLD, eg sarcoidosis]
 id1-->id5\[Other forms, eg LAM, HX]
 
-\`\`\`
+```
 
-` mermaid
+```mermaid
 graph TB
 id3[Idiopathic interstial pneumonias]-->id6[Idiopathic pulmonary fibrosis] & id7[IIP other than IPF]
 id7-->id8[DIP] & id9[AIP] & id10[NSIP] & id11[Cryptogenic] & id12[LIP] & id13[respiratory bronchiolitis ILD]
- `
+```

@@ -4,7 +4,9 @@ date: 2020-09-07
 
 # interstitial cystitis
 
-- related: [[UTI]]
+- related: [[UTI]], [[Nephrology]]
+- tags: #nephrology
+---
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20200907203433_5.png)
 

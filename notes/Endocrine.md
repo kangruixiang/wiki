@@ -19,6 +19,7 @@ date: 2020-09-07
 ## Pituitary
 
 - [[pituitary adenoma]]
+- [[inappropriately normal TSH could be sign of central hypothyroidism]]
 - [[pituitary apoplexy]]
 - [[MEN]]
 - [[hyperprolactinemia]]
@@ -59,6 +60,8 @@ date: 2020-09-07
 - [[diabetes insipidus]]
 - [[diabetes blue book]]
 - [[A1C affected by]]
+- [[obesity management]]
+- [[charcot arthropathy as result of diabetic neuropathy]]
 
 ## Repro
 
@@ -70,3 +73,4 @@ date: 2020-09-07
 - [[steroid equivalents]]
 - [[steroids and cortisol]]
 - [[Paget disease]]
+- [[carcinoid syndrome]]

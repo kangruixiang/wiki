@@ -32,6 +32,8 @@ For patients ==younger than age 60 years== with dyspepsia symptoms, the ACG/CAG 
 
 Management of dyspepsia is directed at treatment of the underlying cause. Patients who test positive for _H. pylori_ should receive ==eradication therapy==. If _H. pylori_ testing is negative or _H. pylori_ eradication fails to relieve the dyspepsia, an ==empiric trial of a proton pump inhibitor (PPI) should be pursued for 4 weeks==. Patients whose symptoms are not alleviated with PPI therapy should undergo further evaluation with an ==upper endoscopy==. Patients diagnosed with functional dyspepsia after the exclusion of organic disease can be treated with a variety of interventions (**[Figure 8](https://mksap18.acponline.org/app/topics/gi/figures/mk18_a_gi_f08)**).
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220805110534.png)
+
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220501093941.png)
 
 Treatment of functional dyspepsia.
@@ -126,9 +128,19 @@ After an NSAID-induced bleeding peptic ulcer, the safest strategy is avoidance o
 
 ## Gastroparesis
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220805093115.png)
+This patient's presentation (postprandial reflux, vomiting, succussion splash) is most consistent with **impaired gastric emptying**, which can be due to the following:
+
+- Gastric dysmotility (eg, gastroparesis)
+- Gastric outlet obstruction (eg, pancreatic cancer compressing the stomach, gastric polyp, stricture from peptic ulcer disease)
+
+Although this patient likely has gastric dysmotility due to diabetic gastroparesis, a diagnosis of gastroparesis requires proving delayed gastric emptying in the **absence of obstruction**. Therefore, the best first step in the workup of any patient with impaired gastric motility is to exclude a gastric outlet obstruction with **upper gastrointestinal endoscopy**; this is particularly important in patients who have risk factors for peptic ulcer disease (eg, nonsteroidal anti-inflammatory drug use).  Sometimes further imaging is needed as well, such as CT/MR enterography to exclude a small bowel mass or other pathology.
+
+Once gastric outlet obstruction has been excluded, the presence of **delayed gastric emptying** (eg, gastric-emptying **scintigraphy** showing >10% gastric retention 4 hr following a solid meal) must be proven to establish a diagnosis of gastroparesis.  Once diagnosed, an evaluation for the underlying etiology, such as **diabetes mellitus**, thyroid disease, and autoimmune disease, should occur.  Gastroduodenal manometry and autonomic testing are sometimes used to distinguish between myopathic and neuropathic causes.
+
 ### Presentation
 
-Gastroparesis is a heterogeneous clinical syndrome with three components to the diagnosis: the presence of specific symptoms, ==absence of mechanical outlet obstruction==, and objective evidence of ==delay in gastric emptying== into the duodenum. The most commonly reported symptoms in order of prevalence are ==nausea== (90%), ==vomiting== (84%), ==upper abdominal pain== (72%), and ==early satiety== (60%). Other symptoms may include abdominal fullness and bloating. Symptoms may be chronic or persistent, or may occur intermittently. More severe cases may involve weight loss and evidence of malnutrition and/or dehydration. A viral prodrome, such as gastroenteritis or respiratory infection before symptom onset, may suggest postviral gastroparesis, a condition that frequently resolves over time. Gastroparesis can result from a variety of causes (**[Table 13](https://mksap18.acponline.org/app/topics/gi/tables/mk18_a_gi_t13)**).
+Gastroparesis is a heterogeneous clinical syndrome with three components to the diagnosis: the presence of specific symptoms, ==absence of mechanical outlet obstruction==, and objective evidence of ==delay in gastric emptying== into the duodenum. The most commonly reported symptoms in order of prevalence are ==nausea== (90%), ==vomiting== (84%), ==upper abdominal pain== (72%), and ==early satiety== (60%). Other symptoms may include abdominal ==fullness and bloating==. Symptoms may be chronic or persistent, or may occur intermittently. More severe cases may involve ==weight loss== and evidence of malnutrition and/or dehydration. A viral prodrome, such as gastroenteritis or respiratory infection before symptom onset, may suggest postviral gastroparesis, a condition that frequently resolves over time. Gastroparesis can result from a variety of causes (**[Table 13](https://mksap18.acponline.org/app/topics/gi/tables/mk18_a_gi_t13)**).
 
 ### Diagnostic Testing
 
@@ -144,13 +156,13 @@ Gastric emptying scintigraphy is the most appropriate next step in management. T
 
 <!-- gastroparesis management b:1205868027446-->
 
-The severity of gastroparesis-related symptoms does not correlate with the severity of delayed gastric emptying, particularly with regard to the symptoms of abdominal bloating and epigastric pain. This suggests that gastroparesis is not simply a motility disorder but one of altered sensation as well. Because poor glycemic control (blood glucose level >200 mg/dL, 11.1 mmol/L) can worsen symptoms as well as gastric emptying, tight glycemic control is the most important element of treatment of diabetic gastroparesis. Initial management also includes correction of dehydration and electrolyte abnormalities, and nutritional support if needed. Initial dietary intervention should consist of small, frequent meals that are low in fat and soluble fiber. Referral to a dietician may be beneficial.
+The severity of gastroparesis-related symptoms does not correlate with the severity of delayed gastric emptying, particularly with regard to the symptoms of abdominal bloating and epigastric pain. This suggests that gastroparesis is not simply a motility disorder but one of altered sensation as well. Because poor glycemic control (blood glucose level >200 mg/dL, 11.1 mmol/L) can worsen symptoms as well as gastric emptying, tight glycemic control is the most important element of treatment of diabetic gastroparesis. Initial management also includes ==correction of dehydration== and ==electrolyte abnormalities==, and nutritional support if needed. Initial dietary intervention should consist of ==small, frequent meals that are low in fat and soluble fiber==. Referral to a dietician may be beneficial.
 
-Pharmacologic therapy is used to improve gastric emptying and to treat symptoms. Metoclopramide is the only prokinetic approved in the United States for the treatment of gastroparesis. To minimize the significant risk for neurologic side effects, including dystonia, Parkinsonian movements, and tardive dyskinesia, the lowest effective dose should be used. Therapy must be stopped immediately if neurologic side effects develop.
+Pharmacologic therapy is used to improve gastric emptying and to treat symptoms. ==Metoclopramide== is the only prokinetic approved in the United States for the treatment of gastroparesis. To minimize the significant risk for neurologic side effects, including dystonia, Parkinsonian movements, and tardive dyskinesia, the lowest effective dose should be used. Therapy must be stopped immediately if neurologic side effects develop.
 
-Erythromycin improves gastric emptying, but its use should be limited to the treatment of flares or short-term use (2 to 3 weeks) due to the risk for tachyphylaxis.
+==Erythromycin== improves gastric emptying, but its use should be limited to the treatment of flares or short-term use (2 to 3 weeks) due to the risk for tachyphylaxis.
 
-Antiemetics for treatment of nausea and vomiting as well as centrally acting modulators, including tricyclic antidepressants and mirtazapine, can also provide relief of symptoms but have no beneficial effect on gastric emptying.
+==Antiemetics== for treatment of nausea and vomiting as well as centrally acting modulators, including tricyclic ==antidepressants and mirtazapine==, can also provide relief of symptoms but have no beneficial effect on gastric emptying.
 
 Interventional therapy, such enteral feeding via jejunostomy, gastric stimulator placement, pyloroplasty, and subtotal or total gastrectomy, can be considered in patients who do not respond to dietary and pharmacologic therapy.
 

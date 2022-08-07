@@ -75,6 +75,8 @@ Many patients with cryptogenic stroke may have undiagnosed ==paroxysmal atrial f
 
 ### Hemorrhagic Stroke
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220801204938.png)
+
 #### Subarachnoid Hemorrhage
 
 Examination findings suggestive of SAH include altered mental status, nuchal rigidity, pupillary dilation from compression of the oculomotor nerve (cranial nerve III) by a posterior communicating artery aneurysm, or subhyaloid hemorrhages on funduscopy. The most common cause of subarachnoid hemorrhage is ==saccular (berry) aneurysm rupture==, with ==intracranial arterial dissection== and ==mycotic aneurysm rupture== occurring less commonly. Other rare causes of SAH are the reversible cerebral vasoconstriction syndromes, dural sinus thrombosis, vascular malformations, and cerebral amyloid angiopathy. Saccular aneurysms often can be visualized with CTA or MRA, although the resolution is not sufficient to detect smaller aneurysms; catheter-based angiography is necessary for the definitive diagnosis of aneurysms and other causes of SAH.

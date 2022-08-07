@@ -33,3 +33,7 @@ Squatting **increases preload, augmenting the LVEDV** and placing greater tensio
 Like any cardiac valvular disease, mitral valve prolapse may predispose to endocarditis, but it is very rare and **the current recommendation is against antibiotic prophylaxis**.
 
 Asymptomatic patients should be **reassured that their condition is benign**.
+
+Complications associated with MVP include cardiac arrhythmias (eg, atrial fibrillation, ventricular tachycardia), infective endocarditis, embolic stroke, sudden cardiac death, and worsening MR, leading to decompensated heart failure.
+
+Most patients with MVP have a risk for cardiovascular morbidity and mortality similar to that of the general population, although **moderate to severe MR** and **left ventricular ejection fraction <50%** have been noted to increase the risk for adverse cardiac events.  Other risk factors for cardiovascular morbidity include left atrial size ≥40 mm, flail mitral leaflet, and age >50.

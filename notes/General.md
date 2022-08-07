@@ -181,16 +181,6 @@ Liver failure is rare in children and adolescents  who receive NAC early. Althou
 
 Except in rare cases, gastric lavage is not recommended for gastric  decontamination due to the significant risk for aspiration pneumonia.
 
-## Obesity
-
-<!-- obesity management --> 
-
-![](https://photos.thisispiggy.com/file/wikiFiles/image-20200717143334032.png)
-
-This patient has failed to improve with an adequate  trial of dietary modification. In addition, she has continued to gain  weight and now meets the definition of **obesity** (BMI >30 kg/m2). In light of the risk of obesity-related complications, pharmacologic therapy is indicated.
-
-Initial medication options for patients with obesity are listed in the flow chart. **Orlistat** inhibits pancreatic lipases, resulting in decreased fat absorption. It is frequently chosen as a first-line drug due to its excellent safety  profile and choice of low-dose (over-the-counter) and high-dose  (prescription) options. However, orlistat is associated with  significant gastrointestinal side effects (eg, diarrhea, bloating, fecal incontinence), and some patients may elect to start with another  medication.
-
 ## GBS
 
 <!-- GBS sx, dx, rx -->

@@ -4,7 +4,7 @@ date: 2022-07-07
 
 # vibrio vulnificus can be fatal in liver disease patients
 
-- related: [[GI]]
+- related: [[GI]], [[ICU]]
 - tags: #GI
 ---
 

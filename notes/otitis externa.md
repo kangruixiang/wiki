@@ -7,6 +7,16 @@ date: 2020-09-07
 - Keywords: [[Step 3]], [[Medicine]], [[ID]]
 ---
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220803091454.png)
+
+This patient has acute ==otitis externa== (OE), likely from ==swimming==.  The most common organisms causing OE are ==_Pseudomonas_ and _Staphylococcus_== species.  Initial ==treatment== includes thoroughly ==cleaning the ear canal== to remove cerumen and other debris and ==nonsteroidal anti-inflammatory drugs== for pain control.  An otoscope can directly visualize the canal, and a wire loop can gently remove debris and cerumen.  Irrigating the ear canal with a 1:1 dilution of ==3% hydrogen peroxide== is also effective in patients with intact tympanic membranes.
+
+==Mild OE== (pruritus with minimal canal edema) usually improves with combined acidifying agent (eg, ==acetic acid==) to inhibit bacterial growth in the ear canal and ==topical glucocorticoids== to decrease inflammation.  ==Moderate== (pain, pruritus, partial canal occlusion) to severe (intense pain, canal occlusion, fever) OE requires combined ==topical antibiotics== (eg, quinolones, polymyxin B, neomycin), ==antiseptics, and glucocorticoids== with possible wick placement.  Both ofloxacin and ciprofloxacin have excellent coverage against _P aeruginosa_ and _S aureus_.
+
+==Oral antibiotics do not significantly improve uncomplicated OE== but are added in immunocompromised patients and for deep-tissue infections beyond the ear canal.  These patients are also at risk for malignant OE, with the infection spreading to the skull base, and usually need otolaryngology referral.  This patient with moderate OE may first be treated with a topical antibiotic and glucocorticoid **(Choices B and C)**.  If she does not improve within 3 days, she requires culture of the ear canal or referral to an otolaryngologist **(Choices A and D)**.
+
+## Malignant
+
 <!-- malignant otitis externa sx, dx, rx -->
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/image-20200829084612379.png)

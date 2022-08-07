@@ -30,6 +30,10 @@ date: 2020-09-07
 	- antiviral recommended for patients with immunosuppression, concurrent hep C or D, hepatic failure
 	- chronic HBV: patients who do not clear hep B surface ag after 6 months
 
+For patients with acute HBV infection, antiviral treatment (eg, tenofovir, entecavir) should be considered only in those with a severe (eg, INR >1.5) or prolonged (eg, >4 weeks of symptoms with significant jaundice and bilirubin >3 mg/dL) course or with acute liver failure (to reduce posttransplant reinfection risk).  Although this patient with acute HBV infection has bilirubin >3 mg/dL, he has not had >4 weeks of symptoms and has no other indications (eg, liver failure, hepatic encephalopathy) for treament **(Choice D)**.
+
+**Chronic HBV** develops following acute infection in up to 5% of adults; it is defined by persistent HBsAg for >6 months and can be active or inactive.  Chronic inactive HBV is characterized by a negative HBeAg, normal alanine aminotransferase (ALT), and <2,000 IU/L HBV DNA and does not require treatment.  Patients with active chronic HBV (elevated HBV DNA, ALT >2x normal, and HBeAg positive) can be considered for antiviral treatment, as can the subset of patients with occult chronic HBV infection (negative HBeAg but elevated HBV DNA).  This patient with 1 week of symptoms has acute, not chronic, HBV infection.
+
 ## Transmission
 
 - vertically

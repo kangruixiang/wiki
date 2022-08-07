@@ -52,6 +52,7 @@ Chapter 06Glomerular Diseases
 - [[hypercalcemia]]
 - [[calciphylaxis]]
 - [[hyponatremia]]
+- [[hypernatremia]]
 
 ## Acid base
 
@@ -70,6 +71,7 @@ Chapter 06Glomerular Diseases
 - [[ethylene glycol toxicity]]
 - [[abdominal compartment syndrome]]
 - [[give hypotonic fluid in post ATN diuresis]]
+- [[AKI in transplant patients]]
 
 ## CKD
 
@@ -85,6 +87,8 @@ Chapter 06Glomerular Diseases
 
 - [[kidney stones]]
 - [[calcium renal stones]]
+- [[Pickering syndrome, flash pulmonary edema in renal artery stenosis]]
+- [[ADPKD]]
 
 ## Glomerular disease
 

@@ -10,10 +10,12 @@ date: 2020-09-07
 ## MKSAP
 
 - [[Occupational Lung Disease]]
+- [[Diffuse Parenchymal Lung Disease]]
 
 ## Normal
 
 - [[pulmonary auscultations]]
+- [[bronchoscopy guides]]
 
 ## Obstructive Lung Disease
 
@@ -22,6 +24,7 @@ date: 2020-09-07
 - [[acute asthma exacerbation]]
 - [[bronchiectasis]]
 - [[COPD patients have proportional pulmonary hypertension]]
+- [[pulmonary rehabilitation]]
 
 ## Pulmonary Infections
 
@@ -30,6 +33,8 @@ date: 2020-09-07
 - [[ABPA]]
 - [[Pneumonia]]
 - [[eosinophilic pneumonia]]
+- [[legionella pneumonia]]
+- [[candida pneumonia]]
 
 ## Lung Cancers
 
@@ -50,6 +55,7 @@ date: 2020-09-07
 - [[new test file]]
 - [[autoPeep]]
 - [[rhinitis medicamentosa is rebound rhinitis from medication uses]]
+- [[ICS use increases pneumonia incidence in COPD patients]]
 
 ## Thorax
 
@@ -58,3 +64,4 @@ date: 2020-09-07
 ## Others
 
 - [[hepatopulmonary syndrome]]
+- [[pulmonary hypertension workup]]

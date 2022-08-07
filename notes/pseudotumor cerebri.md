@@ -4,6 +4,10 @@ date: 2020-09-07
 
 # Pseudotumor cerebri
 
+- related: [[Neurology]]
+- tags: #neurology
+---
+
 <!-- pseudotumor cerebri pt, sx, dx, rx -->
 
 - aka idiopathic intracranial hypertension
@@ -14,10 +18,14 @@ date: 2020-09-07
 	- **OCP**
 	- **Tetracyclines**
 - patho: not understood
-- sx: headache, variable, visual disturbances, nausea. **Pulsatile tinnitus**: whooshing sounds. **No alterations in mental status**
+- sx:
+	- ==chronic pulsatile headache==, variable, visual disturbances, nausea.
+	- blurry vision, diplopia
+	- **Pulsatile tinnitus**: whooshing sounds, wind linke.
+	- **No alterations in mental status**
 - dx:
-	- ophthalmoscopic exam for papilledema
-	- imaging
+	- ophthalmoscopic exam for ==papilledema==
+	- imaging (MRI) to exclude other causes of increased pressures but will normally show normal finding
 	- LP: An opening pressure greater than 20-25 cmH2O can help to confirm the diagnosis of pseudotumor cerebri.
 - Treatment options for idiopathic intracranial hypertension include:
 	- **Acetazolamide**

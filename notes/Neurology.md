@@ -31,7 +31,11 @@ date: 2020-09-07
 - [[myopathy ddx]]
 - [[movement disorders 2]]
 - [[transverse mylelitis]]
-- [[gbs management]]
+- [[gbs guillain barre syndrome]]
+
+## Neuropathy
+
+- [[multiple myleoma can cause peripheral neuropathy]]
 
 ## Brain bleed
 
@@ -66,3 +70,4 @@ date: 2020-09-07
 - [[headache]]
 - [[brachial plexopathy]]
 - [[Bell's palsy]]
+- [[neuroleptic malignant syndrome NMS as result of medication withdrawal]]

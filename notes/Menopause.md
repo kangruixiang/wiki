@@ -37,3 +37,9 @@ Major contraindications to MHT (even in younger women) include established CHD, 
 **Tamoxifen** is a selective estrogen receptor modulator that is used as an adjuvant therapy in patients with nonmetastatic, estrogen receptor-positive breast cancer and for breast cancer prevention in high-risk women (eg, atypical hyperplasia, age >35 with history of lobular carcinoma in situ).
 
 Tamoxifen acts as an estrogen receptor agonist in the endometrium and is associated with an increased risk of **endometrial hyperplasia/cancer** and **uterine sarcoma** in postmenopausal women. In premenopausal women, tamoxifen is associated with endometrial polyp development, a typically benign cause of abnormal uterine bleeding. In asymptomatic women taking tamoxifen (such as this patient), **regular screening has no proven benefit** in detecting endometrial cancer or uterine sarcoma. Therefore, patients on tamoxifen require **evaluation only if symptoms develop** (eg, abnormal uterine bleeding, postmenopausal bleeding).
+
+Tamoxifen is associated with a 2- to 3-fold increased rate of **venous thromboembolic events**, particularly in the first 2 years of use.  Therefore, women on tamoxifen are advised to discontinue it several days prior to activities that further increase the risk of venous thromboembolism (eg, surgery, travel).
+
+Tamoxifen does not adversely affect the risk for coronary artery disease in women with or without pre-existing disease.
+
+In premenopausal women, tamoxifen decreases bone mineral density (likely due to its partial antagonist activity).  In contrast, in postmenopausal women, tamoxifen increases bone density (likely due to its partial agonist activity) and decreases the risk of osteoporotic fracture.  However, tamoxifen is not recommended for osteoporosis prevention due to its association with endometrial cancer.

@@ -54,6 +54,7 @@ OB:
 - [[Endometriosis]]
 - [[Amenorrhea]]
 - [[breast mass]]
+- [[breast pain]]
 - [[contraceptions]]
 - [[menopause]]
 - [[osteoporosis]]
@@ -63,3 +64,4 @@ OB:
 - [[oral contraceptives can decrease ovarian cancer risks]]
 - [[PCOS]]
 - [[breast cancer screening]]
+- [[primary dysmenorrhea]]

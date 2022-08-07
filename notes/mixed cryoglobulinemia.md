@@ -4,6 +4,10 @@ date: 2020-09-07
 
 # mixed cryoglobulinemia
 
+- related: [[hepatitis]]
+- tag: #GI, #dermatology
+---
+
 <!-- mixed cryoglobulinemia syndrome pathophysiology, association, sx, rx -->
 
 This patient has renal insufficiency with palpable purpura, elevated rheumatoid factor, and hypocomplementemia, raising suspicion for **mixed cryoglobulinemia syndrome**.  The diagnosis can be confirmed by measuring **serum cryoglobulin levels**.
@@ -12,11 +16,15 @@ Mixed cryoglobulinemia syndrome is a vasculitis due to the deposition of immune 
 
 Patients with mixed cryoglobulinemia syndrome most commonly develop a triad of manifestations:
 
-- Palpable purpura
+- Palpable purpura: the vasculitis may manifest as skin ulceration and necrosis.
 - Weakness
 - Arthralgias
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220807094550.png)
+
 Other nonspecific symptoms (eg, nausea) and peripheral neuropathy also frequently occur.  Laboratory examination typically reveals **elevated rheumatoid factor** and **hypocomplementemia**.  Approximately 20% of patients develop **glomerulonephritis** (red cells, red cell casts, proteinuria) with or without renal insufficiency.
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220807094610.png)
 
 Most cases of **mixed cryoglobulinemia syndrome** are secondary to an underlying inflammatory condition, which generates the immune complexes that drives the vasculitis.  As such, the treatment of mixed cryoglobulinemia syndrome is typically divided into 2 stages:
 

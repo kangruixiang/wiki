@@ -21,6 +21,8 @@ In adjustment disorder, **the life event is** **not life threatening**, a key fe
 
 In adjustment disorder, the stressor can be of any severity and results in symptoms of anxiety and depression that do not meet criteria for another psychiatric disorder.  **Intrusive recollections and avoidance behavior characteristic of acute stress disorder are not present**.
 
+Patients experiencing post-traumatic stress and functional impairment for the ==first 30 days== following a traumatic event are diagnosed as having ==acute stress disorder==, which is treated primarily with ==cognitive-behavioral therapy==.  Patients who remain symptomatic after 30 days are diagnosed with PTSD and may benefit from the addition of an antidepressant.
+
 <!-- adjustment vs major depressive disorder -->
 
 Symptoms of **anhedonia, weight loss**, or other symptoms of major depressive disorder trump dysthymic symptoms of adjustment disorder. Diagnose MDD in the presence of these.

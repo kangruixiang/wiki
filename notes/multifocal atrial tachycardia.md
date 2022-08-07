@@ -6,6 +6,9 @@ date: 2020-09-07
 
 - related: [[Medicine]], [[Cardiology]], [[tachycardia]]
 - tag: #note
+---
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220805092212.png)
 
 Multifocal atrial tachycardia (MAT) is an **_irregularly-irregular_ supraventricular tachycardia (SVT)** characterized by the presence of **3 or more ectopic atrial pacemaking foci**.
 
@@ -13,9 +16,11 @@ MAT occurs more commonly in patients with **COPD**, **hypoxemia**, and **underly
 
 Most patients found to have MAT present with **symptoms of an underlying pulmonary condition** (e.g. shortness of breath, productive cough, chest pain). _Only rarely do patients present with primary complaints of palpitations or syncopal episodes._
 
-The best diagnostic test is an **electrocardiogram (ECG)**, which will show an **_(irregularly) irregular_ rhythm** with an \*\*atrial rate greater than 100 bpm \*\*and **at least 3 _morphologically distinct_ P waves on the _same lead_**.
+The best diagnostic test is an **electrocardiogram (ECG)**, which will show an **_(irregularly) irregular_ rhythm** with an **atrial rate greater than 100 bpm** and **at least 3 _morphologically distinct_ P waves on the _same lead_**.
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/image-20200827071118138.png)
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220805092133.png)
 
 An ECG of MAT has the following defining features:
 

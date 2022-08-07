@@ -22,18 +22,9 @@ In addition to the CBC, a reticulocyte count provides information on the marrow 
 
 An algorithm for the evaluation of anemia can be found in **[Figure 8](https://mksap18.acponline.org/app/topics/ho/figures/mk18_a_ho_f08)**. In addition to the CBC and review of the peripheral blood smear, a bone marrow aspirate and biopsy can be helpful in the diagnosis of anemia, especially in assessing stem cell disorders such as aplastic anemia, dysmyelopoietic syndrome, and acute leukemia. Anemia combined with other cytopenias increases the likelihood of a primary marrow cause. Prussian blue staining can identify marrow iron stores, although interpretation of serum ferritin levels is often sufficient for that purpose. Anemia should never be considered a final diagnosis; the cause must be identified. Recognizing the underlying cause leads to more focused treatment beyond transfusion to correct the anemia, as well as other prevention or therapeutic opportunities linked to the specific cause.
 
-## Key Points
-
-- Symptoms from anemia are related to its severity and how rapidly it occurs, as well as to the presence or absence of underlying organ or vascular disease.
-- Anemia in hospitalized patients is most likely related to acute blood loss, the anemia of inflammation, or the anemia of kidney disease.
-
 ## Anemia Due to Erythrocyte Underproduction or Maturation Defects
 
 ### Iron Deficiency
-
-#### Related Question
-
-- Question 24
 
 Iron is an essential component of the hemoglobin molecule. In addition to its critical role in oxygen delivery, iron is also necessary for DNA synthesis and cellular transport. Most of the iron in the body is contained in the erythron; each milliliter of packed red blood cells contains about 1 mg of elemental iron. Hepcidin, the key peptide involved in iron regulation, is produced in the liver and is a negative regulator of iron absorption. Hepcidin production increases with inflammation and decreases in response to hypoxia, anemia, and iron deficiency. Hepcidin production is regulated by several proteins, including human hemochromatosis, hemojuvelin, matriptase-2, and transferrin receptor 1 and 2. These proteins are important in hereditary iron overload states discussed later in this chapter. Hepcidin causes internalization and proteolysis of ferroportin in the enterocyte and macrophage leading to decreased iron absorption from the gut and decreased iron release from macrophages.
 
@@ -51,16 +42,7 @@ Iron deficiency is typically treated with oral iron salts. Oral ferrous sulfate 
 
 For patients undergoing dialysis who have large iron requirements or for patients with celiac disease, inflammatory bowel disease, or those who have undergone resection of the stomach or small bowel, oral iron may not be adequate treatment. These patients typically require parenteral iron. Iron dextran was the principal intravenous iron product used in the past, but with the risk of anaphylaxis and relatively poor bioavailability, newer parenteral iron preparations with a better safety profile and better ferrokinetics are more often used. These include iron sucrose, ferric gluconate, ferumoxytol, and ferric carboxymaltose. Data are inadequate to recommend one newer parenteral agent over another for patients requiring parenteral iron.
 
-## Key Points
-
-- A low mean corpuscular volume, elevated red-cell distribution width, and peripheral blood smear showing microcytosis and anisopoikilocytosis are virtually diagnostic of iron deficiency, especially in premenopausal women; these findings may render additional testing unnecessary, provided the response to iron therapy is monitored.
-- Iron deficiency is typically treated with oral iron salts, optimally dosed once daily, with oral ferrous sulfate being the preferred preparation because of its tolerability, efficacy, and cost.
-
 ### Inflammatory Anemia
-
-#### Related Question
-
-- Question 4
 
 For decades, anemia has been recognized in conjunction with either chronic infections such as tuberculosis or osteomyelitis or in conjunction with malignancy. Because these types of infection and malignancy are “chronic diseases,” these anemic states were often referred to as “anemia of chronic disease.” From a pathophysiologic standpoint, “inflammatory anemia” is a more appropriate term, because these anemias are related to increased hepcidin production in response to inflammatory mediators such as interleukin-6. Hepcidin causes decreased iron absorption from the enterocyte through internalization and proteolysis of ferroportin. No FDA-approved assays for hepcidin evaluation are available, although several enzyme-linked immunosorbent assays and spectrometry-based assays are in development. Inflammatory cytokines also blunt the erythropoietin response to anemia.
 
@@ -70,16 +52,7 @@ Patients with diabetes or heart failure can also have an increase in inflammator
 
 Inflammatory anemia seldom requires treatment. Iron replacement is ineffective. Although supplemental erythropoietin can correct anemia in inflammatory states, it can also lead to hypertension and thrombosis and should be used with extreme caution. Patients with cancer who experienced anemia with chemotherapy and who received erythropoietin felt better and had better blood counts, but cancer mortality was increased.
 
-## Key Points
-
-- Patients with inflammatory anemia have a hemoglobin level of 8 to 10 g/dL (80-100 g/L) and a peripheral blood smear showing a normochromic, normocytic anemia associated with an elevated serum ferritin level, low serum iron level, and a reduced total iron-binding capacity.
-- Treatment is seldom necessary in inflammatory anemia, and iron replacement is ineffective; although supplemental erythropoietin improves anemia, it is associated with worsening hypertension, thrombotic complications, and, in patients with cancer, increased mortality.
-
 ### Anemia of Kidney Disease
-
-#### Related Question
-
-- Question 22
 
 Because erythropoietin is made in the renal cortex in response to anemia and hypoxia, patients with kidney disease can have anemia that is typically normochromic and normocytic. In kidney disease, the reticulocyte count is typically low because of a relative deficiency of erythropoietin. The peripheral blood smear may show burr cells (echinocytes) in patients with features of uremia.
 
@@ -87,15 +60,7 @@ Because kidney disease is also associated with platelet defects and gastrointest
 
 Anemia of kidney disease can be associated with fatigue, depression, dyspnea, and decreased exercise tolerance. Anemia is also associated with increased morbidity and mortality from heart disease and stroke in patients undergoing dialysis. Supplemental use of erythropoiesis-stimulating agents (ESAs) can improve anemia in patients with kidney disease. Guidelines recommend that ESAs be withheld in patients with chronic kidney disease (CKD) not requiring dialysis who have a hemoglobin level greater than 10 g/dL (100 g/L). For patients with CKD with a hemoglobin level less than 10 g/dL (100 g/L), ESA treatment should be individualized based on symptoms, rapidity of hemoglobin decline, and transfusion needs. For patients undergoing dialysis, ESAs should be initiated for hemoglobin levels less than 10 g/dL (100 g/L), but hemoglobin concentrations should not exceed 11.5 g/dL (115 g/L) to avoid adverse effects, including worsening hypertension, volume overload, and thrombotic complications. Patients with CKD require iron replacement because of gastrointestinal blood loss and the need for freely available iron to maintain adequate response to ESAs. Because of high iron requirements in patients taking ESAs, parenteral iron is typically used to maintain a serum ferritin level greater than 100 ng/mL (100 µg/L) with a transferrin saturation of at least 20%. Although more than 95% of patients respond to ESAs, insufficient response can result from iron deficiency, folate deficiency, aluminum toxicity, blood loss, or inflammation.
 
-## Key Point
-
-- Patients with anemia of kidney disease who are not yet undergoing dialysis and have a hemoglobin level greater than 10 g/dL (100 g/L) should not receive erythropoiesis-stimulating agents (ESAs); patients with chronic kidney disease who are not yet undergoing dialysis and have a hemoglobin level less than 10 g/dL (100 g/L) should receive individualized ESA therapy based on symptoms, rapidity of hemoglobin decline, and transfusion needs.
-
 ### Cobalamin (Vitamin B12) Deficiency
-
-#### Related Question
-
-- Question 58
 
 Cobalamin is necessary for DNA synthesis. Humans cannot synthesize cobalamin but must consume it in their diet; it is found in animal meats, liver, shellfish, and dairy products. Dietary deficiency is an uncommon cause of cobalamin deficiency because body stores are typically available for many years. Instead, cobalamin deficiency is nearly always a result of malabsorption. Dietary cobalamin is more available for absorption in an acid environment and requires binding with intrinsic factor to enhance absorption in the terminal ileum.
 
@@ -113,16 +78,7 @@ Although supplemental folate can improve the anemia found in cobalamin deficienc
 
 Patients with cobalamin deficiency can be treated with oral cobalamin, 1000 to 2000 µg daily, regardless of cause; an adequate amount of this dose will be absorbed, even if intrinsic factor is lacking or malabsorption is ongoing. Parenteral cobalamin is more expensive and more cumbersome to administer. Intranasal and oral gel preparations are also available but are not clearly superior to tablet preparations. When cobalamin is replaced, megaloblastic changes in the marrow improve within hours. Reticulocytosis appears in several days, and hemoglobin level increases by approximately 1 g per week. If the response to cobalamin is inadequate, an alternative diagnosis, such as myelodysplasia, should be considered. Neurologic changes may not be reversible with replacement.
 
-## Key Points
-
-- An elevated serum methylmalonic acid level accurately reflects tissue cobalamin stores and confirms cobalamin deficiency in patients with borderline or low-normal serum cobalamin levels.
-- Treatment for cobalamin deficiency should be instituted with 1000 to 2000 µg/d of oral cobalamin, which is absorbed well even in patients with malabsorption, eliminating the need for parenteral therapy.
-
 ### Folate Deficiency
-
-#### Related Question
-
-- Question 56
 
 Folate is a common component of most diets in the United States; it is found in green leafy vegetables, bananas, lemons, melons, and most other fruits. Supplemental folate has been added to grains in the United States for many years to prevent birth defects. As such, dietary folate deficiency is uncommon except in patients with malnutrition. Persons who consume excess alcohol are apt to ingest inadequate amounts of folate as well as having impaired absorption. Folate is poorly stored and deficiency can develop in weeks to months in patients with insufficient folate ingestion. Patients with disease states characterized by rapid cell turnover, such as pregnancy, hemolysis, or desquamating skin disorders (psoriasis), have increased folate requirements.
 
@@ -132,11 +88,6 @@ The peripheral blood smear in folate deficiency is identical to that seen with c
 
 After cobalamin deficiency is excluded, patients with folate deficiency should receive oral folate, 1 to 5 mg/d.
 
-## Key Points
-
-- A very low serum folate level confirms the diagnosis of folate deficiency; however, a normal level may be seen in patients with clearly reduced tissue stores, so an elevated homocysteine level supports folate deficiency in these patients.
-- Cobalamin deficiency should be excluded before patients receive folate therapy; although blood abnormalities may improve with folate supplementation, the neurologic complications of cobalamin deficiency would continue to progress.
-
 ### Thalassemia
 
 Thalassemia is associated with erythrocyte underproduction and ineffective erythropoiesis and can be considered a disorder of erythrocyte production. Hemoglobin is a tetramer containing two α chains, two β chains (α2β2), and the iron-containing tetrapyrrole heme moiety. Production of α and β chains normally occurs in a balanced fashion from genes located on chromosomes 16 and 11, respectively. Mismatched production of either α or β chains results in impaired production of hemoglobin and ineffective erythropoiesis. The worldwide incidence of impaired β-chain synthesis is 1% to 5%, with impaired α-chain synthesis being even higher. Thalassemia is common in African and Mediterranean countries, the Middle East, and Southeast Asia. Homozygous α-thalassemia leads to intrauterine demise, and homozygous β-thalassemia causes severe symptomatic anemia invariably diagnosed at an early age. Internists are likely to manage patients with heterozygous forms of thalassemia.
@@ -144,10 +95,6 @@ Thalassemia is associated with erythrocyte underproduction and ineffective eryth
 The peripheral blood smear typically shows microcytosis, nucleated erythrocytes, and target cells in patients with thalassemia (**[Figure 11](https://mksap18.acponline.org/app/topics/ho/figures/mk18_a_ho_f11)**). Unlike other underproduction anemias, patients with heterozygous thalassemia typically have a preserved or even an increased erythrocyte count associated with a decreased MCV. Although patients with iron deficiency typically have considerable variation in cell shape and size (anisopoikilocytosis), leading to elevation in red cell distribution width, the microcytic cells in thalassemia are more uniform, and the red cell distribution width is normal. Because of ineffective erythropoiesis, thalassemia is associated with increased lactate dehydrogenase, increased unconjugated bilirubin, and decreased haptoglobin levels.
 
 #### α-Thalassemia
-
-#### Related Question
-
-- Question 43
 
 The α-globin gene is duplicated on chromosome 16 leading to several genotypes. Patients with a single α gene mutation are silent carriers and are clinically healthy. A two-gene mutation results in α-thalassemia trait characterized by a hemoglobin level of approximately 10 g/dL (100 g/L) with microcytosis. Unlike patients with iron deficiency, patients with α-thalassemia trait have normal or elevated iron stores. Diagnosis is usually achieved by excluding other causes of hypochromic microcytic anemia. Select reference laboratories can establish the diagnosis through direct sequencing of the globin genes. Patients with a three-gene mutation have more severe anemia and make a tetramer of β globin called hemoglobin H that can be identified on electrophoresis. In contrast, hemoglobin electrophoresis is normal for α-thalassemia trait.
 
@@ -158,10 +105,6 @@ Patients with α-thalassemia trait should receive supplemental folate and geneti
 More than 250 mutations have been described in the β-globin gene resulting in a spectrum of diseases from mild reduction in β-chain synthesis (β+-thalassemia) to complete absence of β-chain synthesis (β0-thalassemia). As such, the clinical spectrum of disease in β-thalassemia includes β-thalassemia minor, β-thalassemia intermedia, and β-thalassemia major. β-Thalassemia minor (trait) is characterized by a microcytic anemia (MCV, 60-70 fL) with a hemoglobin level of 10 to 12 g/dL (100-120 g/L). Unlike α-thalassemia trait, β-thalassemia minor produces an abnormal hemoglobin electrophoresis with an increase in hemoglobin A2 (α2δ2) because of a substitution of δ globin for β globin. Hemoglobin F may also be increased depending on the specific mutation. Patients with β-thalassemia intermedia have hemoglobin levels of 7 g/dL (70 g/L) without need for transfusion.
 
 Patients with β-thalassemia should be treated with folate; as with α-thalassemia, supplemental iron should be avoided.
-
-## Key Point
-
-- Patients with thalassemia should receive supplemental folate and avoid iron supplementation because they may develop iron overload requiring chelation therapy.
 
 ## Hemolytic Anemias
 
@@ -177,25 +120,17 @@ Acquired hemolysis can occur secondary to medications (fludarabine, bendamustine
 
 #### Hereditary Spherocytosis
 
-#### Related Question
+==Hereditary spherocytosis== (HS) is typically an autosomal dominant disorder more common in people of Northern European descent. HS is not confined to a single mutation; rather, mutations in α spectrin, β spectrin, ankyrin, band 3, and protein 4.2 have been described in patients with HS. Mutations in these scaffolding proteins adversely affect the interaction between the lipid bilayer and cytoskeleton in the erythrocyte cell wall resulting in a spherocyte (**[Figure 12](https://mksap18.acponline.org/app/topics/ho/figures/mk18_a_ho_f12)**) characterized by reduced surface-to-volume ratio, osmotic fragility, and splenic sequestration.
 
-- Question 7
+Symptoms of HS can be quite variable, and even though HS is a congenital disorder, patients may adapt to mild anemia without symptoms until well into adulthood. An acute episode of bone marrow suppression, typically associated with infection, can lead to new anemia symptoms in patients who were previously able to compensate for hemolysis. In addition to anemia, symptomatic patients typically present with splenomegaly or, more rarely, splenic infarction or rupture, and ==calcium bilirubinate (pigmented) gallstones== are common.
 
-Hereditary spherocytosis (HS) is typically an autosomal dominant disorder more common in people of Northern European descent. HS is not confined to a single mutation; rather, mutations in α spectrin, β spectrin, ankyrin, band 3, and protein 4.2 have been described in patients with HS. Mutations in these scaffolding proteins adversely affect the interaction between the lipid bilayer and cytoskeleton in the erythrocyte cell wall resulting in a spherocyte (**[Figure 12](https://mksap18.acponline.org/app/topics/ho/figures/mk18_a_ho_f12)**) characterized by reduced surface-to-volume ratio, osmotic fragility, and splenic sequestration.
+Laboratory findings in HS include ==spherocytosis== on the ==peripheral blood smear== and varying degrees of anemia, reticulocytosis, and hyperbilirubinemia. The ==mean corpuscular hemoglobin concentration== is elevated in patients with HS. Erythrocytes in these patients have ==increased osmotic fragility== when exposed to fluids with high osmolarity. This is the basis of the osmotic fragility test sometimes used to diagnose HS. ==Flow cytometry== can identify characteristic cell surface abnormalities that establish the diagnosis.
 
-Symptoms of HS can be quite variable, and even though HS is a congenital disorder, patients may adapt to mild anemia without symptoms until well into adulthood. An acute episode of bone marrow suppression, typically associated with infection, can lead to new anemia symptoms in patients who were previously able to compensate for hemolysis. In addition to anemia, symptomatic patients typically present with splenomegaly or, more rarely, splenic infarction or rupture, and calcium bilirubinate (pigmented) gallstones are common.
-
-Laboratory findings in HS include spherocytosis on the peripheral blood smear and varying degrees of anemia, reticulocytosis, and hyperbilirubinemia. The mean corpuscular hemoglobin concentration is elevated in patients with HS. Erythrocytes in these patients have increased osmotic fragility when exposed to fluids with high osmolarity. This is the basis of the osmotic fragility test sometimes used to diagnose HS. Flow cytometry can identify characteristic cell surface abnormalities that establish the diagnosis.
-
-Patients with HS, as with other hemolytic states, have increased folate requirements and should receive supplemental folate. For severe hemolysis, splenectomy is effective, and partial splenectomy has proven effective in young children whose immune function is improved with a functioning spleen. As with other conditions requiring splenectomy, vaccination for _Streptococcus pneumoniae, Haemophilus influenzae_, and _Neisseria meningitides_ is important before the procedure.
+Patients with HS, as with other hemolytic states, have ==increased folate requirements== and should receive supplemental folate. For severe hemolysis, ==splenectomy== is effective, and partial splenectomy has proven effective in young children whose immune function is improved with a functioning spleen. As with other conditions requiring splenectomy, vaccination for _Streptococcus pneumoniae, Haemophilus influenzae_, and _Neisseria meningitides_ is important before the procedure.
 
 Other congenital disorders of the erythrocyte membrane that can lead to hemolysis include hereditary elliptocytosis and hereditary pyropoikilocytosis. Hereditary elliptocytosis is less commonly associated with anemia.
 
 #### Glucose-6-Phosphate Dehydrogenase Deficiency
-
-#### Related Question
-
-- Question 21
 
 The gene for glucose-6-phosphate dehydrogenase (G6PD) is located on the X chromosome, and as such G6PD deficiency primarily affects men. It can affect women who are homozygous for G6PD disease, through the process of lyonization (inactivation of one of the two X chromosomes) with preference of expression for the defective gene, or who have Turner syndrome (XO karyotype). G6PD deficiency is the most common enzyme deficiency in humans and has been associated with more than 160 gene mutations. G6PD is important in the pentose phosphate pathway, allowing for reduction of nicotinamide adenine dinucleotide phosphate (NADP to NADPH). NADPH is necessary to reduce oxidative stress in response to drugs (chloroquine), infection, or toxins. Two G6PD variants, G6PD A, which produces mild disease that is often asymptomatic, and G6PD Mediterranean are most commonly seen. G6PD Mediterranean is associated with favism, or hemolysis in people who consume fava beans. G6PD variants are thought to provide partial protection for malarial infections. G6PD deficiency occurs most commonly in people of African, Asian, Mediterranean, and Middle Eastern descent and among Kurdish Jews.
 
@@ -209,22 +144,11 @@ Other less common enzyme defects leading to congenital hemolysis include enzyme 
 
 #### Sickle Cell Syndromes
 
-#### Related Questions
-
-- Question 35
-- Question 47
-
 There is perhaps no hemolytic anemia as clinically dramatic as sickle cell anemia. Affecting nearly every organ system and characterized by extraordinarily painful vaso-occlusive crises, sickle cell disease (SCD) is prevalent among Black patients. SCD is characterized by homozygosity for a single point mutation in the sixth position of the β-globin gene resulting in abnormal hemoglobin S (Hb S) that polymerizes under hypoxic conditions, leading to deformed erythrocytes that can adhere to the endothelium of capillaries throughout the circulation. Because of hemolysis, free hemoglobin scavenges nitric oxide, and hemolyzed erythrocytes release arginase, depleting the body of arginine, a necessary precursor to nitric oxide. As a result, patients with SCD experience vasoconstriction and platelet activation, complicating their clinical course.
 
 Hb S is more common in patients of African origin, and most patients homozygous for Hb S (Hb SS) are Black, with about 8% of Black persons in the United States having sickle cell trait (Hb S). Hb S can be coinherited with hemoglobin C (Hb SC), β-thalassemia (Sβ+-thalassemia), or other hemoglobins, which tends to lead to milder disease than Hb SS. Characteristic electrophoretic patterns for sickling disorders are shown in **[Table 15](https://mksap18.acponline.org/app/topics/ho/tables/mk18_a_ho_t15)**.
 
 ##### Sickle Cell Disease Complications and Their Management
-
-#### Related Questions
-
-- Question 42
-- Question 49
-- Question 54
 
 Chronic hemolysis, vaso-occlusive disease with acute and chronic end-organ damage, nitric oxide depletion, and immune compromise from functional asplenia lead to the myriad of problems faced by patients with SCD. The only potential “cure” for SCD is allogeneic bone marrow transplantation, but the timing and appropriate population for transplantation have not been adequately determined. Hydroxyurea modulates many of the complications of SCD and even prolongs life expectancy because of its ability to increase fetal hemoglobin levels and generate nitric oxide. Hydroxyurea is not used often enough and is not always used at the appropriate dose. It should be prescribed for all patients with frequent pain crises, severe symptomatic anemia, or previous acute chest syndrome or stroke. Managing SCD requires a team of providers and must include preventive, acute, and chronic treatment goals (**[Table 16](https://mksap18.acponline.org/app/topics/ho/tables/mk18_a_ho_t16)**).
 
@@ -246,21 +170,9 @@ Transfusion management in SCD is complicated. Inappropriate transfusion can lead
 
 More than 1000 mutations have been identified in the α- or β-globin gene, including hemoglobin C, hemoglobin D, and hemoglobin E. Most of these are only clinically relevant if coinherited with Hb S.
 
-## Key Points
-
-- Patients with hereditary spherocytosis may remain asymptomatic well into adulthood but may develop acute anemia symptoms when an acute infection suppresses the bone marrow, leading to decompensated hemolysis.
-- Evaluation for glucose-6-phosphate dehydrogenase deficiency should not be performed during an acute hemolytic episode, because the older enzyme-deficient erythrocytes are preferentially destroyed during these episodes, which would lead to a false-negative result on testing.
-- Painful events are associated with morbidity and mortality in patients with sickle cell disease, and the number of painful crises is inversely related to life expectancy; recognition and treatment of pain should be immediate.
-- In patients with frequent acute vaso-occlusive events or other serious complications of sickle cell anemia, hydroxyurea decreases subsequent acute pain events, reduces the risk of acute chest syndrome or stroke, and prolongs survival.
-- In patients with sickle cell disease, simple transfusions with packed red blood cells (PRBCs) should not be used for uncomplicated pain crises or to treat chronic anemia; however, patients undergoing surgical procedures requiring general anesthesia should receive PRBC transfusion for a target hemoglobin level of 10 g/dL (100 g/L) to avoid perioperative complications.
-
 ### Acquired Hemolytic Anemia
 
 #### Immune-Mediated Hemolysis
-
-#### Related Question
-
-- Question 75
 
 Immune-mediated hemolysis is characterized by antibody binding to erythrocytes causing complement-mediated and phagocyte-mediated destruction. Antibodies responsible for immune-mediated hemolysis are divided into warm antibodies, typically IgG, that react at normal body temperature and cold agglutinins, usually IgM, that bind at cooler temperatures. The laboratory hallmark of immune-mediated hemolysis is a positive direct antiglobulin (Coombs) test that detects either IgG or complement (C3) on the erythrocyte surface. Characteristics of immune-mediated hemolysis are shown in **[Table 18](https://mksap18.acponline.org/app/topics/ho/tables/mk18_a_ho_t18)**.
 
@@ -272,18 +184,9 @@ Treatment of symptomatic WAIHA involves alleviating immune destruction of erythr
 
 ##### Cold Agglutinin Disease
 
-#### Related Question
-
-- Question 69
-
 In cold agglutinin disease, pathogenic IgM antibodies are directed against erythrocyte glycoprotein antigens (I or i antigen). Cold agglutinins bind at temperatures lower than normal body temperature (for example, the temperature of distal extremities during cold exposure). Cold agglutinins cause complement fixation, and C3-coated cells are both cleared by hepatic Kupffer cells and destroyed in circulation. The peripheral blood smear shows erythrocyte agglutination leading to a markedly elevated MCV on laboratory testing (**[Figure 14](https://mksap18.acponline.org/app/topics/ho/figures/mk18_a_ho_f14)**). In cold agglutinin disease, the direct antiglobulin test result is positive for C3. Cold agglutinin disease should always raise suspicion for an underlying lymphoproliferative abnormality, and it can also be seen in _Mycoplasma_ and Epstein-Barr virus infections.
 
 Treatment of cold agglutinin disease is primarily directed at avoidance of cold exposure, including warming of all infusates in hospitalized patients. Treatment with glucocorticoids, intravenous immune globulin, or splenectomy is seldom effective. Rituximab, fludarabine, or a combination of both has demonstrated activity in case series.
-
-## Key Points
-
-- Treatment of symptomatic warm autoimmune hemolytic anemia involves alleviating immune destruction of erythrocytes using glucocorticoids, intravenous immune globulin, or rituximab; splenectomy is also effective in nearly 70% of patients.
-- Treatment of cold agglutinin disease is primarily directed at avoidance of cold exposure, including warming of all infusates in hospitalized patients; the use of glucocorticoids, intravenous immune globulin, or splenectomy is seldom effective.
 
 #### Nonimmune Hemolytic Anemia
 
@@ -293,24 +196,11 @@ Microangiopathic hemolytic anemia is characterized by the presence of fragmented
 
 ##### Macroangiopathic Hemolytic Anemia
 
-#### Related Question
-
-- Question 65
-
 Patients with artificial valves or those with left ventricular assist devices can develop anemia resulting from erythrocyte fragmentation known as macroangiopathic hemolysis. Similarly, patients with giant hemangiomas, such as those with Kasabach-Merritt syndrome, can develop erythrocyte fragmentation from localized intravascular coagulation.
 
 ##### Paroxysmal Nocturnal Hemoglobinuria (PNH)
 
-#### Related Question
-
-- Question 39
-
 Patients with PNH lack proteins on the erythrocyte surface that are anchored by glycophosphatidylinositol due to acquired mutations in the _PIGA_ gene that persist in bone marrow stem cells. Two of these proteins, CD55 and CD59, protect the erythrocyte from complement-mediated destruction. Patients lacking these proteins develop episodic hemolysis, marrow aplasia, and thrombosis. The cause of thrombosis is unclear. Patients with PNH are at higher risk for leukemia or myelodysplasia. Diagnosis involves demonstrating absence of glycophosphatidylinositol-linked proteins such as CD55 and CD59 on leukocytes by flow cytometry. PNH therapy includes folate supplementation, glucocorticoids, and a novel monoclonal antibody to C5, eculizumab, which inhibits activation of the terminal complement cascade, decreases hemolysis, reduces thrombotic complications, and improves quality of life. Eculizumab is associated with _Neisseria_ infections, so patients should receive meningococcal vaccination before use.
-
-## Key Points
-
-- Treatment of patients with microangiopathic hemolytic anemia is directed toward the underlying disease process, which can include hemolytic uremic syndrome, malignancy, drugs, and thrombotic thrombocytopenic purpura.
-- Patients with paroxysmal nocturnal hemoglobinuria develop episodic hemolysis, marrow aplasia, and thrombosis; therapy with eculizumab, a monoclonal antibody to C5 that inhibits terminal complement activation, decreases complications and improves quality of life.
 
 ### Other Causes of Hemolysis
 

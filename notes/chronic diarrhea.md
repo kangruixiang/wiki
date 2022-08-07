@@ -23,3 +23,5 @@ date: 2021-04-19
 - osmotic gap: 290 – (2 × \[stool sodium + stool potassium])
 	- > 50: osmotic diarrhea
 	- < 50: secretory diarrhea
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220805105930.png)

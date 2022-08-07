@@ -42,6 +42,8 @@ Based on limited data, ==daily low-dose aspirin== may help to reduce the risk of
 
 The prognosis for properly treated GCA is good unless aortitis is present. GCA may recur.
 
+All patients should undergo ==osteoporosis screening== when starting steroids and ==yearly chest x-rays== (up to ten years) to identify patients with thoracic aortic aneurysms.
+
 ### Polymyalgia Rheumatica
 
 #### Epidemiology and Pathophysiology

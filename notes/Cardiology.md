@@ -28,6 +28,7 @@ date: 2020-09-07
 - [[EKG basics]]
 - [[SvO2]]
 - [[cardiogenic shock]]
+- [[hemodynamics and pressures]]
 
 ## ECGs
 
@@ -62,6 +63,7 @@ date: 2020-09-07
 
 - [[Cardiac Risk Calculation]]
 - [[pacemaker]]
+- [[treat ICD infection as endocarditis]]
 
 ## Lectures
 

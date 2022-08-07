@@ -71,6 +71,12 @@ date: 2020-09-07
 - [[oligoarthritis]]
 - [[osteoarthritis notes 2 17]]
 
+## Foot problem
+
+- [[Morton neuroma]]
+- [[metatarsal stress fracture]]
+- [[tarsal tunnel syndrome]]
+
 ## Notes
 
 - [[back pain 12 2020 note]]

@@ -28,6 +28,10 @@ Patients with ==esophageal dysphagia== are able to initiate the swallowing proce
 
 ==Achalasia== often presents with ==nonacidic regurgitation of undigested food==. ==Chest pain== while taking liquids that are very hot or very cold may indicate ==esophageal spasm==. Mechanical esophageal obstruction may be benign or malignant and may be caused by strictures, masses, esophageal ring (for example, a ==Schatzki ring== [Figure 1](https://mksap18.acponline.org/app/topics/gi/figures/mk18_a_gi_f01)), or webs. ==Upper endoscopy== allows for diagnostic (biopsy and inspection) and therapeutic intervention (dilation). Clinical management is based on the underlying cause.
 
+Esophageal (Schatzki) rings may be congenital or acquired (due to damage from gastroesophageal reflux) and account for 15%-30% of cases of dysphagia.  Symptomatic patients frequently present with complaints of solid food dysphagia or reflux symptoms.  ==Barium esophagram is more sensitive== than endoscopy for diagnosing Schatzki rings because the rings are not easily visualized unless the lower esophagus is widely distended.
+
+First-line treatment involves ==endoscopic dilation== for symptomatic relief.  However, ==many patients develop recurrent symptoms== usually starting after 1 year of therapy.  More than 70%-80% of patients develop recurrence within 5 years.  Thus, recurrence is a rule rather than an exception in these patients.  Those with recurrent symptoms are treated with repeated dilation and **acid suppression** (eg, proton-pump inhibitors).  Some studies have shown that patients with and without reflux symptoms treated with proton-pump inhibitors have fewer recurrences of symptoms.
+
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220501092047.png)
 Barium esophagram showing a Schatzki ring, a subtype of esophageal ring located at the squamocolumnar junction and a common cause of dysphagia.
 

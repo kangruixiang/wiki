@@ -8,6 +8,13 @@ date: 2020-09-07
 - tag: #note
 ---
 
+## MISC
+
+- [[COPD treatment]]
+- [[COPD clinical trials]]
+- [[pulmonary rehabilitation]]
+- [[lung volume reduction surgery LVRS]]
+
 ## Epidemiology
 
 - 5% of the U.S. population

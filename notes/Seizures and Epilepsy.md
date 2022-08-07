@@ -112,7 +112,7 @@ Psychogenic nonepileptic spells/events (PNES) were formerly called pseudoseizure
 
 <!-- seizure initial evaluations b:672569868502-->
 
-==Neuroimaging is recommended== for all patients with a first seizure. ==CT== of the head is adequate initially to rapidly exclude emergent pathology, including hemorrhage, but MRI is required in most patients. Contrast-enhanced CT or MRI may be deferred unless infection, tumor, or vascular lesions are suspected. Because temporal lobe epilepsy is common, ==MRI sequences focusing on the hippocampus and temporal lobes are useful== (coronal T2-weighted, fluid-attenuated inversion recovery, and thin-slice T1-weighted imaging). ==Functional imaging== (PET and single-photon emission CT) is considered when planning for epilepsy surgery but is not routinely indicated.
+==Neuroimaging is recommended== for all patients with a first seizure. ==CT== of the head is adequate initially to rapidly exclude emergent pathology, including hemorrhage, but ==MRI is required in most patients==. Contrast-enhanced CT or MRI may be deferred unless infection, tumor, or vascular lesions are suspected. Because temporal lobe epilepsy is common, ==MRI sequences focusing on the hippocampus and temporal lobes are useful== (coronal T2-weighted, fluid-attenuated inversion recovery, and thin-slice T1-weighted imaging). ==Functional imaging== (PET and single-photon emission CT) is considered when planning for epilepsy surgery but is not routinely indicated.
 
 ==Outpatient EEG== also is recommended in patients with a first seizure. Because capture of an actual seizure is unlikely, the physician must rely on “epileptiform” abnormalities, such as focal sharp waves (see **[Figure 8](https://mksap18.acponline.org/app/topics/nr/figures/mk18_a_nr_f08)**) or generalized spike-and-wave discharges (see **[Figure 5](https://mksap18.acponline.org/app/topics/nr/figures/mk18_a_nr_f05)**). These findings are considered relatively specific for epilepsy; although not diagnostic, they may help support the diagnosis in an appropriate clinical context. A single routine EEG is only 40% to 50% sensitive for such findings, but the yield can increase to 80% to 90% with repeated studies, prolonged studies, and studies that capture sleep.
 
@@ -147,6 +147,8 @@ Determining the risk of recurrence guides the decision to treat. The 2-year recu
 <!-- ignore -->
 
 Empiric pharmacologic treatment generally is not recommended unless the patient's history is strongly suggestive of seizures or epilepsy. The exception is convulsive status epilepticus, which must be treated emergently if clinically suspected. Similarly, prophylactic treatment is avoided except in specific situations, such as during the week after severe head trauma or brain tumor resection. Alcohol- or benzodiazepine-withdrawal seizures typically are not treated with AEDs.
+
+In general, neurologists do not treat with an antiepileptic drug (AED) unless the patient has had **> 2 unprovoked seizures** separated by more than 24 hours.  In this patient, the ==seizure was provoked by an underlying structural lesion== in the brain.  Therefore, treatment with an AED is indicated as the risk of seizure recurrence is high.  Given that this patient is of reproductive age, lamotrigine alone or levetiracetam is the best AED to start as it has the fewest teratogenic side effects.  Valproic acid is generally contraindicated in young women of reproductive age due to potential teratogenic effects.
 
 #### Selection and Adverse Effects of Antiepileptic Drugs
 

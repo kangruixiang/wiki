@@ -13,3 +13,5 @@ Hydatidiform moles are characterized by **markedly elevated β-hCG levels (>100,
 Treatment of hydatiform mole is with **suction curettage**.  Because surgery can instigate thyroid storm in patients with hydatidiform moles that are complicated by hyperthyroidism, beta adrenergic blockers are often administered preoperatively.
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20200909203145_12.png)
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220805094945.png)

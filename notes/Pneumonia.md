@@ -4,7 +4,8 @@ date: 2021-08-10
 
 # Pneumonia
 
-- related: [[Pulmonology]], [[ID]], [[pneumonia vaccine]]
+- related: [[Pulmonology]], [[ID]], [[pneumonia vaccine]], [[legionella pneumonia]]
+- tags: #pulmonology
 
 ## Symptoms
 

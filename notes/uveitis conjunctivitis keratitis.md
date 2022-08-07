@@ -40,11 +40,3 @@ The diagnosis of keratitis is made by slit-lamp examination showing corneal ulce
 <!-- endophthalmitis causes -->
 
 Endophthalmitis is a bacterial infection of the deep eye (vitreous) due  to either direct inoculation into the globe (eg, surgery, trauma) or  hematogenous spread. It is not a complication of bacterial  conjunctivitis.
-
-## Hordeolum
-
-<!-- hordeolum is -->
-
-![](https://photos.thisispiggy.com/file/wikiFiles/image-20200208092024378.png)
-
-Hordeolum (stye) is a bacterial infection of the sebaceous glands in the eyelid. Patients have tenderness, redness, and swelling at the eyelid  margins. Hordeolum is not a complication of bacterial conjunctivitis.

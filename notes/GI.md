@@ -32,10 +32,13 @@ date: 2020-09-07
 - [[achalasia and pseudoachalasia]]
 - [[roux-en-y]]
 - [[esophageal perforation]]
+- [[triglyceride induced pancreatitis]]
+- [[approach to abnormal liver enzymes, transaminitis]]
 
 ## Lower GI
 
 - [[follow up for colonoscopy after polypectomy]]
+- [[abdominal pain following colonoscopy with biopsy can be sign of perforation]]
 - [[colon cancer screening]]
 - [[Chronic mesenteric ischemia]]
 - [[AVM]]
@@ -52,6 +55,7 @@ date: 2020-09-07
 - [[ileal resection leads to vitamin b12 deficiency]]
 - [[metformin reduces b12 absorption]]
 - [[Ogilvie syndrome aka colonic pseudoobstruction]]
+- [[volvulus]]
 
 ## ID
 

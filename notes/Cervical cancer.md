@@ -13,3 +13,11 @@ Cervical cytology, high-risk HPV testing, or co-testing with cervical cytology a
 <!-- cervical cancer screening in HIV, immunocompromised patients. Routine screening ages -->
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/image-20200305194856686.png)
+
+**Cervical cancer** is caused by persistent infection with high-risk strains (eg, type 16, 18) of human papillomavirus (HPV).  Risk factors include early onset of sexual activity, multiple sex partners, tobacco use, and immunosuppression.  Screening identifies patients with abnormal cytology/premalignancy and prevents progression to malignancy.  Current screening guidelines include initiation of cervical cancer screening at age 21 irrespective of sexual activity **(Choice A)**.  In women age 21-29, screening is with Pap testing every 3 years.  In women age 30-65, screening options include:
+
+- Pap testing every 3 years OR
+- Pap and HPV cotesting every 5 years OR
+- Primary HPV testing every 5 years
+
+Therefore, a patient age 30-65 who had a normal Pap test 3 years ago would need testing.  In contrast, a patient who had a normal Pap and a negative HPV test 4 years ago would not **(Choice B)**.  Exceptions to these guidelines include patients who are HIV positive or immunosuppressed.  These patients require screening at the time of diagnosis (HIV) or at the onset of sexual activity (immunosuppression) and require screening at more frequent intervals.

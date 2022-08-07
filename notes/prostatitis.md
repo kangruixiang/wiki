@@ -17,8 +17,15 @@ Patients typically present with ==acute urinary complaints== (eg, frequency, urg
 ==Acute urinary retention== is an infrequent complication of acute prostatitis, and bladder drainage must be done by ==suprapubic catheterization==.  ==Catheter insertion== through the inflamed urethra into the bladder is ==contraindicated== in acute prostatitis.
 
 Evaluation includes urine ==Gram stain and culture==.  ==Empiric antibiotics== that effectively penetrate the prostate (eg, oral ==trimethoprim-sulfamethoxazole== \[TMP-SMX] or ==fluoroquinolone==) are recommended.  Intravenous antibiotics are recommended for septic-appearing patients.  Oral antibiotics are usually continued for ==prolonged periods== (eg, 4 weeks) and tailored to culture results.  After the infection resolves, patients usually need urologic evaluation to determine the underlying cause.
+---
 
 ==Chronic bacterial prostatitis== (CBP) can be a complication of ABP due to inadequate duration of treatment.  CBP tends to present with less severe urinary symptoms and without significant systemic findings.  Most urologists ==obtain urine and prostate fluid specimens after prostate massage== for diagnosis.  ==Fluoroquinolones== are the preferred first-line agent.  Patients usually require a prolonged course of antibiotics ranging from 6 weeks to 6-12 months in some cases.
+
+This patient has lower urinary tract symptoms (LUTS), ==pyuria==, and an ==enlarged, tender prostate== consistent with **chronic bacterial prostatitis** (CBP).  CBP can be asymptomatic or present with dysuria and increased urinary frequency.  However, unlike in acute prostatitis, systemic symptoms (eg, fever, chills) are typically absent.  It is usually caused by enteric gram-negative bacilli, and is a potential cause of ==recurrent symptoms in patients receiving an inadequate course of antibiotics== for acute prostatitis.  Although symptoms may be temporarily alleviated by short courses of antibiotics, the same organism can often be isolated when symptoms recur.
+
+The diagnosis of CBP should be suspected in men with ==persistent or recurrent LUTS==, especially if the same organism is repeatedly found on culture.  Culture of prostatic secretions or urine culture following prostatic massage can confirm the diagnosis, but most patients are treated empirically.  Prolonged antibiotic therapy (**4-6 weeks**) is recommended; **fluoroquinolones** (eg, ciprofloxacin) are preferred in most cases (alternate: trimethoprim-sulfamethoxazole).  Treatment failure is common, and complications include prostatic abscess, bacteremia, and epididymitis.
+
+Benign prostatic hyperplasia can cause chronic LUTS, but obstructive voiding symptoms (eg, dribbling, decreased force of stream) are usually more prominent, and this patient's pyuria and dysuria are more consistent with CBP.
 
 <!-- bacterial prostatitis sx, dx, rx. Acute vs chronic vs UTI -->
 
