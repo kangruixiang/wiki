@@ -4,20 +4,29 @@ date: 2021-02-08
 
 # hyperprolactinemia
 
-- related: [[Endocrine]], [[prolactinoma and pregnancy]]
+- related: [[Endocrine]], [[prolactinoma and pregnancy]], [[prolactinoma]]
+- tags: #endocrine
+---
 
 <!-- hyperprolactinemia causes, sx, -->
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220813093101.png)
 
 Causes of high prolactin:
 
 - most common cause:
 	- physiologic (pregnancy and lactation)
 	- physiologic stress, coitus, sleep, nipple stimulation
+
 - pathologic:
 	- primary hypothyroidism
 	- pituitary stalk compression
 	- medications: antipsychotics, usually 25-100 ng/mL
 		- metoclopramide, risperidone, phenothiazine can cause > 200ng/mL
+
+This patient has **hyperprolactinemia**, most likely due to **chronic kidney disease** (CKD).  Hyperprolactinemia is common in CKD due to a 3-fold increase in prolactin release (as a result of an altered inhibitory effect of dopamine) and a 30% decrease in prolactin clearance.  Prolactin levels are usually modestly elevated (**<100 ng/mL**).
+
+Prolactin levels in patients with CKD do not respond to hemodialysis but can be normalized with dopamine agonists (eg, bromocriptine, cabergoline).  However, sexual dysfunction often persists due to additional contributing factors (eg, neuropathy, vascular disease, medications).  Low serum testosterone levels also are common in CKD, but testosterone therapy does not improve symptoms in most patients.
 
 Symptoms:
 

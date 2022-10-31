@@ -8,6 +8,8 @@ date: 2022-07-10
 - tags: #note
 ---
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220810215320.png)
+
 Most acute sinusitis seen in the primary care setting is viral in origin and is associated with the common cold.  There is no evidence that antimicrobial treatment is effective in treating viral sinusitis.  However, differentiating between viral and bacterial sinusitis is difficult.  Acute bacterial sinusitis should be considered in patients with symptoms > 10 days; severe symptoms with fever > 39 C (102 F), purulent nasal discharge or facial pain > 3 days; or worsening symptoms > 5 days after an initially improving viral upper respiratory infection **(Choice C)**.
 
 **Indications for antibiotic therapy for suspected rhinosinusitis**

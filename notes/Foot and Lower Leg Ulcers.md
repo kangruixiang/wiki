@@ -14,6 +14,8 @@ Venous stasis ulcers, arterial insufficiency ulcers, and neuropathic ulcers are 
 
 <!-- venous stasis ulcers are, sx, rx b:963496914566-->
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220810195640.png)
+
 ==Venous stasis ulcers== account for up to 70% of all leg ulcers. They occur on the ==lower extremities== in the area from the midcalf to the ankle, most commonly near the medial malleolus, and are associated with signs of chronic venous insufficiency. Venous stasis ulcers can be single or multiple and are typically ==irregularly shaped, shallow, and often weep serous fluid== (**[Figure 157](https://mksap18.acponline.org/app/topics/dm/figures/mk18_a_dm_f157)**). The presence of fibrinous tissue is common, and ulcers are ==rarely necrotic==. Pain may or may not be present.
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220423203622.png)
@@ -26,6 +28,8 @@ Physical findings suggestive of venous stasis ulcers include ==edema==, ==varico
 Treatment consists of ==compression therapy==, which improves venous flow, reduces edema, and promotes fibrinolysis. Compression therapy is best administered through the use of ==high-compression, multicomponent bandaging==; other options include ==elastic or inelastic compression bandages== (Unna boots, compression stockings) or ==intermittent pneumonic compression devices==. Compression is avoided if the ankle-brachial index is less than 0.8, and referral to a vascular specialist should be considered.
 
 Local wound care includes ==debridement of devitalized tissue==. Simple nonadherent dressings appear to be as effective as other more expensive dressings, and the addition of ==topical cadexomer iodine== may improve healing. When added to standard care, oral pentoxifylline, simvastatin, and aspirin have been shown to increase ulcer healing. Lower quality evidence suggests that flavonoids and hydroxyethyl rutoside may also improve healing. Routine use of systemic antibiotics is not recommended except for patients with suspected infection (increased pain, drainage, surrounding cellulitis). Superficial venous surgery reduces 1-year ulcer recurrence rate in patients with superficial venous reflux. Bilayer artificial skin replacement may improve healing of venous ulcers compared to compression and simple dressings.
+
+Supplementation with oral zinc sulfate has been proposed for the treatment of arterial and venous lower-extremity ulcers, but trials to date have found no significant beneficial effect.
 
 ## Arterial Insufficiency Ulcers
 

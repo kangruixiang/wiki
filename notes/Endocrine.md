@@ -37,6 +37,7 @@ date: 2020-09-07
 - [[myxedema coma]]
 - [[euthyroid sick syndrome]]
 - [[methimazole]]
+- [[follow up for papillary thyroid cancer]]
 
 ## Adrenal
 
@@ -62,11 +63,13 @@ date: 2020-09-07
 - [[A1C affected by]]
 - [[obesity management]]
 - [[charcot arthropathy as result of diabetic neuropathy]]
+- [[hypoglycemia ddx]]
 
 ## Repro
 
 - [[male hypogonadism]]
 - [[testosterone replacement therapy]]
+- [[erectile dysfunction causes]]
 
 ## MISC
 
@@ -74,3 +77,4 @@ date: 2020-09-07
 - [[steroids and cortisol]]
 - [[Paget disease]]
 - [[carcinoid syndrome]]
+- [[copper deficiency]]

@@ -12,7 +12,7 @@ date: 2020-09-07
 
 - patients: underlying asthma, CF
 - pathogenesis: sensitization to aspergillus, intense IgE and IgG mediated immune response
-- sx: **recurrent exacerbations**
+- sx: **recurrent exacerbations**. Sx of pneumonia in asthma patient unresponsive to treatment
 - dx:
 	- **elevated _Aspergillus_-specific IgE**
 	- elevated (eg, >417 IU/mL) total IgE

@@ -98,6 +98,10 @@ Penetrating atherosclerotic ulcer of the proximal descending thoracic aorta. Axi
 
 ### Diagnosis and Evaluation
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220810213659.png)
+
+## The abrupt onset of sharp, severe chest pain in this patient with evidence of long-standing hypertension (ie, audible S4, high-voltage QRS complexes suggesting left ventricular [LV] hypertrophy) and a murmur of acute **aortic regurgitation** (decrescendo **diastolic murmur**) strongly suggests **acute aortic dissection**.  A pulse deficit or significant systolic blood pressure (SBP) difference (>20 mm Hg) between extremities is absent in approximately two-thirds of presenting patients.
+
 Acute aortic dissection is a medical emergency, and a high index of suspicion is needed for immediate diagnosis and treatment. It classically presents with the ==sudden onset of chest or back pain== that has a ==tearing== or ==ripping== quality; however, not all patients will have this symptom. Patients may present with ==hypertension, syncope, a murmur of aortic regurgitation==, or ==heart failure== in the setting of sudden ==aortic insufficiency==. The findings of ==asymmetric blood pressures== in the upper extremities, ==asymmetric pulses==, or ==pulsus paradoxus== should all raise suspicion for acute aortic dissection.
 
 Abnormalities may be present on chest radiography (widened mediastinum) and electrocardiography (ST-segment depression), but these findings are not diagnostic for acute aortic dissection. In patients with a high likelihood of acute aortic dissection, diagnostic imaging tests should not be delayed based on the results of chest radiography, electrocardiography, or laboratory testing.
@@ -107,6 +111,10 @@ Abnormalities may be present on chest radiography (widened mediastinum) and elec
 ### Treatment
 
 Patients with acute aortic dissection without evidence of cardiogenic shock should be treated with ==medical therapy== to control heart rate and reduce blood pressure. Current guidelines recommend reducing systolic blood pressure to ==120 mm Hg or less== in the first hour in patients with aortic dissection. ==Intravenous β-blockers== are first-line treatment; for hypertension that does not completely respond to β-blockers, ==intravenous vasodilators== (nitroprusside, nicardipine) should be administered. Pain control is often necessary and is best accomplished with intravenous opioids.
+
+Hydralazine is a direct arterial vasodilator that can cause reflex sympathetic stimulation, leading to increased heart rate, LV contractility, and aortic wall shear stress.  As a result, its use should be avoided in patients with suspected aortic dissection.
+
+Nitroprusside is also a potent vasodilator that can cause reflex sympathetic stimulation; however, due to a short half-life and relative ease in titration, it is the preferred drug for additional blood pressure control in patients with acute aortic dissection who have persistent SBP elevation despite initial antihypertensive therapy.  In such patients, nitroprusside (typically administered for SBP >120 mm Hg) should be given only after adequate beta blockade due to the risk of reflex sympathetic stimulation.
 
 An algorithm for the management of acute ascending aortic dissections is shown in **[Figure 43](https://mksap18.acponline.org/app/topics/cv/figures/mk18_a_cv_f43)**. Referral for emergency surgery should be considered in all patients with acute aortic dissection and cardiogenic shock, patients with type A aortic dissection, and patients with type A intramural hematoma, given the very high mortality rate associated with these conditions. Decisions regarding concomitant aortic arch reconstruction, aortic valve replacement, branch vessel repair, and/or coronary artery bypass graft surgery or coronary artery reimplantation depend on the anatomy of the aortic dissection, involvement of the aortic valve or branch vessels, and various other patient characteristics.
 

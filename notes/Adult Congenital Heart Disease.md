@@ -170,6 +170,10 @@ Patients with previous PS intervention (balloon or surgical) often have severe p
 
 ## Aortic Coarctation
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220814162644.png)
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220814162625.png)
+
 ### Pathophysiology
 
 ==Aortic coarctation== is a discrete narrowing of the aorta, usually located just beyond the left subclavian artery, causing hypertension proximal and hypotension distal to the narrowing.

@@ -140,7 +140,20 @@ G6PD evaluation involves a fluorescent spot test used to detect NADPH. A positiv
 
 Typical management of G6PD deficiency includes recognition and diagnosis of the disorder and avoidance of offending agents. During hemolytic episodes, treatment is supportive, with transfusion reserved only for severely symptomatic patients.
 
-Other less common enzyme defects leading to congenital hemolysis include enzyme deficiencies in the glycolytic pathway, pyruvate kinase deficiency, and aldolase A deficiency.
+## Other less common enzyme defects leading to congenital hemolysis include enzyme deficiencies in the glycolytic pathway, pyruvate kinase deficiency, and aldolase A deficiency.
+
+The onset of acute hemolysis after treatment with TMP-SMX, negative direct and indirect anti-globulin (Coombs’) test, and the presence of “bite cells” on peripheral smear is consistent with a diagnosis of glucose-6-phosphate dehydrogenase (G6PD) deficiency.
+
+G6PD deficiency, an X-linked disorder, is the most common enzymatic disorder of erythrocytes and is seen in the African American and Mediterranean populations.  Oxidative stress is commonly induced by:
+
+1. Medications (e.g., dapsone, antimalarials, sulfonamide antibiotics)
+2. Favism (ingestion of fresh fava beans; common in G6PD Mediterranean)
+3. Infections
+4. Metabolic abnormalities (e.g., **diabetic ketoacidosis**)
+
+Typically, patients present two to four days after an oxidatively stressful event with evidence of hemolysis (e.g., 3-4 g/dL drop in hemoglobin concentration) with a concomitant rise in reticulocytes.  In this process, the older deficient RBCs are replaced by the younger cells, which have sufficient G6PD enzyme activity to sustain further oxidative damage without hemolysis.  Additional laboratory findings include elevated lactate dehydrogenase and indirect bilirubin, and decreased haptoglobin.  The peripheral smear also shows "bite" cells (black arrows in above figure).  Since reticulocytes can have normal G6PD levels, measuring G6PD levels during an acute episode can produce normal results.  If a false negative is suspected, it is recommended to recheck the G6PD level 2 to 3 months after the hemolytic episode.
+
+## The main treatment for G6PD deficiency is avoidance of oxidative stressors; and rarely, if the anemia is severe enough, a blood transfusion.
 
 #### Sickle Cell Syndromes
 
@@ -156,7 +169,7 @@ Painful vaso-occlusive events are the hallmark of SCD. The frequency and severit
 
 Two new treatments to prevent painful crisis have recently been approved. Oral L-glutamine, a precursor of nicotinamide adenine dinucleotide (NAD), is necessary to form the antioxidant NADH. It is believed that sickle cell crises are partially related to oxidant stress. A randomized trial in patients receiving L-glutamine showed benefit with reduction in the number of sickle cell crises. Similarly, the recently approved P-selectin inhibitor, crizanlizumab, has been shown to reduce painful crises by preventing cellular adhesion.
 
-Pulmonary complications are a common source of morbidity and mortality in patients with SCD. Acute chest syndrome (ACS) is a clinical diagnosis based on the constellation of fever (>38.6 °C \[101.5 °F]), tachypnea, hypoxia, cough, shortness of breath, and a new pulmonary infiltrate. ACS can be the result of infection, in situ thrombosis, thromboembolism, fat embolism, or a combination of these factors. In addition to supportive measures, including oxygen to treat hypoxia and the use of empiric antibiotics to treat infection, patients with ACS require erythrocyte transfusion, either with packed red blood cells (PRBCs) or as exchange transfusion. In addition to ACS, pulmonary hypertension is a recognized complication of SCD found in up to 30% of patients, typically presenting as worsening right heart failure. Although associated with increased mortality, the appropriate management of pulmonary hypertension in patients with SCD has not been determined. Phosphodiesterase inhibitors, such as sildenafil, have been associated with increased painful crises.
+Pulmonary complications are a common source of morbidity and mortality in patients with SCD. Acute chest syndrome (ACS) is a clinical diagnosis based on the constellation of fever (>38.6 °C [101.5 °F]), tachypnea, hypoxia, cough, shortness of breath, and a new pulmonary infiltrate. ACS can be the result of infection, in situ thrombosis, thromboembolism, fat embolism, or a combination of these factors. In addition to supportive measures, including oxygen to treat hypoxia and the use of empiric antibiotics to treat infection, patients with ACS require erythrocyte transfusion, either with packed red blood cells (PRBCs) or as exchange transfusion. In addition to ACS, pulmonary hypertension is a recognized complication of SCD found in up to 30% of patients, typically presenting as worsening right heart failure. Although associated with increased mortality, the appropriate management of pulmonary hypertension in patients with SCD has not been determined. Phosphodiesterase inhibitors, such as sildenafil, have been associated with increased painful crises.
 
 Stroke and other central nervous system disease remain major complications of SCD. Approximately 30% of patients with Hb SS, Hb SC, or Sβ+-thalassemia can have silent or symptomatic strokes. Monthly transfusion begun after a stroke can reduce the incidence of subsequent stroke by 50% but carries the risk of iron overload necessitating iron chelation. Hydroxyurea may also help in stroke prevention. In addition to thrombotic stroke, patients with SCD can have moyamoya disease (irregular perforating vascular networks near occluded or stenotic vessels in the region corresponding to lenticulostriate and thalamoperforate arteries) predisposing to cerebral bleeding in the third and fourth decade of life. Adults with SCD have lower cognitive function than healthy adults, perhaps secondary to silent ischemia or chronic anemia. It is unclear whether such cognitive decline can be prevented.
 

@@ -154,7 +154,10 @@ JPS is caused by mutations in the _BMPR1A_ and _SMAD4_ genes. It has an incidenc
 
 PJS is caused by mutations in the _STK11_ gene. Its incidence is approximately 1 in 200,000 live births. PJS hamartomas are found primarily in the small bowel but can also develop in the stomach and colon (**[Figure 28](https://mksap18.acponline.org/app/topics/gi/figures/mk18_a_gi_f28)**). PJS is also characterized by hyperpigmented mucocutaneous macules on the lips and buccal mucosa (**[Figure 29](https://mksap18.acponline.org/app/topics/gi/figures/mk18_a_gi_f29)**).
 
-Small bowel hamartomas develop at a young age in patients with PJS, and may present with intussusception, obstruction and bleeding. Patients with PJS have increased risk for cancer in the colon, stomach, small bowel, breast, ovary, cervix, uterus, testicles, lung, and pancreas.
+![](https://photos.thisispiggy.com/file/wikiFiles/20220812202337.png)
+Peutz-Jeghers syndrome is associated with multiple hamartomatous polyps in the gastrointestinal tract and distinctive mucocutaneous pigmentations. The pigmented lesions occur most commonly on the lips and perioral region but can also occur on the nose, perianal area, and genitals.
+
+Small bowel hamartomas develop at a young age in patients with PJS, and may present with intussusception, obstruction and bleeding. Patients with PJS have ==increased risk for cancer== in the colon, stomach, small bowel, breast, ovary, cervix, uterus, testicles, lung, and pancreas.
 
 #### _PTEN_ Hamartoma Syndrome
 

@@ -720,7 +720,7 @@ Early in the course of Hashimoto thyroidis, hyperthyroidism may occur as thyroid
 Increased risk of developing:
 Other autoimmune diseases, for example:
 
-- Primary thyroid lymphoma, particularly **B-cell non-Hodgkin lymphomas** (extranodal marginal zone lymphomas of mucosa-associated lymphoid tissue \[MALT] type).
+- Primary thyroid lymphoma, particularly **B-cell non-Hodgkin lymphomas** (extranodal marginal zone lymphomas of mucosa-associated lymphoid tissue [MALT] type).
 - Type 1 Diabetes Mellitus
 - Systemic Lupus Erythematosus
 - Sjögren’s syndrome

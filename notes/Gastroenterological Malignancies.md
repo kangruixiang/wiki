@@ -126,7 +126,7 @@ Given the indolent nature of NETs, observation and serial imaging are appropriat
 
 In tumors with somatostatin receptors, the somatostatin analogs octreotide or lanreotide may be used for hormonal control or for stabilization of progressing disease. Hepatic arterial embolization, radiofrequency ablation, or surgical debulking are sometimes used to decrease hormone production or to relieve symptoms of tumor bulk.
 
-When treatment is needed, pancreatic NETs can be treated with temozolamide plus capecitabine, or sunitinib (an anti-VEGF tyrosine kinase inhibitor), or everolimus (a mammalian target of rapamycin \[mTOR] inhibitor). Everolimus has more modest activity in gastrointestinal NETs, but the other agents used for pancreatic NETs are inactive in gastrointestinal NETs.
+When treatment is needed, pancreatic NETs can be treated with temozolamide plus capecitabine, or sunitinib (an anti-VEGF tyrosine kinase inhibitor), or everolimus (a mammalian target of rapamycin [mTOR] inhibitor). Everolimus has more modest activity in gastrointestinal NETs, but the other agents used for pancreatic NETs are inactive in gastrointestinal NETs.
 
 ## Gastrointestinal Stromal Tumors
 

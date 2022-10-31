@@ -8,7 +8,7 @@ date: 2020-09-07
 
 <!-- pediatric foreign body aspiration management, which ones to treat -->
 
-- Obtain **2-view** (posteroanterior \[PA] and lateral) neck and chest x-ray top confirm the location of the foreign body
+- Obtain **2-view** (posteroanterior [PA] and lateral) neck and chest x-ray top confirm the location of the foreign body
 	- an esophageal coin appears linear on lateral x-ray; a tracheal coin appears linear (project on end) in the PA view.
 - Xray also distinguishes between a coin and battery (the latter can cause perforation in just a few hours).
 	- A coin is seen in this patient's x-ray as a **homogenous** object with a **sharp, crisp edge**; the bilaminar structure of a button battery causes a "double-ring" sign.

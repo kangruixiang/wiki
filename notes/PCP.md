@@ -10,9 +10,10 @@ date: 2020-10-26
 
 _Pneumocystis jirovecii_ pneumonia:
 
-- usually presents as a subacute illness with fever, dyspnea, and dry cough in a patient with a CD4 cell count less than 200/µL who is not receiving prophylaxis.
-- Chest radiographs most often show bilateral interstitial infiltrates; cavitation or pleural effusion is unusual and suggests another diagnosis. A normal chest radiograph does not exclude the diagnosis, and chest CT is more sensitive, demonstrating patchy “ground-glass” opacities.
-- Normal lactate dehydrogenase levels and stable exercise oxygen saturation have a high negative predictive value, but elevated lactate dehydrogenase levels and oxygen desaturation with exercise are nonspecific.
+- usually presents as a subacute illness with ==fever, dyspnea, and dry cough== in a patient with a CD4 cell count less than 200/µL who is not receiving prophylaxis.
+- Chest radiographs most often show ==bilateral interstitial infiltrates==; cavitation or pleural effusion is unusual and suggests another diagnosis. A normal chest radiograph does not exclude the diagnosis, and chest CT is more sensitive, demonstrating patchy “ground-glass” opacities.
+- The most commonly described **radiographic** appearance in PCP is interstitial infiltrates (unilateral, bilateral, or diffuse), although a normal chest x-ray can be seen.  **Thin-walled cavitary** lesions may be present.  Spontaneous **pneumothorax** develops in approximately 5% of PCP patients.  Pneumothorax is thought to develop primarily in the setting of rupture of cystic lesions that may be present in active disease or remaining from an earlier infection.
+- ==Normal lactate dehydrogenase== levels and stable exercise oxygen saturation have a ==high negative predictive value==, but elevated lactate dehydrogenase levels and oxygen desaturation with exercise are nonspecific.
 - Diagnosis depends on demonstration of causative organisms and often requires bronchoscopy.
 - The treatment of choice is high-dose trimethoprim-sulfamethoxazole; patients who are hypoxic at presentation should be given adjunctive glucocorticoids to prevent the worsening that may accompany initiation of treatment.
 

@@ -10,6 +10,8 @@ date: 2022-08-03
 
 Diffuse parenchymal lung diseases (DPLDs) are a group of disorders based on similar clinical, radiographic, physiologic, and pathologic changes that affect the alveolar walls and often the related small airways and distal pulmonary vasculature. Like other lung diseases, these disorders present primarily with shortness of breath. Imaging studies will typically demonstrate bilateral rather than unilateral lung disease. Although COPD and pulmonary hypertension affect the distal airways and vasculature, these are excluded from the category of DPLD.
 
+- [[cryoptogenic organizing pneumonia]]
+
 ## Classification and Epidemiology
 
 Although there are hundreds of disorders that can present with diffuse parenchymal lung disease, they are typically divided into those with a known cause or those which are idiopathic (**[Table 12](https://mksap18.acponline.org/app/topics/pm/tables/mk18_b_pm_t12)**). The updated classification of idiopathic interstitial pneumonia will be discussed below. A thorough history that defines the time course is a critical first step in making the diagnosis.
@@ -99,14 +101,6 @@ The most common cause of death in patients with IPF is respiratory failure. In p
 ### Nonspecific Interstitial Pneumonia
 
 ==Nonspecific interstitial pneumonia== (NSIP) is the most common DLPD associated with ==autoimmune disorders==, but it can occasionally be ==idiopathic== and not associated with an underlying connective tissue disease. There are two forms of NSIP: ==cellular and fibrotic==. The fibrotic form has a worse prognosis and is poorly responsive to treatment. The cellular form has a better prognosis and will typically respond to immunosuppressive treatments. Although the overall prognosis is better than for IPF, the 5-year mortality of idiopathic NSIP remains approximately 15% to 25%. Individuals with progressive decline in pulmonary function are at increased risk of death regardless of the underlying pathology. Similar to IPF, select patients may benefit from ==lung transplantation==. NSIP affects a younger population than IPF. HRCT will demonstrate ==bilateral lower-lobe reticular changes== and an ==absence of honeycombing==, but can also demonstrate areas of ==ground-glass opacification==. These findings on HRCT have been associated with systemic sclerosis, systemic lupus erythematosus, Sjögren's syndrome, dermatomyositis, and polymyositis, as well as undifferentiated connective tissue disease. Because idiopathic NSIP is rare, a thorough investigation for an underlying autoimmune disorder is essential. NSIP was common in patients with AIDS in the pre-antiretroviral therapy era; however, it is much less common since the advent of antiretroviral therapy.
-
-### Cryptogenic Organizing Pneumonia
-
-Organizing pneumonia is defined by histopathologic findings of patchy proliferation of granulation tissue that affects the terminal bronchiole, and alveolar ducts and spaces, and is associated with surrounding inflammation. This pattern often follows or is associated with various types of injury to the lung, including acute infection, radiation exposure, drug-induced pneumonitis, and autoimmune diseases. In patients in whom no cause is identified, the diagnosis is termed cryptogenic organizing pneumonia (COP).
-
-Patients with COP typically present with cough, fever, and malaise for 6 to 8 weeks. Initial chest radiographs will demonstrate patchy opacities that mimic pneumonia and, as a result, patients are often initially misdiagnosed with community-acquired pneumonia and treated with standard antibiotics (**[Figure 7](https://mksap18.acponline.org/app/topics/pm/figures/mk18_b_pm_f07)**). However, nonresolving symptoms and failure to respond to antibiotics should raise suspicion for organizing pneumonia or COP. HRCT imaging will demonstrate ground-glass opacities or areas of alveolar consolidation resembling an infectious pneumonia, but findings can include peripheral nodules and nodules along the bronchovascular bundle. The diagnosis may not require lung biopsy if the clinical presentation and HRCT findings are consistent with COP. For cases with atypical presentation, lung biopsy may be necessary to make the diagnosis.
-
-Patients with COP typically respond to glucocorticoid therapy. In organizing pneumonia associated with an autoimmune disorder, treatment should focus on the autoimmune condition. Relapses of COP with tapering of glucocorticoids are common, and therefore a long taper of glucocorticoids or transition to alternate immunosuppressive therapy should be considered.
 
 ### Acute Interstitial Pneumonia
 

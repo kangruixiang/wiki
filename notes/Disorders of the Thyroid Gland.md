@@ -93,6 +93,8 @@ Measurement of T3 is recommended in three settings: (1) in the evaluation of thy
 
 There is ==no clinical indication to assess reverse T3 levels==, and thus it is not recommended.
 
+T3 is produced primarily by deiodination of T4 in peripheral tissues.  Serum T3 levels (total and free) correlate poorly with overall thyroid physiologic status and are less reliable than T4, although they are occasionally used in the evaluation of hyperthyroidism in patients with normal T4 levels, in those with alterations in thyroid-binding proteins, or in those with euthyroid sick syndrome.  T3 has a shorter half-life than T4, and liothyronine (T3) therapy can lead to fluctuations in physiologic status and increased risk of thyrotoxicosis.  Studies have not shown superiority of combined replacement over levothyroxine (T4) alone.
+
 ## Disorders of Thyroid Function
 
 ### Thyroid Hormone Excess (Hyperthyroidism and Thyrotoxicosis)
@@ -147,7 +149,7 @@ Thyrotoxicosis is present in about 50% of cases in the early phases of the disea
 
 Most thyrotoxic patients benefit from β-blockers (atenolol, metoprolol, propranolol) to reduce adrenergic symptoms rapidly. Propranolol decreases the peripheral conversion of T4 to T3, but is non-cardioselective and requires twice or three times daily dosing. Atenolol and metoprolol are preferred owing to once-daily dosing that increases adherence and their cardioselective nature that decreases central nervous system side effects.
 
-There are three treatment modalities for hyperthyroidism: thioamides (methimazole and propylthiouracil \[PTU]), radioactive iodine (131I) ablative therapy, and thyroidectomy. The choice of treatment is predicated on the cause of the hyperthyroidism and patient preference. Short-term use of methimazole to normalize thyroid function prior to 131I therapy or thyroidectomy is recommended for patients 65 years of age or older or who have prevalent cardiovascular disease or multiple comorbidities. Referral to an endocrinologist is recommended.
+There are three treatment modalities for hyperthyroidism: thioamides (methimazole and propylthiouracil [PTU]), radioactive iodine (131I) ablative therapy, and thyroidectomy. The choice of treatment is predicated on the cause of the hyperthyroidism and patient preference. Short-term use of methimazole to normalize thyroid function prior to 131I therapy or thyroidectomy is recommended for patients 65 years of age or older or who have prevalent cardiovascular disease or multiple comorbidities. Referral to an endocrinologist is recommended.
 
 ##### Graves Disease
 
@@ -183,7 +185,7 @@ Thyroid hormone deficiency affects more than 10 million Americans. It is 10 time
 
 Signs and symptoms of thyroid hormone deficiency are listed in **[Table 35](https://mksap18.acponline.org/app/topics/en/tables/mk18_b_en_t35)**. Thyroid hormone deficiency is also associated with laboratory abnormalities including anemia, elevated LDL cholesterol, and hyponatremia.
 
-The diagnosis of primary hypothyroidism is made by measuring serum TSH, and if elevated, measuring free T4, which can be added on in most laboratories. Serum TSH is elevated in both overt and subclinical hypothyroidism, but free T4 is normal when subclinical and low in overt hypothyroidism. Thyroid autoantibodies \[thyroid peroxidase (TPO) antibodies] are present in most patients with Hashimoto thyroiditis; however, measurement of TPO antibody titer is not necessary unless the diagnosis is unclear. The diagnosis of hypothyroidism is discussed elsewhere (see [Disorders of the Pituitary Gland](https://mksap18.acponline.org/app/topics/en/mk18_b_en_s2/mk18_b_en_s2_3_3)).
+The diagnosis of primary hypothyroidism is made by measuring serum TSH, and if elevated, measuring free T4, which can be added on in most laboratories. Serum TSH is elevated in both overt and subclinical hypothyroidism, but free T4 is normal when subclinical and low in overt hypothyroidism. Thyroid autoantibodies [thyroid peroxidase (TPO) antibodies] are present in most patients with Hashimoto thyroiditis; however, measurement of TPO antibody titer is not necessary unless the diagnosis is unclear. The diagnosis of hypothyroidism is discussed elsewhere (see [Disorders of the Pituitary Gland](https://mksap18.acponline.org/app/topics/en/mk18_b_en_s2/mk18_b_en_s2_3_3)).
 
 #### Causes
 

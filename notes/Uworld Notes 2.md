@@ -49,7 +49,7 @@ CTLA-4 also binds to B7 but has an inhibitory function on activated T cells.
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/L27200.jpg)
 
-Programmed death receptor 1 (**PD-1**) is expressed on the surface of activated T cells.  It binds to its ligand, programmed death ligand 1 (PD-L1), downregulating the immune response against tumor cells primarily by **inhibiting cytotoxic T cells** (similar to cytotoxic T lymphocyte-associated protein 4 \[CTLA-4]).  Many types of cancer cells evade the immune system by increasing expression of PD-L1.  **Monoclonal antibodies against PD-1** have been developed that prevent the binding of PD-1 to PD-L1; this **blocks T cell inhibition**, thereby restoring the cytotoxic response and **promoting apoptosis** of tumor cells.  Anti-PD-1 therapy is used in advanced melanoma and certain types of lung cancer.
+Programmed death receptor 1 (**PD-1**) is expressed on the surface of activated T cells.  It binds to its ligand, programmed death ligand 1 (PD-L1), downregulating the immune response against tumor cells primarily by **inhibiting cytotoxic T cells** (similar to cytotoxic T lymphocyte-associated protein 4 [CTLA-4]).  Many types of cancer cells evade the immune system by increasing expression of PD-L1.  **Monoclonal antibodies against PD-1** have been developed that prevent the binding of PD-1 to PD-L1; this **blocks T cell inhibition**, thereby restoring the cytotoxic response and **promoting apoptosis** of tumor cells.  Anti-PD-1 therapy is used in advanced melanoma and certain types of lung cancer.
 
 # Anal Fissures
 
@@ -604,7 +604,7 @@ This patient with acute pruritus following administration of morphine most likel
 
 # CFR
 
-**Case-fatality rate** (CFR) is a measure of the **severity of a disease** or condition.  It is defined as the **proportion** of reported cases of a specific disease or condition (eg, methicillin-resistant _S aureus_,  \[MRSA]) that are **fatal** within the population affected by the disease or condition over a specific time.  The CFR can be calculated as the number of fatal cases of disease or condition divided by the total number of people with the disease or condition.
+**Case-fatality rate** (CFR) is a measure of the **severity of a disease** or condition.  It is defined as the **proportion** of reported cases of a specific disease or condition (eg, methicillin-resistant _S aureus_,  [MRSA]) that are **fatal** within the population affected by the disease or condition over a specific time.  The CFR can be calculated as the number of fatal cases of disease or condition divided by the total number of people with the disease or condition.
 
 In this scenario, 40 fatal and 70 nonfatal cases of MRSA infection are reported.  Therefore, the CFR is:
 

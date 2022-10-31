@@ -4,7 +4,7 @@ date: 2020-09-07
 
 # polymyalgia rheumatica
 
-- Related: [[Step 3]], [[Allergy and Immunology]]
+- Related: [[Step 3]], [[Allergy and Immunology]], [[fibromyalgia vs polymyositis vs polymyalgia rheumatica]]
 - tags: #rheumatology
 ---
 

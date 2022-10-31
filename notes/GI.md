@@ -34,6 +34,7 @@ date: 2020-09-07
 - [[esophageal perforation]]
 - [[triglyceride induced pancreatitis]]
 - [[approach to abnormal liver enzymes, transaminitis]]
+- [[endoscopic biopsies for H Pylori infection to rule out gastric cancers]]
 
 ## Lower GI
 
@@ -41,6 +42,7 @@ date: 2020-09-07
 - [[abdominal pain following colonoscopy with biopsy can be sign of perforation]]
 - [[colon cancer screening]]
 - [[Chronic mesenteric ischemia]]
+- [[colonic ischemia vs small bowel ischemia]]
 - [[AVM]]
 - [[Celiac Disease]]
 - [[acute diarrhea]]
@@ -56,6 +58,8 @@ date: 2020-09-07
 - [[metformin reduces b12 absorption]]
 - [[Ogilvie syndrome aka colonic pseudoobstruction]]
 - [[volvulus]]
+- [[ulcerative colitis flare]]
+- [[small intestinal bacterial overgrowth]]
 
 ## ID
 
@@ -67,7 +71,7 @@ date: 2020-09-07
 - [[liver ultrasound]]
 - [[splenic vein thrombosis]]
 - [[portal vein thrombosis]]
-- [[PSC]]
+- [[PSC primary sclerosing cholangitis]]
 - [[PBC]]
 - [[acute pancreatitis]]
 - [[autoimmune pancreatitis]]
@@ -84,3 +88,4 @@ date: 2020-09-07
 - [[sbp]]
 - [[cirrhosis]]
 - [[alcoholic hepatitis]]
+- [[HCC hepatocellular carcinoma]]

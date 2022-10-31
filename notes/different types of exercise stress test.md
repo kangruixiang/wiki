@@ -22,4 +22,10 @@ This patient has probable but not classic chest pain and an **intermediate prete
 
 Current guidelines recommend an exercise electrocardiogram (ECG) stress test without imaging as the preferred initial test in most patients with an intermediate pretest probability of CHD as the test also provides useful information about symptoms, functional capacity, and hemodynamic response to exercise.  However, ST-segment changes during exercise ECG testing provide no diagnostic information in patients with paced ventricular rhythm or underlying left bundle branch block (LBBB).  Also, a paced ventricular rhythm produces false-positive perfusion defects on exercise radionuclide myocardial perfusion imaging.  In such patients, pharmacologic radionuclide imaging (with adenosine, dipyridamole, or regadenoson) is preferred for evaluation of suspected CHD.
 
-In patients with paced ventricular rhythm, a resting echocardiogram shows paradoxical septal motion due to early activation of the right ventricle.  These findings can become more pronounced with exercise and lead to false-positive abnormalities.
+## In patients with paced ventricular rhythm, a resting echocardiogram shows paradoxical septal motion due to early activation of the right ventricle.  These findings can become more pronounced with exercise and lead to false-positive abnormalities.
+
+## Stress test positive findings
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220814163645.png)
+
+Exercise ECG stress testing provides both diagnostic and prognostic information in patients with suspected coronary artery disease.  Positive stress test findings, noted in the table, are often associated with poor outcomes if not treated.  This patient was found to have ST depression in multiple leads during peak stress but no evidence of ischemia on radionuclide myocardial perfusion imaging.  This is suggestive of the presence of balanced ischemia.  Balanced ischemia is present when coronary flow is equally or nearly equally impaired.  As a result, the pattern of perfusion on the radionuclide myocardial image appears mostly homogenous, creating a false negative.  Therefore, the next step in management is to proceed with coronary angiography to look for significant multivessel obstructive coronary artery disease.

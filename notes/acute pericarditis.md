@@ -4,7 +4,7 @@ date: 2020-09-07
 
 # acute pericarditis
 
-- related: [[Cardiology]]
+- related: [[Cardiology]], [[myocarditis myopericarditis]]
 - tags: #cardiology
 ---
 

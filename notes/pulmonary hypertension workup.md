@@ -12,7 +12,7 @@ date: 2022-08-06
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220806110302.png)
 
-This patient has progressive dyspnea, exercise intolerance, and chronic right ventricular (RV) pressure overload seen on echocardiography (ie, RV hypertrophy, elevated pulmonary artery systolic pressure \[PASP]).  This presentation is suggestive of **pulmonary hypertension** (PH).
+This patient has progressive dyspnea, exercise intolerance, and chronic right ventricular (RV) pressure overload seen on echocardiography (ie, RV hypertrophy, elevated pulmonary artery systolic pressure [PASP]).  This presentation is suggestive of **pulmonary hypertension** (PH).
 
 Evaluation of patients with suspected PH begins with resting echocardiography.  If PASP is normal but PH remains clinically suspicious, exercise echocardiography can accentuate the hemodynamic changes.  If PASP is elevated (eg, ≥50 mm Hg), PH is likely.  A thorough history, examination, and select diagnostic tests are performed to ascertain the etiology and classify the PH.
 
@@ -38,8 +38,6 @@ Chronic thromboembolic PH **(CTEPH)** (group 4):  In approximately 2% of patien
 
 Because pulmonary **thromboendarterectomy surgery** is potentially curative, a correct diagnosis is essential.  **Ventilation-perfusion scanning** is the test of choice for CTEPH because it is the most sensitive method for detecting distal subsegmental perfusion defects.  CT pulmonary angiography is more accurate for visualization of fresh segmental pulmonary emboli but is often obtained in patients with confirmed CTEPH to identify those with favorable operative disease **(Choice A)**.
 
-Patients with CTEPH have a history of venous thromboembolism that may be in the distant past and may even have recurrent emboli.  Unresolved thromboembolism (eg, despite a course of anticoagulation) is likely due to an underlying **hypercoagulable** state coupled with failure of endogenous fibrinolysis.  Therefore, patients should also receive lifelong **anticoagulation**.
-
----
+## Patients with CTEPH have a history of venous thromboembolism that may be in the distant past and may even have recurrent emboli.  Unresolved thromboembolism (eg, despite a course of anticoagulation) is likely due to an underlying **hypercoagulable** state coupled with failure of endogenous fibrinolysis.  Therefore, patients should also receive lifelong **anticoagulation**.
 
 ## Medications

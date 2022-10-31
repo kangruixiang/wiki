@@ -10,7 +10,7 @@ date: 2021-02-13
 
 **Tumor lysis syndrome (TLS)** occurs when a ==large tumor burden undergoes rapid destruction== with release of its intracellular contents into the bloodstream.  Resulting electrolyte and metabolic abnormalities can cause ==acute kidney injury== (eg, ==calcium-phosphate precipitation== in renal tubules), ==arrhythmias== (eg, ==calcium-phosphate precipitation in the heart==), ==seizures==, and possible sudden ==cardiac death==.  TLS is defined by >**2** of the following:
 
-- Uric acid >8.0 mg/dL (or 25% ↑ in baseline value \[BV])
+- Uric acid >8.0 mg/dL (or 25% ↑ in baseline value [BV])
 - Potassium >6.0 mEq/L (or 25% ↑ in BV)
 - Phosphorus >4.5 mg/dL (or 25% ↑ in BV)
 - Calcium <7.0 mg/dL (or 25% ↓ in BV)
@@ -21,11 +21,22 @@ Although this high-risk patient (with acute myeloblastic leukemia with leukocyto
 
 ==Allopurinol inhibits xanthine oxidase to prevent formation of uric acid== and ==requires 3-4 days to become fully effective==; it does not lower the preexisting uric acid levels.  Regardless, this patient's uric acid level has already decreased, indicating that rasburicase was effective and should be continued.
 
+Treatment includes aggressive IV fluids (with or without a loop diuretic) and **urgent hemodialysis** in severe cases.  Commonly accepted indications for initiating short-term hemodialysis in patients with TLS include the following:
+
+- **Calcium phosphate product ≥70 mg****2****/dL\*\*\*\*2** (87 in this patient)
+- Symptomatic hypocalcemia
+- Persistent hyperkalemia
+- Severe oliguria or anuria
+
+Early initiation of hemodialysis portends an excellent prognosis for renal recovery.
+
 TLS
 
 - LDH high: inside malignant cells, aerobic glycolysis
 - ppx: allopurinol
 - treatment: rasburicase
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220813201735.png)
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220707075658.png)
 

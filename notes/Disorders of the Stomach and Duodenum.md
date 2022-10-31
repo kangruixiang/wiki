@@ -58,7 +58,7 @@ Complications of PUD include bleeding, perforation, and obstruction. PUD is the 
 
 Following confirmation of uncomplicated PUD by upper endoscopy, _H. pylori_ infection should be treated if identified and eradication confirmed after treatment. If _H. pylori_ testing is negative, a once-daily PPI should be initiated and any agent causing PUD (such as an NSAID) should be discontinued. Testing that is completed in the acute setting and has negative results should be repeated after discharge.
 
-In patients with bleeding PUD, risk factors that increase the risk for recurrent bleeding and death include tachycardia, hypotension, age older than 60 years, hemoglobin level less than 7 g/dL (70 g/L) (8 g/dL \[80 g/L] in patients with cardiovascular disease), and comorbid illness. Interventions to address the modifiable risks should be pursued before upper endoscopy.
+In patients with bleeding PUD, risk factors that increase the risk for recurrent bleeding and death include tachycardia, hypotension, age older than 60 years, hemoglobin level less than 7 g/dL (70 g/L) (8 g/dL [80 g/L] in patients with cardiovascular disease), and comorbid illness. Interventions to address the modifiable risks should be pursued before upper endoscopy.
 
 Upper endoscopy should be performed within 24 hours. The use of PPIs before upper endoscopy reduces the need for endoscopic therapy only in patients with high-risk ulcer findings. An intravenous dose of erythromycin 30 minutes before upper endoscopy may reduce the need for repeat endoscopy by improving gastroduodenal visualization; however, it should not be done routinely, but rather when requested by the endoscopist. Nasogastric tube placement is not required before upper endoscopy.
 
@@ -129,7 +129,9 @@ After an NSAID-induced bleeding peptic ulcer, the safest strategy is avoidance o
 ## Gastroparesis
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220805093115.png)
-This patient's presentation (postprandial reflux, vomiting, succussion splash) is most consistent with **impaired gastric emptying**, which can be due to the following:
+![](https://photos.thisispiggy.com/file/wikiFiles/20220810200539.png)
+
+This patient's presentation (postprandial reflux, vomiting, ==succussion splash==) is most consistent with **impaired gastric emptying**, which can be due to the following:
 
 - Gastric dysmotility (eg, gastroparesis)
 - Gastric outlet obstruction (eg, pancreatic cancer compressing the stomach, gastric polyp, stricture from peptic ulcer disease)

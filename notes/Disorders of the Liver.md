@@ -10,6 +10,8 @@ date: 2022-04-28
 
 ## Approach to the Patient with Abnormal Liver Chemistry Studies
 
+- [[HCC hepatocellular carcinoma]]
+
 Basic metabolic panels commonly include liver chemistry tests. Liver chemistry tests are often abnormal (10% to 20% of the time); therefore, it is important to take a systematic approach to their evaluation. The patterns of the elevations of liver tests can be used to group causes into categories; however, these patterns are not specific. Elevations of aspartate aminotransferase (AST) and alanine aminotransferase (ALT) levels represent hepatic parenchymal inflammation. Elevated ALT levels are more specific for hepatic inflammation because AST is also found in other tissues such as heart and muscle.
 
 Elevations in alkaline phosphatase (ALP) and bilirubin levels result from inflammation of the biliary tree or bile flow abnormalities. ALP is also produced in bone and placenta and high levels are seen in pregnancy. Elevation of ALP and other liver chemistries typically reflects liver injury. Fractionation of ALP levels can be performed to determine the source of elevation. Bilirubin can be divided into conjugated and unconjugated forms. Elevation of conjugated bilirubin reflects a liver disorder, whereas elevation of unconjugated bilirubin is seen in hematological disease or in benign alterations of bilirubin conjugation, such as Gilbert syndrome.
@@ -149,7 +151,7 @@ Alcohol-induced liver disease is the second most common reason for liver transpl
 
 Manifestations of alcoholic hepatitis include fever, jaundice, tender hepatomegaly, and leukocytosis. Ultrasound or cross-sectional imaging may reveal evidence of steatosis, cirrhosis, and findings consistent with portal hypertension. The diagnosis is most often made clinically, with liver biopsy reserved for cases with diagnostic uncertainty. Severity of alcoholic hepatitis is determined by the Maddrey discriminant function (MDF) score, which is calculated as follows:
 
-MDF score = 4.6 (prothrombin time \[s] – control prothrombin time \[s]) + total bilirubin (mg/dL)
+MDF score = 4.6 (prothrombin time [s] – control prothrombin time [s]) + total bilirubin (mg/dL)
 
 In severe cases, as defined by an MDF score of 32 or greater or the presence of hepatic encephalopathy, treatment with prednisolone is recommended by the American College of Gastroenterology (ACG) guideline. Use of the MDF score, however, can be limited by variability in prothrombin time measurement. The Model for End-Stage Liver Disease (MELD) score (<https://optn.transplant.hrsa.gov/resources/allocation-calculators/meld-calculator/>) can also be used to assess severity, with a MELD score greater than 20 suggesting moderate to severe disease. Contraindications to prednisolone include active infection, upper gastrointestinal bleeding, acute kidney injury, concomitant liver disease (especially HCV and HBV infections), and multiorgan failure.
 
@@ -189,7 +191,7 @@ Patients with acute liver failure require careful monitoring of mental status be
 
 <!-- ignore -->
 
-Nonalcoholic fatty liver disease (NAFLD) is the most common cause of liver disease in the world. Some 30% of the U.S. population may be affected by this condition. Most patients with NAFLD do not have liver inflammation. In these patients, the presence of fat in the liver without inflammation or fibrosis is considered a benign condition. Patients who have fatty liver with inflammation (nonalcoholic steatohepatitis \[NASH]) have progressive disease that can lead to fibrosis and cirrhosis. NAFLD usually develops due to the metabolic syndrome, leading to triglyceride accumulation within the liver. Consequently, the American Diabetes Association recommends that patients with type 2 diabetes or prediabetes and elevated ALT or fatty liver on ultrasound should be evaluated for NASH and liver fibrosis. The mechanisms by which patients with NAFLD develop NASH are not fully understood. Metabolic, genetic, and environmental factors likely play a role. Patients with NAFLD are often diagnosed by abdominal imaging. Ultrasound, CT, and MRI can detect the presence of hepatic fat. Symptoms of NAFLD are nonspecific and include fatigue and vague right-upper-quadrant abdominal pain. NASH is characterized by inflammation, risk for progressive fibrosis, and development of cirrhosis. NASH may affect 5% of the U.S. population. Mildly elevated hepatic transaminases are common in NASH. Unrecognized NASH is likely a major cause of cryptogenic cirrhosis.
+Nonalcoholic fatty liver disease (NAFLD) is the most common cause of liver disease in the world. Some 30% of the U.S. population may be affected by this condition. Most patients with NAFLD do not have liver inflammation. In these patients, the presence of fat in the liver without inflammation or fibrosis is considered a benign condition. Patients who have fatty liver with inflammation (nonalcoholic steatohepatitis [NASH]) have progressive disease that can lead to fibrosis and cirrhosis. NAFLD usually develops due to the metabolic syndrome, leading to triglyceride accumulation within the liver. Consequently, the American Diabetes Association recommends that patients with type 2 diabetes or prediabetes and elevated ALT or fatty liver on ultrasound should be evaluated for NASH and liver fibrosis. The mechanisms by which patients with NAFLD develop NASH are not fully understood. Metabolic, genetic, and environmental factors likely play a role. Patients with NAFLD are often diagnosed by abdominal imaging. Ultrasound, CT, and MRI can detect the presence of hepatic fat. Symptoms of NAFLD are nonspecific and include fatigue and vague right-upper-quadrant abdominal pain. NASH is characterized by inflammation, risk for progressive fibrosis, and development of cirrhosis. NASH may affect 5% of the U.S. population. Mildly elevated hepatic transaminases are common in NASH. Unrecognized NASH is likely a major cause of cryptogenic cirrhosis.
 
 There are no tests that can diagnose NASH as a cause of chronically elevated liver chemistries. Patients with elevated liver chemistries, a negative serological evaluation for alternative causes, clinical features of the metabolic syndrome, and characteristic abdominal imaging are presumed to have NASH. Low titers of autoantibodies are observed in 20% of patients with NAFLD. The NAFLD fibrosis score ([www.nafldscore.com](http://www.nafldscore.com)) uses clinical data to identify patients at risk for severe disease. Transient elastography can be used to determine whether patients with NASH have developed significant hepatic fibrosis. Liver biopsy is indicated when the diagnosis is in doubt, or if the presence of hepatic fibrosis cannot otherwise be determined.
 
@@ -221,44 +223,13 @@ Decompensated Wilson disease presents with ==Coombs-negative hemolytic anemia== 
 
 Treatment is lifelong and involves administration of copper chelators. Trientine is preferred over penicillamine due to a lower rate of adverse effects. Zinc supplements can be administered to decrease the intestinal absorption of copper.
 
-> \[!Note]
+> [!Note]
 > Young patient presenting with new jaundice, hemolytic anemia, high bili
 
 ## Cholestatic Liver Disease
 
-### Primary Biliary Cholangitis
-
-<!-- primary biliary cholangitis demographics, sx, dx b:538641649135-->
-
-Primary biliary cholangitis (PBC), previously termed primary biliary cirrhosis, is an ==autoimmune disease affecting the small and medium bile ducts== with a ==female to male predominance== of 9 to 1. It is more common in individuals of ==European descent==. PBC can present with ==fatigue and pruritus==, but many patients are ==asymptomatic==, with the diagnosis suggested by ==elevated ALP levels==. Diagnosis does not require liver biopsy when the ALP is at least 1.5 times the upper limit of normal and ==antimitochondrial antibody (AMA) testing== is positive, or when other PBC-specific autoantibodies, including sp100 or gp210, are present if antimitochondrial antibody testing is negative. In patients with negative antibody test results and strong suspicion for PBC, a ==liver biopsy is necessary==. ==Transient or MRI elastography== can be used for fibrosis staging.
-
-<!-- primary biliary cholangitis rx b:1597452335922-->
-
-The initial treatment is ==ursodeoxycholic acid==. Response to treatment is defined by ==improvement of ALP level== to less than 1.67 times the upper limit of normal. Patients whose disease does not respond to ursodeoxycholic acid should receive ==obeticholic acid==. Dose reductions are required for obeticholic acid use in patients with ==decompensated cirrhosis== to avoid worsening liver failure. Ursodeoxycholic acid treatment results in histologic improvement, better survival rates, and diminished need for liver transplantation. Patients who present with normal bilirubin and albumin levels and respond to treatment have a life expectancy similar to that of individuals without PBC.
-
-PBC is associated with other autoimmune conditions, particularly ==autoimmune thyroid disease==. Therefore, in patients with PBC, ==thyroid-stimulating hormone level== should be checked on a ==yearly basis==. In patients with a PBC score of 4.1 or greater, ==upper endoscopy== is indicated to assess for ==esophageal varices==. ==First-degree relatives== of patients with PBC, especially women, should be screened by ==checking their ALP level periodically==. Patients with advanced disease should be managed like other patients with cirrhosis and portal hypertension (see [Complications of Advanced Liver Disease](https://mksap18.acponline.org/app/topics/gi/mk18_a_gi_s6/mk18_a_gi_s6_10_1)). In addition, the American Association for the Study of Liver Diseases recommends screening for hepatocellular carcinoma with ==ultrasonography at 6-month intervals== for men and patients with cirrhosis. Patients should ensure dietary intake of 1000 to 1500 mg of ==calcium and 1000 IU of vitamin D daily==, with supplements if needed. Patients are at increased risk for ==osteoporosis==; appropriate screening and treatment with bisphosphonate therapy should be considered. Patients with ==elevated lipid levels== may be at risk for cardiovascular disease and can be considered for ==lipid-lowering therapy==. Fat-soluble vitamin deficiencies should be treated with parenteral or water-soluble supplements. Liver transplant outcomes for patients with PBC are excellent, with a 1-year survival rate greater than 90% and a recurrence rate of approximately 20% at 5 years after liver transplantation.
-
-### Primary Sclerosing Cholangitis
-
-<!-- PSC pathogenesis b:206694913956-->
-
-Primary sclerosing cholangitis (PSC) is an ==autoimmune fibroinflammatory disease of the large bile ducts==, but it can also affect the small bile ducts (small-duct PSC). It is more common in ==men than in women==, which is unique among the autoimmune liver diseases. PSC is associated with inflammatory bowel disease (IBD) in about 85% of cases; up to 7.5% of patients with ==ulcerative colitis== have PSC.
-
-<!-- PSC surveillance b:1147206092165-->
-
-All patients with PSC and without known IBD should have a ==colonoscopy at the time of PSC diagnosis==. Patients with concomitant IBD may have a unique PSC-IBD phenotype, characterized by rectal sparing, mild pancolitis, and backwash ileitis; this carries a higher risk for colon cancer, requiring colonoscopy with ==surveillance biopsies every 1 to 2 years==, as well as a higher risk for pouchitis after total colectomy.
-
-Patients with PSC have a ==15% lifetime risk for cholangiocarcinoma== and also have an ==increased risk for gallbladder cancer==. Surveillance for cholangiocarcinoma with CA 19-9 and ultrasonography or, preferably, MRCP should be completed every 6 to 12 months. The incidence of cholangiocarcinoma is highest in the first 2 years after diagnosis of PSC is made.
-
-<!-- PSC diagnosis, when to do ERCP b:630201229753-->
-
-The diagnosis of PSC can be made noninvasively through ==MR cholangiopancreatography== (MRCP) (**[Figure 31](https://mksap18.acponline.org/app/topics/gi/figures/mk18_a_gi_f31)**). ==Endoscopic retrograde cholangiopancreatography== (ERCP) should be considered in patients with ==jaundice, worsening pruritus, bacterial cholangitis==, or a dominant ==stricture or bile duct mass== seen on MRCP. Symptoms of bacterial cholangitis, increasing jaundice, and pruritus ==can signify strictures that may improve with dilation or stenting==, or, alternatively, ==removing sludge or stone debris== in the bile ducts via ERCP. A dominant stricture in a patient with PSC must be evaluated for cholangiocarcinoma by obtaining biliary brushings for cytologic examination, and, if available, fluorescent in situ hybridization to evaluate chromosomal abnormalities. Diagnosis of PSC does not usually require liver biopsy; small-duct PSC, which cannot be diagnosed by MRCP, is an exception.
-
-In most patients, PSC presents as a stricturing process in the ==medium to large bile ducts==, readily identifiable by MR cholangiopancreatography (alternating strictures and dilations resulting in a “string of beads” pattern). However, a ==minority of patients== may present with involvement of only the small bile ducts, called ==small-duct PSC==. The ==cholangiogram is normal in these patients==; the diagnosis of small-duct PSC can only be made by ==liver biopsy==. Small-duct PSC is associated with a better prognosis than typical PSC, although 10% to 20% of patients with small-duct PSC eventually develop changes in the medium and large ducts.
-
-PSC often requires liver transplantation and has the highest case-based mortality rate among the autoimmune liver diseases. Median transplant-free survival for patients with PSC is 12 years. There is no current medical therapy for PSC. ==ERCP to dilate strictures and remove stones== is used in symptomatic patients.
-
-Liver transplantation should be considered for patients with decompensated cirrhosis, recurrent bacterial cholangitis, and hilar cholangiocarcinoma. Transplant outcomes for patients with PSC are excellent, with 1-year survival rates of at least 90% and recurrence rates of approximately 20% at 5 years after liver transplantation.
+- [[PBC primary biliary cholangitis]]
+- [[PSC primary sclerosing cholangitis]]
 
 ## Determining Prognosis
 
@@ -271,6 +242,8 @@ The MELD formula includes bilirubin level, INR, and creatinine level, and is acc
 The MELD score can estimate postoperative mortality in patients with cirrhosis ([www.mayoclinic.org/medical-professionals/model-end-stage-liver-disease/post-operative-mortality-risk-patients-cirrhosis](http://www.mayoclinic.org/medical-professionals/model-end-stage-liver-disease/post-operative-mortality-risk-patients-cirrhosis)).
 
 ## Complications of Advanced Liver Disease
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220808201753.png)
 
 <!-- uncomplicated vs complicated cirrhosis b:651873727420-->
 
@@ -327,16 +300,6 @@ Cirrhosis is the cause in 85% of patients with ascites. The management of ascite
 Patients with ascites should ==discontinue ACE inhibitors and NSAIDs==. ==TIPS or intermittent paracentesis== can be considered in patients with refractory ascites and a low MELD score. ==Indwelling drains== in ascites due to portal hypertension are associated with high rates of complications and are not recommended.
 
 Blood pressure falls with worsening cirrhosis, resulting in reduced renal blood flow and glomerular filtration. A compensatory upregulation of the ==renin-angiotensin system== results in increased levels of vasoconstrictors, including vasopressin, angiotensin, and aldosterone, which support systemic blood pressure and kidney function. ==ACE inhibitors and angiotensin receptor blockers impair the compensatory response to cirrhosis-related hypotension== and thereby ==impair the ability to excrete excess sodium and water== and may also affect survival. Medications that decrease kidney perfusion, including NSAIDs, ACE inhibitors such as lisinopril, and angiotensin receptor blockers, should be discontinued because their use often worsens ascites due to portal hypertension.
-
-### Spontaneous Bacterial Peritonitis
-
-<!-- SBP definition, ppx when and which medication, rx b:868433830879-->
-
-Spontaneous bacterial peritonitis (SBP) is an ==infection of ascitic fluid== in the setting of portal hypertension. SBP has a high mortality rate, and patients who develop SBP should be considered for liver transplantation. SBP can present with ==fever, abdominal pain, and kidney disease==, but its presence should be considered in ==any patient with ascites who experiences a decline in condition==. Patients with ==very low total protein levels in their ascitic fluid== (<1.5 g/dL \[15 g/L]) in conjunction with serum sodium level less than or equal to 130 mEq/L (130 mmol/L), serum creatinine level greater than or equal to 1.2 mg/dL (106.1 µmol/L), blood urea nitrogen level greater than or equal to 25 mg/dL (8.9 mmol/L), serum bilirubin level greater than or equal to 3 mg/dL (51.3 µmol/L), or Child-Turcotte-Pugh class B or C cirrhosis are at high risk for development of SBP and should be given ==long-term primary prophylaxis== with a fluoroquinolone antibiotic (for example, norfloxacin or ciprofloxacin).
-
-The diagnosis of SBP is established by an ascitic-fluid neutrophil count of ==250/µL or higher on diagnostic paracentesis==. ==Bacterial culture== of ascitic fluid should also be obtained. Prompt initiation of therapy with a third-generation ==cephalosporin== (for example, cefotaxime) is the initial treatment of SBP. If patients have kidney dysfunction, or significant hepatic dysfunction as measured by a serum bilirubin level greater than 4 mg/dL (68 µmol/L), adjunctive therapy with ==albumin== (1.5 g/kg body weight on day 1, as well as 1 g/kg on day 3) should be administered; such treatment has a demonstrated survival benefit.
-
-Follow-up paracentesis to demonstrate improvement in inflammation can be performed if clinical improvement is not obvious. Indefinite secondary prophylactic therapy should be offered to patients after resolution of SBP and typically consists of once-daily fluoroquinolone therapy.
 
 ### Hepatorenal Syndrome
 
@@ -405,20 +368,6 @@ Pyogenic liver abscesses are complications of biliary tract infections or portal
 #### Amebic Liver Abscesses
 
 Amebic abscesses of the liver are found in developing areas of the world or in migrants from countries in which amebiasis is endemic. Intestinal infection with amoebae can result in invasion of the portal vein and migration to the liver. Typical symptoms of amebic liver abscesses include right-upper-quadrant abdominal pain and fever. Hepatic imaging and serological testing make the diagnosis of amebic liver abscess. Treatment of the hepatic infection with metronidazole or tinidazole should be accompanied by eradication of the coexistent intestinal infection with paromomycin.
-
-### Hepatocellular Carcinoma
-
-Hepatocellular carcinoma is the most common liver tumor arising in patients with cirrhosis, the fifth most common cause of cancer worldwide, and the second most common cause of cancer-related deaths worldwide. Approximately 85% of patients with hepatocellular carcinoma have cirrhosis.
-
-Patients with cirrhosis, regardless of the cause, ==require surveillance liver ultrasound== with or without ==α-fetoprotein measurement every 6 months==, which leads to early diagnosis, increased rate of curative treatment, and improved 3-year survival rates. Patients with HBV infection can develop hepatocellular carcinoma even in the absence of cirrhosis; therefore, surveillance for hepatocellular carcinoma is recommended even in the absence of cirrhosis in individuals at high risk (individuals with HBV who are from sub-Saharan Africa and older than age 20 years, Asian men older than age 40 years, and Asian women older than age 50 years).
-
-<!-- hepatocellular carcinoma diagnosis b:1474762289269-->
-
-The ==diagnosis== of hepatocellular carcinoma can usually be made ==without biopsy== using ==multiphase contrast-enhanced CT or MRI in patients with cirrhosis and a lesion at least 1 cm in size== that enhance in the arterial phase and have washout of contrast in the venous phase.. Biopsy may be needed for lesions that are large, growing, or indeterminant on imaging.
-
-<!-- hepatocellular carcinoma management b:11659509640-->
-
-Many specialty societies have issued guidelines for the management of hepatocellular carcinoma. Patients with ==CTP class A cirrhosis==, ==without significant portal hypertension or jaundice==, and a ==singular lesion 5 cm== in size or smaller should be considered for ==resection==. ==Liver transplantation== should be considered in patients with hepatocellular carcinoma within the ==Milan criteria== and with ==portal hypertension or jaundice==. The Milan criteria are as follows: up to three liver lesions 3 cm in size or smaller or one lesion 5 cm in size or smaller, without macrovascular invasion, and without extrahepatic spread. Patients who are not surgical or liver transplantation candidates should be considered for ==locoregional therapy== in the absence of macrovascular invasion (tumor thrombus) or extrahepatic spread. Locoregional therapies include radiofrequency ablation, microwave ablation, transarterial chemoembolization, and transarterial radioembolization. Decisions about locoregional therapy are increasingly made through multidisciplinary tumor boards. ==Sorafenib== is used for advanced hepatocellular carcinoma, which includes cases with macrovascular invasion or extrahepatic spread. In 2017, the FDA approved two drugs for second-line therapy: ==regorafenib==, an oral multi-kinase inhibitor, and ==nivolumab==, an intravenous humanized monoclonal antibody against the programmed cell death receptor.
 
 ## Liver Transplantation
 

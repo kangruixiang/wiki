@@ -25,6 +25,9 @@ date: 2020-09-07
 - [[acute bacterial sinusitis]]
 - [[tobacco smoking cessation]]
 - [[dry mouth can be treated with cevimeline or other muscarinics]]
+- [[contraindications to air travel]]
+- [[managing frostbite]]
+- [[ACE I with amlodipine leads to less peripheral edema]]
 
 ## Poisoning
 
@@ -76,12 +79,6 @@ This mechanically ventilated patient with recent head trauma has developed an **
 
 The most important factors in matching a kidney donor to a recipient include **human leukocyte antigen** (HLA) matching and **ABO compatibility**. In addition, kidney transplants from **living donors**, when available, have better outcomes than those from deceased donors.  Compared with deceased kidney donation, living donated kidneys have  longer graft survival. Finally, transplant outcomes are best when the  transplant can be performed **before** the patient requires dialysis (pre-emptive transplantation). Because living donor organs  are available sooner, the need for dialysis can be limited or avoided  entirely. Size is generally not a consideration, as transplanted  kidneys are placed in a different location from the native kidneys.
 
-## Brain Death
-
-<!-- brain death exams -->
-
-![](https://photos.thisispiggy.com/file/wikiFiles/L18965.png)
-
 ## TURP
 
 <!-- TURP complications -->
@@ -117,7 +114,7 @@ Following a **mammalian bite**, the decision to administer **tetanus prophylaxis
 - For patients who have received ≥3 **tetanus toxoid** doses, a booster dose of tetanus toxoid is indicated only if their last tetanus dose was ≥10 years ago (for clean or minor wounds) or **≥5 years** ago (for dirty or severe wounds).
 - Patients who have received <3 tetanus toxoid doses (ie, **incompletely immunized**) or whose vaccine status is uncertain should receive a tetanus toxoid  booster. If such patients have dirty or severe wounds, they should also receive **tetanus immune globulin**.
 
-This child has severe wounds with evidence of contamination (eg, bite wound, specks of **dirt**, plant matter). However, the child is up to date on immunizations,  which means he has received at least 4 tetanus toxoid-containing  vaccines (ie, diphtheria, tetanus toxoid, and acellular pertussis \[DTaP] at age 2, 4, and 6 months and an additional DTaP at 4 years). His last dose was <5 years ago. Therefore, there is no need for either a  tetanus toxoid booster or tetanus immune globulin
+This child has severe wounds with evidence of contamination (eg, bite wound, specks of **dirt**, plant matter). However, the child is up to date on immunizations,  which means he has received at least 4 tetanus toxoid-containing  vaccines (ie, diphtheria, tetanus toxoid, and acellular pertussis [DTaP] at age 2, 4, and 6 months and an additional DTaP at 4 years). His last dose was <5 years ago. Therefore, there is no need for either a  tetanus toxoid booster or tetanus immune globulin
 
 ## Pneumococcal
 
@@ -125,7 +122,7 @@ This child has severe wounds with evidence of contamination (eg, bite wound, spe
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/image-20200128200131482.png)
 
-The **13-valent conjugated pneumococcal vaccine (PCV13)** is recommended for all adults age >65; it should be followed by the **23-valent pneumococcal polysaccharide vaccine (PPSV23)** 6-12 months later **(Choice B)**.  Sequential PCV13 and PPSV23 are also recommended for adults age <65  with certain high risk underlying conditions (eg, cerebrospinal fluid  \[CSF] leaks, sickle cell disease, cochlear implants, congenital/acquired asplenia, immunocompromise, chronic renal failure). PPSV23 alone is  recommended for adults age <65 with other chronic medical conditions  including smoking, diabetes, heart or lung disease, and chronic liver  disease.
+The **13-valent conjugated pneumococcal vaccine (PCV13)** is recommended for all adults age >65; it should be followed by the **23-valent pneumococcal polysaccharide vaccine (PPSV23)** 6-12 months later **(Choice B)**.  Sequential PCV13 and PPSV23 are also recommended for adults age <65  with certain high risk underlying conditions (eg, cerebrospinal fluid  [CSF] leaks, sickle cell disease, cochlear implants, congenital/acquired asplenia, immunocompromise, chronic renal failure). PPSV23 alone is  recommended for adults age <65 with other chronic medical conditions  including smoking, diabetes, heart or lung disease, and chronic liver  disease.
 
 - [[narcolepsy]]
 
@@ -135,7 +132,7 @@ The **13-valent conjugated pneumococcal vaccine (PCV13)** is recommended for all
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/image-20200713165557688.png)
 
-Foreign body ingestion is common in toddlers, and **coins** are the most commonly swallowed objects. Management depends on  symptoms, time of ingestion, and the type of object ingested. Children  are not reliable historians and many events are unwitnessed. A **2-view** (posteroanterior \[PA] and lateral) neck and chest x-ray confirms the  location of the foreign body and distinguishes between a coin and  battery (the latter can cause perforation in just a few hours). A coin is seen in this patient's x-ray as a **homogenous** object with a **sharp, crisp edge**; the bilaminar structure of a button battery causes a "double-ring" sign.
+Foreign body ingestion is common in toddlers, and **coins** are the most commonly swallowed objects. Management depends on  symptoms, time of ingestion, and the type of object ingested. Children  are not reliable historians and many events are unwitnessed. A **2-view** (posteroanterior [PA] and lateral) neck and chest x-ray confirms the  location of the foreign body and distinguishes between a coin and  battery (the latter can cause perforation in just a few hours). A coin is seen in this patient's x-ray as a **homogenous** object with a **sharp, crisp edge**; the bilaminar structure of a button battery causes a "double-ring" sign.
 
 Children who swallow coins are often asymptomatic, but some have dysphagia and  drooling. Asymptomatic patients with coin ingestion <24 hours  earlier can be observed with repeat x-rays in 12-24 hours to ensure  passage beyond the pylorus **(Choice C)**. Children who had an **unknown time of ingestion**, such as this patient, or those who are **symptomatic** should undergo **flexible endoscopy** for coin removal. Coins lodged >24 hours are at significant risk for complications (eg, erosion, perforation).
 

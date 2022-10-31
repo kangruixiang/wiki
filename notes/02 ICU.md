@@ -79,7 +79,7 @@ date: 2020-09-07
 	- Fever of more than 38°C (100.4°F) or less than 36°C (96.8°F)
 	- Heart rate of more than 90 beats per minute
 	- Respiratory rate of more than 20 breaths per minute or arterial carbon dioxide tension (PaCO2) of less than 32 mm Hg
-	- Abnormal white blood cell count (>12,000/µL or <4,000/µL or >10% immature \[band] forms)
+	- Abnormal white blood cell count (>12,000/µL or <4,000/µL or >10% immature [band] forms)
 - Severe sepsis: with acute organ damage
 - septic shock: sepsis refractory to fluid or high lactic acid
 

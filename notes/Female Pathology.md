@@ -385,7 +385,7 @@ Stains positive for **desmin** (intermediate filaments in muscle cells) and **
 
 ## Anatomy
 
-- \[_]\(Cervix normal histology)Neck of uterus
+- [_]\(Cervix normal histology)Neck of uterus
 - Divided into endocervix and exocervix
 	- Exocervix: nonkeratinized squamous epithelium
 	- Endocervix: columnar cells
@@ -420,7 +420,7 @@ Other common causes cervicitis include:
 
 - Subtype of cervicitis caused by **Chlamydia trachomatis**
 - Histologically, it is characterized by lymphoid germinal centers and vacuoles containing reticulate bodies.
-- \[_]\(follicular cervicitis is)Common cause of neonatal conjunctivitis and pneumonia
+- [_]\(follicular cervicitis is)Common cause of neonatal conjunctivitis and pneumonia
 
 # Uterine Pathology
 

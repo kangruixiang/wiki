@@ -18,8 +18,7 @@ The corpus luteum, a physiologic ovarian cyst, develops after ovulation and prod
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220805094824.png)
 
-An early pregnancy of undetermined location occurs when a pregnancy cannot be visualized on ultrasound at a β-hCG level below the discriminatory zone (<1500 IU/L); it can be either ectopic or intrauterine. In stable patients, the β-hCG level is repeated every 48 hours to determine whether the increase is consistent with a normal pregnancy (>35% rise every 48 hours). Ultrasound is repeated when β-hCG is >1500 IU/L and an intrauterine pregnancy should be visualized.
----
+## An early pregnancy of undetermined location occurs when a pregnancy cannot be visualized on ultrasound at a β-hCG level below the discriminatory zone (<1500 IU/L); it can be either ectopic or intrauterine. In stable patients, the β-hCG level is repeated every 48 hours to determine whether the increase is consistent with a normal pregnancy (>35% rise every 48 hours). Ultrasound is repeated when β-hCG is >1500 IU/L and an intrauterine pregnancy should be visualized.
 
 This patient likely has an ectopic pregnancy based on **first-trimester vaginal bleeding**, lower abdominal pain, and a **complex adnexal mass** on transvaginal ultrasound.  Risk factors for ectopic pregnancy include prior pelvic surgery, pelvic inflammatory disease, infertility, and tobacco use.  Common implantation locations for an ectopic pregnancy include the fallopian tubes, ovaries, and cornua of the uterus.
 

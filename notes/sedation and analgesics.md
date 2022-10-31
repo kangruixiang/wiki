@@ -1,5 +1,8 @@
 ---
 date: 2020-09-07
+sr-due: 2022-09-02
+sr-interval: 4
+sr-ease: 270
 ---
 
 # 04 Sedation

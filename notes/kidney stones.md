@@ -56,6 +56,10 @@ Calcium oxalate stones are associated with ==hypercalciuria, hyperoxaluria, and 
 
 ==Uric acid stones== (<10% of stones) develop in the presence of a persistently ==acidic urine==, which decreases the solubility of uric acid. In addition, some individuals overproduce uric acid, resulting in increased urine uric acid; both gout and increased urine uric acid are associated with uric acid stones, but hyperuricosuria is not required for uric acid stone formation. ==Chronic diarrhea==, resulting in metabolic acidosis and low urine volume, is a common cause of uric acid stones. The metabolic syndrome is also associated with uric acid stone formation. Uric stones are radiolucent but are visualized on ultrasound and CT.
 
+Treatment of uric acid stones includes hydration, **alkalinization** of the urine, and a low-purine diet.  Alkalinization of the urine to pH 6.0- 6.5 with oral **==potassium citrate==** is recommended as uric acid stones are highly soluble in alkaline urine.  In addition to alkalinizing the urine, citrate is a stone inhibitor and reduces crystallization.  **==Allopurinol==** can be added if there are **recurrent symptoms** despite initial measures, especially if hyperuricosuria or hyperuricemia occurs.
+
+A purine-restricted (not high-protein) diet is indicated in patients with uric acid stones secondary to hyperuricosuria.
+
 ### Cystine
 
 ==Cystine stones== (1%-2% of stones) result from cystinuria, an autosomal recessive disease that presents at a young age. These stones are recognized by characteristic hexagonal crystals in the urine. They may also form staghorn calculi, and are less radio-opaque then calcium-containing stones.
@@ -84,7 +88,7 @@ In patients with **uric acid** stones, management consists of increasing the sol
 
 ## Uric acid
 
-- risk: Low urine pH; diarrhea; metabolic syndrome; gout; hyperuricosuria
+- risk: Low urine pH < 5.5; diarrhea; metabolic syndrome; gout; hyperuricosuria
 - treatment: Increase fluids, alkalinize urine with potassium citrate or bicarbonate, Allopurinol
 - allopurinol is not main treatment
 - note: urine pH from UA is not as good as from 24 hour urine because of acute infection
@@ -96,5 +100,5 @@ In patients with **uric acid** stones, management consists of increasing the sol
 
 ## cystine
 
-- risk:Cystinuria; low urine pH
+- risk: Cystinuria; low urine pH
 - treatment: Increase fluids, Potassium citrate or bicarbonate, Acetazolamide, Penicillamine, Tiopronin

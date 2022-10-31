@@ -20,7 +20,7 @@ date: 2021-04-19
 	- fecal fat: 72 hour collection confirms steatorrhea
 	- reduced fecal elastase: exocrine pancreatic function
 	- laxative screen: laxative abuse
-- osmotic gap: 290 – (2 × \[stool sodium + stool potassium])
+- osmotic gap: 290 – (2 × [stool sodium + stool potassium])
 	- > 50: osmotic diarrhea
 	- < 50: secretory diarrhea
 

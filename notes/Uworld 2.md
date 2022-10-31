@@ -541,7 +541,7 @@ The finding of a thrombus in the right pulmonary artery on CT angiogram is diagn
 
 **Stratified analysis** by the extraneous variable can help distinguish whether that variable is a confounder or an effect modifier, as follows:
 
-- **Confounder** (left panel):  The measures of association (eg, relative risk \[RR] of bladder cancer among alcohol users) calculated in each of the stratified groups (eg, smokers and nonsmokers) are similar to one another (eg, nonstatistically significant RR = 0.95 \[95%CI: 0.51, 1.76] and RR = 1.03 \[95%CI: 0.34, 3.13]), but they differ from the measure of association calculated in the crude analysis (eg, statistically significant RR = 1.81 \[95%CI: 1.06, 3.10]); stratification can remove the effects of the confounder (eg, smoking).
+- **Confounder** (left panel):  The measures of association (eg, relative risk [RR] of bladder cancer among alcohol users) calculated in each of the stratified groups (eg, smokers and nonsmokers) are similar to one another (eg, nonstatistically significant RR = 0.95 [95%CI: 0.51, 1.76] and RR = 1.03 [95%CI: 0.34, 3.13]), but they differ from the measure of association calculated in the crude analysis (eg, statistically significant RR = 1.81 [95%CI: 1.06, 3.10]); stratification can remove the effects of the confounder (eg, smoking).
 - **Effect modifier** (right panel):  The measures of association calculated in each of the strata are significantly different (in strength or direction) from one another; stratification can make the effects of the modifier more apparent.
 
 ## Claudication

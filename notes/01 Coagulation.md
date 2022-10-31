@@ -4,7 +4,7 @@ date: 2020-09-07
 
 # 01 Coagulation
 
-<!-- Bleeding defense mechanisms. Thrombus formation 2 ways.. -->
+<!-- Bleeding defense mechanisms. Thrombus formation 2 ways -->
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/mApO483.jpg)
 
@@ -16,7 +16,7 @@ date: 2020-09-07
 
 # Coagulation Factors
 
-<!-- coagulation factors are, made where, function.. -->
+<!-- coagulation factors are, made where, function -->
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/1VzIV3q.jpg)
 
@@ -32,7 +32,7 @@ date: 2020-09-07
 
 ## Main
 
-<!-- coagulation cascade. Hemophilia cause. Von willebrand factor.. -->
+<!-- coagulation cascade. Hemophilia cause. Von willebrand factor -->
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/rnzWs7J.jpg)
 
@@ -78,7 +78,7 @@ date: 2020-09-07
 
 ## Factor 13
 
-<!-- factor 13 function, co enzyme, activation, deficiency.. -->
+<!-- factor 13 function, co enzyme, activation, deficiency -->
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/Sn7Cnbr.jpg)
 
@@ -88,7 +88,7 @@ date: 2020-09-07
 
 ## Factor 12
 
-<!-- factor 12 aka, function, moa.. -->
+<!-- factor 12 aka, function, moa -->
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/ZKcAtkI.jpg)
 
@@ -96,7 +96,7 @@ date: 2020-09-07
 
 # Extrinsic and Intrinsic
 
-<!-- intrinsic and extrinsic pathway. PT, PTT. Cofactors.. -->
+<!-- intrinsic and extrinsic pathway. PT, PTT. Cofactors -->
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/82L0pp4.jpg)
 
@@ -117,7 +117,7 @@ date: 2020-09-07
 
 ## Calcium
 
-<!-- Calcium uses in coagulation. Blood sample stop coagulation how.. -->
+<!-- Calcium uses in coagulation. Blood sample stop coagulation how -->
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/1KRppu1.jpg)
 
@@ -131,7 +131,7 @@ date: 2020-09-07
 
 ## Kinin
 
-<!-- kinin is, function, moa, example, diseases.. -->
+<!-- kinin is, function, moa, example, diseases -->
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/dBDvfxZ.jpg)
 
@@ -157,7 +157,7 @@ date: 2020-09-07
 
 # Coagulation Inhibitors
 
-<!-- coagulation inhibitors include, moa.. -->
+<!-- coagulation inhibitors include, moa -->
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/aaLsV0t.jpg)
 
@@ -187,7 +187,7 @@ date: 2020-09-07
 
 # Plaminogen
 
-<!-- plasminogen is, made where, function, activators include.. -->
+<!-- plasminogen is, made where, function, activators include -->
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/j1vUqvE.jpg)
 
@@ -198,7 +198,7 @@ date: 2020-09-07
 
 - break up thrombus
 
-<!-- fibrin break down result. Clot break down vs primary fibrinolysis.. -->
+<!-- fibrin break down result. Clot break down vs primary fibrinolysis -->
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/Y4FF7GA.jpg)
 
@@ -231,7 +231,7 @@ date: 2020-09-07
 
 # ESR
 
-<!-- ESR is, increased when.. -->
+<!-- ESR is, increased when -->
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/42WBNQa.jpg)
 

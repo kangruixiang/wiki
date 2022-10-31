@@ -161,7 +161,7 @@ Systemic inflammatory response syndrome (SIRS) is a clinical condition related t
 
 Sepsis is defined as **life-threatening organ dysfunction caused by a dysregulated host response to infection**.
 
-In a patient with sepsis, organ dysfunction can be defined as a change in the total Sequential (Sepsis-related) Organ Failure Assessment score (SOFA) (or quickSOFA \[qSOFA]) of ≥2 points or more due to infection. The qSOFA criteria are:
+In a patient with sepsis, organ dysfunction can be defined as a change in the total Sequential (Sepsis-related) Organ Failure Assessment score (SOFA) (or quickSOFA [qSOFA]) of ≥2 points or more due to infection. The qSOFA criteria are:
 
 - **Respiratory rate ≥22/min**
 - **Altered mentation**

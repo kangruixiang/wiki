@@ -322,5 +322,5 @@ thiazide:
 - calculate free water deficit
 
 $$
-Water\ deficit = \frac{\[Na]-140}{140} \times TBW
+Water\ deficit = \frac{[Na]-140}{140} \times TBW
 $$

@@ -43,6 +43,7 @@ date: 2020-09-07
 - [[RSV]]
 - [[HIV]]
 - [[HSV]]
+	- [[herpes zoster ophthalmicus require ophtho consult]]
 - [[HIV exposure]]
 - [[BK virus]]
 - [[shingles]]
@@ -55,7 +56,7 @@ date: 2020-09-07
 ## Fungal
 
 - [[Sporotrichosis]]
-- [[Candida Infections]]
+- [[03 Resources/Medicine/Candida Infections]]
 - [[PCP]]
 - [[coccidioidomycosis]]
 - [[ABPA]]
@@ -93,6 +94,7 @@ date: 2020-09-07
 - [[antibiotic prophylaxis for secondary prevention of rheumatic fever]]
 - [[MAC]]
 - [[sexually transmitted proctitis]]
+- [[acute rheumatic fever]]
 
 ### Tick Born Illnesses
 

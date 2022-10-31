@@ -14,7 +14,7 @@ This boy **age <5** has had **fever** for **5 days** as well as the following sy
 
 - **Rash** (inguinal folds, perineum, trunk)
 - Nonexudative **conjunctivitis**
-- **Mucositis** (erythematous lips, tongue \["strawberry tongue"], oral mucosa)
+- **Mucositis** (erythematous lips, tongue ["strawberry tongue"], oral mucosa)
 
 He therefore meets 3 of the 5 diagnostic criteria of **Kawasaki disease** (KD), a febrile vasculitis of unknown etiology. An additional criterion (cervical lymphadenopathy or extremity erythema/edema) is required for diagnosis. However, KD symptoms often do not manifest simultaneously; therefore, when **<3** diagnostic criteria are met in a child with >5 days of fever, **C-reactive protein** or **erythrocyte sedimentation rate** (inflammatory markers that are elevated in KD) should be ordered, with daily follow-up scheduled to assess for new symptoms.
 

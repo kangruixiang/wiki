@@ -109,3 +109,7 @@ Colchicine is effective for acute gouty arthritis, but is limited by frequent ga
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20201208124806.png)
 ![](https://photos.thisispiggy.com/file/wikiFiles/20201208123719.png)
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220812205714.png)
+
+The allopurinol dose is increased until the patient’s serum uric acid level is < 6 mg/dL.  Prophylactic colchicine is usually given for 6 months after the uric acid level normalizes.  Patients who develop an acute gouty attack while taking allopurinol should not stop the drug or have their dose adjusted, since this can worsen the acute attack.  The allopurinol dose may be adjusted 3-4 weeks after the acute inflammation subsides.

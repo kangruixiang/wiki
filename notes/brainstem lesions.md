@@ -27,3 +27,13 @@ Almost 90% of right-handed patients and 60% of left-handed patients have a left 
 Lesions of the nondominant temporal lobe can cause  visual disorders (homonymous upper quadrantanopia) and impaired  perception of complex sounds (auditory agnosia).
 
 Dominant temporal lobe lesions, in addition to having homonymous upper  quadrantanopia, almost always involve the language functions, and  lead to aphasia. Wernicke's aphasia is usually seen in patients with  dominant temporal lobe lesions. It is characterized by the impairment  in comprehension of spoken or written language. Patients have  difficulty in expressing their thoughts in a meaningful manner. Apraxia is not seen in temporal lobe lesions.
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220811205140.png)
+
+CN involvement can help with localization based on the origin within the brainstem:
+
+- Midbrain **(CNs III-IV)**:  oculomotor (III), trochlear (IV)
+- Pons **(CNs V-VIII)**:  trigeminal (V), abducens (VI), facial (VII), vestibulocochlear (VIII)
+- Medulla oblongata **(CNs IX-XII)**:  glossopharyngeal (IX), vagus (X), spinal accessory (XI), hypoglossal (XII)
+
+The olfactory (CN I) and optic (CN II) nerves originate in the cerebrum and are not affected in brainstem stroke.

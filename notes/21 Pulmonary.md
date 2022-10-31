@@ -286,9 +286,9 @@ Mnemonic: **B**ad **B**reath **A**ttacks the **L**iver
 
 ## Treatment
 
-Treatment for lung cancer is based on the **type of lung cancer and staging of the disease** (e.g. local extension, lymph node involvement, and presence of metastases \[TNM]) and includes:
+Treatment for lung cancer is based on the **type of lung cancer and staging of the disease** (e.g. local extension, lymph node involvement, and presence of metastases [TNM]) and includes:
 
-- Surgical excision (lobectomy, video-assisted thorascopic surgery \[VATS])
+- Surgical excision (lobectomy, video-assisted thorascopic surgery [VATS])
 - Chemotherapy
 - Radiation
 

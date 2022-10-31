@@ -35,24 +35,57 @@ date: 2020-09-07
 
 ## Heme
 
-- [[Bleeding disorders]]
+- [[coagulation cascade]]
+- [[anticoagulation agents]]
 - [[Anemia]]
 - [[DVT and PE]]
 - [[Hemochromatosis]]
 - [[Sickle cell disease]]
 - [[warfarin]]
-- [[heparin induced thrombocytopenia]]
-- [[disseminated intravascular coagulation]]
-- [[TTP]]
 - [[blood smear]]
 - [[polycythemia vera]]
 - [[essential thrombocytosis]]
 - [[anemia lecture]]
-- [[transfusion medicine]]
-- [[DIC vs liver disease]]
-- [[anticoagulation reversal]]
 - [[autoimmune hemolytic anemia]]
 - [[supratherapeutic INR]]
+- [[myelofibrosis]]
+- [[perioperative management of von willebrand disease vwd vwf]]
+- [[comparing different anticoagulants, warfarin, coumadin, doacs]]
+
+### Acute bleeding and reversal
+
+- [[acute bleeding classifications]]
+	- [[transfusing chronical anemic patients to hemoglobin goal can cause worsening symptoms or even death]]
+	- [[massive transfusion protocol]]
+
+- [[ITP]]
+
+- [[TTP]]
+
+- [[acquired coagulation factor inhibitors]]
+
+- [[Bleeding disorders overview]]
+
+- [[heparin induced thrombocytopenia]]
+
+- [[disseminated intravascular coagulation]]
+
+- [[DIC vs liver disease]]
+
+- [[transfusion medicine]]
+
+- [[anticoagulation reversal]]
+
+- [[use mixing studies to differentiate deficiency vs inhibitors]]
+
+### Lectures
+
+- [[icu lecture coagulopathy and bleeding]]
+
+### Literature Notes
+
+- [[ibcc anemia, bleeding, transfusion]]
+- [[ibcc massive transfusion protocol]]
 
 ## Oncology
 
@@ -64,3 +97,5 @@ date: 2020-09-07
 - [[prevention of recurrent VTE in cancer patients]]
 - [[metastatic colon cancer to liver]]
 - [[anterior mediastinal mass]]
+- [[long term complications of non hodgkin lymphoma]]
+- [[treat solitary lung brain mets with surgical resection]]

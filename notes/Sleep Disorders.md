@@ -161,6 +161,8 @@ The mainstay of treatment of both types of sleep apnea is \*\*CPAP \*\*(continuo
 
 <!-- restless leg syndrome is, cause, treatment.. -->
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220813101135.png)
+
 Restless leg syndrome is a subjective feeling of restlessness and an uncomfortable sensation in the legs that is relieved by moving them. **Iron deficiency** is an important correctable cause to rule out; also look for symptoms or associated characteristics of iron deficiency, such as pica, a history of chronic menorrhagia, etc.
 
 The most effective pharmacological treatment for restless leg syndrome is a dopamine agonist such as **ropinirole or pramipexole.** Alternatively, anticonvulsants (especially gabapentin), opioids, benzodiazepines can be used.

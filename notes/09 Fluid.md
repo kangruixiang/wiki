@@ -34,5 +34,5 @@ date: 2020-09-07
 	- if overcorrected and hyper Na
 		- desmopressin
 		- dextrose
-	- treat hyperna: calculate free water deficit: \[Na]-140/140) X TBW (50% in women, 60% in men)
+	- treat hyperna: calculate free water deficit: [Na]-140/140) X TBW (50% in women, 60% in men)
 	-

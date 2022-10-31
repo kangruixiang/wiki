@@ -168,7 +168,13 @@ GPA affects the ==upper and lower airways, kidneys==, eyes, and ears. At least 5
 
 GPA has two forms: systemic and localized. Systemic is more common, involves major organs, and is anti-PR3 positive. Localized has more granulomatous inflammation, has less vasculitis, and is less likely to be anti-PR3 positive. Patients in the localized group are more likely to be younger and female; have mainly ear, nose, and throat involvement; and be more prone to relapse.
 
+The entire triad (**upper airway disease**, **lower respiratory tract disease**, and **glomerulonephritis**) may not be present initially.  Upper respiratory tract symptoms include epistaxis, sinusitis, otitis media, and hoarseness.  The associated granulomatous inflammation can lead to ==oral ulcers== (as seen in this patient), nasal septal perforation, saddle nose deformity, and tracheal stenosis.  Lung involvement may lead to pulmonary nodules, **cavitary defects**, infiltrates, or pleural effusion.  Renal involvement occurs in approximately 70% of patients and is characterized by rapidly progressive glomerulonephritis.  Constitutional symptoms such as fatigue, fever, and weight loss are common.  Ocular involvement also occurs frequently.
+
 In the setting of a classic clinical presentation and positive c-ANCA/anti-PR3, diagnosis of GPA is straightforward. However, because of significant risks of treatment, biopsy of involved tissue is usually recommended. Histopathology of most tissues demonstrates pauci-immune necrotizing granulomatous vasculitis; pauci-immune necrotizing glomerulonephritis without granulomas is seen on kidney biopsy.
+
+<!-- GPA compared to anti GBM -->
+
+Anti–glomerular basement membrane (GBM) disease (also known as Goodpasture disease) presents with hemoptysis and glomerulonephritis; however, a markedly elevated sedimentation rate is unusual.  Constitutional symptoms (eg, malaise, weight loss, fever, arthralgia) are not typically present, and their presence is more suggestive of vasculitis.  In addition, chest x-ray in anti-GBM disease reveals patchy basilar infiltrates, not the cavitation seen in this patient.
 
 ##### Management
 

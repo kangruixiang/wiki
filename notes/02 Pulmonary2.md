@@ -169,13 +169,13 @@ transudate:
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/wells.jpeg)
 
-This patient's underlying **malignancy** (prothrombotic state) and acute presentation of dyspnea, chest pain, tachycardia, hypoxia, and clear lungs are highly suggestive of pulmonary embolism (PE).  Patients with acute **massive PE** can present with **syncope** and hemodynamic collapse.  Examination can show an accentuated (loud) pulmonic component of the second heart sound and elevated central venous pressure (eg, high jugular venous pressure \[JVP]).
+This patient's underlying **malignancy** (prothrombotic state) and acute presentation of dyspnea, chest pain, tachycardia, hypoxia, and clear lungs are highly suggestive of pulmonary embolism (PE).  Patients with acute **massive PE** can present with **syncope** and hemodynamic collapse.  Examination can show an accentuated (loud) pulmonic component of the second heart sound and elevated central venous pressure (eg, high jugular venous pressure [JVP]).
 
 Acute massive PE results in abrupt increases in pulmonary vascular resistance and, subsequently, right ventricular (RV) pressures.  Elevated RV pressures cause increased RV wall tension, cardiac muscle stretching, and RV dilation.  This increases RV myocardial oxygen demand and decreases coronary artery perfusion, which causes supply/demand mismatch and RV ischemia.  Consequent **RV dysfunction** can lead to an inability to pump blood through the pulmonary circulation, decreased venous return to the left atrium, decreased cardiac output, and potential hemodynamic collapse.
 
 Bedside echocardiogram can show bowing of the septum into the left ventricle (due to RV pressure exceeding left ventricular diastolic pressure) and RV free-wall hypokinesis with sparing of the apex.  The presence of RV dysfunction, along with elevated brain natriuretic peptide and troponin levels, is associated with increased mortality risk.
 
-(It may be difficult to differentiate PE from RV myocardial infarction \[MI], which can also cause RV dysfunction; however, RVMI is less likely to cause dyspnea or syncope and more likely to cause bradycardia or arrhythmias).
+(It may be difficult to differentiate PE from RV myocardial infarction [MI], which can also cause RV dysfunction; however, RVMI is less likely to cause dyspnea or syncope and more likely to cause bradycardia or arrhythmias).
 
 # Aspiration
 

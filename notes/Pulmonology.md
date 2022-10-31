@@ -16,6 +16,7 @@ date: 2020-09-07
 
 - [[pulmonary auscultations]]
 - [[bronchoscopy guides]]
+- [[segmental anatomy]]
 
 ## Obstructive Lung Disease
 
@@ -25,6 +26,8 @@ date: 2020-09-07
 - [[bronchiectasis]]
 - [[COPD patients have proportional pulmonary hypertension]]
 - [[pulmonary rehabilitation]]
+- [[cystic fibrosis]]
+- [[aspirin exacerbated respiratory disease]]
 
 ## Pulmonary Infections
 
@@ -34,7 +37,7 @@ date: 2020-09-07
 - [[Pneumonia]]
 - [[eosinophilic pneumonia]]
 - [[legionella pneumonia]]
-- [[candida pneumonia]]
+- [[03 Resources/Medicine/03 MKSAP/candida infections]]
 
 ## Lung Cancers
 
@@ -47,6 +50,8 @@ date: 2020-09-07
 - [[UIP]]
 - [[Silicosis]]
 - [[asbestosis]], [[BAPE]]
+- [[cryoptogenic organizing pneumonia]]
+- [[use sniff test to diagnose diaphragmatic paralysis]]
 
 ## Airway
 

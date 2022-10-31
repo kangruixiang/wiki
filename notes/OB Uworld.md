@@ -150,7 +150,7 @@ Fetal well-being must be documented by a nonstress test and there should be no c
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/L18094.jpg)
 
-Cesarean delivery is indicated for breech presentations when vaginal delivery is not safe (eg, placental abnormalities, incomplete breech, estimated fetal weight >4 kg \[8.8 lb]). 
+Cesarean delivery is indicated for breech presentations when vaginal delivery is not safe (eg, placental abnormalities, incomplete breech, estimated fetal weight >4 kg [8.8 lb]). 
 
 # Internal Podalic Version
 
@@ -296,7 +296,7 @@ Because the most common etiology for puerperal fever is endometritis, patients a
 
 **Postpartum hemorrhage** (PPH) is an **obstetrical emergency** and a major cause of maternal mortality.  Hemostasis after placental delivery is achieved by clotting and by compression of the placental site blood vessels by myometrial contraction.  Disruption of either of these processes can lead to PPH.
 
-Primary PPH occurs less than 24 hours after delivery and is most commonly caused by **uterine atony**.  Atony occurs when the uterus becomes fatigued (eg, prolonged labor), fast delivery, over-distended (eg, fetal weight >4000 g \[8.8 lb], multiple gestation), or unresponsive to oxytocin from oxytocin receptor saturation.  Other risk factors for atony include operative (eg, forceps-assisted) vaginal delivery and hypertensive disorders.  The uterus fails to contract and is **soft ("boggy") and enlarged** (eg, above the umbilicus) on physical examination.
+Primary PPH occurs less than 24 hours after delivery and is most commonly caused by **uterine atony**.  Atony occurs when the uterus becomes fatigued (eg, prolonged labor), fast delivery, over-distended (eg, fetal weight >4000 g [8.8 lb], multiple gestation), or unresponsive to oxytocin from oxytocin receptor saturation.  Other risk factors for atony include operative (eg, forceps-assisted) vaginal delivery and hypertensive disorders.  The uterus fails to contract and is **soft ("boggy") and enlarged** (eg, above the umbilicus) on physical examination.
 
 Because ultrasound showed a **thin endometrial stripe**, suggesting an empty and normal uterine cavity, retained placenta is unlikely.
 

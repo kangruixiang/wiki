@@ -342,4 +342,4 @@ Vasopressin also causes vasoconstriction of arterioles through binding to **V1 
 
 Note: this function can be remembered by the latter half of the hormones name -pressin _(remember, a pressor is any agent that increases blood pressure by stimulating constriction of blood vessels_)...
 
-\[_]\(ADH effect on urea)Antidiuretic hormone also **increases the permeability of the inner medullary collecting duct to urea**.  This increases the osmotic gradient created by the countercurrent multiplier, facilitating the production of concentrated urine (i.e. increasing urine osmolarity)..
+[_]\(ADH effect on urea)Antidiuretic hormone also **increases the permeability of the inner medullary collecting duct to urea**.  This increases the osmotic gradient created by the countercurrent multiplier, facilitating the production of concentrated urine (i.e. increasing urine osmolarity)..

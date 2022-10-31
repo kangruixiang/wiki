@@ -15,6 +15,8 @@ Hematuria is defined as the ==presence of >3 erythrocytes/hpf== in the urine sed
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220103100403.png)
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220808195245.png)
+
 Urinalysis should not be used for cancer screening in asymptomatic adults. However, ==a single incidental finding of hematuria is sufficient to warrant further investigation==. ==Evaluation should be pursued even in patients with bleeding diatheses or those taking antiplatelet or anticoagulation therapy==. If menstruation, viral illness, vigorous exercise, or some other benign cause is suspected, urinalysis should be repeated after the cause is resolved. If infection is confirmed, urinalysis should be repeated after treatment to document resolution of hematuria.
 
 In a patient with asymptomatic microscopic hematuria, it is important to assess kidney function, erythrocyte morphology, and urine protein to evaluate for a ==nephrologic cause, particularly glomerulonephritis==. The ==absence of proteinuria generally rules out a glomerular process==; ==exceptions== include very mild glomerular disease (most often IgA nephropathy) or thin glomerular basement membrane disease related to a type IV collagen defect that may present as isolated hematuria. Systemic signs and symptoms raise suspicion for nephrologic disease, particularly those associated with rheumatologic disorders and rapidly progressive glomerulonephritis.

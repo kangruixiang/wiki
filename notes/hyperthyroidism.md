@@ -31,6 +31,8 @@ sr-ease: 290
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/L24678.jpg)
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220811212902.png)
+
 ## Treatment
 
 - work up for inciting events: infection, DKA, pancreatitis

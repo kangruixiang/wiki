@@ -16,10 +16,6 @@ Treatment of NSCLC, like that of most other solid malignancies, is based largely
 
 ### Early-Stage Disease
 
-#### Related Question
-
-- Question 106
-
 Early-stage disease refers to lung cancer that is amenable to surgical resection at the time of diagnosis. This typically encompasses stage I and II cancers, though some patients with stage II cancer are not amenable to resection based on location or extent of the primary tumor. Stages I and II are differentiated by hilar nodal metastatic disease (present in some patients with stage II cancer, but not present in stage I) and also by the size and invasiveness of the primary tumor into adjacent structures. As in many other cancers, multidisciplinary evaluation is of vital importance to these patients in order to make the most accurate determination regarding optimal treatment.
 
 Patients deemed potential surgical candidates based on imaging need to have a rigorous functional evaluation to help predict their anticipated pulmonary reserve after surgery. The initial evaluation consists of FEV1 and DLCO measurement. If both test variables are favorable, then no further evaluation is needed. However, if one or the other variable falls in a range suggesting impaired lung function, then calculation of the predicted postoperative FEV1 and DLCO should be performed, which is determined by baseline values and assessment of the fractional contribution of the lung to be resected. If the predictive postoperative lung function values indicate mild to moderate impairment, then exercise testing is often used. Based on the results of these assessments, a decision can be made regarding suitability for resection. Patients with pathologic stage I cancer who are undergoing surgical resection have a 60% to 70% survival rate at 5 years and patients with stage II cancer have approximately a 40% survival rate.
@@ -34,18 +30,7 @@ Cisplatin-based adjuvant chemotherapy has been shown to improve survival after r
 
 After completion of treatment, patients with early-stage disease remain at risk for both distant and local recurrence. Many patients with smoking histories are also at risk for developing a second primary lung cancer and cancers of the head, neck, and other sites. Current accepted recommendations for surveillance include history, physical examination, and chest CT at least every 6 months for the first 2 years and then annually. Smoking cessation decreases the risk of new primary lung cancers, although the magnitude of benefit is uncertain, ranging from 20% to 90%; the risk steadily declines beginning 5 years after quitting, but it never quite reaches the incidence found in nonsmokers.
 
-## Key Points
-
-- Lobectomy is the preferred surgical procedure in early-stage non–small cell lung cancer.
-- Potential surgical candidates with early-stage lung cancer must have FEV1 and DLCO measurement to predict their anticipated postoperative pulmonary reserve and suitability for resection.
-- Patients with early-stage lung cancer who are not surgical candidates can be treated with radiation therapy; stereotactic body radiation is appropriate for small tumors, but conventional radiation is used for large tumors.
-- Postoperative radiation therapy is used to treat patients with resected localized lung cancer and positive tumor margins; cisplatin-based adjuvant chemotherapy is standard treatment of all resected stage II and III lung cancer.
-
 ### Locally Advanced Disease
-
-#### Related Question
-
-- Question 147
 
 Locally advanced lung cancer is most commonly defined by the presence of clinically detectable lymphadenopathy in the mediastinum or by a primary tumor that invades into local structures, such as the mediastinum, heart, trachea, esophagus, or great vessels.
 
@@ -53,19 +38,7 @@ Safer, more refined surgical technique, along with more precise preoperative sta
 
 Patients who present with bulky or multistation (widespread mediastinal or hilar lymph node involvement) mediastinal lymphadenopathy are treated with combined platinum-based chemotherapy and radiation, which has been found to be superior to sequential treatment. Unfortunately, the risk of recurrence, both locoregional and distant, is very high after chemoradiation treatment (approaching 70% to 90%).
 
-## Key Point
-
-- Surgical techniques for treatment of non–small cell lung cancer have improved substantially and, along with better preoperative staging, allow surgical therapy with curative intent for various patients who were traditionally considered to have unresectable disease.
-
 ### Metastatic Disease
-
-#### Related Questions
-
-- Question 91
-- Question 95
-- Question 99
-- Question 126
-- Question 140
 
 Metastatic lung cancer is defined as the spread of disease to distant sites such as liver, bone, or brain. The presence of one or more tumor nodules in the contralateral lung also qualifies as metastatic disease, but as the prognosis for that pattern of metastatic disease is notably better than that of patients with distant disease, it has been reclassified as M1a, with other distant sites given the designation of M1b.
 
@@ -77,16 +50,7 @@ If a patient has negative findings for the alterations noted above, treatment wi
 
 Immunotherapy with agents that act on the programmed cell death ligand 1 (PD-L1) have shown impressive activity in metastatic NSCLC. Pembrolizumab is superior to chemotherapy in the first-line treatment of patients with NSCLC who have PD-L1 expression greater than 50% with a higher response rate, progression-free survival, and overall survival when compared to standard chemotherapy. Pembrolizumab and nivolumab are also both more active than chemotherapy in the second-line setting.
 
-## Key Points
-
-- Metastatic non–small cell lung cancer that demonstrates an epidermal growth factor receptor gene mutation should be treated initially with erlotinib; if an _ALK_ or _ROS1_ translocation is identified, initial treatment should be with crizotinib.
-- If metastatic non–small cell lung cancer is negative for gene mutations or translocations, platinum-based doublet chemotherapy in combination with bevacizumab is appropriate for patients with good performance status.
-
 ## Small Cell Lung Cancer
-
-#### Related Question
-
-- Question 78
 
 SCLC, a neuroendocrine neoplasm, has been decreasing in incidence during the past several years, and currently it accounts for approximately 10% of lung cancer cases. SCLC is almost exclusively caused by smoking. In unfortunate contrast to the advances made in the treatment of NSCLC, little has changed in the prognosis or treatment of SCLC patients. Most patients initially present with distant metastatic disease. SCLC is known to be associated with paraneoplastic syndromes, most prominently syndrome of inappropriate antidiuretic hormone secretion and Eaton-Lambert myasthenia. The staging of SCLC is straightforward and defines patients with “limited disease” that can be encompassed by a hemithoracic radiation portal; all others, including those with distant metastases, have “extensive disease.” Patients should undergo routine CT scan of the thorax, abdomen, and pelvis, but even those who have no bone or central nervous system symptoms should undergo whole body bone scintigraphy and an MRI of the brain.
 
@@ -96,11 +60,16 @@ Most patients with SCLC will not meet the criteria for primary surgery. Treatmen
 
 For patients who present with extensive disease, treatment consists of platinum-based chemotherapy without radiation, again for up to six cycles. Patients with limited disease that is responsive to treatment and no evidence of brain metastases should be treated with prophylactic cranial irradiation. Patients with extensive disease who have a favorable response to chemotherapy but persistent involvement in the lung can be treated with additional radiation therapy.
 
-Despite treatment response, recurrences are very common, even in patients with limited disease at the time of diagnosis. For patients who had a disease-free interval of more than 3 months, treatment with the initial platinum-based doublet regimen can be used because the likelihood of response is good. However, for patients who relapsed earlier, treatment options and outcomes are generally poor. As in NSCLC, addressing goals of care and aggressive symptom management are of significant importance in this setting.
+## Despite treatment response, recurrences are very common, even in patients with limited disease at the time of diagnosis. For patients who had a disease-free interval of more than 3 months, treatment with the initial platinum-based doublet regimen can be used because the likelihood of response is good. However, for patients who relapsed earlier, treatment options and outcomes are generally poor. As in NSCLC, addressing goals of care and aggressive symptom management are of significant importance in this setting.
 
-## Key Points
+**Small cell lung cancer** (SCLC) is a neuroendocrine tumor seen primarily in **heavy smokers**.  Most cases involve the **central airway** (eg, hilar mass) and manifest with cough, dyspnea, hemoptysis, weight loss, and fatigue.  Doubling times are short, and nearly 70% of cases are overtly metastatic (eg, bone, adrenals, liver, brain) at diagnosis.
 
-- Routine staging of patients with small cell lung cancer includes whole body bone scintigraphy and MRI of the brain, even if they have no bone or central nervous system symptoms, along with routine CT scan of the thorax, abdomen, and pelvis.
-- Although patients with SCLC typically present at an advanced stage, those with early-stage disease can be considered for resection and adjuvant chemotherapy without radiation if surgical margins are negative.
-- Treatment of limited-disease SCLC consists of combined cisplatin-based chemotherapy and radiation to the area of lung involvement; treatment of extensive disease consists of analogous chemotherapy, but additional radiation treatment is not indicated.
-- Patients with both limited- and extensive-stage SCLC who respond to chemotherapy should receive prophylactic radiation to the central nervous system.
+Patients with SCLC are categorized based on radiograph and physical examination findings as follows:
+
+- Limited stage – tumor limited to the ipsilateral hemithorax and regional lymph nodes (although subclinical metastases are usually present)
+
+- **Extensive stage** – involvement of contralateral lymph nodes, malignant pericardial/pleural effusion, or distant metastases (as in this patient with liver and contralateral lung lesions)
+
+**Platinum-based chemotherapy** (eg, etoposide plus cisplatin) is highly effective for inducing remission in SCLC.  Patients with limited-stage SCLC are treated with curative intent and usually receive concurrent chemotherapy and thoracic radiation; 5-year survival is ~20%.  Extensive-stage SCLC is generally treated with 6 cycles of chemotherapy alone; those who respond to chemotherapy often receive subsequent chest and/or prophylactic cranial irradiation **(Choice E)**.  Five-year survival is ~5%.
+
+Patients with non-small cell lung cancer (NSCLC) usually undergo molecular profiling in order to determine first-line treatment (eg, endothelial growth factor receptor tyrosine kinase inhibitors).  As targeted drug therapy is not currently part of first-line treatment for SCLC, molecular profiling is not typically performed.

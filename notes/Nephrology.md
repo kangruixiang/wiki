@@ -38,6 +38,7 @@ Chapter 06Glomerular Diseases
 ## To organize
 
 - [[Hypertension]]
+- [[hypertension with primary hyperaldosteronism]]
 - [[lithium]]
 - [[parathyroid disease]]
 - [[ADPKD]]
@@ -57,6 +58,7 @@ Chapter 06Glomerular Diseases
 ## Acid base
 
 - [[anion gap metabolic acidosis]]
+- [[nonanion gap metabolic acidosis NAGMA]]
 - [[heparin induced hypoaldosteronism]]
 - [[RTA]]
 - [[metabolic alkalosis]]
@@ -82,6 +84,8 @@ Chapter 06Glomerular Diseases
 - [[indication for dialysis]]
 - [[peritoneal dialysis]]
 - [[dialysis]]
+- [[start SGLT2 inhibitors in CKD patients with proteinuria]]
+- [[when to place fistulas for dialysis]]
 
 ## Renal disorders
 
@@ -89,6 +93,9 @@ Chapter 06Glomerular Diseases
 - [[calcium renal stones]]
 - [[Pickering syndrome, flash pulmonary edema in renal artery stenosis]]
 - [[ADPKD]]
+- [[use ACE I in renal artery stenosis]]
+- [[sickle cell disease can cause papillary necrosis]]
+- [[management of renal cysts]]
 
 ## Glomerular disease
 

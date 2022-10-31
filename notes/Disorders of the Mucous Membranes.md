@@ -35,7 +35,9 @@ Oral candidiasis most commonly presents as painful white, fluffy, nonadherent fi
 
 ## Aphthous Ulcers
 
-Aphthous ulcers (“canker sores”) are recurrent ulcers with a gray pseudomembrane base and an erythematous halo that affect lips, buccal mucosa, and tongue (**[Figure 152](https://mksap18.acponline.org/app/topics/dm/figures/mk18_a_dm_f152)**). Diagnosis is by clinical findings and history of self-healing. Severe, recurrent oral ulcers suggest the possibility of infection or a systemic disease such as Behçet syndrome, Crohn disease, HIV infection, or erythema multiforme.
+Aphthous ulcers (“canker sores”) are recurrent ulcers with a gray pseudomembrane base and an erythematous halo that affect lips, buccal mucosa, and tongue (**[Figure 152](https://mksap18.acponline.org/app/topics/dm/figures/mk18_a_dm_f152)**). Diagnosis is by clinical findings and history of self-healing. Severe, recurrent oral ulcers suggest the possibility of infection or a systemic disease such as ==Behçet syndrome, Crohn disease, HIV infection==, or ==erythema multiforme==.
+
+Diagnosis of RAS is clinical, and further workup (if any) is aimed at identifying underlying conditions as suggested by the history and examination.  On occasion, celiac disease may first present as aphthous ulcers, and so assay for anti-tissue transglutaminase antibodies may be considered.  Oral ulcers may also be associated with conditions such as HIV, Crohn disease, and Behçet's syndrome.  ==Topical glucocorticoids== are the first-line treatment, but severe RAS that does not respond to steroids can be treated with systemic agents such as ==colchicine or thalidomide==.
 
 ## Lichen Planus
 

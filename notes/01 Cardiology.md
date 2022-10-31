@@ -243,7 +243,7 @@ The definitive treatment for STEMI is **reperfusion therapy**, which should be c
 
 Fibrinolysis with **tissue plasminogen activator (tPA), streptokinase, tenecteplase,** or **reteplase** is referred to as “chemical reperfusion.”
 
-Percutaneous coronary intervention (PCI) is a form of mechanical reperfusion therapy which can be performed along with diagnostic cardiac catheterization. PCI with stenting was shown to offer a **significant reduction in reinfarction or stroke at 30 days**, as well as **significant mortality benefit for high risk patients with TIMI score > 5**. \[Nielson et al. _Circulation._ 2010;121:1484.]
+Percutaneous coronary intervention (PCI) is a form of mechanical reperfusion therapy which can be performed along with diagnostic cardiac catheterization. PCI with stenting was shown to offer a **significant reduction in reinfarction or stroke at 30 days**, as well as **significant mortality benefit for high risk patients with TIMI score > 5**. [Nielson et al. _Circulation._ 2010;121:1484.]
 
 Chemical fibrinolysis is indicated for the treatment of STEMI in patients presenting **within 12 hours of the onset of symptoms** when **PCI cannot be accomplished within 120 minutes of first medical contact**.
 
@@ -658,10 +658,6 @@ _See Lipid Digestion and Metabolism and Familial Hyperlipidemias for a review of
 
 The LDL-C level reported in the lipid profile is an **estimation** based on the formula:
 
-$$
-LDL=Total\  cholesterol−HDL−\frac{Trigclycerides}{5}
-$$
-
 Hypercholesterolemia is multifactorial with a significant genetic component; however, additional factors which contribute to an _elevated LDL-C_ level and _lower HDL-C_ level include the following:
 
 - **Obesity**
@@ -911,7 +907,7 @@ Several calculations are available to estimate the risk of stroke in patients wi
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/FA9274C7-3307-4480-A64B-85D17306604D.png)
 
-\[Gregory et al. _Chest_. 2013;137:263-72.]\[Lane, Lip. _Circulation_. 2012;126:860-5.]
+[Gregory et al. _Chest_. 2013;137:263-72.][Lane, Lip. _Circulation_. 2012;126:860-5.]
 
 ## AFLUT
 
@@ -987,7 +983,7 @@ Specific electrolyte imbalances known to cause acquired long QT syndrome include
 
 Note: low serum potassium can enhance a drug's inhibition of the cardiac IKr current_._
 
-Prolonged QT is diagnosed by ECG. **QTc** is the corrected QT interval, which is defined as the QT interval divided by the square root of the RR interval: $QTc=QT/\sqrt{RR}$ ; however, QTc is more easily estimated by **checking that the QT is less than half of the RR**. The **normal QTc** value is **less than 440  milliseconds**.
+Prolonged QT is diagnosed by ECG. **QTc** is the corrected QT interval, which is defined as the QT interval divided by the square root of the RR interval: $QTc=QT/ sqrt{RR}$ ; however, QTc is more easily estimated by **checking that the QT is less than half of the RR**. The **normal QTc** value is **less than 440  milliseconds**.
 
 **Torsades de pointes (TdP)**, a polymorphic ventricular tachycardia, is a life threatening complication of QT prolongation.
 
@@ -1112,7 +1108,7 @@ The **diagnosis** is often **clinical**, with the characteristic symptoms and ac
 
 Symptomatic bradycardia in the setting of sick sinus syndrome is an indication for **pacemaker placement**. **Pharmacological treatment of tachyarrhythmias** with **beta-blockers**, **calcium channel blockers**, and/or **digoxin** should be considered; however, these medications may exacerbate sinus bradycardia. _Note that while lightheadedness and syncope are reversed in almost all patients following pacemaker placement, there does not seem to be a survival benefit._
 
-\[Birnie D, Williams K, Guo A, et al. Reasons for escalating pacemaker implants. _Am J Cardiol_ 2006;98:93.]
+[Birnie D, Williams K, Guo A, et al. Reasons for escalating pacemaker implants. _Am J Cardiol_ 2006;98:93.]
 
 ### Junctional Rhythm
 
@@ -1199,8 +1195,8 @@ It is diagnosed strictly by an **ECG showing a PR interval greater than 0.2 seco
 
 However, a **PR interval >300 msec can have hemodynamic consequences**,**and these patients may benefit from pacing**.1 Additionally, note that the presence of a widened QRS complex is indicative of pathology below the AV node, and these patients will require further evaluation.2
 
-1\[Epstein et al. _Circulation_. 2008;117.]
-2\[Sauer. _UpToDate_. Updated 31 Oct 2014.]
+1[Epstein et al. _Circulation_. 2008;117.]
+2[Sauer. _UpToDate_. Updated 31 Oct 2014.]
 
 Second-Degree AV block occurs when\*\* some atrial impulses are not conducted\*\* to the ventricles. The two subtypes are **Mobitz Type I** (**Wenkebach**) and **Mobitz Type II**.
 

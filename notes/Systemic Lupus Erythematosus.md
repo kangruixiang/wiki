@@ -18,6 +18,8 @@ The risk of SLE developing in genetically predisposed individuals increases at p
 
 ## Clinical Manifestations
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220813130629.png)
+
 ### Mucocutaneous Involvement
 
 <!-- lupus skin findings b:414475287468-->
@@ -142,7 +144,7 @@ Parenchymal lung involvement occurs in less than 10% of patients with SLE. A ==n
 
 <!-- ignore -->
 
-In patients with SLE, a normocytic, normochromic inflammatory anemia is common; autoimmune hemolytic anemia occurs in approximately 10% and correlates with SLE activity. ==Lymphopenia/leukopenia== is also common but usually mild. ==Thrombocytopenia== occurs in 30% to 50%, and approximately 10% of patients develop severe thrombocytopenia (<50,000/µL \[50 × 109/L]) in isolation or in conjunction with hemolytic anemia.
+In patients with SLE, a normocytic, normochromic inflammatory anemia is common; autoimmune hemolytic anemia occurs in approximately 10% and correlates with SLE activity. ==Lymphopenia/leukopenia== is also common but usually mild. ==Thrombocytopenia== occurs in 30% to 50%, and approximately 10% of patients develop severe thrombocytopenia (<50,000/µL [50 × 109/L]) in isolation or in conjunction with hemolytic anemia.
 
 The cytopenias in SLE may be caused by immune and nonimmune destructive mechanisms (including microangiopathy), medications, and kidney and liver disease. Moderate and severe or rapidly progressive cytopenias require prompt evaluation with serologic studies and/or bone marrow biopsy. An exact cause of cytopenias may be difficult to ascertain, and a trial of medication adjustment in concert with evaluation for other causes is often necessary.
 
@@ -195,6 +197,8 @@ Certain medications can cause drug-induced lupus erythematosus (DILE), which mim
 ## Management
 
 <!-- lupus overall management. Which drug for lupus nephritis b:912924534886-->
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220813130611.png)
 
 SLE management requires close monitoring of disease activity and frequent adjustment of therapy. Pharmacologic therapy is almost always required and is usually directed toward specific organ involvement (**[Table 21](https://mksap18.acponline.org/app/topics/rm/tables/mk18_a_rm_t21)**). Goals of SLE treatment are remission or low disease activity and prevention of flares in all organs.
 

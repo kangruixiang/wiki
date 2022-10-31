@@ -481,7 +481,7 @@ _Previous standards included 2 hr plasma glucose ≥ 200 mg/dl (11.1 mmol/l) dur
 
 When it is difficult to distinguish T1DM from T2DM, the following lab findings suggest a diagnosis of **T1DM**:
 
-- **Presence of autoantibodies directed against components of the pancreatic islets** \[e.g. glutamic acid decarboxylase (GAD65), tyrosine phosphatases, insulin, zinc transporter 8 (ZnT8)]
+- **Presence of autoantibodies directed against components of the pancreatic islets** [e.g. glutamic acid decarboxylase (GAD65), tyrosine phosphatases, insulin, zinc transporter 8 (ZnT8)]
 - **Low or inappropriately normal fasting C-peptide and insulin levels** in a patient with hyperglycemia
 
 Insulin medications vary according to their duration of action. Regimens are often developed using **meal-time rapid acting insulin superimposed over a background of a long-acting insulin**. This serves to most closely mirror normal physiological levels.

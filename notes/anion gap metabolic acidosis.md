@@ -7,7 +7,7 @@ sr-ease: 298
 
 # anion gap metabolic acidosis
 
-- related: [[Nephrology]]
+- related: [[Nephrology]], [[nonanion gap metabolic acidosis NAGMA]]
 - tags: #nephrology
 ---
 
@@ -72,7 +72,7 @@ Because laboratory confirmation of ethylene glycol intoxication may take days, =
 
 ## Isopropyl alcohol
 
-Isopropyl alcohol, like ethanol, is a central nervous system depressant.  It is rapidly metabolized by alcohol dehydrogenase to the ketone acetone, leading to **elevated** serum and urine **ketone** measurements.  Some laboratories measure beta-hydroxybutyrate concentrations as a substitute for serum ketones, leading to a ==falsely low measurement== in patients with isopropyl alcohol ingestion.  Unlike methanol and ethylene glycol, isopropyl alcohol **does not cause high AGMA** and **does not have toxic metabolites** causing further damage (eg, blindness, renal failure).
+Isopropyl alcohol, like ethanol, is a central nervous system depressant.  It is rapidly metabolized by alcohol dehydrogenase to the ketone acetone, leading to **elevated** serum and urine **ketone** measurements.  Some laboratories measure beta-hydroxybutyrate concentrations as a substitute for serum ketones, leading to a ==falsely low measurement== in patients with isopropyl alcohol ingestion.  Unlike methanol and ethylene glycol, isopropyl alcohol **does not cause high AGMA** and **does not have toxic metabolites** causing further damage (eg, blindness, renal failure). It does cause increased osmolar gap.
 
 Massive ingestions can cause ==respiratory depression and hypotension==.  Treatment is mainly ==supportive== with intravenous fluids, pressors, and mechanical ventilation; hemodialysis can be initiated in severe cases.  ==Fomepizole and gastrointestinal decontamination are usually not helpful==.
 

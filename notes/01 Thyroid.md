@@ -302,7 +302,7 @@ Residual MIT and DIT are deiodinated by **thyroid deiodinase**. The I2 that is g
 
 The Na-I transporter is competitively inhibited by anions including:
 
-- **Thiocyanate** \[SCN]−
+- **Thiocyanate** [SCN]−
 - **Perchlorate**
 - **Pertechnetate**.
 

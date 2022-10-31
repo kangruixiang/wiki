@@ -102,7 +102,7 @@ Acute primary amebic meningoencephalitis caused by _Naegleria_, _Balamuthia_, an
 
 #### Noninfectious Causes
 
-Medications such as NSAIDS, antibiotics, and intravenous immune globulin can occasionally cause aseptic meningitis. Meningeal involvement of leukemia, lymphoma, and metastatic carcinoma can also present as aseptic meningitis, with the CSF cytology showing atypical or immature cells and severe hypoglycorrhachia (<10 mg/dL \[0.6 mmol/L]). Systemic lupus erythematosus, Behçet disease (recurrent oral and genital ulcers with iridocyclitis), Vogt-Koyanagi-Harada syndrome (uveomeningoencephalitis), and neurosarcoidosis can all present with aseptic meningitis. Finally, chemical meningitis can be seen after intrathecal injections, neurosurgical procedures, or spinal anesthesia.
+Medications such as NSAIDS, antibiotics, and intravenous immune globulin can occasionally cause aseptic meningitis. Meningeal involvement of leukemia, lymphoma, and metastatic carcinoma can also present as aseptic meningitis, with the CSF cytology showing atypical or immature cells and severe hypoglycorrhachia (<10 mg/dL [0.6 mmol/L]). Systemic lupus erythematosus, Behçet disease (recurrent oral and genital ulcers with iridocyclitis), Vogt-Koyanagi-Harada syndrome (uveomeningoencephalitis), and neurosarcoidosis can all present with aseptic meningitis. Finally, chemical meningitis can be seen after intrathecal injections, neurosurgical procedures, or spinal anesthesia.
 
 ### Health Care–Associated Meningitis and Ventriculitis
 

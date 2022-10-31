@@ -58,6 +58,9 @@ date: 2020-09-07
 - [[DVT and PE]]
 - [[left axial myxoma]]
 - [[subclavian steal syndrome]]
+- [[acute pericarditis vs mediastinitis after CABG]]
+- [[acute pericarditis]]
+- [[myocarditis myopericarditis]]
 
 ## Others
 

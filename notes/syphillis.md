@@ -2,11 +2,19 @@
 date: 2020-09-07
 ---
 
-## Syphillis
+# Syphillis
+
+- related: [[ID]]
+- tags: #id
+---
+
+## Congenital
 
 <!-- congenital syphilis sx -->
 
 _Treponema pallidum_ crosses the placenta; a **syphilis infection during pregnancy** can result in **vertical transmission**, leading to **adverse fetal outcomes** including fetal growth restriction, intrauterine fetal demise, and congenital syphilis (eg, hepatomegaly, jaundice, rash, skeletal abnormalities).
+
+## Diagnosis
 
 <!-- syphillis testing -->
 
@@ -19,6 +27,25 @@ This woman's serologic results are consistent with successfully treated syphilis
 If the nontreponemal test became positive again, it would indicate a new infection, and treatment, based on disease stage, would be indicated. If this patient had reported no history of treatment for syphilis, she should be treated for syphilis of unknown duration, which consists of 3 weekly doses of intramuscular benzathine penicillin. Single-dose benzathine penicillin is indicated for the treatment of primary, secondary, and early latent syphilis.
 
 Because the positive EIA result was already confirmed by a second treponemal test, the fluorescent treponemal antibody, additional testing with another treponemal test, such as the _Treponema pallidum_ particle agglutination assay, is not necessary.
+
+## Empiric Treatment
+
+The Centers for Disease Control and Prevention (CDC) guidelines recommend that a patient **exposed within 90 days prior to the diagnosis** of primary, secondary, or early latent syphilis in a sex partner should receive **presumptive treatment** (even if the patient is seronegative for syphilis).
+
+A patient ==exposed >90 days== before diagnosis of primary, secondary, or early latent syphilis in a sex partner can ==undergo serologic testing== and treatment accordingly.  Presumptive treatment should be given if serologic results are not immediately available or follow-up is uncertain.  Long-term sex partners of patients with latent syphilis should also be evaluated with serologic testing and treated appropriately.  Although CDC guidelines recommend that ==nontreponemal tests== (eg, rapid plasma reagin) be performed first and that ==treponemal tests== (eg, _Treponema pallidum_ enzyme immunoassay) be used for confirmation, many laboratories have switched the order due to cost-related reasons.
+
+## Treatment
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220810194110.png)
+
+This patient's elevated rapid plasma reagin (RPR) titer with positive confirmatory testing by _Treponema pallidum_ enzyme immunoassay indicates **syphilis**.  Because she has no manifestations of primary (eg, chancre) or secondary (eg, rash or aseptic meningitis) syphilis, the patient is classified as having **latent syphilis**.
+
+Latent syphilis is divided as follows:
+
+- **Early latent syphilis** is diagnosed when the patient has had syphilis **<1 year**; this includes patients who had sex for the first time within the past year, had primary or secondary syphilis within the past year, had seroconversion within the past year, or had sex with someone who was showing signs of syphilis within the past year.  Early latent syphilis is treated with a single dose of **benzathine penicillin G** 2.4 million units intramuscularly (also used for primary and secondary syphilis) **(Choice B)**.  Doxycycline is sometimes used in place of a single dose of benzathine penicillin in those with severe penicillin allergy **(Choice D)**.
+- **Late latent syphilis** is diagnosed when the **duration of infection is unknown** (as in this case) or the patient had symptoms or seroconversion ≥1 year ago.  Late latent syphilis must be treated with **benzathine penicillin G** 2.4 million units intramuscularly weekly for **3 weeks**.  This is typically administered in the outpatient setting.
+
+Without treatment, late latent syphilis can progress to symptomatic tertiary syphilis, leading to cardiac and neurologic complications.
 
 ## Neurosyphillis
 

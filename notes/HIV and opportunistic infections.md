@@ -20,12 +20,6 @@ Mucocutaneous _Candida_ infections can occur in HIV-infected patients at relativ
 
 _Cryptococcus_ infection usually presents as subacute meningitis with headache, mental status changes, and fever. Because it often involves the basilar area, cranial nerve deficits may also be seen. The diagnosis can be made most swiftly by antigen testing of cerebrospinal fluid and blood. Management includes antifungal therapy and attention to increased intracranial pressure, which is usually responsible for the morbidity and mortality associated with cryptococcal meningitis.
 
-<!-- HIV and toxo when, sx, dx, rx -->
-
-==_Toxoplasma gondii_== infection in AIDS usually presents in patients with CD4 cell counts less than 100/µL. Because it is a ==reactivation disease==, patients are ==usually serology positive==. Clinical presentation includes headache, fever, and focal neurologic deficits. Imaging by CT or MRI (which is more sensitive) reveals ==multiple ring-enhancing lesions==. The differential diagnosis includes ==primary central nervous system lymphoma==, which most often appears as a ==single lesion== on imaging, and ==progressive multifocal leukoencephalopathy==, which is usually ==nonenhancing==. Diagnosis of central nervous system toxoplasmosis is usually presumptive based on presentation, imaging, and response to empiric treatment.
-
-![](https://photos.thisispiggy.com/file/wikiFiles/20220706072554.png)
-
 <!-- HIV MAC when, sx, dx -->
 
 _Mycobacterium avium_ complex infection usually presents as disseminated disease in patients with CD4 cell counts less than 50/µL; symptoms and signs include fever, sweats, weight loss, hepatosplenomegaly, lymphadenopathy, and cytopenias. Blood cultures for acid-fast bacilli will usually grow _Mycobacterium avium_ complex, but it may also be found on lymph node or liver biopsy when necessary.

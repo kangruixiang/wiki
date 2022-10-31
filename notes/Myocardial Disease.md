@@ -40,11 +40,6 @@ Patients with HCM have an annual incidence of cardiovascular death of 1% to 2%, 
 
 ### Management
 
-#### Related Questions
-
-- Question 40
-- Question 65
-
 In patients with HCM who have overweight or obesity, therapeutic lifestyle interventions are recommended to possibly lower the risk for developing LVOT obstruction, heart failure, and atrial fibrillation. Patients with symptoms of sleep-disordered breathing should be formally evaluated, including with a sleep study.
 
 In patients with obstructive symptoms, such as dyspnea or syncope/near-syncope, lifestyle modification and medical therapy form the basis of management. Patients should be advised to avoid dehydration, excessive alcohol intake, and situational exposures that may result in vasodilation and decreased preload (for example, saunas, hot tubs) because these may provoke greater LVOT obstruction. For most patients with HCM, mild- to moderate-intensity recreational exercise is beneficial if done for the purpose of leisure (with or without systematic training) and without the purpose to excel or compete against others. Medical therapy should be initiated with nonvasodilating β-blockers titrated to maximum tolerance; carvedilol, labetalol, and nebivolol should be avoided. Verapamil or diltiazem may be used in patients in whom β-blockers are not tolerated or are contraindicated. For patients with persistent symptoms, adding disopyramide, a class IA antiarrhythmic drug with potent negative inotropic activity, to one of the other drugs is a recommended option. Diuretics must be used cautiously and only if symptoms of dyspnea cannot be managed with other therapy. Because of their propensity to exacerbate LVOT obstruction, nitrates and phosphodiesterase type 5 inhibitors should not be used concomitantly.
@@ -63,28 +58,11 @@ Repeat TTE is recommended with any change in clinical status or new cardiac even
 
 #### Role of Genetic Testing and Counseling
 
-#### Related Question
-
-- Question 84
-
 Patients known or suspected to have HCM should undergo an evaluation of familial inheritance with a three-generation family history and receive genetic counseling. Genetic testing is recommended in patients who meet the clinical definition of HCM to aid screening of family members. First-degree relatives of patients with HCM should undergo evaluation with ECG and echocardiography and be offered genetic testing if a sarcomeric mutation is identified in the proband. A known sarcomeric mutation may be identified in up to 60% of patients with a family history of HCM; the incidence is lower (20%–30%) in isolated cases. The absence of an identified sarcomeric mutation in the index case does not exclude the diagnosis of HCM. Genetic testing may disclose genotype-positive persons who do not express clinical features of HCM (phenotype-negative), and these persons should be followed with clinical examination and serial echocardiography (**[Table 29](https://mksap18.acponline.org/app/topics/cv/tables/mk18_a_cv_t29)**). In the absence of a pathogenic mutation in the index case, ongoing clinical screening of first-degree family members is not indicated. The use of genetic testing in the assessment of SCD risk and need for ICD placement is uncertain.
-
-## Key Points
-
-- Asymmetric septal hypertrophy with dynamic left ventricular outflow tract obstruction represents the classic form of hypertrophic cardiomyopathy.
-- Doppler echocardiography is the modality of choice for quantification of the left ventricular outflow tract gradient in patients suspected of having hypertrophic cardiomyopathy.
-- Patients who have experienced sudden cardiac death or sustained ventricular tachycardia should receive an implantable cardioverter-defibrillator for secondary prevention.
-- In patients with hypertrophic cardiomyopathy who have symptoms of left ventricular outflow tract obstruction, nonvasodilating β-blockers are first-line therapy.
-- Transthoracic echocardiography and 24- to 48-hour ambulatory electrocardiography should be performed every 1 to 2 years in asymptomatic patients with hypertrophic cardiomyopathy to assess for mitral regurgitation and changes in left ventricular hypertrophy, function, and degree of obstruction.
-- Genetic testing is not indicated in first-degree relatives of patients with hypertrophic cardiomyopathy unless a pathogenic genetic variant is identified in the index patient.
 
 ## Restrictive Cardiomyopathy
 
 ### Clinical Presentation and Evaluation
-
-#### Related Question
-
-- Question 99
 
 Restrictive cardiomyopathy (RCM) is a rare disorder characterized by abnormally stiff, noncompliant ventricles. RCM was once considered idiopathic; however, increasing evidence suggests that gene mutations in sarcomeric proteins and abnormalities in desmin, an intermediate filament that regulates sarcomere architecture, play an important role in familial and sporadic cases. The sarcomeric protein gene mutations of RCM are similar to or the same as those linked to HCM, raising the possibility that these disorders represent different phenotypic expressions of the same heritable defect.
 
@@ -96,15 +74,11 @@ Primary RCM must be differentiated from other conditions that may present with r
 
 #### Differentiating Restrictive Cardiomyopathy from Constrictive Pericarditis
 
-#### Related Question
-
-- Question 29
-
 Patients with constrictive pericarditis and RCM present with similar symptoms and findings on echocardiography. Differentiating between these two disorders is essential because specific therapies, including surgical pericardiectomy, may relieve symptoms and prolong life in patients with constriction. In patients with previous cardiac surgery, pericarditis, or chest irradiation, constrictive pericarditis should be strongly considered.
 
 On physical examination, patients with constriction and patients with RCM both demonstrate increased jugular venous pressure. Increase in the height of the jugular waveform during inspiration (Kussmaul sign) has been associated more commonly with constriction. Both RCM and constrictive pericarditis may be associated with a diastolic sound. An S3 gallop is often present in RCM, whereas a pericardial knock can be heard in constrictive pericarditis. Differentiating between these sounds may be very difficult (see [Pericardial Disease](https://mksap18.acponline.org/app/topics/cv/mk18_a_cv_s8/mk18_a_cv_s8_3_1)).
 
-A multimodality approach, including both noninvasive imaging and invasive hemodynamic evaluation, may be required to distinguish RCM from constrictive pericarditis. Clues to the presence of constrictive pericarditis include pericardial calcification on chest radiography or CT, pericardial thickening on CT or CMR imaging, or a B-type natriuretic peptide level below 100 pg/mL (100 ng/L) (usually ≥400 pg/mL \[400 ng/L] in patients with RCM). A hallmark feature of constrictive pericarditis is ventricular interdependence, in which total cardiac volume is limited by the rigid pericardium. With ventricular interdependence, increased filling of the right or left ventricle can occur only with reciprocal decreased filling of the other ventricle. Ventricular interdependence may be demonstrated by Doppler echocardiography, CMR imaging, or invasive hemodynamic evaluation; it is not present in patients with RCM.
+A multimodality approach, including both noninvasive imaging and invasive hemodynamic evaluation, may be required to distinguish RCM from constrictive pericarditis. Clues to the presence of constrictive pericarditis include pericardial calcification on chest radiography or CT, pericardial thickening on CT or CMR imaging, or a B-type natriuretic peptide level below 100 pg/mL (100 ng/L) (usually ≥400 pg/mL [400 ng/L] in patients with RCM). A hallmark feature of constrictive pericarditis is ventricular interdependence, in which total cardiac volume is limited by the rigid pericardium. With ventricular interdependence, increased filling of the right or left ventricle can occur only with reciprocal decreased filling of the other ventricle. Ventricular interdependence may be demonstrated by Doppler echocardiography, CMR imaging, or invasive hemodynamic evaluation; it is not present in patients with RCM.
 
 ### Management
 
@@ -114,17 +88,7 @@ Atrial fibrillation is a common complication due to left atrial dilatation and e
 
 Survival is poor in patients with RCM, with a 5-year mortality rate of 36% and a 10-year mortality rate of 63%. Cardiovascular mortality is predominantly related to progressive heart failure and arrhythmias. Cardiac transplantation may be considered in selected individuals who remain symptomatic despite maximal therapy. There is no accepted indication for ICD placement for primary prevention in patients with RCM who have preserved systolic function.
 
-## Key Points
-
-- Restrictive cardiomyopathy should be suspected in patients when echocardiography demonstrates biatrial enlargement and severe diastolic dysfunction in the setting of normal ventricular size, wall thickness, and systolic function.
-- Restrictive cardiomyopathy must be differentiated from constrictive pericarditis because surgical pericardiectomy may relieve symptoms and prolong life in patients with constriction.
-
 ## Cardiac Tumors
-
-#### Related Questions
-
-- Question 21
-- Question 52
 
 Most cardiac tumors are metastatic. Neoplasms with the highest metastatic potential are melanoma, malignant thymoma, and germ cell tumors. Common tumors with an intermediate risk for cardiac involvement include carcinoma of the lung, stomach, and colon. Therapy is directed at systemic treatment of the underlying neoplasm, with cardiac surgery reserved for patients with obstructive symptoms.
 
@@ -133,7 +97,3 @@ Primary cardiac tumors, which are exceedingly rare, are benign in two thirds of 
 Papillary fibroelastomas usually occur on the surface of the aortic and mitral valves and are commonly discovered in the eighth decade of life. Although most papillary fibroelastomas do not cause symptoms, they may be associated with stroke, transient ischemic attack, and, rarely, coronary embolization with infarction. On echocardiography, these tumors often have a heterogeneous globular shape or a mobile frond-like appearance. Patients with embolic symptoms are treated surgically. There are currently no randomized data comparing surgical therapy with antithrombotic or antiplatelet therapy to prevent embolic events.
 
 Angiosarcomas are the most common primary malignant tumor. Angiosarcomas typically arise in the right atrium and are often associated with pericardial effusion (**[Figure 29](https://mksap18.acponline.org/app/topics/cv/figures/mk18_a_cv_f29)**). Dyspnea and chest pain are common presenting symptoms. Angiosarcomas are highly vascular tumors, and CT or CMR imaging with contrast may help differentiate an angiosarcoma from a right atrial myxoma. When complete surgical extirpation is possible, survival remains less than 2 years for most patients. With incomplete resection, survival is generally less than 10 months.
-
-## Key Point
-
-- The primary treatment of atrial myxomas is surgical removal to prevent embolic events.

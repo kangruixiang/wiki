@@ -18,11 +18,6 @@ The initial response to a decline in serum calcium is an increase in PTH secreti
 
 In addition to its role in mineral metabolism, the adult skeleton provides a reservoir of calcium, structural support for mobility, muscle attachment, and protection of vital organs. Bone remodeling allows for continuous skeletal adaptation and repair. Osteocytes coordinate bone remodeling, which is initiated by osteoclastic resorption then followed by much slower osteoblastic bone formation and mineralization of a collagen/protein matrix. The entire skeleton is remodeled approximately every 10 years.
 
-## Key Points
-
-- The primary effect of vitamin D is to enhance the absorption of calcium within the intestinal tract, whereas the effects of parathyroid hormone are primarily mediated through regulation of calcium retention and excretion in the kidney.
-- Measurement of 25-hydroxyvitamin D is the most appropriate test for vitamin D deficiency.
-
 ## Hypercalcemia
 
 ### Clinical Features of Hypercalcemia
@@ -33,17 +28,9 @@ Classic symptoms of hypercalcemia include polyuria, polydipsia, and nocturia. Ad
 
 Severe hypercalcemia and hypercalciuria can lead to volume depletion and acute kidney injury, nephrolithiasis, or nephrocalcinosis. Skeletal manifestations reflect the underlying cause of hypercalcemia. Primary hyperparathyroidism may present as osteoporosis with fragility fractures and low bone density. Severe hyperparathyroidism from parathyroid carcinoma or secondary hyperparathyroidism due to kidney disease may be associated with bone pain and osteitis fibrosa cystica (a radiographic diagnosis). Hypercalcemia associated with lytic bone lesions is often the result of multiple myeloma or breast cancer.
 
-## Key Point
-
-- Symptoms of hypercalcemia are variable but may include polyuria, polydipsia, nocturia, anorexia, nausea, abdominal pain, constipation, and mental status changes, and they may be associated with acute kidney injury, nephrolithiasis, nephrocalcinosis, and skeletal changes.
-
 ### Causes and Diagnosis of Hypercalcemia
 
-Clues to the underlying cause of hypercalcemia include the severity, acuity of illness, and patient factors including concurrent illnesses. Hypercalcemia is categorized as mild (<12 mg/dL \[3 mmol/L]), moderate (12-14 mg/dL \[3–3.5 mmol/L]), or (severe >14 mg/dL \[3.5 mmol/L]). When hypercalcemia is incidentally noted, repeat measurement is indicated. If hypercalcemia is confirmed, simultaneous measurement of serum calcium and PTH is a critical first step in diagnosing the cause and categorizing PTH-mediated and non–PTH-mediated hypercalcemia. Ionized calcium measurement is not helpful when the serum albumin level is normal or when there are no acute acid-base disorders. A thorough history and physical examination, as well as careful review of all medications including supplements, should be done in all patients with hypercalcemia.
-
-## Key Point
-
-- Initial diagnostic testing for hypercalcemia requires simultaneous measurement of serum calcium and parathyroid hormone (PTH), which allows classification as PTH-related and non–PTH-related disease.
+Clues to the underlying cause of hypercalcemia include the severity, acuity of illness, and patient factors including concurrent illnesses. Hypercalcemia is categorized as mild (<12 mg/dL [3 mmol/L]), moderate (12-14 mg/dL [3–3.5 mmol/L]), or (severe >14 mg/dL [3.5 mmol/L]). When hypercalcemia is incidentally noted, repeat measurement is indicated. If hypercalcemia is confirmed, simultaneous measurement of serum calcium and PTH is a critical first step in diagnosing the cause and categorizing PTH-mediated and non–PTH-mediated hypercalcemia. Ionized calcium measurement is not helpful when the serum albumin level is normal or when there are no acute acid-base disorders. A thorough history and physical examination, as well as careful review of all medications including supplements, should be done in all patients with hypercalcemia.
 
 #### Medications Causing Hypercalcemia
 
@@ -55,22 +42,13 @@ PTH secretion decreases abruptly in response to a rise in serum calcium concentr
 
 ##### Primary Hyperparathyroidism
 
-#### Related Questions
-
-- Question 40
-- Question 64
-
-Primary hyperparathyroidism is typically caused by a solitary parathyroid adenoma. Women are more often affected than men, with a peak incidence in the seventh decade of life. Hypercalcemia is usually mild (within 1 mg/dL \[0.25 mmol/L] of the upper limits of normal) and may be intermittently normal. Hypercalciuria is present in up to 30% of patients. Since PTH enhances kidney phosphate excretion, low or low-normal serum phosphorus concentrations support the diagnosis. Assessment of bone mineral density (BMD) with dual-energy x-ray absorptiometry (DEXA) should include the nondominant forearm, which can be particularly affected in patients with hyperparathyroidism. Although parathyroid imaging with sestamibi or neck ultrasound may localize an adenoma, the presence of an adenoma does not influence the decision to proceed with surgery in the setting of primary hyperparathyroidism. Imaging may be beneficial to the surgeon for planning surgical intervention. In the absence of a history of calcium nephrolithiasis, kidney imaging may be indicated to exclude occult stones if this finding would change management.
+Primary hyperparathyroidism is typically caused by a solitary parathyroid adenoma. Women are more often affected than men, with a peak incidence in the seventh decade of life. Hypercalcemia is usually mild (within 1 mg/dL [0.25 mmol/L] of the upper limits of normal) and may be intermittently normal. Hypercalciuria is present in up to 30% of patients. Since PTH enhances kidney phosphate excretion, low or low-normal serum phosphorus concentrations support the diagnosis. Assessment of bone mineral density (BMD) with dual-energy x-ray absorptiometry (DEXA) should include the nondominant forearm, which can be particularly affected in patients with hyperparathyroidism. Although parathyroid imaging with sestamibi or neck ultrasound may localize an adenoma, the presence of an adenoma does not influence the decision to proceed with surgery in the setting of primary hyperparathyroidism. Imaging may be beneficial to the surgeon for planning surgical intervention. In the absence of a history of calcium nephrolithiasis, kidney imaging may be indicated to exclude occult stones if this finding would change management.
 
 Dietary calcium intake should be approximately 1000 mg/d to avoid further increases in urine calcium excretion and PTH secretion. Measurement of 25-hydroxyvitamin D and cautious correction of vitamin D deficiency is important. Repletion is recommended in patients whose levels are below 30 ng/dL (75 nmol/L) with careful attention to urine calcium excretion and serum calcium once vitamin D values are greater than 30 ng/dL (75 nmol/L).
 
 Changes in specific endpoints during monitoring that lead to a recommendation for parathyroid surgery are outlined in **[Table 43](https://mksap18.acponline.org/app/topics/en/tables/mk18_b_en_t43)**. Surgery results in a 95% cure rate and less than 1% rate of complications with an experienced surgeon using minimally invasive techniques. Preoperative correction of vitamin D deficiency is important to avoid postoperative hypocalcemia, which is the result of relative hypoparathyroidism and reduced PTH-mediated production of 1,25-dihydroxyvitamin D culminating in a rapid flux of calcium into bone (hungry bone syndrome). Patients with mild primary hyperparathyroidism commonly require calcium supplementation for up to 1 week after parathyroidectomy until residual parathyroid tissue normalizes serum calcium concentrations. Reassessment of BMD 1 year after parathyroidectomy may show improvement in BMD, especially at the spine.
 
 Approximately one in three patients with asymptomatic primary hyperparathyroidism who initially defer surgery will develop indications for surgery during 10 to 15 years of observation. In those not deemed eligible or who elect not to undergo surgery, evaluation should include annual measurement of serum calcium, creatinine, and glomerular filtration rate (GFR). If kidney stones are suspected, imaging and 24-hour urine collection for biochemical stone profile should be considered. BMD should be obtained every 2 years, and spine imaging should be considered if the patient has significant loss of height or back pain in the setting of a normal BMD.
-
-## Key Point
-
-- Measurement of 25-hydroxyvitamin D and cautious correction of vitamin D deficiency is important in patients with primary hyperparathyroidism.
 
 ##### Parathyroid Carcinoma
 
@@ -88,31 +66,19 @@ Familial hypocalciuric hypercalcemia (FHH) is an autosomal dominant condition an
 
 Although these patients appear to have primary hyperparathyroidism, FHH is a benign condition that is not treated with parathyroidectomy. Hypercalcemia will not resolve with surgery. Patients do not have sequelae of hypercalcemia, such as stones or osteoporosis. Signs suggestive of FHH include: mild hypercalcemia since childhood; low 24-hour urine calcium excretion, especially if calcium-creatinine clearance ratio is below 0.01; and/or family history of parathyroidectomy without resolution of hypercalcemia. If clinically ambiguous, the diagnosis can be confirmed by CaSR genetic testing.
 
-## Key Point
-
-- The distinction between primary hyperparathyroidism and familial hypocalciuric hypercalcemia can be made by a 24-hour urine collection for calcium and creatinine, which will establish the amount of kidney calcium excretion and will allow evaluation of the calcium-creatinine clearance ratio.
-
 ##### Multiple Endocrine Neoplasia Syndrome
-
-#### Related Question
-
-- Question 30
 
 Primary hyperparathyroidism in adolescents and young adults may be the first sign of multiple endocrine neoplasia syndrome (MEN). Primary hyperparathyroidism is associated with MEN1 and MEN2A syndromes. If the family history reveals primary hyperparathyroidism, pituitary tumor, Zollinger-Ellison syndrome, early death from pancreatic neoplasm, pheochromocytoma, or medullary thyroid cancer, MEN is more likely and screening should be considered. In contrast to sporadic primary hyperparathyroidism, MEN syndromes have recurrence of hyperparathyroidism due to ongoing hyperplasia in the remaining parathyroid tissue after parathyroidectomy. MEN1 is associated with mutation of the tumor suppressor _MEN1_ gene, and MEN2A is associated with mutation of the _RET_ gene. This is best managed in conjunction with or by an endocrinologist.
 
 #### Non–Parathyroid Hormone-Mediated Hypercalcemia
 
-The differential diagnosis of hypercalcemia with suppressed PTH is broad. In patients with severe hypercalcemia, the history, symptoms, and findings may suggest the underlying cause. Treatment should commence without delay while awaiting results of laboratory testing. In PTH-independent hypercalcemic states, hypercalciuria can be severe and may precede hypercalcemia. PTH is usually undetectable but may be very low (<20 pg/mL \[20 ng/L]) if hypercalcemia is mild.
+The differential diagnosis of hypercalcemia with suppressed PTH is broad. In patients with severe hypercalcemia, the history, symptoms, and findings may suggest the underlying cause. Treatment should commence without delay while awaiting results of laboratory testing. In PTH-independent hypercalcemic states, hypercalciuria can be severe and may precede hypercalcemia. PTH is usually undetectable but may be very low (<20 pg/mL [20 ng/L]) if hypercalcemia is mild.
 
 ##### Malignancy-Associated Hypercalcemia
 
-The most common cause of non–parathyroid hormone-mediated hypercalcemia is malignancy, and it is typically severe (>14 mg/dL \[3.5 mmol/L]). It is often the result of tumor-produced PTH-related protein (PTHrP) leading to extensive resorption of bone. Renal cell carcinoma, breast cancer, and squamous cell cancers are associated with PTHrP-related hypercalcemia. Rarely, locally mediated osteolysis from extensive skeletal metastases, typically in multiple myeloma and breast cancer, may cause efflux of calcium from bone resulting in significant hypercalcemia. For more information, see [MKSAP 18 Hematology and Oncology](https://mksap18.acponline.org/app/topics/ho/mk18_a_ho_s21/mk18_a_ho_s21_2_2).
+The most common cause of non–parathyroid hormone-mediated hypercalcemia is malignancy, and it is typically severe (>14 mg/dL [3.5 mmol/L]). It is often the result of tumor-produced PTH-related protein (PTHrP) leading to extensive resorption of bone. Renal cell carcinoma, breast cancer, and squamous cell cancers are associated with PTHrP-related hypercalcemia. Rarely, locally mediated osteolysis from extensive skeletal metastases, typically in multiple myeloma and breast cancer, may cause efflux of calcium from bone resulting in significant hypercalcemia. For more information, see [MKSAP 18 Hematology and Oncology](https://mksap18.acponline.org/app/topics/ho/mk18_a_ho_s21/mk18_a_ho_s21_2_2).
 
 ##### Vitamin D–Dependent Hypercalcemia
-
-#### Related Question
-
-- Question 31
 
 Vitamin D–dependent hypercalcemia is associated with normal to elevated serum phosphorus levels because vitamin D enhances intestinal absorption of phosphorus and suppressed PTH secretion reduces kidney phosphorus excretion.
 
@@ -132,11 +98,7 @@ Acute prolonged immobilization, as seen in spinal cord injuries, can cause large
 
 ### Management of Hypercalcemia
 
-Management is dependent on the severity of the hypercalcemia. If mild (<12 mg/dL \[3 mmol/L]), treatment of the underlying disorder (for example, parathyroidectomy in primary hyperparathyroidism) is sufficient. Hospitalization may be needed in patients with acute kidney injury, mental status changes, or calcium levels above 12 mg/dL (3 mmol/L). Initial treatment of severe hypercalcemia is aggressive hydration to replete volume loss and increase kidney excretion of calcium. Loop diuretics are not recommended unless kidney failure or heart failure is present, in which case volume expansion should precede the administration of loop diuretics to avoid hypotension and further kidney injury. For the acutely symptomatic patient, subcutaneous calcitonin can be used; however, the drug effect wanes after 48 hours. Long-term management of hypercalcemia may require intravenous bisphosphonate therapy to prevent mobilization of calcium from the skeleton, but requires adequate kidney function. Glucocorticoids and restriction of calcium and vitamin D intake are uniquely beneficial in vitamin D–dependent hypercalcemia. Hemodialysis is reserved for the treatment of severe hypercalcemia in oliguric patients.
-
-## Key Point
-
-- Initial treatment of moderate to severe hypercalcemia is aggressive hydration to replete volume loss and increase kidney excretion of calcium; loop diuretics are not recommended unless kidney failure or heart failure is present, in which case volume expansion should precede the administration of loop diuretics to avoid hypotension and further kidney injury.
+Management is dependent on the severity of the hypercalcemia. If mild (<12 mg/dL [3 mmol/L]), treatment of the underlying disorder (for example, parathyroidectomy in primary hyperparathyroidism) is sufficient. Hospitalization may be needed in patients with acute kidney injury, mental status changes, or calcium levels above 12 mg/dL (3 mmol/L). Initial treatment of severe hypercalcemia is aggressive hydration to replete volume loss and increase kidney excretion of calcium. Loop diuretics are not recommended unless kidney failure or heart failure is present, in which case volume expansion should precede the administration of loop diuretics to avoid hypotension and further kidney injury. For the acutely symptomatic patient, subcutaneous calcitonin can be used; however, the drug effect wanes after 48 hours. Long-term management of hypercalcemia may require intravenous bisphosphonate therapy to prevent mobilization of calcium from the skeleton, but requires adequate kidney function. Glucocorticoids and restriction of calcium and vitamin D intake are uniquely beneficial in vitamin D–dependent hypercalcemia. Hemodialysis is reserved for the treatment of severe hypercalcemia in oliguric patients.
 
 ## Hypocalcemia
 
@@ -144,11 +106,7 @@ Management is dependent on the severity of the hypercalcemia. If mild (<12 mg/dL
 
 Signs and symptoms of hypocalcemia reflect its severity and acuity. Hypocalcemic disorders in outpatients are typically detected on screening blood tests and are mild, with serum calcium 7.5 to 8.9 mg/dL (1.9-2.2 mmol/L). It may also be detected during evaluation for low-intensity traumatic fractures or low bone mass. Most patients will be asymptomatic or report symptoms of intermittent paresthesia of the hands and feet or perioral numbness. Hypocalcemia due to chronic hypoparathyroidism can also be associated with cataract formation, basal ganglia calcification, papilledema, and dental enamel hypoplasia.
 
-Patients with severe hypocalcemia may present with neuromuscular symptoms and signs. Carpopedal spasm with characteristic hand posture (flexion at metacarpophalangeal joints and extension at interphalangeal joints) may be spontaneous or triggered by transient distal limb ischemia during blood pressure assessment (Trousseau sign). Facial nerve hyperirritability and muscle spasm can be demonstrated by percussion of the facial nerve just anterior to the ear (Chvostek sign). Importantly, laryngospasm, seizure, myocardial dysfunction, and QT-interval prolongation leading to sudden cardiac death due to severe hypocalcemia (<7.5 mg/dL \[1.9 mmol/L]) can occur without prodromal paresthesia or muscle cramping.
-
-## Key Point
-
-- Laryngospasm, seizure, myocardial dysfunction, and QT-interval prolongation leading to sudden cardiac death due to severe hypocalcemia (<7.5 mg/dL \[1.9 mmol/L]) can occur without prodromal paresthesia or muscle cramping.
+Patients with severe hypocalcemia may present with neuromuscular symptoms and signs. Carpopedal spasm with characteristic hand posture (flexion at metacarpophalangeal joints and extension at interphalangeal joints) may be spontaneous or triggered by transient distal limb ischemia during blood pressure assessment (Trousseau sign). Facial nerve hyperirritability and muscle spasm can be demonstrated by percussion of the facial nerve just anterior to the ear (Chvostek sign). Importantly, laryngospasm, seizure, myocardial dysfunction, and QT-interval prolongation leading to sudden cardiac death due to severe hypocalcemia (<7.5 mg/dL [1.9 mmol/L]) can occur without prodromal paresthesia or muscle cramping.
 
 ### Causes and Diagnosis of Hypocalcemia
 
@@ -156,23 +114,11 @@ Hypocalcemia should be confirmed with a second measurement, which requires asses
 
 #### Hypoparathyroidism
 
-#### Related Question
-
-- Question 59
-
 Hypoparathyroidism is most commonly caused by inadvertent injury during anterior neck surgery (thyroidectomy, parathyroidectomy) or surgery to treat parathyroid gland hyperplasia, both of which present within a few hours of surgery. Depending on the extent of injury/resection, surgical hypoparathyroidism may last days to weeks. Permanent hypoparathyroidism may be partial or complete; the latter is associated with undetectable serum PTH levels and a higher prevalence of hyperphosphatemia.
 
 Inappropriately normal PTH levels with concurrent hypocalcemia represents the former. Other causes of hypocalcemia due to insufficient PTH secretion include infiltrative disorders (hemochromatosis or Wilson disease), radiation, autoimmunity, and congenital disorders (such as 22q11.2 deletion syndrome). Chronic hypocalcemia with inappropriately normal PTH occurring within a family may represent an activating mutation of the _CaSR_ gene. Hypomagnesemia, seen in the settings of malnutrition, alcoholism, and with use of loop diuretics and chronic proton pump inhibitor therapy, causes functional, reversible parathyroid hypofunction and must be excluded before a low or inappropriately normal PTH level is attributed to hypoparathyroidism. PTH resistance (pseudohypoparathyroidism) is a rare genetic cause of hypocalcemia.
 
-## Key Point
-
-- Hypomagnesemia causes functional, reversible parathyroid hypofunction and must be excluded before a low or inappropriately normal parathyroid hormone level is attributed to hypoparathyroidism.
-
 #### Other Causes of Hypocalcemia
-
-#### Related Question
-
-- Question 9
 
 Malnutrition and/or malabsorption of either or both vitamin D and calcium may be suspected based on clinical history (bariatric surgery, celiac disease) and confirmed by low serum 25-hydroxyvitamin D level or low 24-hour urine calcium excretion (a proxy indicator of calcium intake and absorption). The most common cause of acquired hypocalcemia is chronic kidney failure due to impaired production of 1,25-dihydroxyvitamin D and hyperphosphatemia. Hypercalciuria is most often idiopathic, but can also be due to chronic loop diuretic use. Rhabdomyolysis and tumor lysis syndrome increase serum phosphorus and calcium phosphate binding in the vascular space, causing low ionized calcium.
 
@@ -182,21 +128,13 @@ Potent antiresorptive drugs, such as intravenous bisphosphonates and denosumab, 
 
 ### Management of Hypocalcemia
 
-#### Related Question
-
-- Question 14
-
-Because severe neuromuscular complications of hypocalcemia can occur in the absence of prodromal muscle tetany, severe hypocalcemia (<7.5 mg/dL \[1.9 mmol/L]) requires urgent treatment with intravenous calcium. Slow administration through central intravenous access with electrocardiographic monitoring is preferred. Alternatively, teriparatide 20 µg twice per day rapidly eliminates hypocalcemic symptoms in acute postsurgical hypoparathyroidism (off-label indication).
+Because severe neuromuscular complications of hypocalcemia can occur in the absence of prodromal muscle tetany, severe hypocalcemia (<7.5 mg/dL [1.9 mmol/L]) requires urgent treatment with intravenous calcium. Slow administration through central intravenous access with electrocardiographic monitoring is preferred. Alternatively, teriparatide 20 µg twice per day rapidly eliminates hypocalcemic symptoms in acute postsurgical hypoparathyroidism (off-label indication).
 
 Vitamin D supplementation 1000 to 4000 IU/d and oral calcium carbonate or calcium citrate at doses of 1 to 3 g/d in divided doses may normalize or sufficiently treat mild or chronic hypocalcemia. Calcitriol is needed in the setting of hypoparathyroidism with undetectable PTH and kidney failure because 1,25-dihydroxyvitamin D activation requires both PTH and sufficient kidney function.
 
 In chronic hypoparathyroidism, goals of therapy are to eliminate symptoms while avoiding complications of therapy. A reasonable goal for most patients is a serum calcium concentration at or just below the reference range without hypercalciuria. Monitoring of urine calcium excretion is mandatory because hypercalciuria often limits therapy. Correction of coexisting hypomagnesemia is also required. Thiazide diuretics are commonly used because they decrease urine calcium excretion.
 
 Initial treatment of hyperphosphatemia is reduction of dietary phosphorus but occasionally requires the addition of oral phosphate binders if serum phosphorus exceeds the normal range. Recombinant human PTH is available for patients who do not meet treatment goals with calcium and calcitriol therapy alone.
-
-## Key Point
-
-- A reasonable goal for most patients with hypoparathyroidism is a serum calcium concentration at or just below the reference range without hypercalciuria.
 
 ## Metabolic Bone Disease
 
@@ -210,19 +148,11 @@ Low bone mass in adults may represent poor bone formation, bone loss, or both. F
 
 #### Screening for Osteoporosis
 
-#### Related Question
-
-- Question 70
-
 Current guidelines recommend screening average risk postmenopausal women beginning at age 65. Guidelines vary in their recommendations for routine screening for osteoporosis in men. The American College of Rheumatology recommends BMD testing within 6 months of starting long-term glucocorticoid therapy in adults 40 years of age and older and in adults under 40 years of age with risk factors for osteoporosis or a history of fragility fractures.
 
 Patients with risk factors for low bone mass or osteoporosis, fragility fractures of the femur, vertebra (**[Figure 17](https://mksap18.acponline.org/app/topics/en/figures/mk18_b_en_f17)**), pelvis, humerus or radius, height loss of 4 cm (1.6 in) or more, or kyphosis, should have BMD testing earlier than standard screening recommendations. BMD may also be indicated if the risk of fractures is elevated based on the results of risk assessment tools such as the Simple Calculated Osteoporosis Risk Estimate (SCORE), Osteoporosis Self-Assessment Tool (OST), the Osteoporosis Risk Assessment Instrument (ORAI), and Fracture Risk Assessment Tool (FRAX). **[Table 47](https://mksap18.acponline.org/app/topics/en/tables/mk18_b_en_t47)** lists recommendations for BMD testing and vertebral imaging.
 
 Screening of younger women may be indicated if one or more risk factors for osteoporosis are present. In premenopausal women without risk factors, assessment of BMD for fracture risk is not advised or validated. However, if testing is done in an otherwise healthy person, results that are below age- and gender-matched averages (Z-score <0) generally do not require further evaluation or serial monitoring.
-
-## Key Point
-
-- Current guidelines recommend screening average risk postmenopausal women beginning at age 65; screening recommendations for men vary by organization.
 
 #### Diagnosis
 
@@ -232,26 +162,17 @@ Diagnosis of osteoporosis in premenopausal women and men under 50 years can be m
 
 BMD assessment using quantitative calcaneal ultrasonography may be used to screen for osteoporosis, but abnormal results require confirmation by DEXA. Quantitative CT provides a DEXA equivalent T-score, is not hindered by degenerative changes in the lumbar spine, and is highly sensitive for detection of vertebral compression fractures, but its cost and radiation exposure are greater and is not recommended for osteoporosis screening.
 
-## Key Points
-
-- Osteoporosis can be diagnosed clinically based on fragility fractures, hip fracture, vertebral compression fracture, or a bone mineral density measurement of ≤−2.5.
-- Quantitative CT provides a dual-energy x-ray absorptiometry equivalent T-score, is not hindered by degenerative changes in the lumbar spine, and is highly sensitive for detection of vertebral compression fractures, but its cost and radiation exposure are greater and is not recommended for osteoporosis screening.
-
 #### Evaluation of Secondary Causes of Low Bone Mass
 
 Non-modifiable factors are the most common cause of low bone mass, but there are many other causes (see **[Table 44](https://mksap18.acponline.org/app/topics/en/tables/mk18_b_en_t44)** and **[Table 45](https://mksap18.acponline.org/app/topics/en/tables/mk18_b_en_t45)**). Low bone mass may be the presentation for conditions such as idiopathic hypercalciuria or celiac disease. All patients should have a thorough history and physical examination and additional testing based on findings (see **[Table 46](https://mksap18.acponline.org/app/topics/en/tables/mk18_b_en_t46)**). Although BMD may not be required in all patients to make the diagnosis of osteoporosis, it may be helpful to determine if additional testing is needed and to guide treatment.
 
 ##### Osteomalacia
 
-#### Related Question
-
-- Question 84
-
 Osteomalacia is most commonly caused by severe and prolonged vitamin D deficiency, which results in inadequate concentrations of calcium and/or phosphate in the bone, which in turn prevents mineralization of newly formed bone matrix. Unlike osteoporosis, osteomalacia does not result in permanent loss of bone structure. A period of months to years of disordered mineralization is required before bone strength is compromised.
 
-Symptoms of osteomalacia include diffuse bone pain, bone tenderness to palpation (tibial plateau and sternum), and proximal muscle weakness; however, early osteomalacia may present only with low bone mass on DEXA and can be indistinguishable from osteoporosis without further testing. Very low BMD (Z-score ≤−2), low or low-normal serum calcium and phosphorus levels, very low 25-hydroxyvitamin D (<10 ng/mL \[25 nmol/L]) level, and secondary hyperparathyroidism distinguishes osteomalacia from osteoporosis. Elevated serum alkaline phosphatase level is particularly suggestive of osteomalacia, although mild elevation can be seen with recent osteoporotic fracture. Radiographs may display an unusual distribution of fractures in severe osteomalacia (**[Figure 18](https://mksap18.acponline.org/app/topics/en/figures/mk18_b_en_f18)**). When bone pain is not explained by conventional radiographic findings in the setting of suspected osteomalacia, imaging with radionuclide bone scan or MRI may reveal fractures.
+Symptoms of osteomalacia include diffuse bone pain, bone tenderness to palpation (tibial plateau and sternum), and proximal muscle weakness; however, early osteomalacia may present only with low bone mass on DEXA and can be indistinguishable from osteoporosis without further testing. Very low BMD (Z-score ≤−2), low or low-normal serum calcium and phosphorus levels, very low 25-hydroxyvitamin D (<10 ng/mL [25 nmol/L]) level, and secondary hyperparathyroidism distinguishes osteomalacia from osteoporosis. Elevated serum alkaline phosphatase level is particularly suggestive of osteomalacia, although mild elevation can be seen with recent osteoporotic fracture. Radiographs may display an unusual distribution of fractures in severe osteomalacia (**[Figure 18](https://mksap18.acponline.org/app/topics/en/figures/mk18_b_en_f18)**). When bone pain is not explained by conventional radiographic findings in the setting of suspected osteomalacia, imaging with radionuclide bone scan or MRI may reveal fractures.
 
-The goal of treatment is to optimize conditions for bone mineralization using supplementation to normalize serum 25-hydroxyvitamin D (>30 ng/mL \[75 nmol/L]), calcium, and phosphorus concentrations. The skeletal response to treatment is reflected by gradual normalization of alkaline phosphatase level and symptom relief. Resolution of osteomalacia may take as long as 12 months; subsequent BMD testing will show significant increases and/or normalization of BMD.
+The goal of treatment is to optimize conditions for bone mineralization using supplementation to normalize serum 25-hydroxyvitamin D (>30 ng/mL [75 nmol/L]), calcium, and phosphorus concentrations. The skeletal response to treatment is reflected by gradual normalization of alkaline phosphatase level and symptom relief. Resolution of osteomalacia may take as long as 12 months; subsequent BMD testing will show significant increases and/or normalization of BMD.
 
 ##### Other Causes
 
@@ -263,35 +184,17 @@ Exercise involving weight-bearing, resistance, and balance is important for bone
 
 #### Pharmacologic Management
 
-#### Related Question
-
-- Question 53
-
 The goal of treatment is reduce risk of fractures in patients with osteoporosis or those at increased risk of fracture (primary prevention). The U.S. National Osteoporosis Foundation recommends pharmacologic treatment for patients with osteoporosis-related hip or spine fractures, those with a BMD T-score of −2.5 or less, and those with a BMD T-score between −1 and −2.5 with a 10-year risk of 3% or greater for hip fracture or risk of 20% or greater for major osteoporosis-related fracture as estimated by the Fracture Risk Assessment Tool (FRAX). Some studies suggest that different thresholds for initiation of treatment should be considered in other at-risk populations. The American College of Rheumatology recommends treatment for glucocorticoid-induced osteoporosis based on age, gender, and fracture risk.
 
 Pharmacotherapy may also be used to prevent loss of BMD in postmenopausal women at risk of osteoporosis and to prevent or treat glucocorticoid-induced osteoporosis. Although estrogen therapy may be considered for management of vasomotor symptoms in postmenopausal women, it is no longer considered first-line therapy for prevention of osteoporosis. The FDA has recently approved a combination pill, bazedoxifene and conjugated estrogen, for prevention of postmenopausal osteoporosis. FDA-approved drugs for treatment of osteoporosis and options for prevention are listed in **[Table 48](https://mksap18.acponline.org/app/topics/en/tables/mk18_b_en_t48)**.
 
 ##### Bisphosphonates
 
-#### Related Questions
-
-- Question 20
-- Question 33
-
-Oral bisphosphonates, alendronate and risedronate, are antiresorptive agents and are generally first-line treatment for osteoporosis in postmenopausal women and men over 50 years of age. They have been shown to reduce the risk for spine, hip, and non-vertebral fractures. Another bisphosphonate, ibandronate, has only shown efficacy in reducing vertebral fractures. In glucocorticoid-induced osteoporosis with moderate to high fracture risk, oral bisphosphonates are recommended as first-line therapy in adult men and women regardless of age. Intravenous zoledronic acid once a year is an option if patients experience upper gastrointestinal symptoms or have difficulty taking the medication as directed. An acute-phase response reaction including pyrexia and myalgia may occur after first administration in as many as one in three patients, but does not occur typically with subsequent administrations. Zoledronic acid is also effective in preventing fractures in patients with osteopenia, an effect not seen with other bisphosphonates. All bisphosphonates are contraindicated in patients with reduced kidney function (glomerular filtration rate \[GFR] <35 mL/min/1.73 m2) and should not be given until vitamin D deficiency and hypocalcemia are treated, if present.
+Oral bisphosphonates, alendronate and risedronate, are antiresorptive agents and are generally first-line treatment for osteoporosis in postmenopausal women and men over 50 years of age. They have been shown to reduce the risk for spine, hip, and non-vertebral fractures. Another bisphosphonate, ibandronate, has only shown efficacy in reducing vertebral fractures. In glucocorticoid-induced osteoporosis with moderate to high fracture risk, oral bisphosphonates are recommended as first-line therapy in adult men and women regardless of age. Intravenous zoledronic acid once a year is an option if patients experience upper gastrointestinal symptoms or have difficulty taking the medication as directed. An acute-phase response reaction including pyrexia and myalgia may occur after first administration in as many as one in three patients, but does not occur typically with subsequent administrations. Zoledronic acid is also effective in preventing fractures in patients with osteopenia, an effect not seen with other bisphosphonates. All bisphosphonates are contraindicated in patients with reduced kidney function (glomerular filtration rate [GFR] <35 mL/min/1.73 m2) and should not be given until vitamin D deficiency and hypocalcemia are treated, if present.
 
 Rare side effects of antiresorptive agents are osteonecrosis of the jaw and atypical femur fracture. Osteonecrosis of the jaw may occur at any point in therapy; whereas the risk for atypical femur fracture appears to increase with duration of therapy. For most patients, the benefits in reduction of osteoporosis fractures far outweigh the risk of these uncommon side effects. A drug holiday can be considered after 3 years (intravenous) to 5 years (oral) of bisphosphonate treatment although the balance between the risks and benefits of extended therapy is unclear. Furthermore, the best means of patient selection for extended therapy is uncertain as fracture risk assessment does not predict benefit. Fracture risk with long-term alendronate, for example, does not vary by history of prior fracture, FRAX score, or pretreatment levels of bone turnover markers. Similarly, there are no data to guide the duration of the drug holiday, but factors taken into consideration may include the bisphosphonate used and whether BMD is maintained on DEXA.
 
-## Key Points
-
-- Bisphosphonates are generally the first-line treatment of osteoporosis; only alendronate and risedronate reduce the risk for spine, hip, and nonvertebral fractures.
-- A drug holiday can be considered in postmenopausal women who are not at high fracture risk after 3 years (intravenous) to 5 years (oral) of bisphosphonate treatment.
-
 ##### Receptor Activator of Nuclear Factor KB (RANK) Ligand Inhibitors
-
-#### Related Question
-
-- Question 37
 
 Denosumab is a monoclonal antibody that inhibits osteoclast activation. When administered subcutaneously twice yearly, denosumab suppresses bone resorption, increases bone density, and reduces the incidence of osteoporotic fractures in men and women. Optimal duration of denosumab is uncertain but fracture risk may be reassessed after 5 to 10 years of therapy. The effects of denosumab are not sustained when treatment is stopped, and alternative antiresorptive therapy such as a bisphosphonate should be considered if denosumab is discontinued. Denosumab may be preferred in patients with stage 4 chronic kidney disease and in those intolerant of or incompletely responding to bisphosphonate therapy. Adverse effects include hypocalcemia, especially in older patients with vitamin D deficiency, and an increased rate of cellulitis and bronchitis. Medication-related osteonecrosis of the jaw and atypical femur fracture have been reported with denosumab use as well.
 
@@ -315,15 +218,7 @@ Loading doses using 50,000 U/d of either vitamin D2 (ergocalciferol) or vitamin 
 
 Widespread public interest and a proliferation of scientific publications regarding vitamin D stem from established autocrine and paracrine effects in most tissues as well as extensive observational data associating 25-hydroxyvitamin D levels with extraskeletal health outcomes. However, intervention trials have not convincingly demonstrated a benefit of vitamin D supplementation on most disease outcomes, suggesting that low 25-hydroxyvitamin D levels may be a marker rather than a cause of ill health.
 
-## Key Point
-
-- Routine screening for vitamin D deficiency is not recommended in healthy populations; however, testing for deficiency is appropriate in groups at high risk or patients presenting with low bone mass, fractures, hypocalcemia, or hyperparathyroidism.
-
 ### Paget Disease of Bone
-
-#### Related Question
-
-- Question 6
 
 Although Paget disease of bone may present with localized symptoms, it is most commonly diagnosed in asymptomatic older patients presenting with elevated alkaline phosphatase levels or incidental radiographic findings. Commonly affected bones include the skull, spine, sacrum, pelvis, femur, and tibia. The skeletal site and extent of involvement including rate of bone turnover determine clinical features. Involvement of weight-bearing bones of the lower extremity may result in bone pain, deformity, or fracture. Involvement of a bone approximating a joint can contribute to degenerative joint disease (**[Figure 19](https://mksap18.acponline.org/app/topics/en/figures/mk18_b_en_f19)**). Expansion of Pagetic bone of the upper spine or skull base may cause spinal cord or cranial nerve compression.
 
@@ -332,9 +227,3 @@ Diagnosis is based on radiographic findings of thickening of cortical bone, coar
 Management of Paget disease is based on symptoms, location of involvement, and disease activity. Indications for treatment include: bone pain; risk for fracture and progressive deformity that could compromise bone, joint, or neurologic function; and elevated alkaline phosphatase concentrations. Bisphosphonates, particularly a one-time dose of 5 mg of intravenous zoledronic acid, often achieve the treatment goal of reducing pain and normalizing of alkaline phosphatase for up to 5 years. Oral bisphosphonates may also be used, but duration of treatment is variable.
 
 Annual alkaline phosphatase levels should be monitored. Retreatment is indicated if previously normalized levels of alkaline phosphatase exceed normal levels. Imaging is required if there is a dramatic rise in alkaline phosphatase levels or acceleration in symptoms, which raises a concern for the rare sarcomatous transformation of Pagetic bone.
-
-## Key Points
-
-- Although Paget disease of bone may present with localized symptoms, it is most commonly diagnosed in asymptomatic older patients presenting with elevated alkaline phosphatase levels or incidental radiographic findings.
-- Indications for treatment of Paget disease include bone pain; risk for fracture and progressive deformity that could compromise bone, joint, or neurologic function; and alkaline phosphatase concentrations.
-- A one-time dose of intravenous zoledronic acid will often achieve the treatment goal of reducing pain and normalizing of alkaline phosphatase in patients with Paget disease of bone.

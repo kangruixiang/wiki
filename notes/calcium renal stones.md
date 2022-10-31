@@ -23,11 +23,17 @@ In addition to increasing fluid intake, ==potassium citrate== is appropriate to 
 
 This patient has a history of a calcium stone, the most common type of kidney stone.  Patients with calcium stones are generally advised to do the following:
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220813104013.png)
+
 - **Increase fluid intake** – increases urinary flow rate and reduces urinary solute concentration
 - **Limit dietary oxalate** – avoiding foods that contain high levels of oxalate, such as ==spinach, potatoes, and some types of nuts== (eg, peanuts, cashews, almonds), helps reduce urinary oxalate levels and reduces the risk of calcium oxalate stones
 - ==Limit sodium intake== – increases renal sodium and calcium reabsorption, which reduces urinary calcium levels
 - Reduce animal protein intake – animal protein increases urinary calcium levels and reduces citrate (citrate binds calcium and prevents stones)
 - **Increase dietary calcium** – calcium binds oxalate in the gastrointestinal system and prevents gastrointestinal oxalate absorption; this reduces the risk of calcium oxalate stones
+
+In the past, patients were counseled to avoid calcium, but **high dietary calcium** intake actually **decreases** the **risk** of stone formation.  Dietary calcium binds oxalate within the gastrointestinal tract, thereby decreasing systemic absorption of oxalate and subsequent excretion into the urine.  However, supplemental (vs dietary) calcium may actually raise the risk of stone formation.  If patients have recurrent stones despite dietary measures, medications (eg, thiazide diuretics, potassium citrate, allopurinol) may be needed to alter urine composition.
+
+Reduction of high purine–containing foods (eg, seafood, organ meats) decreases uric acid production and is recommended for patients with uric acid stones, not calcium stones.
 
 If **hypercalciuria** is present, ==calcium excretion can be decreased by the use of thiazide diuretics==. Because calcium excretion parallels sodium excretion, ==limiting sodium intake== will also lower urine calcium. Unless excessive, ==dietary calcium should not be restricted== because this will increase oxalate absorption. Oxalate excretion can be decreased by ==limiting foods high in oxalate== such as nuts, cocoa, spinach, rhubarb, and beets. ==Potassium citrate or potassium bicarbonate== will increase urinary citrate excretion. An additional benefit of potassium citrate is a decrease in renal calcium excretion, possibly related to preventing calcium release from bone.
 

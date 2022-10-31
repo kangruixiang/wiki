@@ -20,6 +20,8 @@ sr-ease: 270
 
 <!-- hypercalcemia workup -->
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220810215545.png)
+
 ![](https://photos.thisispiggy.com/file/wikiFiles/image-20200204193519864.png)
 
 This patient has newly discovered **hypercalcemia**.  Patients with mild hypercalcemia are often asymptomatic, but common  initial manifestations may include constipation (as in this patient),  fatigue, nausea, and nephrolithiasis.
@@ -31,6 +33,16 @@ Even when malignancy is suspected, PTH remains the first step in the  evaluation
 Subsequent testing in patients with non-PTH-dependent hypercalcemia may  include chest x-ray (eg, for malignancy, granulomatous diseases), serum  and urinary protein electrophoresis (for multiple myeloma), PTH-related  protein (for humoral hypercalcemia of malignancy), and vitamin D levels  (eg, for exogenous vitamin D intake, granulomatous diseases). However,  PTH should be measured first to rule out hyperparathyroidism, especially in a stable outpatient.
 
 Urinary calcium should be measured in patients with PTH-dependent  hypercalcemia to differentiate familial hypocalciuric hypercalcemia (a  rare disorder due to mutations in the calcium-sensing receptor and  leading to low urinary calcium excretion) from primary  hyperparathyroidism (in which urinary calcium excretion is normal or  elevated), but only after PTH-dependent hypercalcemia is confirmed.
+
+Squamous cell carcinoma is associated with elevated PTHrP causing hypercalcemia.  However, it does not usually cause elevated 1,25-hydroxy vitamin D.
+
+Thyrotoxicosis can also result in hypercalcemia but does not usually cause elevated 1,25-hydroxy vitamin D.
+
+Vitamin D intoxication increases calcium and bone resorption causing hypercalcemia, but usually occurs at 25-hydroxy vitamin D levels > 150 ng/mL.  Vitamin D intoxication does not cause elevated 1,25-hydroxy vitamin D.  Given this patient’s hilar adenopathy, sarcoidosis or lymphoma is more likely.
+
+Parathyroid adenoma usually presents with elevated or high-normal PTH out of proportion to the hypercalcemia.  However, this patient’s low-normal PTH makes this unlikely.
+
+Patients with suppressed PTH should have measurement of PTH-related peptide (PTHrP) and both 1,25-hydroxy vitamin D and 25-hydroxy vitamin D.  Elevated PTHrP usually indicates solid tumor malignancy, while elevated 25-hydroxy vitamin D indicates vitamin D toxicity.  This patient has elevated 1,25-hydroxy vitamin D, which is usually seen in granulomatous diseases and lymphoma.  Sarcoidosis is a multisystem granulomatous disease with noncaseating tissue granulomas.  Activated pulmonary macrophages produce calcitriol, which is responsible for the hypercalcemia and hypercalciuria.
 
 ## Cancer
 

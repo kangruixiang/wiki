@@ -24,6 +24,12 @@ Algorithm for depression treatment:
 
 - Cross titrate 2 different medications over 2 weeks
 
+Pharmacologic treatment options for patients with **treatment-resistant depression** include switching to another antidepressant or augmenting with a second agent.  This patient has failed to respond to an adequate trial (>6 weeks) of high-dose fluoxetine.  Patients with little to no improvement **(nonresponders)** or unacceptable tolerability generally benefit from **switching to another antidepressant** rather than augmentation.  Discontinuing fluoxetine and starting venlafaxine, a serotonin-norepinephrine reuptake inhibitor, would be the most appropriate next step.
+
+**Partial responders**, in contrast, can consider **augmentation** as a first-line option as switching carries a risk of losing the partial therapeutic benefit from the original drug.  Augmentation strategies include adding a second-generation antipsychotic, an antidepressant with a different mechanism of action, or occasionally lithium or triiodothyronine.
+
+The second-generation antipsychotic aripiprazole is an effective augmentation strategy for treatment-resistant major depression.  However, it is not used as monotherapy.
+
 ## Side Effects
 
 - Increase GI bleed with SSRI

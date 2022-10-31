@@ -59,6 +59,7 @@ date: 2020-09-07
 - [[ankylosing spondylitis]]
 - [[Back Pain]]
 - [[back pain 12 2020 note]]
+- [[management of vertebral compression fracture]]
 
 ## Knee Problems
 
@@ -70,6 +71,9 @@ date: 2020-09-07
 - [[young atheletes anterior knee pain]]
 - [[oligoarthritis]]
 - [[osteoarthritis notes 2 17]]
+- [[lower extremity pain ddx]]
+- [[iliotibial band syndrome]]
+- [[meralgia paresthetica is lateral thigh pain in obese patients]]
 
 ## Foot problem
 

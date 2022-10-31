@@ -33,7 +33,7 @@ date: 2020-09-07
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/DBEF93EE-EB7A-4168-B8D9-3C48DC6B1F2A.jpg)
 
-- system reach Vm when \[S] >> Km (Km = 0)
+- system reach Vm when [S] >> Km (Km = 0)
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/42367FA0-79A8-45AA-8694-1BC86F150DD1.jpg)
 

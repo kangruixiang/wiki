@@ -78,7 +78,7 @@ Although this patient has no evidence of intraperitoneal fluid on abdominal ultr
 - Evisceration (ie, externally exposed intestines)
 - Blood from a nasogastric tube or on rectal examination
 
-Patients without indications for urgent laparotomy should undergo further evaluation, including local exploration of the wound and an extended ultrasound examination (eg, extended Focused Assessment with Sonography for Trauma \[eFAST], which evaluates for pneumothorax and hemothorax in addition to intraperitoneal injuries).
+Patients without indications for urgent laparotomy should undergo further evaluation, including local exploration of the wound and an extended ultrasound examination (eg, extended Focused Assessment with Sonography for Trauma [eFAST], which evaluates for pneumothorax and hemothorax in addition to intraperitoneal injuries).
 
 **Irritation of the diaphragm** (e.g. due to splenic rupture) may cause **referred pain to the shoulder area**, typically the left shoulder. This is known as Kehr’s sign.
 

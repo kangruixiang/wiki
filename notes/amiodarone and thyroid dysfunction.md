@@ -12,6 +12,6 @@ date: 2020-09-07
 
 1. Amiodarone decreases the **peripheral conversion** of T4 to T3. As in this patient, this may result in higher T4, lower  T3, and normal or mildly elevated TSH (<20 mU/L). The thyroid test  abnormalities are most prominent in the first 1-3 months after starting  amiodarone and may become less apparent afterward. These patients are **clinically euthyroid**.
 2. The high iodine content in amiodarone inhibits thyroid hormone synthesis, leading to primary **hypothyroidism** (Wolff-Chaikoff effect).
-3. Amiodarone can also induce thyrotoxicosis **(amiodarone-induced thyrotoxicosis \[AIT])** due to either increased thyroid hormone synthesis (AIT type 1) or  destructive thyroiditis (AIT type 2). In both AIT subtypes, TSH will be low.
+3. Amiodarone can also induce thyrotoxicosis **(amiodarone-induced thyrotoxicosis [AIT])** due to either increased thyroid hormone synthesis (AIT type 1) or  destructive thyroiditis (AIT type 2). In both AIT subtypes, TSH will be low.
 
 Patients on chronic amiodarone therapy should have **periodic monitoring of TSH** (every 3-4 months).

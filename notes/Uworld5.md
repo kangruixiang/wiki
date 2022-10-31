@@ -76,7 +76,7 @@ Noninvasive positive-pressure ventilation (NPPV) is ventilatory support delivere
 
 This patient's acute toxicity following ingestion of **automotive antifreeze** raises concern for possible **ethylene glycol** poisoning.  Ethylene glycol is often ingested intentionally as an ethanol substitute or as a mode of attempted suicide.  Following ingestion, ethylene glycol causes inebriation and sedation, similar to ethyl alcohol.  Metabolism via alcohol and aldehyde dehydrogenases produces glycolic acid, which is subsequently converted to oxalic acid.  Oxalic acid can bind to calcium, leading to hypocalcemia and precipitation of **calcium oxalate** crystals in the urine.
 
-Renal toxicity from ethylene glycol is characterized by **acute kidney injury** (due to direct nephrotoxicity of glycolate and obstruction of tubules by calcium oxalate crystals) with flank pain and hematuria (as noted in this patient) as well as oliguria.  Patients typically have severe **metabolic acidosis** with an increased **anion gap**, very low bicarbonate level, and compensatory drop in pCO2.  The osmolal gap (measured plasma osmolality – calculated plasma osmolality, which is often estimated by \[(2 x plasma Na) + (glucose/18) + (blood urea nitrogen/2.8)]) is typically elevated as well.
+Renal toxicity from ethylene glycol is characterized by **acute kidney injury** (due to direct nephrotoxicity of glycolate and obstruction of tubules by calcium oxalate crystals) with flank pain and hematuria (as noted in this patient) as well as oliguria.  Patients typically have severe **metabolic acidosis** with an increased **anion gap**, very low bicarbonate level, and compensatory drop in pCO2.  The osmolal gap (measured plasma osmolality – calculated plasma osmolality, which is often estimated by [(2 x plasma Na) + (glucose/18) + (blood urea nitrogen/2.8)]) is typically elevated as well.
 
 # Sickle Cell Infections
 
@@ -215,7 +215,7 @@ Longitudinal melanonychia that involves multiple nails, is stable over years, or
 - **D**rug - most commonly **allopurinol** and antiepileptics (eg, phenytoin, carbamazepine)
 - **R**eaction (rash) - morbilliform eruption that starts on the face or upper trunk and becomes diffuse (often >50% body surface area) and confluent; facial edema is common
 - **E**osinophilia
-- **S**ystemic **s**ymptoms - fever, malaise, and **diffuse lymphadenopathy**; approximately 90% of patients have involvement of >1 organ system (eg, liver \[transaminitis], kidney, lung)
+- **S**ystemic **s**ymptoms - fever, malaise, and **diffuse lymphadenopathy**; approximately 90% of patients have involvement of >1 organ system (eg, liver [transaminitis], kidney, lung)
 
 DRESS syndrome, unlike other drug reactions, has an unusually **long latency** (2-8 weeks) between drug initiation and the manifestation of symptoms.  The pathogenic mechanism remains unclear, but the majority of patients with this syndrome also have antibody evidence of human herpesvirus 6 reactivation.  Some studies suggest cross-reactivity between herpesvirus lymphocytes and drug antigens.
 

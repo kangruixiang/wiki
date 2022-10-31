@@ -25,3 +25,7 @@ date: 2022-04-07
 - [[Infectious Arthritis]]
 - [[Systemic Vasculitis]]
 - [[Other Rheumatologic Diseases]]
+
+## Others
+
+- [[cervical myelopathy in RA]]

@@ -938,9 +938,9 @@ Opportunistic infections that patients with AIDS are predisposed to are covered 
 
 AIDS defining malignancies include:
 
-- **Kaposi's sarcoma \[KS] (HHV-8)**
+- **Kaposi's sarcoma [KS] (HHV-8)**
 - **Cervical (women)/anal (men) cancer (HPV)**
-- **Non-Hodgkin lymphoma \[NHL] including systemic NHL and CNS lymphoma (EBV)**
+- **Non-Hodgkin lymphoma [NHL] including systemic NHL and CNS lymphoma (EBV)**
 
 ### Diagnosis
 

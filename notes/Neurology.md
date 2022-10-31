@@ -32,6 +32,7 @@ date: 2020-09-07
 - [[movement disorders 2]]
 - [[transverse mylelitis]]
 - [[gbs guillain barre syndrome]]
+- [[myasthenia crisis]]
 
 ## Neuropathy
 
@@ -71,3 +72,4 @@ date: 2020-09-07
 - [[brachial plexopathy]]
 - [[Bell's palsy]]
 - [[neuroleptic malignant syndrome NMS as result of medication withdrawal]]
+- [[triansient global amnesia]]

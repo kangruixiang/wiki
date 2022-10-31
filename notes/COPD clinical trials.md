@@ -41,4 +41,3 @@ date: 2022-08-07
 - Albert 2011
 - Chronic azithromycin
 - population: pts with mod-severe COPD and either continuous O2 or at least on exacerbation in last year
--

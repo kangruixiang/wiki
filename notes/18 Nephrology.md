@@ -397,12 +397,12 @@ Since calcium levels are influenced by albumin levels, ionized calcium or a corr
 
 The serum calcium concentrations decrease by 0.8 mg/dL for every 1.0 g/dL decrease in serum albumin concentration. As such, the equation for finding a corrected (aka adjusted) calcium concentration is:
 
-**Corrected \[Ca2+] = Measured total \[Ca2+] + {0.8 X (4.0 – \[Albumin])}**
+**Corrected [Ca2+] = Measured total [Ca2+] + 0.8 X (4.0 – [Albumin])**
 
-- Corrected \[Ca2+] is the corrected serum concentration of total calcium
-- Measure total \[Ca2+] is the measured serum concentration of total calcium
+- Corrected [Ca2+] is the corrected serum concentration of total calcium
+- Measure total [Ca2+] is the measured serum concentration of total calcium
 - 4.0 is the normal value of serum albumin concentration
-- \[Albumin] is the measured serum albumin concentration
+- [Albumin] is the measured serum albumin concentration
 
 <!-- hypercalcemia diagnosis etiologies.. -->
 

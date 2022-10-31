@@ -22,11 +22,19 @@ Risk factors for urinary incontinence include increased age, history of multiple
 
 The initial evaluation of patients with urinary incontinence involves a thorough **history**, **physical examination**, and **urinalysis**. Reversible underlying causes of urinary incontinence (eg, excessive fluid intake, stool impaction, medications, delirium) are identified. Physical examination assesses for [[vulvovaginal atrophy]], [[vesicovaginal fistula]], pelvic masses, pelvic organ prolapse, and [[urethral hypermobility]]. A bladder stress test (leakage of urine with cough/Valsalva) is performed for evaluation of stress urinary incontinence, as with this patient. Urinalysis evaluates for underlying pathology, including infection or malignancy.
 
-For the majority of patients (including this patient, who has stress incontinence), the initial evaluation is sufficient to classify the type of uncomplicated urinary incontinence (eg, stress, urgency, overflow) and **no further evaluation is indicated**. Further evaluation is indicated only if the history, physical examination, or \*\*urinalysis suggest complicated incontinence (eg, mixed) or underlying pathology.
+For the majority of patients (including this patient, who has stress incontinence), the initial evaluation is sufficient to classify the type of uncomplicated urinary incontinence (eg, stress, urgency, overflow) and **no further evaluation is indicated**. Further evaluation is indicated only if the history, physical examination, or **urinalysis suggest complicated incontinence (eg, mixed) or underlying pathology.**
+
+## Urge
 
 Urge incontinence: Although the detrusor overactivity is typically idiopathic, it can be caused by neurologic disease (eg, multiple sclerosis) or bladder abnormalities.  Risk factors for urgency incontinence include increasing age, stroke, depression, diabetes mellitus, obesity, caffeine intake, and tobacco abuse.
 
+## Overflow
+
 Overflow incontinence is typically a complication of poorly controlled diabetes mellitus (eg, diabetic neuropathy) and presents with constant urinary dribbling from incomplete bladder emptying. Patients with features of overflow incontinence (eg, peripheral or perineal neuropathy) are evaluated with a post-void residual volume (>200 mL is diagnostic of overflow incontinence). Additional evaluation with a hemoglobin A1c can be performed to either diagnose diabetes mellitus or assess blood glucose control. This patient has no features of overflow incontinence; therefore, neither a post-void residual volume nor hemoglobin A1c is indicated.
+
+Tricyclic antidepressants (TCAs) (eg, **amitriptyline**) inhibit reuptake of serotonin and norepinephrine and are used to treat depression, anxiety, chronic pain syndromes, and eating disorders.  TCAs have antimuscarinic (eg, **urinary retention**, dry mouth, constipation), antihistamine (eg, sedation), and anti–alpha adrenergic (eg, hypotension, tachycardia) effects.  This patient's 3-month-history of overflow incontinence is likely due to her recent change in antidepressants (ie, starting a TCA) 4 months ago.  TCAs are not generally recommended in the elderly due to the increased risk of falls and injury, and dosing is tapered to minimize side effects.
+
+Patients with overflow incontinence, due to either detrusor underactivity (eg, TCAs) or bladder outlet obstruction (eg, prolapse), exhibit **continuous urinary leakage**, a palpable **lower abdominal mass** (due to the persistently full bladder), and an **elevated postvoid residual**.  Treatment focuses on addressing the underlying cause (eg, medication change, lifestyle modifications, correction of prolapse) and intermittent bladder catheterization.
 
 Urodynamic testing evaluates urethral and bladder function and pressure and is indicated in the evaluation of mixed or complicated urinary incontinence.
 

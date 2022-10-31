@@ -14,6 +14,8 @@ date: 2020-10-26
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220712080650.png)
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220814161754.png)
+
 - Possibly restrict use of clindamycin, fluoroquinolones & cephalosporins
 - Consider using **aminoglycosides or trimethoprim-sulfamethoxazole** instead of fluoroquinolones
 

@@ -11,6 +11,16 @@ date: 2020-10-26
 - most common species: _A. fumigatus_, _A. flavus_, _A_. _niger_, and the amphotericin-resistant _A. terreus_.
 - _Aspergillus_ produces disease after inhalation of airborne spores (90%) and only occasionally by traumatic skin inoculation. Of all the fungi, _Aspergillus_ is notable for the diverse settings in which it can occur and the various clinical manifestations it can produce.
 
+## Types
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220813101420.png)
+
+This patient most likely has invasive pulmonary aspergillosis (IPA).  _Aspergillus_ has diverse presentations, including asymptomatic infection in immunocompetent hosts, allergic bronchopulmonary aspergillosis (ABPA) in patients with asthma or cystic fibrosis, and various patterns of chronic PA.  Risk factors for chronic PA include prior lung disease such as pulmonary tuberculosis, ABPA, lung cancer, chronic obstructive pulmonary disease, and sarcoidosis.
+
+Symptoms of IPA are nonspecific and usually ==mimic bronchopneumonia:== ==fever unresponsive to antibiotics==, cough, sputum production, and dyspnea.  Patients may also present with ==pleuritic chest pain== (due to vascular invasion leading to thromboses that cause small pulmonary infarcts) and ==hemoptysis==, which is usually mild.  IPA is one of the most common causes of hemoptysis in neutropenic patients.  Chest x-ray may not detect early-stage disease (ie, small nodules).  Chest computed tomography (CT) scan shows ==single or multiple nodules with or without cavitations and "**halo sign**" (nodules surrounded by ground-glass infiltrates==).  Diagnosis is suggested by culture and histology.
+
+Enzyme-linked immunosorbent assay on serum or bronchoalveolar lavage fluid can be used to detect **galactomannan antigen** (present in _Aspergillus_ cell walls), especially in patients with hematologic malignancies.  **Voriconazole** has become the gold standard as primary therapy for invasive aspergillosis.  Voriconazole was more effective than amphotericin B as initial therapy for IPA and was associated with significantly improved survival (71% vs 58%, respectively) in a randomized trial **(Choice A)**.
+
 ## Invasive pulmonary aspergillosis
 
 <!-- invasive aspergillosis population, pathogenesis, sx, dx, rx -->

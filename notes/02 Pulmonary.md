@@ -55,7 +55,8 @@ The A-a (alveolar-arterial) gradient is the difference between the partial press
 
 The FiO2 is the fraction of O2 that is in inspired air. When we inhale we bring in water, and other gases in addition to oxygen. The normal FiO2 of room air at sea level is **0.21.**
 
-The PAO2 is calculated using the following equation: $P_AO_2=\[F_iO_2(P_{atm}-PH_2O)]-(P_aCO_2/0.8)$
+The PAO2 is calculated using the following equation:
+$P_AO_2=[F_iO_2(P_{atm}-PH_2O)]-(P_aCO_2/0.8)$
 
 The A-a gradient can be increased in:
 
@@ -99,7 +100,7 @@ The basic cause of respiratory acidosis is **hypoventilation**, which can result
 
 In respiratory acidosis, look for the following general values:
 
-| pH        | \[H+}      | \[HCO3-]   | pCO2      | Compensation                |
+| pH        | [H+}      | [HCO3-]   | pCO2      | Compensation                |
 | --------- | --------- | --------- | --------- | --------------------------- |
 | decreased | increased | increased | increased | Increased HCO3 reabsorption |
 
@@ -125,7 +126,7 @@ The general cause of respiratory alkalosis is **hyperventilation**, which can be
 
 In respiratory alkalosis, look for the following general values:
 
-| pH        | \[H+}      | \[HCO3-]   | pCO2      | Compensation                |
+| pH        | [H+}      | [HCO3-]   | pCO2      | Compensation                |
 | --------- | --------- | --------- | --------- | --------------------------- |
 | increased | decreased | decreased | decreased | Decreased HCO3 reabsorption |
 
@@ -1228,7 +1229,7 @@ Treatment for _Pseudomonas aeruginosa_ pneumonia include:
 - **Piperacillin/tazobactam** (Zosyn)
 - **Cefepime** (Maxipime)
 - **Imipenem**(Primaxin)
-- **Meropenem** (Merrem) and **a fluoroquinolone** (**ciprofloxacin** \[Cipro] or **levofloxacin** \[Levaquin])
+- **Meropenem** (Merrem) and **a fluoroquinolone** (**ciprofloxacin** [Cipro] or **levofloxacin** [Levaquin])
 
 The risk factors for _Staphylococcus aureus_ pneumonia are:
 

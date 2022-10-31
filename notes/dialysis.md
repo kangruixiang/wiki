@@ -11,6 +11,10 @@ sr-ease: 270
 - tags: #nephrology
 ---
 
+## When to start outpatient dialysis
+
+The optimal time to start dialysis is debated.  Studies are inconclusive with some favoring late initiation of dialysis either at the onset of uremic symptoms or when the estimated glomerular filtration rate (eGFR) is <10 mL/min/1.73 m2 rather than preemptive hemodialysis initiated at eGFR of 10-15 mL/min/1.73 m2 without uremic symptoms.  Regardless of the timing of dialysis initiation, survival outcomes are better with renal transplantation.
+
 ## New dialysis
 
 - Usually dialyze first 3 days in a row before evaluate if can stop

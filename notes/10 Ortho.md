@@ -1327,7 +1327,7 @@ Another mnemonic to remember the features of SLE is **RASH ORR PPAIN**:
 
 **O**ral or nasopharyngeal ulcers are commonly associated with SLE.
 
-**A**rthritis, when associated with SLE, includes **≥2 peripheral joints**. _\[Note: In contrast to rheumatoid arthritis, the arthritis in SLE is nonerosive with little deformity]_
+**A**rthritis, when associated with SLE, includes **≥2 peripheral joints**. _[Note: In contrast to rheumatoid arthritis, the arthritis in SLE is nonerosive with little deformity]_
 
 **P**hotosensitivity is associated with SLE, which can result in not only a **rash when exposed to sunlight**, but **fever, fatigue, and joint pain**.
 

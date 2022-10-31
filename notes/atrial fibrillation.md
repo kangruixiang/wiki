@@ -65,6 +65,8 @@ date: 2021-09-13
 	- Class 1c: need ischemic work up prior to initiate in hospital. Could also initiate then ischemic work up afterwards
 	- Class 3: watch out for QTc prolongation (sotalol)
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220813123822.png)
+
 ### Ablation
 
 - for symptomatic afib despite antiarrythmic

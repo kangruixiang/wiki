@@ -14,3 +14,9 @@ sr-ease: 270
 - hydrocortisone 200 mg/day
 	- 50 mg q6h
 	- 100 mg q8h
+
+## perioperative
+
+- give stress dose steroids for chronic prednisone patients
+
+https://www.uptodate.com/contents/the-management-of-the-surgical-patient-taking-glucocorticoids

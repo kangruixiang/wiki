@@ -20,3 +20,4 @@ Pharmacology
 - [[amitriptyline and metanephrine]]
 - [[fluoroquinolones differences]]
 - [[microbes by organs]]
+- [[NMS vs serotonin syndrome]]

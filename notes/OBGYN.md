@@ -39,6 +39,9 @@ OB:
 - [[fetal growth restriction]]
 - [[spontaneous abortions]]
 - [[vaccinations during pregnancy]]
+- [[common lactation problems]]
+- [[aortic dissection in pregnancy]]
+- [[uti in pregnancy]]
 
 ## GYN
 
@@ -65,3 +68,4 @@ OB:
 - [[PCOS]]
 - [[breast cancer screening]]
 - [[primary dysmenorrhea]]
+- [[primary ovarian insufficiency]]

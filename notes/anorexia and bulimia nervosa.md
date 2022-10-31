@@ -6,7 +6,9 @@ date: 2020-09-08
 
 - related: [[Psychiatry]]
 
-![](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_20.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20220812220346.png)
+
+**Self-induced vomiting** is the most common compensatory behavior in bulimia nervosa and may cause electrolyte abnormalities (eg, hypokalemia, hypochloremia, metabolic alkalosis), erosion of dental enamel, and parotid hypertrophy.  However, some patients engage in misuse of **laxatives**, enemas, diuretics, diet pills, fasting, or **excessive exercise** to control their weight.  Binge-eating disorder also involves repetitive episodes of binge eating but does not include the inappropriate compensatory behaviors seen in bulimia nervosa **(Choice C)**.
 
 **First-line** treatment for **anorexia nervosa (AN)** involves **psychotherapy** and **nutritional rehabilitation** (establishing a structured and consistent meal pattern).  Pharmacotherapy is not an initial or primary treatment of AN and is generally used as an adjunct in treatment-resistant cases.
 

@@ -4,6 +4,12 @@ date: 2020-09-07
 
 # 12 Thalassemia
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220813210345.png)
+
+Alpha- and beta-thalassemia traits usually have normal to increased total iron and ferritin due to high cell turnover; total iron-binding capacity is normal.  Other findings include hematocrit > 30%, microcytic and hypochromic red blood cells (mean corpuscular volume < 75 fL), family history of microcytic anemia, and increased target cells on peripheral smear.  In addition, the red cell distribution width (RDW) is normal as all red cells are microcytic and hypochromic.
+
+Hemoglobin electrophoresis is generally normal in alpha-thalassemia trait and requires no therapy as patients are generally asymptomatic.  Iron supplementation is not required as patients are not iron deficient.  Genetic counseling should be offered due to the complex inheritance patterns for thalassemia.
+
 <!-- types of globin and hemoglobin.. -->
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/ZDkXFm4.jpg)

@@ -118,7 +118,7 @@ date: 2020-09-07
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/8tIkczk.jpg)
 
-\[_]\(Equal pressure point. Diseases that change it)..
+[_]\(Equal pressure point. Diseases that change it)..
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/ATGRZzr.jpg)
 

@@ -263,7 +263,7 @@ The initial management should be focused on gastric decontamination with activat
 | **Sturge-Weber syndrome** |                                                              |
 | ------------------------- | ------------------------------------------------------------ |
 | **Pathophysiology**       | Mutation in _GNAQ_ gene                                      |
-| **Clinical features**     | Port wine stain (trigeminal nerve \[CN V1/V2] distribution)<br/>Leptomeningeal capillary-venous malformation<br/>Seizures ± hemiparesisIntellectual disability<br/>Visual field defects<br/>Glaucoma |
+| **Clinical features**     | Port wine stain (trigeminal nerve [CN V1/V2] distribution)<br/>Leptomeningeal capillary-venous malformation<br/>Seizures ± hemiparesisIntellectual disability<br/>Visual field defects<br/>Glaucoma |
 | **Diagnosis**             | MRI of the brain with contrast                               |
 | **Management**            | Laser therapy<br/>Antiepileptic drugs<br/>Intraocular pressure reduction |
 

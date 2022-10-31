@@ -95,7 +95,7 @@ A potentially reversible cause of dementia. Suspect it when a patient also has *
 
 <!-- ignore.. -->
 
-Creutzfeldt-Jakob disease is caused by the **α-helix to β-pleated sheet conformational change of prion protein** (PrP). \[This is often written as PrPc (α-helix) → PrPsc (β-pleated sheet)]. The **PrPsc isoform of the protein is resistant to digestion by proteases, which leads to its accumulation in the CNS**.
+Creutzfeldt-Jakob disease is caused by the **α-helix to β-pleated sheet conformational change of prion protein** (PrP). [This is often written as PrPc (α-helix) → PrPsc (β-pleated sheet)]. The **PrPsc isoform of the protein is resistant to digestion by proteases, which leads to its accumulation in the CNS**.
 
 <!-- creutzfeldt-jakob symptoms -->
 

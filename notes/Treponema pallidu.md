@@ -206,8 +206,8 @@ Serologic tests for secondary syphilis includes a **screening test** with a no
 
 Patients with suspected neurosyphilis should undergo **lumbar puncture** and subsequent VDRL, FTA-ABS and/or PCR of cerebrospinal fluid.
 
-- Nontreponemal tests (eg, Venereal Disease Research Laboratory \[VDRL], rapid plasma reagin \[RPR]) evaluate for the presence of antibody against cardiolipin (byproduct of treponemal infection).  These tests are affected by antitreponemal therapy and can be used to follow disease progression and therapeutic response.
-- Treponemal tests (eg, fluorescent treponemal antibody absorption \[FTA-ABS], microhemagglutination assay for _T pallidum_\[MHA-TP]) detect antibodies to specific treponemal antigens and are not affected by antitreponemal therapy; they remain positive for life.
+- Nontreponemal tests (eg, Venereal Disease Research Laboratory [VDRL], rapid plasma reagin [RPR]) evaluate for the presence of antibody against cardiolipin (byproduct of treponemal infection).  These tests are affected by antitreponemal therapy and can be used to follow disease progression and therapeutic response.
+- Treponemal tests (eg, fluorescent treponemal antibody absorption [FTA-ABS], microhemagglutination assay for _T pallidum_[MHA-TP]) detect antibodies to specific treponemal antigens and are not affected by antitreponemal therapy; they remain positive for life.
 
 VDRL/RPR TV screen
 FTS antibody confirmatory test

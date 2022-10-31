@@ -5,6 +5,18 @@ date: 2020-09-07
 # carotid artery disease
 
 - related: [[Neurology]]
+---
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220813142155.png)
+
+All patients with **carotid artery atherosclerosis** should receive careful medical management, including smoking cessation, low-dose aspirin, statin therapy, and appropriate control of hypertension and diabetes.  In addition, select patients should also be considered for revascularization with **carotid endarterectomy (CEA)**:
+
+- In **symptomatic patients** (ie, transient ischemic attack or ischemic stroke in the distribution of the affected vessel within the past 6 months) CEA is recommended for **high-grade lesions** (ie, 70%-99%).  Patients unlikely to benefit from CEA include those who are ==poor surgical candidates== due to medical comorbidities, have a ==life expectancy <5 years==, or have had an ==ipsilateral stroke== with persistent disabling neurological deficits.  CEA is also not beneficial in patients with ==complete occlusion== of the internal carotid artery.
+- In **asymptomatic patients**, CEA may be considered for high-grade occlusion of the carotid artery, although the exact degree of stenosis at which surgery is indicated remains controversial, and men may benefit more than women.  In addition, **complete occlusion** of the carotid artery in an asymptomatic patient typically indicates adequate collateral blood flow; therefore, CEA is unlikely to provide significant benefit.
+
+This asymptomatic patient has a complete occlusion of the right internal carotid artery and only mild (ie, <50%) plaque in the left internal carotid artery, and so CEA is not indicated **(Choice C)**.
+
+**(Choices A and B)**  Compared with CEA, carotid artery stenting (CAS) is less invasive and may have similar long-term outcomes.  However, it is associated with a higher risk for periprocedural stroke and mortality and is generally reserved for patients who may benefit from carotid revascularization but are poor surgical candidates.  Carotid bypass surgery is typically considered in situations in which CEA and CAS cannot be performed (eg, redo operations after failed CEA).
 
 <!-- symptomatic carotid artery disease dx, management -->
 

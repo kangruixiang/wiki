@@ -58,7 +58,7 @@ Colonoscopy is the primary diagnostic tool for evaluating causes of diarrhea rel
 
 In cases of chronic diarrhea without an underlying diagnosis, ==stool studies== can help clarify the cause. Analysis of stool includes fecal weight, stool electrolytes, fecal pH, fat content, fecal calprotectin, and presence of blood and leukocytes. In watery stools, fecal electrolytes can be used to calculate the ==fecal osmotic gap==:
 
-290 – (2 × \[stool sodium + stool potassium])
+290 – (2 × [stool sodium + stool potassium])
 
 An osmotic gap of less than 50 mOsm/kg (50 mmol/kg) suggests secretory diarrhea, and a gap greater than 100 mOsm/kg (100 mmol/kg) suggests osmotic diarrhea.
 
@@ -131,13 +131,7 @@ In 2013, the FDA issued a warning that ==olmesartan medoxomil== can cause intest
 
 ## Malabsorption
 
-### Small Intestinal Bacterial Overgrowth
-
-<!-- ignore -->
-
-Small intestinal bacterial overgrowth (SIBO) is caused by various conditions, including impaired motility, strictures (for example, in Crohn disease), or blind loops (for example, small-bowel diverticula). There is some evidence that SIBO could contribute to symptoms in IBS-D.
-
-Classically, SIBO is defined by the presence of more than 105 colony-forming units per mL of jejunal aspirate. Based on its use in research studies, jejunal aspirate is considered the gold standard but is often not used in clinical practice due to the requirement for endoscopy to obtain cultures, the patchy nature of small intestinal overgrowth, and oropharyngeal contamination of the specimen. Glucose and lactulose breath tests have acceptable specificity (around 80%) but poor sensitivity (30%-40%) for diagnosing SIBO. Diagnosis requires typical symptoms and a confirmatory test (usually breath testing), although empiric antibody therapy with monitoring for improvement in symptoms may be reasonable in patients with a high probability of SIBO. Treatment consists of antibiotic therapy and often requires repeated courses if the underlying condition cannot be resolved.
+- [[small intestinal bacterial overgrowth]]
 
 ### Short Bowel Syndrome
 
@@ -195,7 +189,7 @@ The diagnosis of IBD relies on the integration of the clinical presentation, exc
 
 ==Endoscopy== (either sigmoidoscopy or colonoscopy) with biopsy is needed to help make the diagnosis of IBD. Colonoscopy is most commonly used to assess the extent and severity of disease. At presentation, ==50% of patients with ulcerative colitis have disease limited to the rectum and sigmoid (proctosigmoiditis), 20% have left-sided disease (to the splenic flexure), and 30% present with pancolitis (to the cecum==). Endoscopic findings range from decreased vascular pattern with erythema and edema in mild disease to large and deep ulcerations in severe disease. Histopathology characteristically shows features of chronic colitis with ==distorted and branching colonic crypts along with crypt abscesses==.
 
-==Crohn== disease has a different pattern of distribution from ulcerative colitis: ==50% of patients have ileocolonic disease, 30% have isolated small bowel disease, and 20% have colonic disease==. A minority of patients have isolated upper gastrointestinal tract or perianal disease in the absence of inflammation in the small bowel or colon. The earliest endoscopic findings of Crohn disease include ==aphthous ulcers==, which can coalesce to form stellate ulcers, and a “cobblestone” mucosal appearance. A characteristic mucosal feature of Crohn disease is the so-called “==skip lesion==,” consisting of affected areas separated by normal mucosa. ==Granulomatous inflammation== is characteristic of Crohn disease but uncommonly found on mucosal biopsies. Histopathology in small-intestinal Crohn disease will show ==chronic jejunitis or ileitis==, and Crohn colitis will have histology similar to that in ulcerative colitis, with exception of granulomas.
+==Crohn== disease has a different pattern of distribution from ulcerative colitis: ==50% of patients have ileocolonic disease, 30% have isolated small bowel disease, and 20% have colonic disease==. A minority of patients have isolated upper gastrointestinal tract or perianal disease in the absence of inflammation in the small bowel or colon. The earliest endoscopic findings of Crohn disease include ==aphthous ulcers==, which can coalesce to form stellate ulcers, and a “==cobblestone==” mucosal appearance. A characteristic mucosal feature of Crohn disease is the so-called “==skip lesion==,” consisting of affected areas separated by normal mucosa. ==Granulomatous inflammation== is characteristic of Crohn disease but uncommonly found on mucosal biopsies. Histopathology in small-intestinal Crohn disease will show ==chronic jejunitis or ileitis==, and Crohn colitis will have histology similar to that in ulcerative colitis, with exception of granulomas.
 
 <!-- ignore -->
 
@@ -263,7 +257,7 @@ Women with IBD are at increased risk for developing cervical dysplasia; this ris
 
 All patients with IBD should be encouraged to stop smoking. Smoking increases Crohn disease activity and the risk for extraintestinal manifestations. Patients with IBD are at increased risk for metabolic bone disease due to use of glucocorticoids and diminished vitamin D and calcium absorption. Patients with Crohn disease are at greater risk than those with ulcerative colitis. Screening for osteoporosis should be considered in patients at increased risk. Avoidance of NSAIDs when possible and management of stress, depression, and anxiety are supported by low levels of evidence but are reasonable considering the associated low levels of harm.
 
-Patients with IBD are at increased risk for developing cancers of the colorectum, cervix, and skin. Longstanding inflammation of the colorectum increases the risk for cancer. In patients with IBD (ulcerative colitis with disease proximal to the sigmoid colon and Crohn disease with more than one third of the colon involved), surveillance colonoscopy should begin 8 years after diagnosis and recur every 1 to 2 years thereafter. Primary sclerosing cholangitis increases the risk for colorectal cancer, and surveillance colonoscopy should begin at the time of diagnosis and recur yearly thereafter.
+Patients with IBD are at increased risk for developing ==cancers of the colorectum, cervix, and skin==. Longstanding inflammation of the colorectum increases the risk for cancer. In patients with IBD (ulcerative colitis with disease proximal to the sigmoid colon and Crohn disease with more than one third of the colon involved), ==surveillance colonoscopy should begin 8 years after diagnosis== and ==recur every 1 to 2 years== thereafter. Primary sclerosing cholangitis increases the risk for colorectal cancer, and surveillance colonoscopy should begin at the time of diagnosis and recur yearly thereafter.
 
 Patients with IBD are at increased risk for both melanoma and nonmelanoma skin cancers. Most of the risk has been associated with specific treatments; however, there is some evidence that IBD is associated with an increased risk for melanoma, independent of treatment. All patients with IBD should be advised to use sunscreen, wear protective clothing, avoid tanning beds, and have a yearly skin examination.
 

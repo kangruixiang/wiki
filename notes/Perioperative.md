@@ -45,6 +45,8 @@ The prevention and treatment of PONV, a common postoperative event that results 
 
 ### Cardiovascular Risk Assessment
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220814151354.png)
+
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220706075841.png)
 
 Preoperative cardiac evaluation entails assessment of patient-specific risk, surgery-specific risk, and urgency of surgery (emergent, urgent, or time sensitive). The approach recommended by the American College of Cardiology (ACC)/American Heart Association (AHA) for perioperative cardiovascular evaluation in patients undergoing noncardiac surgery is presented in **[Figure 29](https://mksap18.acponline.org/app/topics/gm/figures/mk18_b_gm_f29)**.
@@ -149,7 +151,7 @@ Recommendations for bridging anticoagulation in those with a history of venous t
 
 ### Perioperative Management of Antiplatelet Medications
 
-The perioperative management of dual antiplatelet therapy (DAPT), comprising aspirin plus a P2Y12 inhibitor (clopidogrel, ticagrelor, or prasugrel), in patients with CAD depends on the presence of a bare metal or drug-eluting coronary stent, time since stent placement, and, to some degree, the indication for DAPT (stable ischemic heart disease \[SIHD] or acute coronary syndrome \[ACS] within the last year).
+The perioperative management of dual antiplatelet therapy (DAPT), comprising aspirin plus a P2Y12 inhibitor (clopidogrel, ticagrelor, or prasugrel), in patients with CAD depends on the presence of a bare metal or drug-eluting coronary stent, time since stent placement, and, to some degree, the indication for DAPT (stable ischemic heart disease [SIHD] or acute coronary syndrome [ACS] within the last year).
 
 In patients who have a stent placed for SIHD, DAPT should be continued uninterrupted for at least 30 days after bare metal stent placement and a minimum of 6 months after drug-eluting stent placement. Elective surgery should be postponed during these time frames. However, if the risk of surgical delay exceeds the risk for stent thrombosis, discontinuation of the P2Y12 inhibitor can be considered after a minimum of 3 months in patients with a drug-eluting stent. Aspirin should be continued if at all possible, and DAPT should be restarted as soon as bleeding risk has sufficiency diminished.
 
@@ -163,7 +165,7 @@ In most patients receiving long-term aspirin monotherapy for both primary and se
 
 In all patients undergoing surgery, a careful preoperative bleeding history, including a family history, should be obtained to evaluate for underlying bleeding disorders and anemia. Laboratory testing should be reserved for patients with a suggestive history. Patients with known factor deficiencies, platelet function defects, and other coagulopathies should be managed by a hematologist.
 
-In orthopedic and cardiac surgery patients and those with a history of stable CAD, the American Association of Blood Banks recommends a restrictive transfusion threshold (hemoglobin level of 8 g/dL \[80 g/L]), as studies indicate that a restrictive threshold results in equivalent or improved patient outcomes. Similarly, in hospitalized hemodynamically stable patients, a transfusion threshold of 7 g/dL (70 g/L) is recommended.
+In orthopedic and cardiac surgery patients and those with a history of stable CAD, the American Association of Blood Banks recommends a restrictive transfusion threshold (hemoglobin level of 8 g/dL [80 g/L]), as studies indicate that a restrictive threshold results in equivalent or improved patient outcomes. Similarly, in hospitalized hemodynamically stable patients, a transfusion threshold of 7 g/dL (70 g/L) is recommended.
 
 The American Association of Blood Banks recommends a platelet transfusion threshold of 50,000/µL (50 × 109/L) for patients undergoing major non-neurologic surgery or lumbar puncture. Patients with mild thrombocytopenia due to immune thrombocytopenia are typically able to proceed to surgery at the recommended threshold. Postoperative thrombocytopenia warrants further evaluation, especially in patients with heparin exposure owing to the risk for heparin-induced thrombocytopenia. See [MKSAP 18 Hematology and Oncology](https://mksap18.acponline.org/app/topics/ho/mk18_a_ho_s5/mk18_a_ho_s5_3_2_2_2) for a discussion of heparin-induced thrombocytopenia.
 
@@ -181,7 +183,7 @@ Postoperatively, if the patient is eating, the ideal insulin regimen is a basal-
 
 Preoperative screening for thyroid disease is not recommended in the absence of symptoms. In patients with symptoms suggestive of thyroid disease or patients with hypothyroidism and a recent change in levothyroxine dosage, it is reasonable to obtain a preoperative thyroid-stimulating hormone level, although there are no guidelines to support such an approach.
 
-In patients with hypothyroidism treated with levothyroxine, therapy should continue uninterrupted. Patients with untreated, asymptomatic mild hypothyroidism may proceed to surgery. A recent retrospective cohort study demonstrated that mild hypothyroidism (median thyroid-stimulating hormone level of 8.6 μU/mL \[8.6 mU/L]) was not associated with an increase in perioperative mortality, cardiovascular morbidity, or infectious morbidity. In the presence of severe hypothyroidism, elective surgery should be postponed to prevent myxedema coma, arrhythmias, perioperative hypotension, and other complications.
+In patients with hypothyroidism treated with levothyroxine, therapy should continue uninterrupted. Patients with untreated, asymptomatic mild hypothyroidism may proceed to surgery. A recent retrospective cohort study demonstrated that mild hypothyroidism (median thyroid-stimulating hormone level of 8.6 μU/mL [8.6 mU/L]) was not associated with an increase in perioperative mortality, cardiovascular morbidity, or infectious morbidity. In the presence of severe hypothyroidism, elective surgery should be postponed to prevent myxedema coma, arrhythmias, perioperative hypotension, and other complications.
 
 Patients with well-controlled hyperthyroidism should be continued on therapy, including β-blockers and thionamides. Patients with uncontrolled hyperthyroidism are at risk for thyroid storm in the perioperative period, and surgery should be deferred until thyroid disease can be controlled.
 

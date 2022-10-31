@@ -12,6 +12,8 @@ date: 2020-09-07
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20200907203433_3.png)
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220809204823.png)
+
 ## BPPV
 
 - Path: otolith

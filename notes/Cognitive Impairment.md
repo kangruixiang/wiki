@@ -43,7 +43,7 @@ Several more specialized testing modalities are available. These tests should be
 
 These specialized diagnostic tests fall into two categories:
 
-1. Disease-specific tests: measurement cerebrospinal fluid (CSF) levels of the tau protein and 42-residue form of amyloid-β peptide (Aβ42) in patients with Alzheimer disease; prion-specific PET (using 18F-fluorodeoxyglucose \[FDG]) to detect amyloid plaques in Alzheimer disease; and dopamine-transporter single-photon emission CT (SPECT) in patients with cognitive impairment and symptoms of parkinsonism (see [Movement Disorders](https://mksap18.acponline.org/app/topics/nr/mk18_a_nr_s6) chapter).
+1. Disease-specific tests: measurement cerebrospinal fluid (CSF) levels of the tau protein and 42-residue form of amyloid-β peptide (Aβ42) in patients with Alzheimer disease; prion-specific PET (using 18F-fluorodeoxyglucose [FDG]) to detect amyloid plaques in Alzheimer disease; and dopamine-transporter single-photon emission CT (SPECT) in patients with cognitive impairment and symptoms of parkinsonism (see [Movement Disorders](https://mksap18.acponline.org/app/topics/nr/mk18_a_nr_s6) chapter).
 2. Disease-nonspecific tests: FDG-PET to measure cerebral metabolism; SPECT measuring cerebral blood flow to detect disease-relevant patterns; MRI to detect and measure brain atrophy; and CSF analysis to detect inflammation, infection, neuronal injury, and paraneoplastic antibodies.
 
 ## Dementias

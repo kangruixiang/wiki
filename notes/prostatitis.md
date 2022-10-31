@@ -16,8 +16,7 @@ Patients typically present with ==acute urinary complaints== (eg, frequency, urg
 
 ==Acute urinary retention== is an infrequent complication of acute prostatitis, and bladder drainage must be done by ==suprapubic catheterization==.  ==Catheter insertion== through the inflamed urethra into the bladder is ==contraindicated== in acute prostatitis.
 
-Evaluation includes urine ==Gram stain and culture==.  ==Empiric antibiotics== that effectively penetrate the prostate (eg, oral ==trimethoprim-sulfamethoxazole== \[TMP-SMX] or ==fluoroquinolone==) are recommended.  Intravenous antibiotics are recommended for septic-appearing patients.  Oral antibiotics are usually continued for ==prolonged periods== (eg, 4 weeks) and tailored to culture results.  After the infection resolves, patients usually need urologic evaluation to determine the underlying cause.
----
+## Evaluation includes urine ==Gram stain and culture==.  ==Empiric antibiotics== that effectively penetrate the prostate (eg, oral ==trimethoprim-sulfamethoxazole== [TMP-SMX] or ==fluoroquinolone==) are recommended.  Intravenous antibiotics are recommended for septic-appearing patients.  Oral antibiotics are usually continued for ==prolonged periods== (eg, 4 weeks) and tailored to culture results.  After the infection resolves, patients usually need urologic evaluation to determine the underlying cause.
 
 ==Chronic bacterial prostatitis== (CBP) can be a complication of ABP due to inadequate duration of treatment.  CBP tends to present with less severe urinary symptoms and without significant systemic findings.  Most urologists ==obtain urine and prostate fluid specimens after prostate massage== for diagnosis.  ==Fluoroquinolones== are the preferred first-line agent.  Patients usually require a prolonged course of antibiotics ranging from 6 weeks to 6-12 months in some cases.
 

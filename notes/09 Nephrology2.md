@@ -212,7 +212,7 @@ Mannitol toxicity includes **pulmonary edema and intravascular dehydration.**
 Metabolic acidosis is defined as an **acidotic pH (< 7.37) with a _decrease_ in HCO3- levels.**
 
 In metabolic acidosis, **look for the following general values:**
-| pH   | \[H+] | \[HCO3-]  | PCO2 | Compensation     |
+| pH   | [H+] | [HCO3-]  | PCO2 | Compensation     |
 | ---- | ---- | -------- | ---- | ---------------- |
 | low  | high | very low | low  | Hyperventilation |
 
@@ -220,7 +220,7 @@ Causes of metabolic acidosis are separated into two categories: **increased anio
 
 Anion gap calculation:
 
-**AG (mEq/L) = \[Na+] – (\[Cl-] + \[HCO3-])**
+**AG (mEq/L) = [Na+] – ([Cl-] + [HCO3-])**
 
 Normal = 10-15 mEq/L
 
@@ -243,9 +243,9 @@ The osmolar gap should be calculated in selected cases of increased anion gap ac
 
 Calculate the osmolol gap (OG) as follows:
 
-$\[Osm]_{measured}-(2\[Na]+\frac{\[glucose]}{18}+\frac{\[Bun]}{2.8})$
+$[Osm]_{measured}-(2[Na]+\frac{[glucose]}{18}+\frac{[Bun]}{2.8})$
 
-\[Osm]measured is the measured serum osmolality, and \[Na], \[glucose], and \[BUN] are the measured concentrations of sodium, glucose, and BUN, respectively.
+[Osm]measured is the measured serum osmolality, and [Na], [glucose], and [BUN] are the measured concentrations of sodium, glucose, and BUN, respectively.
 
 A normal OG is < 10 mOsm/kg.
 
@@ -288,7 +288,7 @@ Other causes of normal anion gap metabolic acidosis include:
 - **Hippurate**
 
 If a patient has a normal anion gap, GI HCO3- loss can be differentiated from RTAs as potential causes by calculating the **urine anion gap** (UAG). The UAG is the difference between measured anions and cations in the urine:
-UAG = \[Na]urine + \[K]urine – \[Cl-]urine
+UAG = [Na]urine + [K]urine – [Cl-]urine
 
 Since the major unmeasured urinary cation is NH4, a negative UAG suggests **high levels of NH4 excretion**. This is an appropriate response, suggesting **normal renal function and therefore GI loss of HCO3-**.
 
@@ -336,13 +336,13 @@ The kidneys have the ability to excrete very large amounts of HCO3-, so in order
 The ability to secrete HCO3- in the kidneys depends on the countertransport of Cl-. In hypochloremia, the decrease in filtered Cl- is sensed by the macula densa, **resulting in a decrease in filtered HCO3- and increased aldosterone release**, both of which worsen the alkalosis. Cases of metabolic alkalosis are often described as chloride responsive or chloride unresponsive (see below).
 
 In metabolic alkalosis, expect to see the following values:
-| pH       | \[H+]    | \[HCO3-]       | PCO2     | Compensation        |
+| pH       | [H+]    | [HCO3-]       | PCO2     | Compensation        |
 | -------- | ------- | ------------- | -------- | ------------------- |
 | **High** | **Low** | **Very High** | **High** | **Hypoventilation** |
 
-Urine \[Cl-] < 10 mEq/L suggests **chloride responsive** metabolic alkalosis as well as volume depletion, and urine \[Cl-] > 20 mEq/L suggests **chloride unresponsive** metabolic alkalosis.
+Urine [Cl-] < 10 mEq/L suggests **chloride responsive** metabolic alkalosis as well as volume depletion, and urine [Cl-] > 20 mEq/L suggests **chloride unresponsive** metabolic alkalosis.
 
-Urine \[K+] is normally **low** in metabolic alkalosis.
+Urine [K+] is normally **low** in metabolic alkalosis.
 
 Signs and symptoms of metabolic alkalosis are similar to those of hypocalcemia:
 

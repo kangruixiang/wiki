@@ -61,9 +61,9 @@ reverse halo sign:
 ```mermaid
 graph LR
 id1[Diffuse Parenchymal Lung Disease]-->id2["DPLD of known cause (drugs) or association (collagen, vascular disease)"]
-id1-->id3\[Idiopathic interstial pneumonias]
-id1-->id4\[Granulomatous DPLD, eg sarcoidosis]
-id1-->id5\[Other forms, eg LAM, HX]
+id1-->id3[Idiopathic interstial pneumonias]
+id1-->id4[Granulomatous DPLD, eg sarcoidosis]
+id1-->id5[Other forms, eg LAM, HX]
 
 ```
 

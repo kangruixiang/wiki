@@ -302,7 +302,7 @@ Ocular tonometry is indicated for measuring intraocular pressure in patients wit
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/CD0F5908-5336-4F4B-83B8-58CBB08CFD6B.jpg)
 
-Mild to moderate cancer-related pain can usually be managed with nonopioid analgesics (eg, acetaminophen, nonsteroidal anti-inflammatory drugs \[NSAIDs]).  However, for **severe pain**, or if initial interventions are not effective, **short-acting opioids** (eg, morphine, hydromorphone, oxycodone) should be offered.  Short-acting opioids are safe and well-tolerated if taken as directed, and the dose and schedule can be varied depending on the patient's pain pattern.  If the patient has pain requiring frequent dosing or if bedtime dosing does not provide adequate relief through the night, a **long-acting opioid** (eg, sustained-release morphine) may be added **(Choice A)**.
+Mild to moderate cancer-related pain can usually be managed with nonopioid analgesics (eg, acetaminophen, nonsteroidal anti-inflammatory drugs [NSAIDs]).  However, for **severe pain**, or if initial interventions are not effective, **short-acting opioids** (eg, morphine, hydromorphone, oxycodone) should be offered.  Short-acting opioids are safe and well-tolerated if taken as directed, and the dose and schedule can be varied depending on the patient's pain pattern.  If the patient has pain requiring frequent dosing or if bedtime dosing does not provide adequate relief through the night, a **long-acting opioid** (eg, sustained-release morphine) may be added **(Choice A)**.
 
 ## Carotid Dissection
 

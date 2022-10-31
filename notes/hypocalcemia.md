@@ -15,12 +15,13 @@ sr-ease: 294
 
 - hyperphosphatemia: check ionized Ca.
 - IV bicarb can cause hypocalcemia and deposition of calcium phosphate in renal tubules
--
+- [[hypocalcemia is common abnormality after massive transfusion]]
 
 ## Symptoms
 
 - mild: muscle cramps, tingling sensations
 - severe: seizure
+- [[long QT]]
 
 ## Treatment
 

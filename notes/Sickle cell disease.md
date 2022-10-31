@@ -53,3 +53,17 @@ Patients admitted for sickle crisis should be considered to be in the prodromal 
 Treatment of ACS is based on severity.  Simple transfusion for mild ACS and exchange transfusion for moderate-to-severe ACS are recommended with a ==target Hb of 10 g/dL==.  ACS and pneumonia are difficult to differentiate from each another.  Therefore, ==empiric antibiotics== that include coverage for atypical organisms (eg, _Chlamydia_ and _Mycoplasma_) must be administered.  However, prophylactic use of antibiotics to prevent ACS is not recommended.  Hydroxyurea should also be started for all patients with a history of ACS or at risk of developing it (eg, HbSS).
 
 Hypotonic fluids (1/2 normal saline or D51/2 normal saline) are recommended for acute sickle cell crisis.  Adequate intravenous fluids are important to reduce sickling, but excess use for prolonged periods can cause pulmonary edema.  This patient had received 125 mL/hr for 36 hours with good urine output, which should not lead to pulmonary edema.
+
+## Stroke prevention
+
+Strokes in SCD are primarily caused by ==vascular clogging== due to high concentrations of hemoglobin S (Hb S).  Therefore, acute strokes are typically managed with ==urgent exchange transfusion== to rapidly reduce Hb S levels.  ==Secondary prophylaxis== against recurrent stroke must then be provided using **chronic simple transfusion therapy** every 4-6 weeks with goal **Hb S levels of <30%** and total Hb levels of 9-12.5 mg/dL.  This strategy reduces the risk of stroke recurrence from 65% to <20% and is superior to medical management with hydroxyurea.
+
+Exchange transfusion is primarily used for patients with SCD who have acute ischemic stroke.  Exchange transfusion is expensive and time consuming, requires a catheter, and involves more blood than simple transfusion.  As a result, it is not typically used for chronic therapy.
+
+Patients receiving chronic transfusions must be monitored for **iron overload**; periodic chelation therapy is often required to prevent iron-related morbidity (eg, hepatic fibrosis, cirrhosis).
+
+Nimodipine is a calcium channel blocker that can reduce vasospasm in patients with subarachnoid hemorrhage, which is also a complication of SCD.  However, nimodipine is not used for stroke prevention.
+
+Although aspirin is commonly prescribed to patients with SCD who have had a stroke, there is no evidence that it is an effective monotherapy for stroke prevention in SCD as it does not reduce Hb S levels.
+
+Rivaroxaban is a factor Xa inhibitor used primarily to treat deep venous thrombus/pulmonary embolus or to prevent stroke in those with atrial fibrillation.  Because strokes in SCD are primarily mediated by high concentrations of Hb S, factor Xa inhibitors are not effective for secondary prophylaxis.

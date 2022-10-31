@@ -42,6 +42,7 @@ date: 2022-04-07
 - [[erythema nodosum]]
 - [[skin and soft tissues infections]]
 - [[Sweet syndrome]]
+- [[treatment of pressure ulcers]]
 
 ## Impetigo
 

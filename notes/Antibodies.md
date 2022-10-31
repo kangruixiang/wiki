@@ -24,6 +24,8 @@ Celiac disease.
 
 ## Rheum
 
+![](https://photos.thisispiggy.com/file/wikiFiles/20220812155444.png)
+
 <!-- Anticentromere b:1092535706266-->
 
 Limited scleroderma (CREST syndrome).

@@ -624,7 +624,7 @@ In Grave's disease, **TSH is low** and **T4 is elevated.**
 
 β-blockers (e.g. propranolol) are indicated to **control the symptoms of increased sympathetic nervous system tone** (e.g. anxiety, tachycardia, sweating). Furthermore, propranolol decreases peripheral conversion of T4 to T3 by interfering with the activity of 5'-deiodinase, producing a net decrease in thyroid hormone actions at target tissues.
 
-Thioamides \[e.g. propylthiouracil (PTU) and methimazole] may induce remission by **blocking new thyroid hormone production** via inhibition of the organification and coupling steps of thyroid hormone synthesis. In addition, PTU (but not methimazole) also inhibits peripheral conversion of T4 to T3.
+Thioamides [e.g. propylthiouracil (PTU) and methimazole] may induce remission by **blocking new thyroid hormone production** via inhibition of the organification and coupling steps of thyroid hormone synthesis. In addition, PTU (but not methimazole) also inhibits peripheral conversion of T4 to T3.
 
 **Propylthiouracil** is the preferred treatment of hyperthyroidism in the first trimester since methimazole is teratogenic. **Methimazole** switched after first trimester to decrease risk of PTU induced liver injury. _Pregnancy is a contraindication to radioactive iodine ablation of the thyroid_, due to the risks to the fetus.
 

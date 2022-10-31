@@ -16,6 +16,12 @@ Despite long-standing attempts to define rheumatologic diseases according to pre
 
 Mixed connective tissue disease (MCTD) is a specific overlap syndrome that includes clinical manifestations of at least two of the following: systemic lupus erythematosus (SLE), polymyositis, and systemic sclerosis. Positive anti-U1-ribonucleoprotein (RNP) antibodies are the primary laboratory feature.
 
+This patient’s presentation of fatigue, muscle weakness, sicca symptoms (eg, dry eyes and mouth), Raynaud’s phenomenon, and hand swelling (synovitis) is consistent with likely mixed connective tissue disease (MCTD).  MCTD is an overlap syndrome associated with anti-U1-RNP (ribonucleoprotein) antibodies and features of systemic lupus erythematosus (SLE), systemic sclerosis, and polymyositis (see table above).  Diagnosis usually requires at least 3 clinical criteria plus serologic criteria (see table below).
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20220812155619.png)
+
+Unlike in SLE, patients with U1-RNP antibodies rarely develop diffuse glomerulonephritis, psychosis, or seizures.  However, they usually develop early Raynaud’s phenomenon, sclerodactyly, inflammatory muscle disease, and pulmonary hypertension (the most common cause of death in MCTD).  Patients with MCTD have a variable prognosis, with the worst prognosis for those with scleroderma and polymyositis symptoms.  Treatment is usually glucocorticoids for most disease-specific manifestations.
+
 See **[Table 32](https://mksap18.acponline.org/app/topics/rm/tables/mk18_a_rm_t32)** for a comparison of MCTD, UCTD, and overlap syndromes.
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20220314084628.png)
